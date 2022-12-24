@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(cache("2 minutes"));
 app.use("/api/v1/workouts/", v1WorkoutRouter);
 
-app.listen(PORT, () => {
-  console.log(`🚀 Server listening on port ${PORT}`);
-  V1SwaggerDocs(app, PORT);
+app.listen(API_URL, () => {
+  console.log(`🚀 Server listening on port ${API_URL}`);
+  V1SwaggerDocs(app, API_URL);
 });
