@@ -4,7 +4,7 @@ const v1WorkoutRouter = require("./v1/routes/workoutRoutes");
 const { swaggerDocs: V1SwaggerDocs } = require("./v1/swagger");
 
 const app = express();
-const PORT = process.env.PORT || 80;
+const PORT = process.env.API_URL;
 const cache = apicache.middleware;
 
 app.use(express.json());
