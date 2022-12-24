@@ -14,6 +14,8 @@ app.use((req, res, next) => {
   res.header({ "Access-Control-Allow-Origin": "*" });
   next();
 });
+const cors = require("cors");
+app.use(cors());
 
 app.listen(PORT, () => {
   console.log(`🚀 Server listening on port ${PORT}`);
