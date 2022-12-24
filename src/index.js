@@ -4,14 +4,14 @@ const v1WorkoutRouter = require("./v1/routes/workoutRoutes");
 const { swaggerDocs: V1SwaggerDocs } = require("./v1/swagger");
 
 const app = express();
-const API_URL = process.env.API_URL || 0000;
+const PORT = process.env.PORT;
 const cache = apicache.middleware;
 
 app.use(express.json());
 app.use(cache("2 minutes"));
 app.use("/api/v1/workouts/", v1WorkoutRouter);
 
-app.listen(API_URL, () => {
-  console.log(`🚀 Server listening on port ${API_URL}`);
-  V1SwaggerDocs(app, API_URL);
+app.listen(PORT, () => {
+  console.log(`🚀 Server listening on port ${PORT}`);
+  V1SwaggerDocs(app, PORT);
 });
