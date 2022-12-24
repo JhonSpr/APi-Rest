@@ -10,6 +10,10 @@ const cache = apicache.middleware;
 app.use(express.json());
 app.use(cache("2 minutes"));
 app.use("/api/v1/workouts/", v1WorkoutRouter);
+app.use((req, res, next) => {
+  res.header({ "Access-Control-Allow-Origin": "*" });
+  next();
+});
 
 app.listen(PORT, () => {
   console.log(`🚀 Server listening on port ${PORT}`);
