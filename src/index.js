@@ -9,7 +9,10 @@ const cache = apicache.middleware;
 
 app.use(express.json());
 app.use(cache("2 minutes"));
-app.use("/api/v1/workouts", v1WorkoutRouter);
+app.use(
+  "https://crossfit-wod-api-six.vercel.app/api/v1/workouts/",
+  v1WorkoutRouter
+);
 
 app.listen(PORT, () => {
   console.log(`🚀 Server listening on port ${PORT}`);
