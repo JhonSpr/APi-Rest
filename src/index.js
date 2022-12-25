@@ -20,6 +20,12 @@ app.use((req, res, next) => {
   res.header("Allow", "GET, POST, OPTIONS, PUT, DELETE");
   next();
 });
+var corsOptions = {
+  origin: "http://127.0.0.1:3001",
+  optionsSuccessStatus: 200, // For legacy browser support
+};
+
+app.use(cors(corsOptions));
 
 app.listen(PORT, () => {
   console.log(`🚀 Server listening on port ${PORT}`);
