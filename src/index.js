@@ -21,7 +21,7 @@ app.use((req, res, next) => {
   next();
 });
 var corsOptions = {
-  origin: "http://127.0.0.1:3001",
+  origin: "http://127.0.0.1:3000",
   optionsSuccessStatus: 200, // For legacy browser support
 };
 
