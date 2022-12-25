@@ -20,13 +20,12 @@ app.use((req, res, next) => {
   res.header("Allow", "GET, POST, OPTIONS, PUT, DELETE");
   next();
 });
-var corsOptions = {
-  origin: "http://localhost:3000",
-  optionsSuccessStatus: 200, // For legacy browser support
-};
-
-app.use(cors(corsOptions));
-
+const DIRECTORIO_PERMITIDO_CORS = "http://localhost:3000";
+app.use(
+  cors({
+    origin: DIRECTORIO_PERMITIDO_CORS,
+  })
+);
 app.listen(PORT, () => {
   console.log(`🚀 Server listening on port ${PORT}`);
   V1SwaggerDocs(app, PORT);
