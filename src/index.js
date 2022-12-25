@@ -21,7 +21,7 @@ app.use((req, res, next) => {
   next();
 });
 var corsOptions = {
-  origin: "https://crossfit-wod-api-production-4bd7.up.railway.app",
+  origin: "http://127.0.0.1:3001",
   optionsSuccessStatus: 200, // For legacy browser support
 };
 
