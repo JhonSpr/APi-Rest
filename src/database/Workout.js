@@ -52,6 +52,11 @@ const getAllWorkouts = (filterParams) => {
         workout.name.toLowerCase().includes(filterParams.name)
       );
     }
+    if (filterParams.status) {
+      return DB.workouts.filter((workout) =>
+        workout.status.toLowerCase().includes(filterParams.status)
+      );
+    }
     return workouts;
   } catch (error) {
     throw { status: 500, message: error };
