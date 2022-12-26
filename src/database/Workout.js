@@ -59,7 +59,7 @@ const getAllWorkouts = (filterParams) => {
     }
     return workouts;
   } catch (error) {
-    throw { status: 500, message: "ALGO HA PASADO" };
+    throw { status: 500, message: error };
   }
 };
 
