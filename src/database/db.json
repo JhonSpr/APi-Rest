@@ -1100,6 +1100,7 @@
       "image": "https://i.postimg.cc/26qRM2tP/dorohedoro.jpg",
       "link": "/dorohedoro",
       "name": "Dorohedoro",
+      "estado": "Finalizado",
       "year": 2020
     },
     {
@@ -1108,6 +1109,7 @@
       "image": "https://i.postimg.cc/2jZNx9hW/ishuzoku-reviewers.jpg",
       "link": "/ishuzoku-reviewers",
       "name": "Ishuzoku Reviewers",
+      "estado": "Finalizado",
       "year": 2020
     },
     {
@@ -1116,6 +1118,7 @@
       "image": "https://i.postimg.cc/LsbGtjsv/somali-to-mori-no-kamisama.jpg",
       "link": "/somali-to-mori-no-kamisama",
       "name": "Somali to Mori no Kamisama",
+      "estado": "Finalizado",
       "year": 2020
     },
     {
@@ -1124,6 +1127,7 @@
       "image": "https://i.postimg.cc/CLstv31R/plunderer.jpg",
       "link": "/plunderer",
       "name": "Plunderer",
+      "estado": "Finalizado",
       "year": 2020
     },
     {
@@ -1132,6 +1136,7 @@
       "image": "https://i.postimg.cc/Znh7HHzP/maken-ki-two.jpg",
       "link": "/maken-ki-two",
       "name": "Maken-ki! Two",
+      "estado": "Finalizado",
       "year": 2015
     },
     {
@@ -1140,6 +1145,7 @@
       "image": "https://i.postimg.cc/mZN8RQGq/hortensia-saga.jpg",
       "link": "/hortensia-saga",
       "name": "Hortensia Saga",
+      "estado": "Finalizado",
       "year": 2020
     },
     {
@@ -1148,6 +1154,7 @@
       "image": "https://i.postimg.cc/Hs6z8dn9/shuumatsu-no-valkyrie.jpg",
       "link": "/shuumatsu-no-valkyrie",
       "name": "Shuumatsu no Valkyrie",
+      "estado": "Finalizado",
       "year": 2021
     },
     {
@@ -1156,6 +1163,7 @@
       "image": "https://i.postimg.cc/Fz9b1BQ6/86-eighty-six-2nd-cour.jpg",
       "link": "/86-eighty-six-2nd-cour",
       "name": "86 EIGHTY-SIX 2nd Cour",
+      "estado": "Finalizado",
       "year": 2021
     },
     {
@@ -1164,6 +1172,7 @@
       "image": "https://i.postimg.cc/bYTH4pxf/kimetsu-no-yaiba-yuukaku-hen.jpg",
       "link": "/kimetsu-no-yaiba-yuukaku-hen",
       "name": "Kimetsu no Yaiba: Yuukaku-hen",
+      "estado": "Finalizado",
       "year": 2021
     },
     {
@@ -1172,6 +1181,7 @@
       "image": "https://i.postimg.cc/zG9nTBrK/tesla-note.jpg",
       "link": "/tesla-note",
       "name": "TESLA NOTE",
+      "estado": "Finalizado",
       "year": 2021
     },
     {
@@ -1180,6 +1190,7 @@
       "image": "https://i.postimg.cc/hvymv4sJ/toaru-majutsu-no-index-ii.jpg",
       "link": "/toaru-majutsu-no-index-II",
       "name": "Toaru Majutsu no Index II",
+      "estado": "Finalizado",
       "year": 2010
     },
     {
@@ -1188,6 +1199,7 @@
       "image": "https://i.postimg.cc/KYSMRHP5/date-a-live-iii.jpg",
       "link": "/date-a-live-III",
       "name": "Date a Live III",
+      "estado": "Finalizado",
       "year": 2019
     },
     {
@@ -1196,6 +1208,7 @@
       "image": "https://i.postimg.cc/wvFy4xSW/date-a-live-ii.jpg",
       "link": "/date-a-live-II",
       "name": "Date a Live II",
+      "estado": "Finalizado",
       "year": 2014
     },
     {
@@ -1204,6 +1217,7 @@
       "image": "https://i.postimg.cc/MZPfyT0H/date-a-live.jpg",
       "link": "/date-a-live",
       "name": "Date A Live",
+      "estado": "Finalizado",
       "year": 2013
     },
     {
@@ -1212,6 +1226,7 @@
       "image": "https://i.postimg.cc/D08ZCrQZ/enn-enn-no-shouboutai-2.jpg",
       "link": "/enn-enn-no-shouboutai-ni-no-shou",
       "name": "Enn Enn no Shouboutai: Ni no Shou",
+      "estado": "Finalizado",
       "year": 2020
     },
     {
@@ -1220,6 +1235,7 @@
       "image": "https://i.postimg.cc/D0JvQ2F4/bungou-stray-dogs-3.jpg",
       "link": "/bungou-stray-dogs-3",
       "name": "Bungou Stray Dogs 3",
+      "estado": "Finalizado",
       "year": 2019
     },
     {
@@ -1228,6 +1244,7 @@
       "image": "https://i.postimg.cc/y8XVypqj/bungou-stray-dogs-2.jpg",
       "link": "/bungou-stray-dogs-2",
       "name": "Bungou Stray Dogs 2",
+      "estado": "Finalizado",
       "year": 2016
     },
     {
@@ -1236,6 +1253,7 @@
       "image": "https://i.postimg.cc/2yZYb2F4/bungou-stray-dogs.jpg",
       "link": "/bungou-stray-dogs",
       "name": "Bungou Stray Dogs",
+      "estado": "Finalizado",
       "year": 2016
     },
     {
@@ -1244,6 +1262,7 @@
       "image": "https://i.postimg.cc/pXQTsLzK/kiseijuu-sei-no-kakuritsu-parasyte.jpg",
       "link": "/kiseijuu-sei-no-kakuritsu-parasyte",
       "name": "Kiseijuu: Sei no Kakuritsu (Parasyte)",
+      "estado": "Finalizado",
       "year": 2014
     },
     {
@@ -1252,6 +1271,7 @@
       "image": "https://i.postimg.cc/9f0QXPSB/blood-c.jpg",
       "link": "/blood-c",
       "name": "Blood-C",
+      "estado": "Finalizado",
       "year": 2011
     },
     {
@@ -1260,6 +1280,7 @@
       "image": "https://i.postimg.cc/kMKX5gjL/dororo.jpg",
       "link": "/dororo",
       "name": "Dororo",
+      "estado": "Finalizado",
       "year": 2019
     },
     {
@@ -1268,6 +1289,7 @@
       "image": "https://i.postimg.cc/28xk4XNw/world-trigger.jpg",
       "link": "/world-trigger",
       "name": "World Trigger",
+      "estado": "Finalizado",
       "year": 2014
     },
     {
@@ -1276,6 +1298,7 @@
       "image": "https://i.postimg.cc/SxshcSrS/gleipnir.jpg",
       "link": "/gleipnir",
       "name": "Gleipnir",
+      "estado": "Finalizado",
       "year": 2020
     },
     {
@@ -1284,6 +1307,7 @@
       "image": "https://i.postimg.cc/hj9WKfSr/noragami-aragoto.jpg",
       "link": "/noragami-aragoto",
       "name": "Noragami Aragoto",
+      "estado": "Finalizado",
       "year": 2015
     },
     {
@@ -1292,6 +1316,7 @@
       "image": "https://i.postimg.cc/FH1M7Pr1/noragami.jpg",
       "link": "/noragami",
       "name": "Noragami",
+      "estado": "Finalizado",
       "year": 2014
     },
     {
@@ -1310,6 +1335,7 @@
       "image": "https://i.postimg.cc/fTRFrH05/tokyo-ghoul-re-2.jpg",
       "link": "/tokyo-ghoul-re-2",
       "name": "Tokyo Ghoul: re 2",
+      "estado": "Finalizado",
       "year": 2018
     },
     {
@@ -1318,6 +1344,7 @@
       "image": "https://i.postimg.cc/K8KWZRfM/tokyo-ghoul-re.jpg",
       "link": "/tokyo-ghoul-re",
       "name": "Tokyo Ghoul: re",
+      "estado": "Finalizado",
       "year": 2018
     },
     {
@@ -1326,6 +1353,7 @@
       "image": "https://i.postimg.cc/FHtyLzmc/darling-in-the-franxx.jpg",
       "link": "/darling-in-the-franxx",
       "name": "Darling in the Franxx",
+      "estado": "Finalizado",
       "year": 2018
     },
     {
@@ -1334,6 +1362,7 @@
       "image": "https://i.postimg.cc/x8JmkD4t/goblin-slayer.jpg",
       "link": "/goblin-slayer",
       "name": "Goblin Slayer",
+      "estado": "Finalizado",
       "year": 2018
     },
     {
@@ -1350,6 +1379,7 @@
       "image": "https://i.postimg.cc/rwLn5MLd/tokyo-ghoul-radic-a.jpg",
       "link": "/tokyo-ghoul-radic-a",
       "name": "Tokyo Ghoul √A",
+      "estado": "Finalizado",
       "year": 2015
     },
     {
@@ -1358,6 +1388,7 @@
       "image": "https://i.postimg.cc/9fmLNb0C/tokyo-ghoul.jpg",
       "link": "/tokyo-ghoul",
       "name": "Tokyo Ghoul",
+      "estado": "Finalizado",
       "year": 2014
     },
     {
@@ -1366,6 +1397,7 @@
       "image": "https://i.postimg.cc/BvbxKVtL/id-invaded.jpg",
       "link": "/id-invaded",
       "name": "ID:INVADED",
+      "estado": "Finalizado",
       "year": 2020
     },
     {
@@ -1374,6 +1406,7 @@
       "image": "https://i.postimg.cc/d3PdgQ6r/levius.jpg",
       "link": "/levius",
       "name": "Levius",
+      "estado": "Finalizado",
       "year": 2019
     },
     {
