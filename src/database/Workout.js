@@ -51,7 +51,8 @@ const getAllWorkouts = (filterParams) => {
       return DB.workouts.filter((workout) =>
         workout.name.toLowerCase().includes(filterParams.name)
       );
-    } else if (filterParams.estado) {
+    }
+    if (filterParams.estado) {
       return DB.workouts.filter((workout) =>
         workout.estado.toLowerCase().includes(filterParams.estado)
       );
