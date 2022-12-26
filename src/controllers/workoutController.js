@@ -4,7 +4,7 @@ const getAllWorkouts = (req, res) => {
   const { mode, name } = req.query;
   try {
     const allWorkouts = workoutService.getAllWorkouts({ mode, name });
-    res.send({ status: "OK", data: allWorkouts });
+    res.send(allWorkouts);
   } catch (error) {
     res
       .status(error?.status || 500)
