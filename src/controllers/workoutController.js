@@ -1,11 +1,23 @@
 const workoutService = require("../services/workoutService");
 
 const getAllWorkouts = (req, res) => {
-  const { mode, name, estado } = req.query;
+  const { mode, name } = req.query;
   try {
     const allWorkouts = workoutService.getAllWorkouts({
       mode,
       name,
+    });
+    res.send(allWorkouts);
+  } catch (error) {
+    res
+      .status(error?.status || 500)
+      .send({ status: "FAILED", data: { error: error?.message || error } });
+  }
+};
+const getStatus = (req, res) => {
+  const { estado } = req.query;
+  try {
+    const allWorkouts = workoutService.getAllWorkouts({
       estado,
     });
     res.send(allWorkouts);
@@ -15,7 +27,6 @@ const getAllWorkouts = (req, res) => {
       .send({ status: "FAILED", data: { error: error?.message || error } });
   }
 };
-
 const getOneWorkout = (req, res) => {
   const {
     params: { workoutId },
@@ -127,4 +138,5 @@ module.exports = {
   createNewWorkout,
   updateOneWorkout,
   deleteOneWorkout,
+  getStatus,
 };

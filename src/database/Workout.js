@@ -58,6 +58,19 @@ const getAllWorkouts = (filterParams) => {
     throw { status: 500, message: error };
   }
 };
+const getAllEstados = (filterParams) => {
+  try {
+    let workouts = DB.workouts;
+    if (filterParams.estado) {
+      return DB.workouts.filter((workout) =>
+        workout.estado.toLowerCase().includes(filterParams.estado)
+      );
+    }
+    return workouts;
+  } catch (error) {
+    throw { status: 500, message: error };
+  }
+};
 
 const getOneWorkout = (workoutId) => {
   try {
@@ -159,4 +172,5 @@ module.exports = {
   createNewWorkout,
   updateOneWorkout,
   deleteOneWorkout,
+  getAllEstados,
 };
