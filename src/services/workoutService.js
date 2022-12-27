@@ -9,14 +9,7 @@ const getAllWorkouts = (filterParams) => {
     throw error;
   }
 };
-const getAllStatus = (Parametros) => {
-  try {
-    const allWorkouts = Workout.getAllEstados(Parametros);
-    return allWorkouts;
-  } catch (error) {
-    throw error;
-  }
-};
+
 const getOneWorkout = (workoutId) => {
   try {
     const workout = Workout.getOneWorkout(workoutId);
@@ -64,5 +57,4 @@ module.exports = {
   createNewWorkout,
   updateOneWorkout,
   deleteOneWorkout,
-  getAllStatus,
 };
