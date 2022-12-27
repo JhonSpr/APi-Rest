@@ -1562,5 +1562,126 @@
       "year": 2022,
       "estado": "Finalizado"
     }
+  ],
+  "emisiones": [
+    {
+      "id": "Isekai Ojisan",
+      "name": "Isekai Ojisan",
+      "mode": "TV",
+      "link": "/isekai-ojisan",
+      "image": "https://i.postimg.cc/Gpr6zMLL/isekai-ojisan.jpg",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": "Peter Grill to Kenja no Jikan Super Extra",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/q7s4vhRR/peter-grill-to-kenja-no-jikan-super-extra.jpg",
+      "link": "/peter-grill-to-kenja-no-jikan-super-extra",
+      "name": "Peter Grill to Kenja no Jikan Super Extra",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": 152,
+      "mode": "TV",
+      "image": "https://i.postimg.cc/zX4rwSHv/mob-psycho-100-iii.jpg",
+      "link": "/mob-psycho-100-III",
+      "name": "Mob Psycho 100 III",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": 153,
+      "mode": "TV",
+      "image": "https://i.postimg.cc/vB2jYbWT/danmachi-iv.jpg",
+      "link": "/danmachi-IV",
+      "name": "Danmachi IV",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": 154,
+      "mode": "TV",
+      "image": "https://i.postimg.cc/qBYYWBJZ/bleach-sennen-kessen-hen.jpg",
+      "link": "/bleach-sennen-kessen-hen",
+      "name": "BLEACH: Sennen Kessen-hen",
+      "year": 2022,
+      "estado": "Finalizado"
+    },
+    {
+      "id": 155,
+      "mode": "TV",
+      "image": "https://i.postimg.cc/fyj83sdY/yowamushi-pedal-limit-break.jpg",
+      "link": "/yowamushi-pedal-limit-break",
+      "name": "Yowamushi Pedal Limit Break",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": 156,
+      "mode": "TV",
+      "image": "https://i.postimg.cc/tT6SjWCS/bluelock.jpg",
+      "link": "/bluelock",
+      "name": "BLUELOCK",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": 157,
+      "mode": "TV",
+      "image": "https://i.postimg.cc/2SHXFCKw/fuufu-ijou-koibito-miman.jpg",
+      "link": "/fuufu-ijou-koibito-miman",
+      "name": "Fuufu Ijou, Koibito Miman",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": 158,
+      "mode": "TV",
+      "image": "https://i.postimg.cc/bN95rx04/fumetsu-no-anata-e-season-2.jpg",
+      "link": "/fumetsu-no-anata-e-2nd-temporada",
+      "name": "Fumetsu no Anata e Temporada 2",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": 159,
+      "mode": "TV",
+      "image": "https://i.postimg.cc/QCpyp529/vazzrock-the-animation.jpg",
+      "link": "/vazzrock-the-animation",
+      "name": "VAZZROCK THE ANIMATION",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": 160,
+      "mode": "TV",
+      "image": "https://i.postimg.cc/d0xpvJR1/ginga-eiyuu-densetsu-die-neue-these-sakubou.jpg",
+      "link": "/ginga-eiyuu-densetsu-die-neue-these-sakubou",
+      "name": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": "Berserk: Ougon Jidai-hen - MEMORIAL EDITION",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/nLzg6XDg/berserk-ougon-jidai-hen-memorial-edition.jpg",
+      "link": "/berserk-ougon-jidai-hen-memorial-edition",
+      "name": "Berserk: Ougon Jidai-hen - MEMORIAL EDITION",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    }
   ]
 }
