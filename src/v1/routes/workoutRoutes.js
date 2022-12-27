@@ -53,7 +53,6 @@ router
   .get("/", workoutController.getAllWorkouts)
 
   .get("/:workoutId", workoutController.getOneWorkout)
-  .get("/workoutId/emisiones", emisionesController.getAllEmisiones)
   .post("/", workoutController.createNewWorkout)
   .patch("/:workoutId", workoutController.updateOneWorkout)
   .delete("/:workoutId", workoutController.deleteOneWorkout);
