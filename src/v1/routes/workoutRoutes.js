@@ -50,7 +50,6 @@ const router = express.Router();
  */
 router
   .get("/", workoutController.getAllWorkouts)
-  .get("/", workoutController.getAllAnimes)
   .get("/:workoutId", workoutController.getOneWorkout)
   .get("/:workoutId/records", recordController.getRecordForWorkout)
   .post("/", workoutController.createNewWorkout)
