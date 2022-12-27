@@ -27,7 +27,7 @@ const getOneWorkout = (req, res) => {
 
   try {
     const workout = workoutService.getOneWorkout(workoutId);
-    res.send({ status: "OK", data: workout });
+    res.send({ workout });
   } catch (error) {
     res
       .status(error?.status || 500)
