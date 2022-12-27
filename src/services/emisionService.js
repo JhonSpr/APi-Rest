@@ -2,8 +2,8 @@ const emisiones = require("../database/Emisiones");
 
 const getAllEmisiones = (filterParams) => {
   try {
-    const allWorkouts = Workout.getAllEmisiones(filterParams);
-    return allWorkouts;
+    const AllEmisiones = emisiones.getAllEmisiones(filterParams);
+    return AllEmisiones;
   } catch (error) {
     throw error;
   }
