@@ -1674,5 +1674,1569 @@
       "estado": "En Emision",
       "classEstado": "tag is-success airing"
     }
+  ],
+  "finalizados": [
+    {
+      "id": "Akudama Drive",
+      "name": "Akudama Drive",
+      "mode": "TV",
+      "createdAt": "4/20/2022, 2:21:56 PM",
+      "updatedAt": "4/20/2022, 2:21:56 PM",
+      "link": "/akudama-drive",
+      "image": "https://i.postimg.cc/Dz96B0dq/akudama-drive.jpg",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Hanyo no Yashahime ni no Shou",
+      "name": "Hanyo no Yashahime ni no Shou",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/hanyo-no-yashahime-ni-no-shou",
+      "image": "https://i.postimg.cc/yxBPCGGx/hanyo-no-yashahime-ni-no-shou.jpg",
+      "estado": "Finalizado",
+      "year": 2021
+    },
+    {
+      "id": "Heion Sedai no Idaten Tachi",
+      "name": "Heion Sedai no Idaten Tachi",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/heion-sedai-no-idaten-tachi",
+      "image": "https://i.postimg.cc/PfzyQtLw/heion-sedai-no-idaten-tachi.jpg",
+      "estado": "Finalizado",
+      "year": 2021
+    },
+    {
+      "id": "Peach Boy Riverside",
+      "name": "Peach Boy Riverside",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/peach-boy-riverside",
+      "image": "https://i.postimg.cc/nz1mBhdV/peach-boy-riverside.jpg",
+      "estado": "Finalizado",
+      "year": 2021
+    },
+    {
+      "id": "Jujutsu Kaisen",
+      "name": "Jujutsu Kaisen",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/jujutsu-kaisen",
+      "image": "https://i.postimg.cc/wMfs4b8S/jujutsu-kaisen.jpg",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Shingeki no Bahamut:Virgin Soul",
+      "name": "Shingeki no Bahamut:Virgin Soul",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/shingeki-no-bahamut:virgin-soul",
+      "image": "https://i.postimg.cc/QxC7Kscs/shingeki-no-bahamut-virgin-soul.jpg",
+      "estado": "Finalizado",
+      "year": 2017
+    },
+    {
+      "id": "Castlevania 2nd Temporada",
+      "name": "Castlevania 2nd Temporada",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/castlevania-segunda-temporada",
+      "image": "https://i.postimg.cc/k53RHbzX/castlevania-season-2.jpg",
+      "estado": "Finalizado",
+      "year": 20
+    },
+    {
+      "id": "Overlord III",
+      "name": "Overlord III",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/overlord-III",
+      "image": "https://i.postimg.cc/BnWvZGgm/overlord-iii.jpg",
+      "estado": "Finalizado",
+      "year": 2018
+    },
+    {
+      "id": "Ao no Exorcist Kyoto Fujouou Hen",
+      "name": "Ao no Exorcist Kyoto Fujouou Hen",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/ao-no-exorcist-kyoto-fujouou-hen",
+      "image": "https://i.postimg.cc/kG6n9jtr/ao-no-exorcist-kyoto-fujouou-hen.jpg",
+      "estado": "Finalizado",
+      "year": 2017
+    },
+    {
+      "id": "Fairy Gone",
+      "name": "Fairy Gone",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/fairy-gone",
+      "image": "https://i.postimg.cc/j5CTQ8cW/fairy-gone.jpg",
+      "estado": "Finalizado",
+      "year": 2019
+    },
+    {
+      "id": "Dr Stone Ryusui",
+      "name": "Dr.Stone Ryusui",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/dr-stone-ryusui",
+      "image": "https://i.postimg.cc/c1pKCY17/dr-stone-ryusui.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Isekai Yakkyoku",
+      "name": "Isekai Yakkyoku",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/isekai-yakkyoku",
+      "image": "https://i.postimg.cc/m2WDBsV8/isekai-yakkyoku.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Fairy Gone 2nd Temporada",
+      "name": "Fairy Gone 2nd Temporada",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/fairy-gone-segunda-temporada",
+      "image": "https://i.postimg.cc/ZqXmH8MV/fairy-gone-2nd-season.jpg",
+      "estado": "Finalizado",
+      "year": 2019
+    },
+    {
+      "id": "Isekai Meikyuu de Harem wo",
+      "name": "Isekai Meikyuu de Harem wo",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/isekai-meikyuu-de-harem-wo",
+      "image": "https://i.postimg.cc/RZFzzprg/isekai-meikyuu-de-harem-wo.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Temporada 2",
+      "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Temporada 2",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada",
+      "image": "https://i.postimg.cc/02kTpXN9/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Spy x Family",
+      "name": "Spy x Family",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/spy-x-family",
+      "image": "https://i.postimg.cc/FRXq1Dq5/spy-x-family.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Date a Live IV",
+      "name": "Date a Live IV",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/date-a-live-IV",
+      "image": "https://i.postimg.cc/1XJYCPzs/date-a-live-iv.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Tate no Yuusha no Naraigari 2nd Temporada",
+      "name": "Tate no Yuusha no Naraigari Segunda Temporada",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/tate-no-yuusha-no-naraigari-segunda-temporada",
+      "image": "https://i.postimg.cc/bJR6r8kk/tate-no-yuusha-no-nariagari-season-2.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Tomodachi Game",
+      "name": "Tomodachi Game",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/tomodachi-game",
+      "image": "https://i.postimg.cc/JhNxYmTv/tomodachi-game.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Baraou no Souretsu",
+      "name": "Baraou no Souretsu",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/baraou-no-souretsu",
+      "image": "https://i.postimg.cc/3wYmRGBf/baraou-no-souretsu.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Karakuri Circus",
+      "name": "Karakuri Circus",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/karakuri-circus",
+      "image": "https://i.postimg.cc/VNf018f3/karakuri-circus.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Extreme Hearts",
+      "name": "Extreme Hearts",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/extreme-hearts",
+      "image": "https://i.postimg.cc/jdf89GSH/extreme-hearts.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Gensou Sangokushi Tenge Reishink",
+      "name": "Gensou Sangokushi Tenge Reishink",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/gensou-sangokushi-tenge-reishink",
+      "image": "https://i.postimg.cc/ry0g0vWB/gensou-sangokushi-tengen-reishinki.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Tate no Yuusha no Naraigari",
+      "name": "Tate no Yuusha no Naraigari",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/tate-no-yuusha-no-naraigari",
+      "image": "https://i.postimg.cc/rwJ92cXr/tate-no-yuusha-no-nariagari.jpg",
+      "estado": "Finalizado",
+      "year": 2019
+    },
+    {
+      "id": "Tribe nine",
+      "name": "Tribe nine",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/tribe-nine",
+      "image": "https://i.postimg.cc/wxmcTDYH/tribe-nine.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Koroshi Ai",
+      "name": "Koroshi Ai",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/koroshi-ai",
+      "image": "https://i.postimg.cc/DyhsvDcd/koroshi-ai.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Sabikui Bisco",
+      "name": "Sabikui Bisco",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/sabikui-bisco",
+      "image": "https://i.postimg.cc/YCshWyQP/sabikui-bisco.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Sasaki to Miyano",
+      "name": "Sasaki to Miyano",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/sasaki-to-miyano",
+      "image": "https://i.postimg.cc/PJyqr6t2/sasaki-to-miyano.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Toaru Majutsu no Index",
+      "name": "Toaru Majutsu no Index",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/toaru-majutsu-no-index",
+      "image": "https://i.postimg.cc/8zjCNBxm/toaru-majutsu-no-index.jpg",
+      "estado": "Finalizado",
+      "year": 2008
+    },
+    {
+      "id": "Dolls Frontline",
+      "name": "Dolls Frontline",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/dolls-frontline",
+      "image": "https://i.postimg.cc/05n5SBsC/dolls-frontline.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Saiyuki RELOAD -ZEROIN-",
+      "name": "Saiyoki Reload Zeroin",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/saiyoki-reload-zeroin",
+      "image": "https://i.postimg.cc/R0xxy7mF/saiyuki-reload-zeroin.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Violet Evergarden",
+      "name": "Violet Evergarden",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/violet-evergarden",
+      "image": "https://i.postimg.cc/1R7hshSb/violet-evergarden.jpg",
+      "estado": "Finalizado",
+      "year": 2018
+    },
+    {
+      "id": "Shadows House Temporada 2",
+      "name": "Shadows House Temporada 2",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/shadows-house-segunda-temporada",
+      "image": "https://i.postimg.cc/xd2Bt9GN/shadows-house-2nd-season.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Orient 2nd Temporada",
+      "name": "Orient 2nd Temporada",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/orient-segunda-temporada",
+      "image": "https://i.postimg.cc/fLsWc7Fm/orient-2nd-cour.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Isekai Ojisan",
+      "name": "Isekai Ojisan",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/isekai-ojisan",
+      "image": "https://i.postimg.cc/Gpr6zMLL/isekai-ojisan.jpg",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": "Overlord IV",
+      "name": "Overlord IV",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/overlord-IV",
+      "image": "https://i.postimg.cc/LXq7sh27/overlord-iv.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Tensei kenja no Isekai life dai 2 no shokugyou wo ete sekai saikyou ni narimashita",
+      "name": "Tensei kenja no Isekai life dai 2 no shokugyou wo ete sekai saikyou ni narimashita",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita",
+      "image": "https://i.postimg.cc/Z5VDF6q2/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Vampire in the Garden",
+      "name": "Vampire in the Garden",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/vampire-in-the-garden",
+      "image": "https://i.postimg.cc/NGk8HBFP/vampire-in-the-garden.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Kuroshitsuji Book of Murder",
+      "name": "Kuroshitsuji Book of Murder",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/kuroshitsuji-book-of-murder",
+      "image": "https://i.postimg.cc/wvdJ1Gpp/kuroshitsuji-book-of-murder.jpg",
+      "estado": "Finalizado",
+      "year": 2015
+    },
+    {
+      "id": "Ziuhou de Zhaohuan Shi the last summoner",
+      "name": "Ziuhou de Zhaohuan Shi the last summoner",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/zuihou-de-zhaohuan-shi-the-last-summoner",
+      "image": "https://i.postimg.cc/pLhnqHVv/zuihou-de-zhaohuan-shi-the-last-summoner.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "kingdom temporada 4",
+      "name": "kingdom temporada 4",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/kingdom-cuarta-temporada",
+      "image": "https://i.postimg.cc/Yqj4CHWF/kingdom-4th-season.jpg",
+      "estado": "Finalizado",
+      "year": 20
+    },
+    {
+      "id": "mahoutsukai reimeiki",
+      "name": "mahoutsukai reimeiki",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/mahoutsukai-reimeiki",
+      "image": "https://i.postimg.cc/J7Yng22z/mahoutsukai-reimeiki.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "tiger and bunny 2",
+      "name": "tiger and bunny 2",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/tiger-and-bunny-2",
+      "image": "https://i.postimg.cc/mgCgP22P/tiger-and-bunny-2.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "toaru majustu no index III",
+      "name": "toaru majustu no index III",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/toaru-majustu-no-index-III",
+      "image": "https://i.postimg.cc/65G9P5ZM/toaru-majutsu-no-index-iii.jpg",
+      "estado": "Finalizado",
+      "year": 2018
+    },
+    {
+      "id": "shingeki no kyojin temporada final parte 2",
+      "name": "shingeki no kyojin temporada final parte 2",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/shingeki-no-kyojin-temporada-final-parte-2",
+      "image": "https://i.postimg.cc/Lsm2htbW/shingeki-no-kyojin-the-final-season-part-2.jpg",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Muhyo to Rouji no Mahouritsu Soudan Jimusho",
+      "name": "Muhyo to Rouji no Mahouritsu Soudan Jimusho",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/muhyo-to-rouji-no-mahouritsu-soudan-jimusho",
+      "image": "https://i.postimg.cc/7ZkfMTR3/muhyo-to-rouji-no-mahouritsu-soudan-jimusho.jpg",
+      "estado": "Finalizado",
+      "year": 2018
+    },
+    {
+      "id": "Golden Time",
+      "name": "Golden Time",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/golden-time",
+      "image": "https://i.postimg.cc/Wpq3BnLm/golden-time.jpg",
+      "estado": "Finalizado",
+      "year": 2016
+    },
+    {
+      "id": "Fullmetal Alchemist Brotherhood",
+      "name": "fullmetal Alchemist Brotherhood",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/fullmetal-alchemist-brotherhood",
+      "image": "https://i.postimg.cc/TwzRdzMV/fullmetal-alchemist-brotherhood.jpg",
+      "estado": "Finalizado",
+      "year": 2009
+    },
+    {
+      "id": "Overlord",
+      "name": "Overlord",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/overlord",
+      "image": "https://i.postimg.cc/RVzMjxT9/overlord.jpg",
+      "estado": "Finalizado",
+      "year": 2015
+    },
+    {
+      "id": "Overlord II",
+      "name": "Overlord II",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/overlord-II",
+      "image": "https://i.postimg.cc/jj9Tcpjp/overlord-ii.jpg",
+      "estado": "Finalizado",
+      "year": 2018
+    },
+    {
+      "id": "Aldnoah Zero Parte 2",
+      "name": "Aldnoah Zero Parte 2",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/aldnoah-zero-segunda-parte",
+      "image": "https://i.postimg.cc/zXdcTnvM/aldnoah-zero-part-2.jpg",
+      "estado": "Finalizado",
+      "year": 2015
+    },
+    {
+      "id": "Yama no Susume T3ra temporada",
+      "name": "Yama no Susume 3ra temporada",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/yama-no-susume-3ra-temporada",
+      "image": "https://i.postimg.cc/sfm6RpYX/yama-no-susume-third-season.jpg",
+      "estado": "Finalizado",
+      "year": 2018
+    },
+    {
+      "id": "Kimetsu no Yaiba: Mugen Ressha-hen",
+      "name": "Kimetsu no Yaiba: Mugen Ressha-hen",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/kimetsu-no-yaiba-mugen-ressha-hen",
+      "image": "https://i.postimg.cc/Kj85YHPY/kimetsu-no-yaiba-mugen-ressha-hen-tv.jpg",
+      "estado": "Finalizado",
+      "year": 2021
+    },
+    {
+      "id": "Ushio to tora",
+      "name": "Ushio to tora",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/ushio-to-tora",
+      "image": "https://i.postimg.cc/657d1RzF/ushio-to-tora.jpg",
+      "estado": "Finalizado",
+      "year": 2015
+    },
+    {
+      "id": "Shingeki no Bahamut Genesis",
+      "name": "Shingeki no Bahamut Genesis",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/shingeki-no-bahamut-genesis",
+      "image": "https://i.postimg.cc/gjx6QFy3/shingeki-no-bahamut-genesis.jpg",
+      "estado": "Finalizado",
+      "year": 2014
+    },
+    {
+      "id": "Ao no Exorcist",
+      "name": "Ao no Exorcist",
+      "mode": "TV",
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "link": "/ao-no-exorcist",
+      "image": "https://i.postimg.cc/2jgwY2qC/ao-no-exorcist.jpg",
+      "estado": "Finalizado",
+      "year": 2011
+    },
+    {
+      "id": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/jScPDXjw/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note.jpg",
+      "link": "/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note",
+      "name": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
+      "estado": "Finalizado",
+      "year": 2019
+    },
+    {
+      "id": "Majutsushi Orphen Hagure Tabi",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/fTh95FtS/majutsushi-orphen-hagure-tabi.jpg",
+      "link": "/majutsushi-orphen-hagure-tabi",
+      "name": "Majutsushi Orphen Hagure Tabi",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Castlevania 3",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/P5VNGFx4/castlevania-3.jpg",
+      "link": "/castlevania-3",
+      "name": "Castlevania 3",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Arifureta Shokugyou de Sekai Saikyou Segunda Temporada",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/4NJ3YTHP/arifureta-shokugyou-de-sekai-saikyou-2nd-season.jpg",
+      "link": "/arifureta-shokugyou-de-sekai-saikyou-segunda-temporada",
+      "name": "Arifureta Shokugyou de Sekai Saikyou Segunda Temporada",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/FRy9KP9w/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei.jpg",
+      "link": "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
+      "name": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+      "estado": "Finalizado",
+      "year": 2021
+    },
+    {
+      "id": "Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/4y4Txs2h/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru.jpg",
+      "link": "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru",
+      "name": "Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+      "estado": "Finalizado",
+      "year": 2019
+    },
+    {
+      "id": "Sword Art Online",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/W4RLJMfV/sword-art-online.jpg",
+      "link": "/sword-art-online",
+      "name": "Sword Art Online",
+      "estado": "Finalizado",
+      "year": 2012
+    },
+    {
+      "id": "Shachou, Battle no Jikan desu!",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/VL53G7x1/shachou-battle-no-jikan-desu.jpg",
+      "link": "/shachou-battle-no-jikan-desu",
+      "name": "Shachou, Battle no Jikan desu!",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Drifters",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/8z6xD7k0/drifters.jpg",
+      "link": "/drifters",
+      "name": "Drifters",
+      "estado": "Finalizado",
+      "year": 2016
+    },
+    {
+      "id": "Saint Seiya: The Lost Canvas",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/mD85VMVt/saint-seiya-the-lost-canvas.jpg",
+      "link": "/saint-seiya-the-lost-canvas",
+      "name": "Saint Seiya: The Lost Canvas",
+      "estado": "Finalizado",
+      "year": 2009
+    },
+    {
+      "id": "Kekkai Sensen & Beyond",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/NMfNyFYY/kekkai-sensen-and-beyond.jpg",
+      "link": "/kekkai-sensen-and-beyond",
+      "name": "Kekkai Sensen & Beyond",
+      "estado": "Finalizado",
+      "year": 2017
+    },
+    {
+      "id": "Mahoutsukai Reimeiki",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/J7Yng22z/mahoutsukai-reimeiki.jpg",
+      "link": "/mahoutsukai-reimeiki",
+      "name": "Mahoutsukai Reimeiki",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/m2x5jby3/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu.jpg",
+      "link": "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu",
+      "name": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Totsukuni no Shoujo",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/mgmjvRC5/totsukuni-no-shoujo.jpg",
+      "link": "/totsukuni-no-shoujo",
+      "name": "Totsukuni no Shoujo",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Kunoichi Tsubaki no Mune no Uchi",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/wvmkRmPC/kunoichi-tsubaki-no-mune-no-uchi.jpg",
+      "link": "/kunoichi-tsubaki-no-mune-no-uchi",
+      "name": "Kunoichi Tsubaki no Mune no Uchi",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/mrcYK9bP/shijou-saikyou-no-daimaou-murabito-a-ni-tensei-suru.jpg",
+      "link": "/shijou-saikyou-no-daimaou-murabito-a-ni-tensei-suru",
+      "name": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Yuusha, Yamemasu",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/tJzWFtzM/yuusha-yamemasu.jpg",
+      "link": "/yuusha-yamemasu",
+      "name": "Yuusha, Yamemasu",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "ESTAB LIFE: Great Escape",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/bNN2Kngq/estab-life-great-escape.jpg",
+      "link": "/estab-life-great-escape",
+      "name": "ESTAB LIFE: Great Escape",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Vanitas no Carte 2nd Cour",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/gcM0LTyP/vanitas-no-carte-2nd-cour.jpg",
+      "link": "/vanitas-no-carte-2nd-cour",
+      "name": "Vanitas no Carte 2nd Cour",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Ryman's Club",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/3JdxXF90/rymans-club.jpg",
+      "link": "/rymans-club",
+      "name": "Ryman's Club",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/CKHhhPMX/tensai-ouji-no-akaji-kokka-saisei-jutsu.jpg",
+      "link": "/tensai-ouji-no-akaji-kokka-saisei-jutsu",
+      "name": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Sabiiro no Armor -Reimei",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/Ss1pRHBT/sabiiro-no-armor-reimei.jpg",
+      "link": "/sabiiro-no-armor-reimei",
+      "name": "Sabiiro no Armor -Reimei",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Orient",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/6pxx8rPX/orient.jpg",
+      "link": "/orient",
+      "name": "Orient",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/CMZKD4cB/genjitsu-shugi-yuusha-no-oukoku-saikenki-part-2.jpg",
+      "link": "/genjitsu-shugi-yuusha-no-oukoku-saikenki-part-2",
+      "name": "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Tokyo 24-ku",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/QNRdqWz6/tokyo-24-ku.jpg",
+      "link": "/tokyo-24-ku",
+      "name": "Tokyo 24-ku",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "CUE!",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/RFWv7ML5/cue.jpg",
+      "link": "/cue",
+      "name": "CUE!",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Kaijin Kaihatsu-bu no Kuroitsu-san",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/T2WRh3Pn/kaijin-kaihatsu-bu-no-kuroitsu-san.jpg",
+      "link": "/kaijin-kaihatsu-bu-no-kuroitsu-san",
+      "name": "Kaijin Kaihatsu-bu no Kuroitsu-san",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Koi wa Sekai Seifuku no Ato de",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/mgV4KcdW/koi-wa-sekai-seifuku-no-ato-de.jpg",
+      "link": "/koi-wa-sekai-seifuku-no-ato-de",
+      "name": "Koi wa Sekai Seifuku no Ato de",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Megalo Box",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/XqwSLXZh/megalo-box.jpg",
+      "link": "/megalo-box",
+      "name": "Megalo Box",
+      "estado": "Finalizado",
+      "year": 2018
+    },
+    {
+      "id": "Killing Bites",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/dtjcTkcZ/killing-bites.jpg",
+      "link": "/killing-bites",
+      "name": "Killing Bites",
+      "estado": "Finalizado",
+      "year": 2018
+    },
+    {
+      "id": "Accel World",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/9M7vXzBM/accel-world.jpg",
+      "link": "/accel-world",
+      "name": "Accel World",
+      "estado": "Finalizado",
+      "year": 2012
+    },
+    {
+      "id": "Utawarerumono",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/HsHfHY8Y/utawarerumono.jpg",
+      "link": "/utawarerumono",
+      "name": "Utawarerumono",
+      "estado": "Finalizado",
+      "year": 20
+    },
+    {
+      "id": "Eden",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/3NZfWG0K/eden.jpg",
+      "link": "/eden",
+      "name": "Eden",
+      "estado": "Finalizado",
+      "year": 2021
+    },
+    {
+      "id": "Altered Carbon: Resleeved",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/k59cRG9G/altered-carbon-resleeved.jpg",
+      "link": "/altered-carbon-resleeved",
+      "name": "Altered Carbon: Resleeved",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Re:Zero kara Hajimeru Isekai Seikatsu Segunda Temporada Parte 2",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/7PcnMmDp/re-zero-kara-hajimeru-isekai-seikatsu-2nd-season-part-2.jpg",
+      "link": "/re-zero-kara-hajimeru-isekai-seikatsu-segunda-temporada-parte-2",
+      "name": "Re:Zero kara Hajimeru Isekai Seikatsu Segunda Temporada Parte 2",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Kumo desu ga, Nani ka",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/d1gn1B0P/kumo-desu-ga-nani-ka.jpg",
+      "link": "/kumo-desu-ga-nani-ka",
+      "name": "Kumo desu ga, Nani ka?",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Shingeki no Kyojin: Temporada Final",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/HxMXSCTR/shingeki-no-kyojin-the-final-season.jpg",
+      "link": "/shingeki-no-kyojin-the-final-season",
+      "name": "Shingeki no Kyojin: Temporada Final",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/cCNY25HH/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen.jpg",
+      "link": "/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
+      "name": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Hanyo no Yashahime",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/7Yw0Ncdt/hanyo-no-yashahime.jpg",
+      "link": "/hanyo-no-yashahime",
+      "name": "Hanyo no Yashahime",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Majo no Tabitabi",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/t4g6K6Xh/majo-no-tabitabi.jpg",
+      "link": "/majo-no-tabitabi",
+      "name": "Majo no Tabitabi",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Mob Psycho 100",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/GpWsTSvQ/mob-psycho-100.jpg",
+      "link": "/mob-psycho-100",
+      "name": "Mob Psycho 100",
+      "estado": "Finalizado",
+      "year": 2016
+    },
+    {
+      "id": "Mob Psycho 100 II",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/vZj4CS2s/mob-psycho-100-ii.jpg",
+      "link": "/mob-psycho-100-ii",
+      "name": "Mob Psycho 100 II",
+      "estado": "Finalizado",
+      "year": 2019
+    },
+    {
+      "id": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/qRcghBJJ/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu.jpg",
+      "link": "/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu",
+      "name": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
+      "estado": "Finalizado",
+      "year": 2022
+    },
+    {
+      "id": "Senyoku no Sigrdrifa",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/ZK50nh1m/senyoku-no-sigrdrifa.jpg",
+      "link": "/senyoku-no-sigrdrifa",
+      "name": "Senyoku no Sigrdrifa",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "King's Raid: Ishi wo Tsugumono-tachi",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/ydK8HqFw/kings-raid-ishi-wo-tsugumono-tachi.jpg",
+      "link": "/kings-raid-ishi-wo-tsugumono-tachi",
+      "name": "King's Raid: Ishi wo Tsugumono-tachi",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Danmachi III",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/mrYTVd0V/danmachi-iii.jpg",
+      "link": "/danmachi-III",
+      "name": "Danmachi III",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "DanMachi II",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/26TrN1jZ/danmachi-ii.jpg",
+      "link": "/danmachi-II",
+      "name": "DanMachi II",
+      "estado": "Finalizado",
+      "year": 2019
+    },
+    {
+      "id": "Sword Art Online: Alicization - War of Underworld Parte 2",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/L6JRG4cJ/sword-art-online-alicization-war-of-underworld-part-2.jpg",
+      "link": "/sword-art-online-alicization-war-of-underworld-part-2",
+      "name": "Sword Art Online: Alicization - War of Underworld Parte 2",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Temporada Parte 1",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/P5ZHr3rh/re-zero-kara-hajimeru-isekai-seikatsu-2nd-season-part-1.jpg",
+      "link": "/re-zero-kara-hajimeru-isekai-seikatsu-2nd-temporada-parte-1",
+      "name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Temporada Parte 1",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Hachi-nan tte, Sore wa Nai deshou!",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/1X2xy6kf/hachi-nan-tte-sore-wa-nai-deshou.jpg",
+      "link": "/hachi-nan-tte-sore-wa-nai-deshou",
+      "name": "Hachi-nan tte, Sore wa Nai deshou!",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Monster Musume no Oisha-san",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/JnzSJPms/monster-musume-no-oisha-san.jpg",
+      "link": "/monster-musume-no-oisha-san",
+      "name": "Monster Musume no Oisha-san",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Shachou, Battle no Jikan desu!",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/VL53G7x1/shachou-battle-no-jikan-desu.jpg",
+      "link": "/shachou-battle-no-jikan-desu",
+      "name": "Shachou, Battle no Jikan desu!",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Bungo to Alchemist: Shinpan no Haguruma",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/c1p0yG0T/bungo-to-alchemist-shinpan-no-haguruma.jpg",
+      "link": "/bungo-to-alchemist-shinpan-no-haguruma",
+      "name": "Bungo to Alchemist: Shinpan no Haguruma",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Dorohedoro",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/26qRM2tP/dorohedoro.jpg",
+      "link": "/dorohedoro",
+      "name": "Dorohedoro",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Ishuzoku Reviewers",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/2jZNx9hW/ishuzoku-reviewers.jpg",
+      "link": "/ishuzoku-reviewers",
+      "name": "Ishuzoku Reviewers",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Somali to Mori no Kamisama",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/LsbGtjsv/somali-to-mori-no-kamisama.jpg",
+      "link": "/somali-to-mori-no-kamisama",
+      "name": "Somali to Mori no Kamisama",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Plunderer",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/CLstv31R/plunderer.jpg",
+      "link": "/plunderer",
+      "name": "Plunderer",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Maken-ki! Two",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/Znh7HHzP/maken-ki-two.jpg",
+      "link": "/maken-ki-two",
+      "name": "Maken-ki! Two",
+      "estado": "Finalizado",
+      "year": 2015
+    },
+    {
+      "id": "Hortensia Saga",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/mZN8RQGq/hortensia-saga.jpg",
+      "link": "/hortensia-saga",
+      "name": "Hortensia Saga",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Shuumatsu no Valkyrie",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/Hs6z8dn9/shuumatsu-no-valkyrie.jpg",
+      "link": "/shuumatsu-no-valkyrie",
+      "name": "Shuumatsu no Valkyrie",
+      "estado": "Finalizado",
+      "year": 2021
+    },
+    {
+      "id": "86 EIGHTY-SIX 2nd Cour",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/Fz9b1BQ6/86-eighty-six-2nd-cour.jpg",
+      "link": "/86-eighty-six-2nd-cour",
+      "name": "86 EIGHTY-SIX 2nd Cour",
+      "estado": "Finalizado",
+      "year": 2021
+    },
+    {
+      "id": "Kimetsu no Yaiba: Yuukaku-hen",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/bYTH4pxf/kimetsu-no-yaiba-yuukaku-hen.jpg",
+      "link": "/kimetsu-no-yaiba-yuukaku-hen",
+      "name": "Kimetsu no Yaiba: Yuukaku-hen",
+      "estado": "Finalizado",
+      "year": 2021
+    },
+    {
+      "id": "TESLA NOTE",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/zG9nTBrK/tesla-note.jpg",
+      "link": "/tesla-note",
+      "name": "TESLA NOTE",
+      "estado": "Finalizado",
+      "year": 2021
+    },
+    {
+      "id": "Toaru Majutsu no Index II",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/hvymv4sJ/toaru-majutsu-no-index-ii.jpg",
+      "link": "/toaru-majutsu-no-index-II",
+      "name": "Toaru Majutsu no Index II",
+      "estado": "Finalizado",
+      "year": 2010
+    },
+    {
+      "id": "Date a Live III",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/KYSMRHP5/date-a-live-iii.jpg",
+      "link": "/date-a-live-III",
+      "name": "Date a Live III",
+      "estado": "Finalizado",
+      "year": 2019
+    },
+    {
+      "id": "Date a Live II",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/wvFy4xSW/date-a-live-ii.jpg",
+      "link": "/date-a-live-II",
+      "name": "Date a Live II",
+      "estado": "Finalizado",
+      "year": 2014
+    },
+    {
+      "id": "Date A Live",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/MZPfyT0H/date-a-live.jpg",
+      "link": "/date-a-live",
+      "name": "Date A Live",
+      "estado": "Finalizado",
+      "year": 2013
+    },
+    {
+      "id": "Enn Enn no Shouboutai: Ni no Shou",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/D08ZCrQZ/enn-enn-no-shouboutai-2.jpg",
+      "link": "/enn-enn-no-shouboutai-ni-no-shou",
+      "name": "Enn Enn no Shouboutai: Ni no Shou",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Bungou Stray Dogs 3",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/D0JvQ2F4/bungou-stray-dogs-3.jpg",
+      "link": "/bungou-stray-dogs-3",
+      "name": "Bungou Stray Dogs 3",
+      "estado": "Finalizado",
+      "year": 2019
+    },
+    {
+      "id": "Bungou Stray Dogs 2",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/y8XVypqj/bungou-stray-dogs-2.jpg",
+      "link": "/bungou-stray-dogs-2",
+      "name": "Bungou Stray Dogs 2",
+      "estado": "Finalizado",
+      "year": 2016
+    },
+    {
+      "id": "Bungou Stray Dogs",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/2yZYb2F4/bungou-stray-dogs.jpg",
+      "link": "/bungou-stray-dogs",
+      "name": "Bungou Stray Dogs",
+      "estado": "Finalizado",
+      "year": 2016
+    },
+    {
+      "id": "Kiseijuu: Sei no Kakuritsu (Parasyte)",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/pXQTsLzK/kiseijuu-sei-no-kakuritsu-parasyte.jpg",
+      "link": "/kiseijuu-sei-no-kakuritsu-parasyte",
+      "name": "Kiseijuu: Sei no Kakuritsu (Parasyte)",
+      "estado": "Finalizado",
+      "year": 2014
+    },
+    {
+      "id": "Blood-C",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/9f0QXPSB/blood-c.jpg",
+      "link": "/blood-c",
+      "name": "Blood-C",
+      "estado": "Finalizado",
+      "year": 2011
+    },
+    {
+      "id": "Dororo",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/kMKX5gjL/dororo.jpg",
+      "link": "/dororo",
+      "name": "Dororo",
+      "estado": "Finalizado",
+      "year": 2019
+    },
+    {
+      "id": "World Trigger",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/28xk4XNw/world-trigger.jpg",
+      "link": "/world-trigger",
+      "name": "World Trigger",
+      "estado": "Finalizado",
+      "year": 2014
+    },
+    {
+      "id": "Gleipnir",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/SxshcSrS/gleipnir.jpg",
+      "link": "/gleipnir",
+      "name": "Gleipnir",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Noragami Aragoto",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/hj9WKfSr/noragami-aragoto.jpg",
+      "link": "/noragami-aragoto",
+      "name": "Noragami Aragoto",
+      "estado": "Finalizado",
+      "year": 2015
+    },
+    {
+      "id": "Noragami",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/FH1M7Pr1/noragami.jpg",
+      "link": "/noragami",
+      "name": "Noragami",
+      "estado": "Finalizado",
+      "year": 2014
+    },
+    {
+      "id": "SPY x FAMILY 2nd Temporada",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/RFxhPx33/spy-x-family-cour-2.jpg",
+      "link": "/spy-x-family-2nd-temporada",
+      "name": "SPY x FAMILY 2nd Temporada",
+      "year": 2022,
+      "estado": "Finalizado"
+    },
+    {
+      "id": "Tokyo Ghoul: re 2",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/fTRFrH05/tokyo-ghoul-re-2.jpg",
+      "link": "/tokyo-ghoul-re-2",
+      "name": "Tokyo Ghoul: re 2",
+      "estado": "Finalizado",
+      "year": 2018
+    },
+    {
+      "id": "Tokyo Ghoul: re",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/K8KWZRfM/tokyo-ghoul-re.jpg",
+      "link": "/tokyo-ghoul-re",
+      "name": "Tokyo Ghoul: re",
+      "estado": "Finalizado",
+      "year": 2018
+    },
+    {
+      "id": "Darling in the Franxx",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/FHtyLzmc/darling-in-the-franxx.jpg",
+      "link": "/darling-in-the-franxx",
+      "name": "Darling in the Franxx",
+      "estado": "Finalizado",
+      "year": 2018
+    },
+    {
+      "id": "Goblin Slayer",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/x8JmkD4t/goblin-slayer.jpg",
+      "link": "/goblin-slayer",
+      "name": "Goblin Slayer",
+      "estado": "Finalizado",
+      "year": 2018
+    },
+    {
+      "id": "Knight's & Magic",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/GhDgB96w/knights-and-magic.jpg",
+      "link": "/knights-and-magic",
+      "name": "Knight's & Magic",
+      "year": 2017
+    },
+    {
+      "id": "Tokyo Ghoul √A",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/rwLn5MLd/tokyo-ghoul-radic-a.jpg",
+      "link": "/tokyo-ghoul-radic-a",
+      "name": "Tokyo Ghoul √A",
+      "estado": "Finalizado",
+      "year": 2015
+    },
+    {
+      "id": "Tokyo Ghoul",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/9fmLNb0C/tokyo-ghoul.jpg",
+      "link": "/tokyo-ghoul",
+      "name": "Tokyo Ghoul",
+      "estado": "Finalizado",
+      "year": 2014
+    },
+    {
+      "id": "ID:INVADED",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/BvbxKVtL/id-invaded.jpg",
+      "link": "/id-invaded",
+      "name": "ID:INVADED",
+      "estado": "Finalizado",
+      "year": 2020
+    },
+    {
+      "id": "Levius",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/d3PdgQ6r/levius.jpg",
+      "link": "/levius",
+      "name": "Levius",
+      "estado": "Finalizado",
+      "year": 2019
+    },
+    {
+      "id": "Chainsaw Man",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/Y9T3D966/chainsaw-man.jpg",
+      "link": "/chainsaw-man",
+      "name": "Chainsaw Man",
+      "year": 2022,
+      "estado": "Finalizado"
+    },
+    {
+      "id": "Peter Grill to Kenja no Jikan Super Extra",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/q7s4vhRR/peter-grill-to-kenja-no-jikan-super-extra.jpg",
+      "link": "/peter-grill-to-kenja-no-jikan-super-extra",
+      "name": "Peter Grill to Kenja no Jikan Super Extra",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": "Mob Psycho 100 III",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/zX4rwSHv/mob-psycho-100-iii.jpg",
+      "link": "/mob-psycho-100-III",
+      "name": "Mob Psycho 100 III",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": "Danmachi IV",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/vB2jYbWT/danmachi-iv.jpg",
+      "link": "/danmachi-IV",
+      "name": "Danmachi IV",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": "BLEACH: Sennen Kessen-hen",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/qBYYWBJZ/bleach-sennen-kessen-hen.jpg",
+      "link": "/bleach-sennen-kessen-hen",
+      "name": "BLEACH: Sennen Kessen-hen",
+      "year": 2022,
+      "estado": "Finalizado"
+    },
+    {
+      "id": "Yowamushi Pedal Limit Break",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/fyj83sdY/yowamushi-pedal-limit-break.jpg",
+      "link": "/yowamushi-pedal-limit-break",
+      "name": "Yowamushi Pedal Limit Break",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": "BLUELOCK",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/tT6SjWCS/bluelock.jpg",
+      "link": "/bluelock",
+      "name": "BLUELOCK",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": "Fuufu Ijou, Koibito Miman",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/2SHXFCKw/fuufu-ijou-koibito-miman.jpg",
+      "link": "/fuufu-ijou-koibito-miman",
+      "name": "Fuufu Ijou, Koibito Miman",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": "Fumetsu no Anata e Temporada 2",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/bN95rx04/fumetsu-no-anata-e-season-2.jpg",
+      "link": "/fumetsu-no-anata-e-2nd-temporada",
+      "name": "Fumetsu no Anata e Temporada 2",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": "VAZZROCK THE ANIMATION",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/QCpyp529/vazzrock-the-animation.jpg",
+      "link": "/vazzrock-the-animation",
+      "name": "VAZZROCK THE ANIMATION",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/d0xpvJR1/ginga-eiyuu-densetsu-die-neue-these-sakubou.jpg",
+      "link": "/ginga-eiyuu-densetsu-die-neue-these-sakubou",
+      "name": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": "Berserk: Ougon Jidai-hen - MEMORIAL EDITION",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/nLzg6XDg/berserk-ougon-jidai-hen-memorial-edition.jpg",
+      "link": "/berserk-ougon-jidai-hen-memorial-edition",
+      "name": "Berserk: Ougon Jidai-hen - MEMORIAL EDITION",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": "162",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/mrM19VRw/hoshinosamidare-KV-1.jpg",
+      "link": "/hoshi-no-samidare",
+      "name": "Hoshi no samidare",
+      "year": 2022,
+      "estado": "Finalizado"
+    },
+    {
+      "id": "Shadows House",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/sD11ZwKQ/shadows-house.jpg",
+      "link": "/shadows-house",
+      "name": "Shadows House",
+      "year": 2021,
+      "estado": "Finalizado"
+    },
+    {
+      "id": "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2",
+      "name": "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/HsjD5j2d/tensei-shitara-slime-datta-ken-2nd-season-part-2.jpg",
+      "link": "/tensei-shitara-slime-datta-ken-segunda-temporada-parte-2",
+      "year": 2021,
+      "estado": "Finalizado"
+    },
+    {
+      "id": "Kuro no Shoukanshi",
+      "name": "Kuro no Shoukanshi",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/j2HRLDvv/kuro-no-shoukanshi.jpg",
+      "link": "/kuro-no-shoukanshi",
+      "year": 2022,
+      "estado": "Finalizado"
+    }
   ]
 }
