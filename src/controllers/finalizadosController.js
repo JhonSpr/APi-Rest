@@ -1,4 +1,4 @@
-const finalizadoService = require("../services/emisionService");
+const finalizadoService = require("../services/finalizadoService");
 
 const getAllFinalizados = (req, res) => {
   const { estado } = req.query;
