@@ -1,10 +1,11 @@
 const finalizadoService = require("../services/finalizadoService");
 
 const getAllFinalizados = (req, res) => {
-  const { mode } = req.query;
+  const { mode, name } = req.query;
   try {
     const AllFinalizados = finalizadoService.getAllFinalizados({
       mode,
+      name,
     });
     res.send(AllFinalizados);
   } catch (error) {
