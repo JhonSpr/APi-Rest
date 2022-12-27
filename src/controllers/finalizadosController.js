@@ -1,10 +1,10 @@
 const finalizadoService = require("../services/emisionService");
 
-const getAllEmisiones = (req, res) => {
+const getAllFinalizados = (req, res) => {
   const { estado } = req.query;
   try {
-    const AllEmisiones = emisionService.getAllEmisiones({ estado });
-    res.send(AllEmisiones);
+    const AllFinalizados = finalizadoService.getAllFinalizados({ estado });
+    res.send(AllFinalizados);
   } catch (error) {
     res
       .status(error?.status || 500)
