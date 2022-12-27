@@ -1,7 +1,7 @@
 const workoutService = require("../services/workoutService");
 
 const getAllWorkouts = (req, res) => {
-  const { mode, name, estado, createdAt } = req.query;
+  const { mode, name, estado, year, createdAt } = req.query;
   try {
     const allWorkouts = workoutService.getAllWorkouts({
       mode,
