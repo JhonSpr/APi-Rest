@@ -51,6 +51,7 @@ const router = express.Router();
 router
   .get("/", workoutController.getAllWorkouts)
   .get("/:workoutId", workoutController.getOneWorkout)
+  .get("/:workoutId/records", workoutController.getStatus)
   .post("/", workoutController.createNewWorkout)
   .patch("/:workoutId", workoutController.updateOneWorkout)
   .delete("/:workoutId", workoutController.deleteOneWorkout);
