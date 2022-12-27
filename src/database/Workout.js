@@ -159,5 +159,4 @@ module.exports = {
   createNewWorkout,
   updateOneWorkout,
   deleteOneWorkout,
-  getAllEstados,
 };
