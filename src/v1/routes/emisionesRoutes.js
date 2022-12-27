@@ -1,5 +1,4 @@
 const express = require("express");
-const workoutController = require("../../controllers/workoutController");
 
 const emisionesController = require("../../controllers/emisionesController");
 
@@ -49,13 +48,6 @@ const router = express.Router();
  *                       type: string
  *                       example: "Some error message"
  */
-router
-  .get("/", workoutController.getAllWorkouts)
-
-  .get("/:workoutId", workoutController.getOneWorkout)
-  .get("/workoutId/emisiones", emisionesController.getAllEmisiones)
-  .post("/", workoutController.createNewWorkout)
-  .patch("/:workoutId", workoutController.updateOneWorkout)
-  .delete("/:workoutId", workoutController.deleteOneWorkout);
+router.get("/", emisionesController.getAllEmisiones);
 
 module.exports = router;
