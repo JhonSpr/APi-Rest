@@ -8,6 +8,11 @@ const getAllFinalizados = (filterParams) => {
         finalizado.mode.toLowerCase().includes(filterParams.mode)
       );
     }
+    if (filterParams.name) {
+      return DB.finalizados.filter((finalizado) =>
+        finalizado.name.toLowerCase().includes(filterParams.name)
+      );
+    }
 
     return finalizados;
   } catch (error) {
