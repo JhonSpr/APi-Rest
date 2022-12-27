@@ -1,7 +1,7 @@
 {
   "workouts": [
     {
-      "id": "akudama drive",
+      "id": "Akudama Drive",
       "name": "Akudama Drive",
       "mode": "TV",
       "createdAt": "4/20/2022, 2:21:56 PM",
@@ -111,7 +111,7 @@
       "year": 2019
     },
     {
-      "id": "Dr.Stone Ryusui",
+      "id": "Dr Stone Ryusui",
       "name": "Dr.Stone Ryusui",
       "mode": "TV",
       "createdAt": "1/25/2022, 1:15:44 PM",
@@ -188,7 +188,7 @@
       "year": 2022
     },
     {
-      "id": "Tate no Yuusha no Naraigari Segunda Temporada",
+      "id": "Tate no Yuusha no Naraigari 2nd Temporada",
       "name": "Tate no Yuusha no Naraigari Segunda Temporada",
       "mode": "TV",
       "createdAt": "1/25/2022, 1:15:44 PM",
@@ -331,7 +331,7 @@
       "year": 2022
     },
     {
-      "id": "Saiyoki Reload Zeroin",
+      "id": "Saiyuki RELOAD -ZEROIN-",
       "name": "Saiyoki Reload Zeroin",
       "mode": "TV",
       "createdAt": "1/25/2022, 1:15:44 PM",
@@ -1536,11 +1536,30 @@
       "estado": "Finalizado"
     },
     {
-      "id": 163,
+      "id": "Shadows House",
+      "mode": "TV",
       "image": "https://i.postimg.cc/sD11ZwKQ/shadows-house.jpg",
       "link": "/shadows-house",
       "name": "Shadows House",
       "year": 2021,
+      "estado": "Finalizado"
+    },
+    {
+      "id": "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2",
+      "name": "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/HsjD5j2d/tensei-shitara-slime-datta-ken-2nd-season-part-2.jpg",
+      "link": "/tensei-shitara-slime-datta-ken-segunda-temporada-parte-2",
+      "year": 2021,
+      "estado": "Finalizado"
+    },
+    {
+      "id": "Kuro no Shoukanshi",
+      "name": "Kuro no Shoukanshi",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/j2HRLDvv/kuro-no-shoukanshi.jpg",
+      "link": "/kuro-no-shoukanshi",
+      "year": 2022,
       "estado": "Finalizado"
     }
   ]
