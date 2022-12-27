@@ -51,7 +51,7 @@ const router = express.Router();
  */
 router
   .get("/", workoutController.getAllWorkouts)
-  .get("/emisiones", emisionesController.getAllEmisiones)
+  .get("/", emisionesController.getAllEmisiones)
   .get("/:workoutId", workoutController.getOneWorkout)
   .get("/:workoutId/records", recordController.getRecordForWorkout)
   .post("/", workoutController.createNewWorkout)
