@@ -1530,12 +1530,20 @@
       "classEstado": "tag is-success airing"
     },
     {
-      "id": "Finalizado",
+      "id": "162",
       "mode": "TV",
       "image": "https://i.postimg.cc/mrM19VRw/hoshinosamidare-KV-1.jpg",
       "link": "/hoshi-no-samidare",
       "name": "Hoshi no samidare",
       "year": 2022,
+      "estado": "Finalizado"
+    },
+    {
+      "id": 163,
+      "image": "https://i.postimg.cc/sD11ZwKQ/shadows-house.jpg",
+      "link": "/shadows-house",
+      "name": "Shadows House",
+      "year": 2021,
       "estado": "Finalizado"
     }
   ]
