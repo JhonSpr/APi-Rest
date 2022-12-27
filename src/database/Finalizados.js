@@ -3,9 +3,9 @@ const DB = require("./db.json");
 const getAllFinalizados = (filterParams) => {
   try {
     let finalizados = DB.finalizados;
-    if (filterParams.estado) {
+    if (filterParams.mode) {
       return DB.finalizados.filter((finalizado) =>
-        finalizado.estado.includes(filterParams.estado)
+        finalizado.mode.toLowerCase().includes(filterParams.mode)
       );
     }
 
