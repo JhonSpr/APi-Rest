@@ -1827,7 +1827,7 @@
       "updatedAt": "3/10/2022, 8:21:56 AM",
       "link": "/isekai-meikyuu-de-harem-wo",
       "image": "https://i.postimg.cc/RZFzzprg/isekai-meikyuu-de-harem-wo.jpg",
-      "tipo": "Finalizado",
+      "mode": "Finalizado",
       "year": 2022
     },
     {
@@ -2385,7 +2385,7 @@
     },
     {
       "id": "Kekkai Sensen & Beyond",
-      "mode": "TV",
+      "tipo": "TV",
       "image": "https://i.postimg.cc/NMfNyFYY/kekkai-sensen-and-beyond.jpg",
       "link": "/kekkai-sensen-and-beyond",
       "name": "Kekkai Sensen & Beyond",
@@ -2394,7 +2394,7 @@
     },
     {
       "id": "Mahoutsukai Reimeiki",
-      "mode": "TV",
+      "tipo": "TV",
       "image": "https://i.postimg.cc/J7Yng22z/mahoutsukai-reimeiki.jpg",
       "link": "/mahoutsukai-reimeiki",
       "name": "Mahoutsukai Reimeiki",
@@ -2403,7 +2403,7 @@
     },
     {
       "id": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
-      "mode": "TV",
+      "tipo": "TV",
       "image": "https://i.postimg.cc/m2x5jby3/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu.jpg",
       "link": "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu",
       "name": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
@@ -2412,7 +2412,7 @@
     },
     {
       "id": "Totsukuni no Shoujo",
-      "mode": "TV",
+      "tipo": "TV",
       "image": "https://i.postimg.cc/mgmjvRC5/totsukuni-no-shoujo.jpg",
       "link": "/totsukuni-no-shoujo",
       "name": "Totsukuni no Shoujo",
@@ -2421,7 +2421,7 @@
     },
     {
       "id": "Kunoichi Tsubaki no Mune no Uchi",
-      "mode": "TV",
+      "tipo": "TV",
       "image": "https://i.postimg.cc/wvmkRmPC/kunoichi-tsubaki-no-mune-no-uchi.jpg",
       "link": "/kunoichi-tsubaki-no-mune-no-uchi",
       "name": "Kunoichi Tsubaki no Mune no Uchi",
@@ -2430,7 +2430,7 @@
     },
     {
       "id": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
-      "mode": "TV",
+      "tipo": "TV",
       "image": "https://i.postimg.cc/mrcYK9bP/shijou-saikyou-no-daimaou-murabito-a-ni-tensei-suru.jpg",
       "link": "/shijou-saikyou-no-daimaou-murabito-a-ni-tensei-suru",
       "name": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
@@ -2439,7 +2439,7 @@
     },
     {
       "id": "Yuusha, Yamemasu",
-      "mode": "TV",
+      "tipo": "TV",
       "image": "https://i.postimg.cc/tJzWFtzM/yuusha-yamemasu.jpg",
       "link": "/yuusha-yamemasu",
       "name": "Yuusha, Yamemasu",
@@ -2448,7 +2448,7 @@
     },
     {
       "id": "ESTAB LIFE: Great Escape",
-      "mode": "TV",
+      "tipo": "TV",
       "image": "https://i.postimg.cc/bNN2Kngq/estab-life-great-escape.jpg",
       "link": "/estab-life-great-escape",
       "name": "ESTAB LIFE: Great Escape",
