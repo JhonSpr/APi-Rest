@@ -5,7 +5,7 @@ const getAllFinalizados = (filterParams) => {
     let finalizados = DB.finalizados;
     if (filterParams.estado) {
       return DB.finalizados.filter((finalizado) =>
-        finalizado.name.toLowerCase().includes(filterParams.estado)
+        finalizado.estado.includes(filterParams.estado)
       );
     }
 
