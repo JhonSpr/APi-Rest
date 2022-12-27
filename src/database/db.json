@@ -1520,7 +1520,7 @@
       "classEstado": "tag is-success airing"
     },
     {
-      "id": 161,
+      "id": "En Emision",
       "mode": "TV",
       "image": "https://i.postimg.cc/nLzg6XDg/berserk-ougon-jidai-hen-memorial-edition.jpg",
       "link": "/berserk-ougon-jidai-hen-memorial-edition",
@@ -1530,7 +1530,7 @@
       "classEstado": "tag is-success airing"
     },
     {
-      "id": 162,
+      "id": "Finalizado",
       "mode": "TV",
       "image": "https://i.postimg.cc/mrM19VRw/hoshinosamidare-KV-1.jpg",
       "link": "/hoshi-no-samidare",
