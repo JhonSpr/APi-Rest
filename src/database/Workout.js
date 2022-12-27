@@ -167,6 +167,7 @@ const deleteOneWorkout = (workoutId) => {
 
 module.exports = {
   getAllWorkouts,
+  getAllAnimes,
   getOneWorkout,
   createNewWorkout,
   updateOneWorkout,
