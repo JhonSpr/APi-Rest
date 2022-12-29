@@ -3404,7 +3404,8 @@
       "link": "/hoshi-no-samidare",
       "name": "Hoshi no samidare",
       "year": 2022,
-      "estado": "Finalizado"
+      "estado": "Finalizado",
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Shadows House",
@@ -3413,7 +3414,8 @@
       "link": "/shadows-house",
       "name": "Shadows House",
       "year": 2021,
-      "mode": "Finalizado"
+      "mode": "Finalizado",
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2",
@@ -3422,7 +3424,8 @@
       "image": "https://i.postimg.cc/HsjD5j2d/tensei-shitara-slime-datta-ken-2nd-season-part-2.jpg",
       "link": "/tensei-shitara-slime-datta-ken-segunda-temporada-parte-2",
       "year": 2021,
-      "mode": "Finalizado"
+      "mode": "Finalizado",
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Kuro no Shoukanshi",
@@ -3431,7 +3434,8 @@
       "image": "https://i.postimg.cc/j2HRLDvv/kuro-no-shoukanshi.jpg",
       "link": "/kuro-no-shoukanshi",
       "year": 2022,
-      "mode": "Finalizado"
+      "mode": "Finalizado",
+      "classEstado": "tag is-success end"
     }
   ]
 }
