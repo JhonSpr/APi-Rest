@@ -9,7 +9,8 @@
       "link": "/akudama-drive",
       "image": "https://i.postimg.cc/Dz96B0dq/akudama-drive.jpg",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Hanyo no Yashahime ni no Shou",
@@ -20,7 +21,8 @@
       "link": "/hanyo-no-yashahime-ni-no-shou",
       "image": "https://i.postimg.cc/yxBPCGGx/hanyo-no-yashahime-ni-no-shou.jpg",
       "estado": "Finalizado",
-      "year": 2021
+      "year": 2021,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Heion Sedai no Idaten Tachi",
@@ -31,7 +33,8 @@
       "link": "/heion-sedai-no-idaten-tachi",
       "image": "https://i.postimg.cc/PfzyQtLw/heion-sedai-no-idaten-tachi.jpg",
       "estado": "Finalizado",
-      "year": 2021
+      "year": 2021,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Peach Boy Riverside",
@@ -42,7 +45,8 @@
       "link": "/peach-boy-riverside",
       "image": "https://i.postimg.cc/nz1mBhdV/peach-boy-riverside.jpg",
       "estado": "Finalizado",
-      "year": 2021
+      "year": 2021,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Jujutsu Kaisen",
@@ -53,7 +57,8 @@
       "link": "/jujutsu-kaisen",
       "image": "https://i.postimg.cc/wMfs4b8S/jujutsu-kaisen.jpg",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Shingeki no Bahamut:Virgin Soul",
@@ -64,7 +69,8 @@
       "link": "/shingeki-no-bahamut:virgin-soul",
       "image": "https://i.postimg.cc/QxC7Kscs/shingeki-no-bahamut-virgin-soul.jpg",
       "estado": "Finalizado",
-      "year": 2017
+      "year": 2017,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Castlevania 2nd Temporada",
@@ -75,7 +81,8 @@
       "link": "/castlevania-segunda-temporada",
       "image": "https://i.postimg.cc/k53RHbzX/castlevania-season-2.jpg",
       "estado": "Finalizado",
-      "year": 20
+      "year": 2018,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Overlord III",
@@ -86,7 +93,8 @@
       "link": "/overlord-III",
       "image": "https://i.postimg.cc/BnWvZGgm/overlord-iii.jpg",
       "estado": "Finalizado",
-      "year": 2018
+      "year": 2018,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Ao no Exorcist Kyoto Fujouou Hen",
@@ -97,7 +105,8 @@
       "link": "/ao-no-exorcist-kyoto-fujouou-hen",
       "image": "https://i.postimg.cc/kG6n9jtr/ao-no-exorcist-kyoto-fujouou-hen.jpg",
       "estado": "Finalizado",
-      "year": 2017
+      "year": 2017,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Fairy Gone",
@@ -108,7 +117,8 @@
       "link": "/fairy-gone",
       "image": "https://i.postimg.cc/j5CTQ8cW/fairy-gone.jpg",
       "estado": "Finalizado",
-      "year": 2019
+      "year": 2019,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Dr Stone Ryusui",
@@ -119,7 +129,8 @@
       "link": "/dr-stone-ryusui",
       "image": "https://i.postimg.cc/c1pKCY17/dr-stone-ryusui.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Isekai Yakkyoku",
@@ -130,7 +141,8 @@
       "link": "/isekai-yakkyoku",
       "image": "https://i.postimg.cc/m2WDBsV8/isekai-yakkyoku.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Fairy Gone 2nd Temporada",
@@ -141,7 +153,8 @@
       "link": "/fairy-gone-segunda-temporada",
       "image": "https://i.postimg.cc/ZqXmH8MV/fairy-gone-2nd-season.jpg",
       "estado": "Finalizado",
-      "year": 2019
+      "year": 2019,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Isekai Meikyuu de Harem wo",
@@ -152,7 +165,8 @@
       "link": "/isekai-meikyuu-de-harem-wo",
       "image": "https://i.postimg.cc/RZFzzprg/isekai-meikyuu-de-harem-wo.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Temporada 2",
@@ -163,7 +177,8 @@
       "link": "youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e-segunda-temporada",
       "image": "https://i.postimg.cc/02kTpXN9/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Spy x Family",
@@ -174,7 +189,8 @@
       "link": "/spy-x-family",
       "image": "https://i.postimg.cc/FRXq1Dq5/spy-x-family.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Date a Live IV",
@@ -185,7 +201,8 @@
       "link": "/date-a-live-IV",
       "image": "https://i.postimg.cc/1XJYCPzs/date-a-live-iv.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Tate no Yuusha no Naraigari 2nd Temporada",
@@ -196,7 +213,8 @@
       "link": "/tate-no-yuusha-no-naraigari-segunda-temporada",
       "image": "https://i.postimg.cc/bJR6r8kk/tate-no-yuusha-no-nariagari-season-2.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Tomodachi Game",
@@ -207,7 +225,8 @@
       "link": "/tomodachi-game",
       "image": "https://i.postimg.cc/JhNxYmTv/tomodachi-game.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Baraou no Souretsu",
@@ -218,7 +237,8 @@
       "link": "/baraou-no-souretsu",
       "image": "https://i.postimg.cc/3wYmRGBf/baraou-no-souretsu.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Karakuri Circus",
@@ -229,7 +249,8 @@
       "link": "/karakuri-circus",
       "image": "https://i.postimg.cc/VNf018f3/karakuri-circus.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Extreme Hearts",
@@ -240,7 +261,8 @@
       "link": "/extreme-hearts",
       "image": "https://i.postimg.cc/jdf89GSH/extreme-hearts.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Gensou Sangokushi Tenge Reishink",
@@ -251,7 +273,8 @@
       "link": "/gensou-sangokushi-tenge-reishink",
       "image": "https://i.postimg.cc/ry0g0vWB/gensou-sangokushi-tengen-reishinki.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Tate no Yuusha no Naraigari",
@@ -262,7 +285,8 @@
       "link": "/tate-no-yuusha-no-naraigari",
       "image": "https://i.postimg.cc/rwJ92cXr/tate-no-yuusha-no-nariagari.jpg",
       "estado": "Finalizado",
-      "year": 2019
+      "year": 2019,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Tribe nine",
@@ -273,7 +297,8 @@
       "link": "/tribe-nine",
       "image": "https://i.postimg.cc/wxmcTDYH/tribe-nine.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Koroshi Ai",
@@ -284,7 +309,8 @@
       "link": "/koroshi-ai",
       "image": "https://i.postimg.cc/DyhsvDcd/koroshi-ai.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Sabikui Bisco",
@@ -295,7 +321,8 @@
       "link": "/sabikui-bisco",
       "image": "https://i.postimg.cc/YCshWyQP/sabikui-bisco.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Sasaki to Miyano",
@@ -306,7 +333,8 @@
       "link": "/sasaki-to-miyano",
       "image": "https://i.postimg.cc/PJyqr6t2/sasaki-to-miyano.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Toaru Majutsu no Index",
@@ -317,7 +345,8 @@
       "link": "/toaru-majutsu-no-index",
       "image": "https://i.postimg.cc/8zjCNBxm/toaru-majutsu-no-index.jpg",
       "estado": "Finalizado",
-      "year": 2008
+      "year": 2008,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Dolls Frontline",
@@ -328,7 +357,8 @@
       "link": "/dolls-frontline",
       "image": "https://i.postimg.cc/05n5SBsC/dolls-frontline.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Saiyuki RELOAD -ZEROIN-",
@@ -339,7 +369,8 @@
       "link": "/saiyoki-reload-zeroin",
       "image": "https://i.postimg.cc/R0xxy7mF/saiyuki-reload-zeroin.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Violet Evergarden",
@@ -350,7 +381,8 @@
       "link": "/violet-evergarden",
       "image": "https://i.postimg.cc/1R7hshSb/violet-evergarden.jpg",
       "estado": "Finalizado",
-      "year": 2018
+      "year": 2018,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Shadows House Temporada 2",
@@ -361,7 +393,8 @@
       "link": "/shadows-house-segunda-temporada",
       "image": "https://i.postimg.cc/xd2Bt9GN/shadows-house-2nd-season.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Orient 2nd Temporada",
@@ -372,7 +405,8 @@
       "link": "/orient-segunda-temporada",
       "image": "https://i.postimg.cc/fLsWc7Fm/orient-2nd-cour.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Isekai Ojisan",
@@ -395,7 +429,8 @@
       "link": "/overlord-IV",
       "image": "https://i.postimg.cc/LXq7sh27/overlord-iv.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Tensei kenja no Isekai life dai 2 no shokugyou wo ete sekai saikyou ni narimashita",
@@ -406,7 +441,8 @@
       "link": "/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita",
       "image": "https://i.postimg.cc/Z5VDF6q2/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Vampire in the Garden",
@@ -417,7 +453,8 @@
       "link": "/vampire-in-the-garden",
       "image": "https://i.postimg.cc/NGk8HBFP/vampire-in-the-garden.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Kuroshitsuji Book of Murder",
@@ -428,7 +465,8 @@
       "link": "/kuroshitsuji-book-of-murder",
       "image": "https://i.postimg.cc/wvdJ1Gpp/kuroshitsuji-book-of-murder.jpg",
       "estado": "Finalizado",
-      "year": 2015
+      "year": 2015,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Ziuhou de Zhaohuan Shi the last summoner",
@@ -439,7 +477,8 @@
       "link": "/zuihou-de-zhaohuan-shi-the-last-summoner",
       "image": "https://i.postimg.cc/pLhnqHVv/zuihou-de-zhaohuan-shi-the-last-summoner.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "kingdom temporada 4",
@@ -450,7 +489,8 @@
       "link": "/kingdom-cuarta-temporada",
       "image": "https://i.postimg.cc/Yqj4CHWF/kingdom-4th-season.jpg",
       "estado": "Finalizado",
-      "year": 20
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "mahoutsukai reimeiki",
@@ -461,7 +501,8 @@
       "link": "/mahoutsukai-reimeiki",
       "image": "https://i.postimg.cc/J7Yng22z/mahoutsukai-reimeiki.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "tiger and bunny 2",
@@ -472,7 +513,8 @@
       "link": "/tiger-and-bunny-2",
       "image": "https://i.postimg.cc/mgCgP22P/tiger-and-bunny-2.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "toaru majustu no index III",
@@ -483,7 +525,8 @@
       "link": "/toaru-majustu-no-index-III",
       "image": "https://i.postimg.cc/65G9P5ZM/toaru-majutsu-no-index-iii.jpg",
       "estado": "Finalizado",
-      "year": 2018
+      "year": 2018,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "shingeki no kyojin temporada final parte 2",
@@ -494,7 +537,8 @@
       "link": "/shingeki-no-kyojin-temporada-final-parte-2",
       "image": "https://i.postimg.cc/Lsm2htbW/shingeki-no-kyojin-the-final-season-part-2.jpg",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Muhyo to Rouji no Mahouritsu Soudan Jimusho",
@@ -505,7 +549,8 @@
       "link": "/muhyo-to-rouji-no-mahouritsu-soudan-jimusho",
       "image": "https://i.postimg.cc/7ZkfMTR3/muhyo-to-rouji-no-mahouritsu-soudan-jimusho.jpg",
       "estado": "Finalizado",
-      "year": 2018
+      "year": 2018,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Golden Time",
@@ -516,7 +561,8 @@
       "link": "/golden-time",
       "image": "https://i.postimg.cc/Wpq3BnLm/golden-time.jpg",
       "estado": "Finalizado",
-      "year": 2016
+      "year": 2016,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Fullmetal Alchemist Brotherhood",
@@ -527,7 +573,8 @@
       "link": "/fullmetal-alchemist-brotherhood",
       "image": "https://i.postimg.cc/TwzRdzMV/fullmetal-alchemist-brotherhood.jpg",
       "estado": "Finalizado",
-      "year": 2009
+      "year": 2009,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Overlord",
@@ -538,7 +585,8 @@
       "link": "/overlord",
       "image": "https://i.postimg.cc/RVzMjxT9/overlord.jpg",
       "estado": "Finalizado",
-      "year": 2015
+      "year": 2015,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Overlord II",
@@ -549,7 +597,8 @@
       "link": "/overlord-II",
       "image": "https://i.postimg.cc/jj9Tcpjp/overlord-ii.jpg",
       "estado": "Finalizado",
-      "year": 2018
+      "year": 2018,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Aldnoah Zero Parte 2",
@@ -560,7 +609,8 @@
       "link": "/aldnoah-zero-segunda-parte",
       "image": "https://i.postimg.cc/zXdcTnvM/aldnoah-zero-part-2.jpg",
       "estado": "Finalizado",
-      "year": 2015
+      "year": 2015,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Yama no Susume T3ra temporada",
@@ -571,7 +621,8 @@
       "link": "/yama-no-susume-3ra-temporada",
       "image": "https://i.postimg.cc/sfm6RpYX/yama-no-susume-third-season.jpg",
       "estado": "Finalizado",
-      "year": 2018
+      "year": 2018,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Kimetsu no Yaiba: Mugen Ressha-hen",
@@ -582,7 +633,8 @@
       "link": "/kimetsu-no-yaiba-mugen-ressha-hen",
       "image": "https://i.postimg.cc/Kj85YHPY/kimetsu-no-yaiba-mugen-ressha-hen-tv.jpg",
       "estado": "Finalizado",
-      "year": 2021
+      "year": 2021,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Ushio to tora",
@@ -593,7 +645,8 @@
       "link": "/ushio-to-tora",
       "image": "https://i.postimg.cc/657d1RzF/ushio-to-tora.jpg",
       "estado": "Finalizado",
-      "year": 2015
+      "year": 2015,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Shingeki no Bahamut Genesis",
@@ -604,7 +657,8 @@
       "link": "/shingeki-no-bahamut-genesis",
       "image": "https://i.postimg.cc/gjx6QFy3/shingeki-no-bahamut-genesis.jpg",
       "estado": "Finalizado",
-      "year": 2014
+      "year": 2014,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Ao no Exorcist",
@@ -615,7 +669,8 @@
       "link": "/ao-no-exorcist",
       "image": "https://i.postimg.cc/2jgwY2qC/ao-no-exorcist.jpg",
       "estado": "Finalizado",
-      "year": 2011
+      "year": 2011,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
@@ -624,7 +679,8 @@
       "link": "/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note",
       "name": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
       "estado": "Finalizado",
-      "year": 2019
+      "year": 2019,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Majutsushi Orphen Hagure Tabi",
@@ -633,7 +689,8 @@
       "link": "/majutsushi-orphen-hagure-tabi",
       "name": "Majutsushi Orphen Hagure Tabi",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Castlevania 3",
@@ -642,7 +699,8 @@
       "link": "/castlevania-3",
       "name": "Castlevania 3",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Arifureta Shokugyou de Sekai Saikyou Segunda Temporada",
@@ -651,7 +709,8 @@
       "link": "/arifureta-shokugyou-de-sekai-saikyou-segunda-temporada",
       "name": "Arifureta Shokugyou de Sekai Saikyou Segunda Temporada",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
@@ -660,7 +719,8 @@
       "link": "/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
       "name": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
       "estado": "Finalizado",
-      "year": 2021
+      "year": 2021,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
@@ -669,7 +729,8 @@
       "link": "/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru",
       "name": "Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
       "estado": "Finalizado",
-      "year": 2019
+      "year": 2019,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Sword Art Online",
@@ -678,7 +739,8 @@
       "link": "/sword-art-online",
       "name": "Sword Art Online",
       "estado": "Finalizado",
-      "year": 2012
+      "year": 2012,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Shachou, Battle no Jikan desu!",
@@ -687,7 +749,8 @@
       "link": "/shachou-battle-no-jikan-desu",
       "name": "Shachou, Battle no Jikan desu!",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Drifters",
@@ -696,7 +759,8 @@
       "link": "/drifters",
       "name": "Drifters",
       "estado": "Finalizado",
-      "year": 2016
+      "year": 2016,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Saint Seiya: The Lost Canvas",
@@ -705,7 +769,8 @@
       "link": "/saint-seiya-the-lost-canvas",
       "name": "Saint Seiya: The Lost Canvas",
       "estado": "Finalizado",
-      "year": 2009
+      "year": 2009,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Kekkai Sensen & Beyond",
@@ -714,7 +779,8 @@
       "link": "/kekkai-sensen-and-beyond",
       "name": "Kekkai Sensen & Beyond",
       "estado": "Finalizado",
-      "year": 2017
+      "year": 2017,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Mahoutsukai Reimeiki",
@@ -723,7 +789,8 @@
       "link": "/mahoutsukai-reimeiki",
       "name": "Mahoutsukai Reimeiki",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
@@ -732,7 +799,8 @@
       "link": "/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu",
       "name": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Totsukuni no Shoujo",
@@ -741,7 +809,8 @@
       "link": "/totsukuni-no-shoujo",
       "name": "Totsukuni no Shoujo",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Kunoichi Tsubaki no Mune no Uchi",
@@ -750,7 +819,8 @@
       "link": "/kunoichi-tsubaki-no-mune-no-uchi",
       "name": "Kunoichi Tsubaki no Mune no Uchi",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
@@ -759,7 +829,8 @@
       "link": "/shijou-saikyou-no-daimaou-murabito-a-ni-tensei-suru",
       "name": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Yuusha, Yamemasu",
@@ -768,7 +839,8 @@
       "link": "/yuusha-yamemasu",
       "name": "Yuusha, Yamemasu",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "ESTAB LIFE: Great Escape",
@@ -777,7 +849,8 @@
       "link": "/estab-life-great-escape",
       "name": "ESTAB LIFE: Great Escape",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Vanitas no Carte 2nd Cour",
@@ -786,7 +859,8 @@
       "link": "/vanitas-no-carte-2nd-cour",
       "name": "Vanitas no Carte 2nd Cour",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Ryman's Club",
@@ -795,7 +869,8 @@
       "link": "/rymans-club",
       "name": "Ryman's Club",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
@@ -804,7 +879,8 @@
       "link": "/tensai-ouji-no-akaji-kokka-saisei-jutsu",
       "name": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Sabiiro no Armor -Reimei",
@@ -813,7 +889,8 @@
       "link": "/sabiiro-no-armor-reimei",
       "name": "Sabiiro no Armor -Reimei",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Orient",
@@ -822,7 +899,8 @@
       "link": "/orient",
       "name": "Orient",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2",
@@ -831,7 +909,8 @@
       "link": "/genjitsu-shugi-yuusha-no-oukoku-saikenki-part-2",
       "name": "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Tokyo 24-ku",
@@ -840,7 +919,8 @@
       "link": "/tokyo-24-ku",
       "name": "Tokyo 24-ku",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "CUE!",
@@ -849,7 +929,8 @@
       "link": "/cue",
       "name": "CUE!",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Kaijin Kaihatsu-bu no Kuroitsu-san",
@@ -858,7 +939,8 @@
       "link": "/kaijin-kaihatsu-bu-no-kuroitsu-san",
       "name": "Kaijin Kaihatsu-bu no Kuroitsu-san",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Koi wa Sekai Seifuku no Ato de",
@@ -867,7 +949,8 @@
       "link": "/koi-wa-sekai-seifuku-no-ato-de",
       "name": "Koi wa Sekai Seifuku no Ato de",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Megalo Box",
@@ -876,7 +959,8 @@
       "link": "/megalo-box",
       "name": "Megalo Box",
       "estado": "Finalizado",
-      "year": 2018
+      "year": 2018,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Killing Bites",
@@ -885,7 +969,8 @@
       "link": "/killing-bites",
       "name": "Killing Bites",
       "estado": "Finalizado",
-      "year": 2018
+      "year": 2018,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Accel World",
@@ -894,7 +979,8 @@
       "link": "/accel-world",
       "name": "Accel World",
       "estado": "Finalizado",
-      "year": 2012
+      "year": 2012,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Utawarerumono",
@@ -903,7 +989,8 @@
       "link": "/utawarerumono",
       "name": "Utawarerumono",
       "estado": "Finalizado",
-      "year": 20
+      "year": 2006,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Eden",
@@ -912,7 +999,8 @@
       "link": "/eden",
       "name": "Eden",
       "estado": "Finalizado",
-      "year": 2021
+      "year": 2021,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Altered Carbon: Resleeved",
@@ -921,7 +1009,8 @@
       "link": "/altered-carbon-resleeved",
       "name": "Altered Carbon: Resleeved",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Re:Zero kara Hajimeru Isekai Seikatsu Segunda Temporada Parte 2",
@@ -930,7 +1019,8 @@
       "link": "/re-zero-kara-hajimeru-isekai-seikatsu-segunda-temporada-parte-2",
       "name": "Re:Zero kara Hajimeru Isekai Seikatsu Segunda Temporada Parte 2",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Kumo desu ga, Nani ka",
@@ -939,7 +1029,8 @@
       "link": "/kumo-desu-ga-nani-ka",
       "name": "Kumo desu ga, Nani ka?",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Shingeki no Kyojin: Temporada Final",
@@ -948,7 +1039,8 @@
       "link": "/shingeki-no-kyojin-the-final-season",
       "name": "Shingeki no Kyojin: Temporada Final",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
@@ -957,7 +1049,8 @@
       "link": "/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
       "name": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Hanyo no Yashahime",
@@ -966,7 +1059,8 @@
       "link": "/hanyo-no-yashahime",
       "name": "Hanyo no Yashahime",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Majo no Tabitabi",
@@ -975,7 +1069,8 @@
       "link": "/majo-no-tabitabi",
       "name": "Majo no Tabitabi",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Mob Psycho 100",
@@ -984,7 +1079,8 @@
       "link": "/mob-psycho-100",
       "name": "Mob Psycho 100",
       "estado": "Finalizado",
-      "year": 2016
+      "year": 2016,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Mob Psycho 100 II",
@@ -993,7 +1089,8 @@
       "link": "/mob-psycho-100-ii",
       "name": "Mob Psycho 100 II",
       "estado": "Finalizado",
-      "year": 2019
+      "year": 2019,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
@@ -1002,7 +1099,8 @@
       "link": "/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu",
       "name": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
       "estado": "Finalizado",
-      "year": 2022
+      "year": 2022,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Senyoku no Sigrdrifa",
@@ -1011,7 +1109,8 @@
       "link": "/senyoku-no-sigrdrifa",
       "name": "Senyoku no Sigrdrifa",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "King's Raid: Ishi wo Tsugumono-tachi",
@@ -1020,7 +1119,8 @@
       "link": "/kings-raid-ishi-wo-tsugumono-tachi",
       "name": "King's Raid: Ishi wo Tsugumono-tachi",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Danmachi III",
@@ -1029,7 +1129,8 @@
       "link": "/danmachi-III",
       "name": "Danmachi III",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "DanMachi II",
@@ -1038,7 +1139,8 @@
       "link": "/danmachi-II",
       "name": "DanMachi II",
       "estado": "Finalizado",
-      "year": 2019
+      "year": 2019,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Sword Art Online: Alicization - War of Underworld Parte 2",
@@ -1047,7 +1149,8 @@
       "link": "/sword-art-online-alicization-war-of-underworld-part-2",
       "name": "Sword Art Online: Alicization - War of Underworld Parte 2",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Temporada Parte 1",
@@ -1056,7 +1159,8 @@
       "link": "/re-zero-kara-hajimeru-isekai-seikatsu-2nd-temporada-parte-1",
       "name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Temporada Parte 1",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Hachi-nan tte, Sore wa Nai deshou!",
@@ -1065,7 +1169,8 @@
       "link": "/hachi-nan-tte-sore-wa-nai-deshou",
       "name": "Hachi-nan tte, Sore wa Nai deshou!",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Monster Musume no Oisha-san",
@@ -1074,7 +1179,8 @@
       "link": "/monster-musume-no-oisha-san",
       "name": "Monster Musume no Oisha-san",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Shachou, Battle no Jikan desu!",
@@ -1083,7 +1189,8 @@
       "link": "/shachou-battle-no-jikan-desu",
       "name": "Shachou, Battle no Jikan desu!",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Bungo to Alchemist: Shinpan no Haguruma",
@@ -1092,7 +1199,8 @@
       "link": "/bungo-to-alchemist-shinpan-no-haguruma",
       "name": "Bungo to Alchemist: Shinpan no Haguruma",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Dorohedoro",
@@ -1101,7 +1209,8 @@
       "link": "/dorohedoro",
       "name": "Dorohedoro",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Ishuzoku Reviewers",
@@ -1110,7 +1219,8 @@
       "link": "/ishuzoku-reviewers",
       "name": "Ishuzoku Reviewers",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Somali to Mori no Kamisama",
@@ -1119,7 +1229,8 @@
       "link": "/somali-to-mori-no-kamisama",
       "name": "Somali to Mori no Kamisama",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Plunderer",
@@ -1128,7 +1239,8 @@
       "link": "/plunderer",
       "name": "Plunderer",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Maken-ki! Two",
@@ -1137,7 +1249,8 @@
       "link": "/maken-ki-two",
       "name": "Maken-ki! Two",
       "estado": "Finalizado",
-      "year": 2015
+      "year": 2015,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Hortensia Saga",
@@ -1146,7 +1259,8 @@
       "link": "/hortensia-saga",
       "name": "Hortensia Saga",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Shuumatsu no Valkyrie",
@@ -1155,7 +1269,8 @@
       "link": "/shuumatsu-no-valkyrie",
       "name": "Shuumatsu no Valkyrie",
       "estado": "Finalizado",
-      "year": 2021
+      "year": 2021,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "86 EIGHTY-SIX 2nd Cour",
@@ -1164,7 +1279,8 @@
       "link": "/86-eighty-six-2nd-cour",
       "name": "86 EIGHTY-SIX 2nd Cour",
       "estado": "Finalizado",
-      "year": 2021
+      "year": 2021,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Kimetsu no Yaiba: Yuukaku-hen",
@@ -1173,7 +1289,8 @@
       "link": "/kimetsu-no-yaiba-yuukaku-hen",
       "name": "Kimetsu no Yaiba: Yuukaku-hen",
       "estado": "Finalizado",
-      "year": 2021
+      "year": 2021,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "TESLA NOTE",
@@ -1182,7 +1299,8 @@
       "link": "/tesla-note",
       "name": "TESLA NOTE",
       "estado": "Finalizado",
-      "year": 2021
+      "year": 2021,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Toaru Majutsu no Index II",
@@ -1191,7 +1309,8 @@
       "link": "/toaru-majutsu-no-index-II",
       "name": "Toaru Majutsu no Index II",
       "estado": "Finalizado",
-      "year": 2010
+      "year": 2010,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Date a Live III",
@@ -1200,7 +1319,8 @@
       "link": "/date-a-live-III",
       "name": "Date a Live III",
       "estado": "Finalizado",
-      "year": 2019
+      "year": 2019,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Date a Live II",
@@ -1209,7 +1329,8 @@
       "link": "/date-a-live-II",
       "name": "Date a Live II",
       "estado": "Finalizado",
-      "year": 2014
+      "year": 2014,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Date A Live",
@@ -1218,7 +1339,8 @@
       "link": "/date-a-live",
       "name": "Date A Live",
       "estado": "Finalizado",
-      "year": 2013
+      "year": 2013,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Enn Enn no Shouboutai: Ni no Shou",
@@ -1227,7 +1349,8 @@
       "link": "/enn-enn-no-shouboutai-ni-no-shou",
       "name": "Enn Enn no Shouboutai: Ni no Shou",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Bungou Stray Dogs 3",
@@ -1236,7 +1359,8 @@
       "link": "/bungou-stray-dogs-3",
       "name": "Bungou Stray Dogs 3",
       "estado": "Finalizado",
-      "year": 2019
+      "year": 2019,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Bungou Stray Dogs 2",
@@ -1245,7 +1369,8 @@
       "link": "/bungou-stray-dogs-2",
       "name": "Bungou Stray Dogs 2",
       "estado": "Finalizado",
-      "year": 2016
+      "year": 2016,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Bungou Stray Dogs",
@@ -1254,7 +1379,8 @@
       "link": "/bungou-stray-dogs",
       "name": "Bungou Stray Dogs",
       "estado": "Finalizado",
-      "year": 2016
+      "year": 2016,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Kiseijuu: Sei no Kakuritsu (Parasyte)",
@@ -1263,7 +1389,8 @@
       "link": "/kiseijuu-sei-no-kakuritsu-parasyte",
       "name": "Kiseijuu: Sei no Kakuritsu (Parasyte)",
       "estado": "Finalizado",
-      "year": 2014
+      "year": 2014,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Blood-C",
@@ -1272,7 +1399,8 @@
       "link": "/blood-c",
       "name": "Blood-C",
       "estado": "Finalizado",
-      "year": 2011
+      "year": 2011,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Dororo",
@@ -1281,7 +1409,8 @@
       "link": "/dororo",
       "name": "Dororo",
       "estado": "Finalizado",
-      "year": 2019
+      "year": 2019,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "World Trigger",
@@ -1290,7 +1419,8 @@
       "link": "/world-trigger",
       "name": "World Trigger",
       "estado": "Finalizado",
-      "year": 2014
+      "year": 2014,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Gleipnir",
@@ -1299,7 +1429,8 @@
       "link": "/gleipnir",
       "name": "Gleipnir",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Noragami Aragoto",
@@ -1308,7 +1439,8 @@
       "link": "/noragami-aragoto",
       "name": "Noragami Aragoto",
       "estado": "Finalizado",
-      "year": 2015
+      "year": 2015,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Noragami",
@@ -1317,7 +1449,8 @@
       "link": "/noragami",
       "name": "Noragami",
       "estado": "Finalizado",
-      "year": 2014
+      "year": 2014,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "SPY x FAMILY 2nd Temporada",
@@ -1326,7 +1459,8 @@
       "link": "/spy-x-family-2nd-temporada",
       "name": "SPY x FAMILY 2nd Temporada",
       "year": 2022,
-      "estado": "Finalizado"
+      "estado": "Finalizado",
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Tokyo Ghoul: re 2",
@@ -1335,7 +1469,8 @@
       "link": "/tokyo-ghoul-re-2",
       "name": "Tokyo Ghoul: re 2",
       "estado": "Finalizado",
-      "year": 2018
+      "year": 2018,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Tokyo Ghoul: re",
@@ -1344,7 +1479,8 @@
       "link": "/tokyo-ghoul-re",
       "name": "Tokyo Ghoul: re",
       "estado": "Finalizado",
-      "year": 2018
+      "year": 2018,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Darling in the Franxx",
@@ -1353,7 +1489,8 @@
       "link": "/darling-in-the-franxx",
       "name": "Darling in the Franxx",
       "estado": "Finalizado",
-      "year": 2018
+      "year": 2018,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Goblin Slayer",
@@ -1362,7 +1499,8 @@
       "link": "/goblin-slayer",
       "name": "Goblin Slayer",
       "estado": "Finalizado",
-      "year": 2018
+      "year": 2018,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Knight's & Magic",
@@ -1370,7 +1508,8 @@
       "image": "https://i.postimg.cc/GhDgB96w/knights-and-magic.jpg",
       "link": "/knights-and-magic",
       "name": "Knight's & Magic",
-      "year": 2017
+      "year": 2017,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Tokyo Ghoul √A",
@@ -1379,7 +1518,8 @@
       "link": "/tokyo-ghoul-radic-a",
       "name": "Tokyo Ghoul √A",
       "estado": "Finalizado",
-      "year": 2015
+      "year": 2015,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Tokyo Ghoul",
@@ -1388,7 +1528,8 @@
       "link": "/tokyo-ghoul",
       "name": "Tokyo Ghoul",
       "estado": "Finalizado",
-      "year": 2014
+      "year": 2014,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "ID:INVADED",
@@ -1397,7 +1538,8 @@
       "link": "/id-invaded",
       "name": "ID:INVADED",
       "estado": "Finalizado",
-      "year": 2020
+      "year": 2020,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Levius",
@@ -1406,7 +1548,8 @@
       "link": "/levius",
       "name": "Levius",
       "estado": "Finalizado",
-      "year": 2019
+      "year": 2019,
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Chainsaw Man",
@@ -1415,7 +1558,8 @@
       "link": "/chainsaw-man",
       "name": "Chainsaw Man",
       "year": 2022,
-      "estado": "Finalizado"
+      "estado": "Finalizado",
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Peter Grill to Kenja no Jikan Super Extra",
