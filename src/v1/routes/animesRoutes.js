@@ -49,11 +49,6 @@ const router = express.Router();
  *                       type: string
  *                       example: "Some error message"
  */
-router
-  .get("/", animesController.getAllAnimes)
-  .get("/:workoutId", workoutController.getOneWorkout)
-  .post("/", workoutController.createNewWorkout)
-  .patch("/:workoutId", workoutController.updateOneWorkout)
-  .delete("/:workoutId", workoutController.deleteOneWorkout);
+router.get("/", animesController.getAllAnimes);
 
 module.exports = router;
