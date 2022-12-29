@@ -9,7 +9,14 @@ const getAllWorkouts = (filterParams) => {
     throw error;
   }
 };
-
+const getAllAnimes = (filterParams) => {
+  try {
+    const allWorkouts = Workout.getAllWorkouts(filterParams);
+    return allWorkouts;
+  } catch (error) {
+    throw error;
+  }
+};
 const getOneWorkout = (workoutId) => {
   try {
     const workout = Workout.getOneWorkout(workoutId);
@@ -53,6 +60,7 @@ const deleteOneWorkout = (workoutId) => {
 
 module.exports = {
   getAllWorkouts,
+  getAllAnimes,
   getOneWorkout,
   createNewWorkout,
   updateOneWorkout,
