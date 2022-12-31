@@ -1740,8 +1740,8 @@
       "link": "/mob-psycho-100-III",
       "name": "Mob Psycho 100 III",
       "year": 2022,
-      "estado": "En Emision",
-      "classEstado": "tag is-success airing"
+      "estado": "Finalizado",
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Danmachi IV",
