@@ -1734,16 +1734,6 @@
       "classEstado": "tag is-success airing"
     },
     {
-      "id": "Mob Psycho 100 III",
-      "mode": "TV",
-      "image": "https://i.postimg.cc/zX4rwSHv/mob-psycho-100-iii.jpg",
-      "link": "/mob-psycho-100-III",
-      "name": "Mob Psycho 100 III",
-      "year": 2022,
-      "estado": "Finalizado",
-      "classEstado": "tag is-success end"
-    },
-    {
       "id": "Danmachi IV",
       "mode": "TV",
       "image": "https://i.postimg.cc/vB2jYbWT/danmachi-iv.jpg",
