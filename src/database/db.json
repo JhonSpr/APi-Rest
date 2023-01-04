@@ -1710,6 +1710,16 @@
       "year": 2022,
       "estado": "Finalizado",
       "classEstado": "tag is-success end"
+    },
+    {
+      "id": "Bungou Stray Dogs 4ta Temporada",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/8PvHxKnk/Stray-dogs.jpg",
+      "link": "/bungou-stray-dogs-4ta-temporada",
+      "name": "Bungou Stray Dogs 4ta Temporada",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
     }
   ],
   "emisiones": [
@@ -1809,6 +1819,16 @@
       "image": "https://i.postimg.cc/nLzg6XDg/berserk-ougon-jidai-hen-memorial-edition.jpg",
       "link": "/berserk-ougon-jidai-hen-memorial-edition",
       "name": "Berserk: Ougon Jidai-hen - MEMORIAL EDITION",
+      "year": 2022,
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing"
+    },
+    {
+      "id": "Bungou Stray Dogs 4ta Temporada",
+      "mode": "TV",
+      "image": "https://i.postimg.cc/8PvHxKnk/Stray-dogs.jpg",
+      "link": "/bungou-stray-dogs-4ta-temporada",
+      "name": "Bungou Stray Dogs 4ta Temporada",
       "year": 2022,
       "estado": "En Emision",
       "classEstado": "tag is-success airing"
