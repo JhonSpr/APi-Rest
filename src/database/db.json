@@ -3409,12 +3409,12 @@
     },
     {
       "id": "162",
-      "mode": "TV",
+      "tipo": "TV",
       "image": "https://i.postimg.cc/mrM19VRw/hoshinosamidare-KV-1.jpg",
       "link": "/hoshi-no-samidare",
       "name": "Hoshi no samidare",
       "year": 2022,
-      "estado": "Finalizado",
+      "mode": "Finalizado",
       "classEstado": "tag is-success end"
     },
     {
