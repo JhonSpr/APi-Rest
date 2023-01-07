@@ -2,7 +2,8 @@
   "workouts": [
     {
       "id": "Akudama Drive",
-      "name": "Akudama Drive",
+      "name": "Akudama-Drive",
+      "anime": "akudama drive",
       "mode": "TV",
       "createdAt": "4/20/2022, 2:21:56 PM",
       "updatedAt": "4/20/2022, 2:21:56 PM",
