@@ -16,7 +16,8 @@
       "episodios": 12,
       "sec1": "disable",
       "sec2": "disable",
-      "sec3": "disable"
+      "sec3": "disable",
+      "numeroEpisodios": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     },
     {
       "id": "Hanyo no Yashahime ni no Shou",
