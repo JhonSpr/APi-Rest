@@ -5,13 +5,18 @@
       "name": "akudama-drive",
       "anime": "akudama drive",
       "mode": "TV",
+      "descripcion": "Hace muchos años, una Gran Guerra Civil devastó Japón, dejando al país fragmentado en dos regiones: Kansai y Kanto. En Kansai, un grupo de seis Akudama llevan a cabo las misiones que les encomienda un misterioso gato negro, mientras evaden a la policía. Pero un viaje peligroso está a punto de desarrollarse cuando una niña civil se retuerce en el estilo de vida de los Akudama y es testigo de sus impulsos criminales.",
       "createdAt": "4/20/2022, 2:21:56 PM",
       "updatedAt": "4/20/2022, 2:21:56 PM",
       "link": "/akudama-drive",
       "image": "https://i.postimg.cc/Dz96B0dq/akudama-drive.jpg",
       "estado": "Finalizado",
       "year": 2020,
-      "classEstado": "tag is-success end"
+      "classEstado": "tag is-success end",
+      "episodios": 12,
+      "sec1": "disable",
+      "sec2": "disable",
+      "sec3": "disable"
     },
     {
       "id": "Hanyo no Yashahime ni no Shou",
