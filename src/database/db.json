@@ -27,7 +27,7 @@
       "cap10": 10,
       "cap11": 11,
       "cap12": 12,
-      "a": "fa-duotone fa-circle-play d-inline-flex align-items-center",
+      "a": "fa-solid fa-play d-inline-flex align-items-center",
       "a2": "fa-duotone fa-circle-play d-inline-flex align-items-center",
       "a3": "fa-duotone fa-circle-play d-inline-flex align-items-center",
       "a4": "fa-duotone fa-circle-play d-inline-flex align-items-center",
