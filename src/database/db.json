@@ -2,7 +2,7 @@
   "workouts": [
     {
       "id": "Akudama Drive",
-      "name": "akudama-drive",
+      "name": "akudama drive",
       "anime": "akudama drive",
       "mode": "TV",
       "descripcion": "Hace muchos años, una Gran Guerra Civil devastó Japón, dejando al país fragmentado en dos regiones: Kansai y Kanto. En Kansai, un grupo de seis Akudama llevan a cabo las misiones que les encomienda un misterioso gato negro, mientras evaden a la policía. Pero un viaje peligroso está a punto de desarrollarse cuando una niña civil se retuerce en el estilo de vida de los Akudama y es testigo de sus impulsos criminales.",
@@ -17,7 +17,7 @@
     },
     {
       "id": "Hanyo no Yashahime ni no Shou",
-      "name": "hanyo-no-yashahime-ni-no-shou",
+      "name": "hanyo no yashahime ni no shou",
       "anime": "Hanyo no Yashahime ni no Shou",
       "mode": "TV",
       "descripcion": "¡Las hijas de Sesshomaru e Inuyasha se lanzan en una aventura que trasciende en el tiempo! En el Japón Feudal, las gemelas mitad demonio Towa y Setsuna son separadas durante un incendio forestal. Mientras busca desesperadamente a su hermana menor, Towa se encuentra un misterioso túnel que la transporta al Japón moderno, en donde es encontrada y puesta al cuidado del hermano de Kagome Higurashi, Sota y su familia. Diez años después, el túnel que conecta las dos eras es abierto de nuevo, permitiendo a Towa volver a reunirse con Setsuna, quien ahora se ha convertido en una Asesina de Youkais en conjunto con Kohaku. Pero lo peor es que Setsuna parece haber perdido sus recuerdos y ya no reconoce a Towa. Ahora uniéndose con Moroha, la hija de Inuyasha, y con Kagome, las tres viajarán entre dos eras en una aventura por recuperar un pasado olvidado.",
@@ -33,7 +33,7 @@
     },
     {
       "id": "Heion Sedai no Idaten Tachi",
-      "name": "heion-sedai-no-idaten-tachi",
+      "name": "heion sedai no idaten tachi",
       "anime": "Heion Sedai no Idaten Tachi",
       "mode": "TV",
       "descripcion": "En la historia de este manga, los dioses aparecieron cuando la humanidad estaba al borde de la aniquilación por parte de los demonios. Deidades llamadas “Idaten” pelearon y sellaron a los demonios hace 800 años. Ahora, los “Idaten” ya no tiene experiencia en peleas y viven vidas pacíficas. Pero, al mismo tiempo, los demonios están reviviendo, y la batalla entre humanos, dioses y demonios está a punto de comenzar. ¿Cuál será el bando que se alce con la victoria en esta ocasión con las condiciones tan cambiadas?",
@@ -46,7 +46,7 @@
     },
     {
       "id": "Peach Boy Riverside",
-      "name": "peach-boy-riverside",
+      "name": "peach boy riverside",
       "anime": "Peach Boy Riverside",
       "mode": "TV",
       "link": "/peach-boy-riverside",
@@ -76,7 +76,7 @@
     },
     {
       "id": "Shingeki no Bahamut:Virgin Soul",
-      "name": "shingeki-no-bahamut:virgin-soul",
+      "name": "shingeki no bahamut virgin soul",
       "anime": "Shingeki no Bahamut:Virgin Soul",
       "mode": "TV",
       "descripcion": "Segunda Temporada de Shingeki no Bahamut: Genesis",
@@ -94,7 +94,7 @@
     },
     {
       "id": "Castlevania",
-      "name": "castlevania-2",
+      "name": "castlevania 2",
       "anime": "Castlevania 2",
       "mode": "TV",
       "descripcion": "Segunda temporada de Castlevania.",
@@ -103,7 +103,6 @@
       "li10": "disable",
       "li11": "disable",
       "li12": "disable",
-
       "textoSecuela": "Precuela",
       "textoSecuela2": "Secuela",
       "linksec1": "/anime/castlevania",
@@ -119,7 +118,7 @@
     },
     {
       "id": "Overlord III",
-      "name": "overlord-iii",
+      "name": "overlord iii",
       "anime": "Overlord III",
       "mode": "TV",
       "link": "/overlord-III",
@@ -139,7 +138,7 @@
     },
     {
       "id": "Ao no Exorcist Kyoto Fujouou Hen",
-      "name": "ao-no-exorcist-kyoto-fujouou-hen",
+      "name": "ao no exorcist kyoto fujouou hen",
       "anime": "Ao no Exorcist Kyoto Fujouou Hen",
       "mode": "TV",
       "descripcion": "A finales de la era Edo, un demonio conocido como el Rey Impuro mató a miles de personas. Tras vencer al demonio, los Caballeros de la Verdadera Cruz mantuvieron su ojo izquierdo sellado a salvo en la Academia, pero ahora ha sido robado. Al escuchar que el ladrón ha tomado por rehén a un niño, Yukio y Rin parten a ayudar. La investigación y la persecución llevará a Rin y a sus amigos hasta Kyoto, donde se verán involucrados en una oscura trama.",
@@ -158,7 +157,7 @@
     },
     {
       "id": "Fairy Gone",
-      "name": "fairy-gone",
+      "name": "fairy gone",
       "anime": "Fairy Gone",
       "mode": "TV",
       "descripcion": "La historia nos trasladará a un mundo en el que las hadas poseen y residen en animales, proporcionándoles poderes especiales. Extrayendo quirúrgicamente los órganos a uno de estos animales e implantándoselos a un humano, los humanos pueden invocar parcialmente a las hadas y usarlas como armas. Estos humanos participarán en las guerras y serán conocidos como 'Soldados Hada'. Tras el fin de una larga guerra, estos Soldados Hada pierden su propósito y deben reintegrarse en la sociedad, aunque no todos tomarán el camino de la justicia. Nueve años después del fin de la guerra conocemos a Marlya, una nueva recluta en Dorothea, una organización dedicada a investigar y contrarrestar crímenes relacionados con hadas. Aun en tiempo de paz, la inestabilidad de la guerra todavía afecta al gobierno. Muchos criminales cargan con heridas de la guerra y los grupos terroristas buscan venganza por los actos de entonces. Una historia de soldados hada persiguiendo su propia justicia en un mundo caótico que intenta dejar atrás un conflicto.",
@@ -175,7 +174,7 @@
     },
     {
       "id": "Dr Stone Ryusui",
-      "name": "dr.stone-ryusui",
+      "name": "dr stone ryusui",
       "anime": "Dr.Stone Ryusui",
       "mode": "TV",
       "descripcion": "Episodio que sirve como puente entre la segunda y tercera temporada de Dr. Stone.",
@@ -203,7 +202,7 @@
     },
     {
       "id": "Isekai Yakkyoku",
-      "name": "isekai-yakkyoku",
+      "name": "isekai yakkyoku",
       "anime": "Isekai Yakkyoku",
       "mode": "TV",
       "descripcion": "Yakutani es un prestigioso farmacéutico que realiza sus investigaciones en la universidad. Un día, tras una noche de intenso trabajo, se despierta en otro mundo en el que pertenece a una familia de farmacéuticos reales que practican artes divinas.",
@@ -218,7 +217,7 @@
     },
     {
       "id": "Fairy Gone 2nd Temporada",
-      "name": "fairy-gone-2nd-temporada",
+      "name": "fairy gone 2nd temporada",
       "anime": "Fairy Gone 2nd Temporada",
       "mode": "TV",
       "descripcion": "Segunda temporada de Fairy Gone.",
@@ -235,7 +234,7 @@
     },
     {
       "id": "Isekai Meikyuu de Harem wo",
-      "name": "isekai-meikyuu-de-harem-wo",
+      "name": "isekai meikyuu de harem wo",
       "anime": "Isekai Meikyuu de Harem wo",
       "mode": "TV",
       "link": "/isekai-meikyuu-de-harem-wo",
@@ -252,7 +251,7 @@
     },
     {
       "id": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Temporada ",
-      "name": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-temporada",
+      "name": "youkoso jitsuryoku shijou shugi no kyoushitsu e 2nd temporada",
       "anime": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Temporada ",
       "mode": "TV",
       "descripcion": "Segunda temporada de Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e.",
@@ -270,7 +269,7 @@
     },
     {
       "id": "Spy x Family",
-      "name": "spy-x-family",
+      "name": "spy x family",
       "anime": "Spy x Family",
       "mode": "TV",
       "descripcion": "Todo el mundo tiene una parte de sí mismos que no puede mostrar a los demás. En una era en la que las naciones de todo el mundo se encuentran involucradas en una feroz guerra de información a puerta cerrada, Ostania y Westalis llevan décadas en guerra fría. La División de Inteligencia de Westalis (WISE) envía a su mejor espía, 'Twilight', en una misión ultrasecreta para vigilar los movimientos de Donovan Desmond, quien dirige el Partido Nacional por la Unidad de Ostania, responsable de bombardear los esfuerzos de paz entre ambos países. La misión tiene por nombre 'Operación Strix'. La idea es 'crear una familia en una semana para infiltrarse en las reuniones sociales organizadas por la escuela de élite a la que asiste el hijo de Desmond'. Twilight adopta la identidad del psiquiatra Loid Forger y comienza a buscar miembros para su familia, pero Anya, la hija que adopta, resulta tener la capacidad para leer las mentes a los demás, mientras que su esposa, Yor, es una asesina. Todos mantendrán estos en secreto, pero comenzarán una vida juntos en la que deberán ocultarse sus identidades unos a otros. La paz del mundo está ahora en manos de esta nueva familia mientras se embarcan en una aventura repleta de sorpresas.",
@@ -288,7 +287,7 @@
     },
     {
       "id": "Date a Live IV",
-      "name": "date-a-live-iv",
+      "name": "date a live iv",
       "anime": "Date a Live IV",
       "mode": "TV",
       "descripcion": "Cuarta temporada de Date A Live",
@@ -306,7 +305,7 @@
     },
     {
       "id": "Tate no Yuusha no Naraigari 2nd Temporada",
-      "name": "tate-no-yuusha-no-naraigari-2nd-temporada",
+      "name": "tate no yuusha no naraigari 2nd temporada",
       "anime": "Tate no Yuusha no Naraigari 2nd Temporada",
       "mode": "TV",
       "descripcion": "Segunda temporada de Tate no Yuusha no Nariagari",
@@ -324,7 +323,7 @@
     },
     {
       "id": "Tomodachi Game",
-      "name": "tomodachi-game",
+      "name": "tomodachi game",
       "anime": "Tomodachi Game",
       "mode": "TV",
       "descripcion": "Katagiri Yuuichi cree que los amigos son más importantes que el dinero, pero también conoce las dificultades de no tener suficientes fondos. Se esfuerza por ahorrar para poder ir al viaje del instituto, porque ha prometido a sus cuatro mejores amigos que irán todos juntos. Sin embargo, después de reunir todo el dinero de la clase, ¡se lo roban! Las sospechas recaen sobre dos amigos de Yuuichi, Sawaragi Shiho y Shibe Makoto. Poco después, los cinco son secuestrados y se despiertan en una extraña habitación con un personaje de un anime antiguo. Al parecer, uno de ellos los ha introducido en un “juego de amistad” para hacerse cargo de su enorme deuda. Pero, ¿quién era y por qué tenían semejante deuda? ¿Podrían haber robado el dinero de la clase para pagar la entrada en el juego? Yuuichi y sus mejores amigos tendrán que triunfar en juegos psicológicos que pondrán a prueba o destruirán su fe en los demás.",
@@ -340,7 +339,7 @@
     },
     {
       "id": "Baraou no Souretsu",
-      "name": "baraou-no-souretsu",
+      "name": "baraou no souretsu",
       "anime": "Baraou no Souretsu",
       "mode": "TV",
       "descripcion": "La corona de Inglaterra ha sido muy disputada a lo largo de la historia, y en la Edad Media, una serie de grandes guerras civiles se conoce como la “Guerra de las Rosas”. Reclamando el derecho al trono, el duque de York busca derrotar al rey Enrique VI y a su heredero para convertirse él mismo en rey. En un día oscuro lleno de malos augurios, el duque gana un hijo: Richard Plantagenet, el tercero de su nombre. Ni hombre ni mujer, puesto que tiene ambos sexos. Richard III es inmediatamente rechazado por su propia madre, por lo que el odio se convierte en el pan de cada día en su infancia, lo que le lleva a odiar su propio cuerpo y a ser llamado un “demonio” por los demás. Richard crece preocupado debido a que tiene visiones de la antigua enemiga de Inglaterra, Juana de Arco, quien se burla diciéndole que traerá la ruina a todos aquellos que alguna vez conozca. Desde entonces, Richard cree que puede conseguir evitar su destino si ayuda a su padre a convertirse en rey. Sin embargo, maldecido por las bajísimas expectativas por parte de su madre y de Juana, ¿las acciones de Richard terminarán por hundir a su familia?",
@@ -355,7 +354,7 @@
     },
     {
       "id": "Karakuri Circus",
-      "name": "karakuri-circus",
+      "name": "karakuri circus",
       "anime": "Karakuri Circus",
       "mode": "TV",
       "link": "/karakuri-circus",
@@ -371,7 +370,7 @@
     },
     {
       "id": "Extreme Hearts",
-      "name": "extreme-hearts",
+      "name": "extreme hearts",
       "anime": "Extreme Hearts",
       "mode": "TV",
       "descripcion": "Hiyori se mudó a Tokio para debutar como cantante, pero no ha conseguido el éxito que esperaba. Un día, su productora le sugiere que pruebe suerte en los hiperdeportes, donde también participan idols.",
@@ -386,7 +385,7 @@
     },
     {
       "id": "Gensou Sangokushi Tenge Reishink",
-      "name": "gensou-sangokushi-tenge-reishink",
+      "name": "gensou sangokushi tenge reishink",
       "anime": "Gensou Sangokushi Tenge Reishink",
       "mode": "TV",
       "descripcion": "La historia se sitúa en la antigua China durante la era de los Tres Reinos, cuando varios poderosos señores de la guerra comenzaron a maniobrar para conquistar los reinos conocidos. Después de que fuera aniquilada en circunstancias imprevistas, la 6ª Unidad se ha vuelto a reunir con miembros de pasados diversos y problemáticos: el líder y practicante del sello Ōki, el purificador de espíritus Shunkyō, Teiken y el cazador de demonios Shōrei.",
@@ -420,7 +419,7 @@
     },
     {
       "id": "Tribe nine",
-      "name": "tribe-nine",
+      "name": "tribe nine",
       "anime": "Tribe nine",
       "mode": "TV",
       "descripcion": "Haru Shirogane es una persona de mente débil que es constantemente intimidada, mientras que Taiga ha viajado desde el otro lado del mar con la esperanza de convertirse en el hombre más fuerte del mundo. Una noche, los dos se encuentran con Shun Kamiya, el jugador más fuerte de XB (Extreme Baseball), y líder de la Tribu Minato. Cuando se encuentran, cada una de las tribus dispersas por Neo-Tokio está a punto de enfrentarse a una gran amenaza. Bajo las órdenes del Rey de Neo-Tokio, “Houtenshin”, el Chiyoda Try, dirigido por el misterioso Ojiro Otori, ha comenzado a tomar el control de todas las tribus del país. Sus malvadas garras están a punto de llegar a la Tribu Minato…",
@@ -450,7 +449,7 @@
     },
     {
       "id": "Sabikui Bisco",
-      "name": "sabikui-bisco",
+      "name": "sabikui bisco",
       "anime": "Sabikui Bisco",
       "mode": "TV",
       "descripcion": "El 'Viento Oxidizador' que lo oxida todo ha reducido a Japón a un páramo. Las personas viven temerosas del viento que corroe las ciudades y la vida en general. Un joven llamado Bisco Akaboshi de la tribu de los Hongos Guardianes se embarca en un viaje para conseguir el 'hongo que come óxido', un polvo milagroso que pufirica todo el óxido y así poder salvar a su maestro. Durante su viaje Bisco conoce a Milo Nekoyanagi, un joven y guapo doctor de Imihama, quien lo acompañará para buscar una cura contra el óxido que corroe a su hermana menor.",
@@ -465,7 +464,7 @@
     },
     {
       "id": "Sasaki to Miyano",
-      "name": "sasaki-to-miyano",
+      "name": "sasaki to miyano",
       "anime": "Sasaki to Miyano",
       "mode": "TV",
       "descripcion": "Yoshikazu Miyano es un manso estudiante de preparatoria al que le gusta leer mangas boys-love. Un día, se ve en la tesitura de detener una feroz pelea escolar, sin saber qué hacer. Antes de que todo vaya a peor, es interrumpido por el alumno de cursos superiores Shuumei Sasaki, que ocupa su lugar con valentía y salva a Miyano de su pena. Desde ese día, Miyano le admira en silencio. Sin embargo, tres meses después, Miyano se da cuenta de que Sasaki es más molesto que admirable. En la escuela, Miyano es recibido por él con juguetonas burlas, por no hablar de los frecuentes desprecios amistosos que recibe. Cuando Sasaki le pide recomendaciones de manga, Miyano le presta un manga boys-love que tiene. Sorprendentemente, Sasaki acaba disfrutando de su contenido y se engancha también al boys-love, marcando el inicio de una pasión compartida. ¿Podría convertirse en algo más?",
@@ -480,7 +479,7 @@
     },
     {
       "id": "Toaru Majutsu no Index",
-      "name": "toaru-majutsu-no-index-tv",
+      "name": "toaru majutsu no index tv",
       "anime": "Toaru Majutsu no Index",
       "mode": "TV",
       "descripcion": "La historia se ambienta en una ciudad de estudiantes superhumanos científicamente avanzados y en un mundo donde la magia es real. La mano derecha de Toma Kamijo, el ?Imagine Breaker? negará toda la magia, poderes divinos o mentales, pero no su propia suerte. Un día encuentra una chica joven colgando de su balcón que resulta ser una monja de la iglesia de Inglaterra en cuya mente ha sido implementado el índice ?Librorium-Prohibitorum?, es decir, todos los libros y textos sobre magia que la iglesia quitó de la circulación.",
@@ -502,7 +501,7 @@
     },
     {
       "id": "Dolls Frontline",
-      "name": "dolls-frontline",
+      "name": "dolls frontline",
       "anime": "Dolls Frontline",
       "mode": "TV",
       "descripcion": "La historia del juego se desarrolla en una línea de tiempo alternativa en el futuro cercano de la Tierra en la década de 2060. Las secuelas de un accidente militar que resultó en una pandemia generalizada, así como la reciente conclusión de una descuidada guerra nuclear, ha despoblado masivamente el planeta, ha hecho inhabitable gran parte de la superficie y reducido las naciones que alguna vez fueron grandes a sombras de lo que fueron. Los androides utilizados para el trabajo y el combate se han convertido en una faceta importante de la vida, y los androides fácilmente replicables y desechables conocidos como “Tactical Dolls (T-Dolls)” son utilizados por compañías militares privadas en la primera línea de numerosas guerras. En el juego, el jugador asume el papel de un nuevo comandante en la PMC, a cargo de un comando de T-Dolls para combatir a una nueva Inteligencia Artificial que amenaza la paz.",
@@ -516,7 +515,7 @@
     },
     {
       "id": "Saiyuki RELOAD -ZEROIN-",
-      "name": "saiyoki-reload-zeroin",
+      "name": "saiyoki reload zeroin",
       "anime": "Saiyoki Reload Zeroin",
       "mode": "TV",
       "descripcion": "Una vez, la tierra de Togenkyo era una tierra pacífica, donde los humanos y los yokai vivían juntos. Sin embargo, entonces aparecieron hombres que intentaron revivir a Gyumaoh, el Gran Yokai que fue asesinado por el dios de la guerra Nataku Taishi y enterrado en el castillo de Houtou hace 500 años, utilizando una combinación prohibida de química y magia. Las ondas de energía negativa que esto creó se extendieron por todo Togenkyo, provocando que los yokai enloquecieran y atacaran a la humanidad. Para salvar la tierra, Kanzeon Bosatsu ordena a Son Goku, Genjyo Sazno, Sha Gojyo y Cho Hakkai que vayan al oeste. Los cuatro emprenden un viaje para detener el experimento para revivir a Gyumaoh. En el camino, se encuentran con Hazel Grouse, que emplea una extraña magia que utiliza las almas de los yokai para revivir a los muertos, y su seguidor Gat. Ambos se unen al grupo. Y Ukoku Sanzo, un hombre con el que tienen una larga historia, se acerca en las sombras… Personajes inolvidables, intensos dramas personales y una acción impresionante en una historia sobre los vínculos entre cuatro hombres.",
@@ -534,7 +533,7 @@
     },
     {
       "id": "Violet Evergarden",
-      "name": "violet-evergarden",
+      "name": "violet evergarden",
       "anime": "Violet Evergarden",
       "mode": "TV",
       "descripcion": "La historia se centra alrededor de las llamadas 'Auto Memory Dolls'; muñecas inicialmente creadas por un científico para asistir a su esposa ciega a escribir sus novelas y, luego, rentarlas a personas que necesitan de sus servicios. Mientras que la función inicial de las Auto Memory Dolls es solo generar las voces a texto, un segundo grupo de personas creó una compañía que renta hermosas y talentosas mujeres quienes, teniendo las mismas funciones que una Auto Memory Doll original, también pueden realizar tareas relacionadas con la milicia o el ejército.",
@@ -549,7 +548,7 @@
     },
     {
       "id": "Shadows House Temporada 2",
-      "name": "shadows-house-2nd-temporada",
+      "name": "shadows house 2nd temporada",
       "anime": "Shadows House 2nd Temporada",
       "mode": "TV",
       "descripcion": "Segunda temporada de Shadows House",
@@ -566,7 +565,7 @@
     },
     {
       "id": "Orient 2nd Temporada",
-      "name": "orient-2nd-temporada",
+      "name": "orient 2nd temporada",
       "anime": "Orient 2nd Temporada",
       "mode": "TV",
       "descripcion": "¡La feroz batalla de la isla Awaji comienza ahora! Con la aparición del todopoderoso Kishin, la tierra de Hinomoto ahora está dominada por oni, en lugar de humanos. Musashi y Kanemaki Kojiro partieron de su ciudad natal jurando formar la banda Bushi más fuerte de todos los tiempos, y después de encontrarse con Hattori Tsugumi en su viaje, los tres encontraron el Kanemaki Bushi. Después de obtener las únicas armas que pueden matar oni, Kitetsu Blades, han dado el primer gran paso hacia su sueño. En Harima, el grupo de Musashi se encontrará con la enorme banda de Uesugui Bushi y su líder Uesugi Tatsuomi. Se han reunido para matar al gigante Kishin que amenaza con consumir la isla Awaji: Yamata no Orochi, el Artillery Wyrm. Junto a ellos están Takeda Naotora y Takeda Bushi, junto con varios Bushi de la misma edad que Musashi como Shimazu Akihiro y Amako Katsumi. También está la princesa tímida y ligeramente protegida, Saruwatari Michiru. Mientras diferentes agendas giran e interactúan, Musashi y sus amigos se unen a la caza de Kishin. Yamata no Orochi es un dios demonio imparable que nunca antes había sido arañado. Y así, comienza la batalla más feroz de todas...",
@@ -583,7 +582,7 @@
     },
     {
       "id": "Isekai Ojisan",
-      "name": "isekai-ojisan",
+      "name": "isekai ojisan",
       "anime": "Isekai Ojisan",
       "mode": "TV",
       "descripcion": "Otoño de 2017. El sobrino, Takafumi, acudió al hospital para visitar a su tío, quien acaba de despertar de un coma de diecisiete años. Sin embargo, parece que ha perdido la razón, pues asegura que estuvo en otro mundo llamado “Gran Bahamar” durante todo este tiempo, e incluso parece hablar un extraño lenguaje. Pero todo cambia cuando, su tío, un humano común, le muestra que aprendió a usar la magia en el otro mundo. Así, cuando Takafumi se da cuenta de que la magia que usa su tío es completamente real, le propone que use sus habilidades para convertirse en un YouTuber exitoso. Ahora cuidando de él, Takafumi y su tío comienzan a involucrarse en la vida del streaming, mientras su tío le cuenta de vez en cuando sobre su vida en el otro mundo.",
