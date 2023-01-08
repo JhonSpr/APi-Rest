@@ -27,7 +27,18 @@
       "cap10": 10,
       "cap11": 11,
       "cap12": 12,
-      "EpisodesNum": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+      "li1": "fa-duotone fa-circle-play d-inline-flex align-items-center 1",
+      "li2": "fa-duotone fa-circle-play d-inline-flex align-items-center 1",
+      "li3": "fa-duotone fa-circle-play d-inline-flex align-items-center 1",
+      "li4": "fa-duotone fa-circle-play d-inline-flex align-items-center 1",
+      "li5": "fa-duotone fa-circle-play d-inline-flex align-items-center 1",
+      "li6": "fa-duotone fa-circle-play d-inline-flex align-items-center 1",
+      "li7": "fa-duotone fa-circle-play d-inline-flex align-items-center 1",
+      "li8": "fa-duotone fa-circle-play d-inline-flex align-items-center 1",
+      "li9": "fa-duotone fa-circle-play d-inline-flex align-items-center 1",
+      "li10": "fa-duotone fa-circle-play d-inline-flex align-items-center 1",
+      "li11": "fa-duotone fa-circle-play d-inline-flex align-items-center 1",
+      "li12": "fa-duotone fa-circle-play d-inline-flex align-items-center 1"
     },
     {
       "id": "Hanyo no Yashahime ni no Shou",
