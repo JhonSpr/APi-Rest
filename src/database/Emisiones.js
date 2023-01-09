@@ -1,4 +1,4 @@
-const DB = require("./db.json");
+const DB = require("./emisiones.json");
 
 const getAllEmisiones = (filterParams) => {
   try {
