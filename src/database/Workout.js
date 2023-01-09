@@ -53,7 +53,7 @@ const getAllWorkouts = (filterParams) => {
       );
     }
     if (filterParams.year) {
-      return DB.workouts.filter((workout) => workout.year === Number);
+      return DB.workouts.filter((workout) => Number === workout.year);
     }
 
     return workouts;
