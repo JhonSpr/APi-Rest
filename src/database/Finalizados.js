@@ -1,4 +1,4 @@
-const DB = require("./db.json");
+const DB = require("./finalizados.json");
 
 const getAllFinalizados = (filterParams) => {
   try {
