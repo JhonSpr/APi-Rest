@@ -52,6 +52,11 @@ const getAllWorkouts = (filterParams) => {
         workout.name.toLowerCase().includes(filterParams.name)
       );
     }
+    if (filterParams.year) {
+      return DB.workouts.filter((workout) =>
+        workout.year.includes(filterParams.year)
+      );
+    }
 
     return workouts;
   } catch (error) {
