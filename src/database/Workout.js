@@ -53,7 +53,7 @@ const getAllWorkouts = (filterParams) => {
       );
     }
     if (filterParams.year) {
-      return DB.workouts.filter((workout) => workout.year === "2022");
+      return DB.workouts.filter((workout) => workout.year === 2018);
     }
 
     return workouts;
