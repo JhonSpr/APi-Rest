@@ -54,7 +54,7 @@ const getAllWorkouts = (filterParams) => {
     }
     if (filterParams.year) {
       return DB.workouts.filter((workout) =>
-        workout.year.includes(filterParams.year)
+        workout.year.includes(workout.year)
       );
     }
 
