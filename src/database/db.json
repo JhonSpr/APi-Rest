@@ -306,6 +306,25 @@
       "episodios": 12,
       "classEstado": "tag is-success end"
     },
+
+    {
+      "id": "Tate no Yuusha no Naraigari",
+      "name": "tate no yuusha no Naraigari",
+      "anime": "Tate no Yuusha no Naraigari",
+      "mode": "TV",
+      "descripcion": "Iwatani Naofumi es el típico otaku, al menos hasta que un día encuentra en la biblioteca un libro que lo transporta a otro mundo. Allí se convertirá en el Héroe del Escudo, uno de los Cuatro Héroes Cardinales, y tendrá que luchar contra las Olas de la Catástrofe junto a los héroes de la espada, la lanza y el arco. Emocionado ante la perspectiva de vivir una gran aventura, Naofumi parte de viaje con su grupo. No obstante, al cabo de unos pocos días lo traicionan y pierde su dinero, su dignidad y el respeto de los que le rodean.",
+      "sec2": "disable",
+      "sec3": "disable",
+      "textoSecuela": "Secuela",
+      "nombreSecuela": "Tate no Yuusha no Naraigari 2nd Temporada",
+      "linksec1": "/tate-no-yuusha-no-naraigari-2nd-temporada",
+      "image": "https://i.postimg.cc/rwJ92cXr/tate-no-yuusha-no-nariagari.jpg",
+      "estado": "Finalizado",
+      "year": 2019,
+      "episodios": 25,
+      "li26": "disable",
+      "classEstado": "tag is-success end"
+    },
     {
       "id": "Tate no Yuusha no Naraigari 2nd Temporada",
       "name": "tate no yuusha no naraigari 2nd temporada",
@@ -398,24 +417,6 @@
       "image": "https://i.postimg.cc/ry0g0vWB/gensou-sangokushi-tengen-reishinki.jpg",
       "estado": "Finalizado",
       "year": 2022,
-      "classEstado": "tag is-success end"
-    },
-    {
-      "id": "Tate no Yuusha no Naraigari",
-      "name": "tate no yuusha no Naraigari",
-      "anime": "Tate no Yuusha no Naraigari",
-      "mode": "TV",
-      "descripcion": "Iwatani Naofumi es el típico otaku, al menos hasta que un día encuentra en la biblioteca un libro que lo transporta a otro mundo. Allí se convertirá en el Héroe del Escudo, uno de los Cuatro Héroes Cardinales, y tendrá que luchar contra las Olas de la Catástrofe junto a los héroes de la espada, la lanza y el arco. Emocionado ante la perspectiva de vivir una gran aventura, Naofumi parte de viaje con su grupo. No obstante, al cabo de unos pocos días lo traicionan y pierde su dinero, su dignidad y el respeto de los que le rodean.",
-      "sec2": "disable",
-      "sec3": "disable",
-      "textoSecuela": "Secuela",
-      "nombreSecuela": "Tate no Yuusha no Naraigari 2nd Temporada",
-      "linksec1": "/tate-no-yuusha-no-naraigari-2nd-temporada",
-      "image": "https://i.postimg.cc/rwJ92cXr/tate-no-yuusha-no-nariagari.jpg",
-      "estado": "Finalizado",
-      "year": 2019,
-      "episodios": 25,
-      "li26": "disable",
       "classEstado": "tag is-success end"
     },
     {
