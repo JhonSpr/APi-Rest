@@ -60,7 +60,7 @@ const getAllWorkouts = (filterParams) => {
     } else {
       if (filterParams.estado) {
         return DB.workouts.filter(
-          (anime) => anime.estado === String(filterParams.estado)
+          (anime) => anime.estado === String.includes(filterParams.estado)
         );
       }
     }
