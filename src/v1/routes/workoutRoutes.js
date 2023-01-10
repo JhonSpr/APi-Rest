@@ -1,8 +1,6 @@
 const express = require("express");
 const workoutController = require("../../controllers/workoutController");
 
-const emisionesController = require("../../controllers/emisionesController");
-
 const router = express.Router();
 
 /**
@@ -51,7 +49,6 @@ const router = express.Router();
  */
 router
   .get("/", workoutController.getAllWorkouts)
-
   .get("/:workoutId", workoutController.getOneWorkout)
   .post("/", workoutController.createNewWorkout)
   .patch("/:workoutId", workoutController.updateOneWorkout)
