@@ -58,10 +58,8 @@ const getAllWorkouts = (filterParams) => {
         (workout) => workout.year === Number(filterParams.year)
       );
     }
-    if (filterParams.estado) {
-      var estado = DB.workouts.filter(function (el) {
-        return el.estado === "finalizado";
-      });
+    if (filterParams.estado === workouts.estado) {
+      return DB.workouts.filter(workouts);
     }
 
     return workouts;
