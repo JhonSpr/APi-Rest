@@ -14,7 +14,7 @@ app.use(express.json());
 app.use(cache("2 minutes"));
 app.use("/api/v1/workouts/", v1WorkoutRouter);
 app.use("/api/v1/emisiones/", v1EmisionesRouter);
-app.use("/api/v1/finalizados/", v1FinalizadosRouter);
+app.use("/api/v1/finalizado/", v1FinalizadosRouter);
 
 app.listen(PORT, () => {
   console.log(`🚀 Server listening on port ${PORT}`);
