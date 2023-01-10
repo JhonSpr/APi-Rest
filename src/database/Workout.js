@@ -60,7 +60,7 @@ const getAllWorkouts = (filterParams) => {
     }
     if (filterParams.estado) {
       return DB.workouts.filter(
-        (anime) => anime.estado === "en emision".includes(filterParams.estado)
+        (anime) => anime.estado === String.includes(filterParams.estado)
       );
     }
 
