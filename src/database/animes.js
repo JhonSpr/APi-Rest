@@ -4,8 +4,8 @@ const getAllAnimes = (filterParams) => {
   try {
     let animes = DB.workouts;
     if (filterParams.mode) {
-      return DB.workouts.filter((workout) =>
-        workout.mode.toLowerCase().includes(filterParams.mode)
+      return DB.animes.filter((anime) =>
+        anime.mode.toLowerCase().includes(filterParams.mode)
       );
     }
     if (filterParams.name) {
