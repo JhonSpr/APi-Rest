@@ -2,7 +2,7 @@ const DB = require("./animes.json");
 const { saveToDatabase } = require("./utils");
 const getAllAnimes = (filterParams) => {
   try {
-    let animes = DB.workouts;
+    let animes = DB.animes;
     if (filterParams.mode) {
       return DB.animes.filter((anime) =>
         anime.mode.toLowerCase().includes(filterParams.mode)
