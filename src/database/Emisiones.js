@@ -8,9 +8,9 @@ const getAllEmisiones = (filterParams) => {
         emision.mode.toLowerCase().includes(filterParams.mode)
       );
     }
-    if (filterParams.name) {
+    if (filterParams.estado) {
       return DB.emisiones.filter((emision) =>
-        emision.name.toLowerCase().includes(filterParams.name)
+        emision.estado.toLowerCase().includes(filterParams.estado)
       );
     }
 
