@@ -1,4 +1,4 @@
-const DB = require("./db.json");
+const DB = require("./animes.json");
 
 const getAllAnimes = (filterParams) => {
   try {
