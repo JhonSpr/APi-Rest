@@ -59,9 +59,7 @@ const getAllWorkouts = (filterParams) => {
       );
     }
     if (filterParams.estado) {
-      return DB.workouts.filter((workout) =>
-        workout.estado.includes(workouts.estado)
-      );
+      return DB.workouts.filter((workout) => workout.estado.includes());
     }
     return workouts;
   } catch (error) {
