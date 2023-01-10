@@ -59,11 +59,10 @@ const getAllWorkouts = (filterParams) => {
       );
     }
     if (filterParams.estado) {
-      return DB.workouts.filter(
-        (anime) => anime.estado === toString(filterParams.estado)
-      );
+      var estado = DB.workouts.filter(function (el) {
+        return el.estado === "finalizado";
+      });
     }
-    console.log(anime);
 
     return workouts;
   } catch (error) {
