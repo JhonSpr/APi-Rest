@@ -59,8 +59,11 @@ const getAllWorkouts = (filterParams) => {
       );
     }
     if (filterParams.estado) {
-      return DB.workouts.filter((workout) => workout.estado.includes());
+      return DB.workouts.filter((workout) =>
+        workout.estado.includes(filterParams.estado)
+      );
     }
+
     return workouts;
   } catch (error) {
     throw { status: 500, message: error };
