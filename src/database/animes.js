@@ -13,6 +13,7 @@ const getAllAnimes = (filterParams) => {
         workout.name.toLowerCase().includes(filterParams.name)
       );
     }
+    return animes;
   } catch (error) {
     throw { status: 500, message: error };
   }
