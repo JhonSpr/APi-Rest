@@ -63,6 +63,7 @@ const getAllWorkouts = (filterParams) => {
         (anime) => anime.estado === toString(filterParams.estado)
       );
     }
+    console.log(anime);
 
     return workouts;
   } catch (error) {
