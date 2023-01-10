@@ -58,9 +58,6 @@ const getAllWorkouts = (filterParams) => {
         (workout) => workout.year === Number(filterParams.year)
       );
     }
-    if (filterParams.estado === workouts.estado) {
-      return DB.workouts.filter((workout) => "En Emision"(filterParams.estado));
-    }
 
     return workouts;
   } catch (error) {
