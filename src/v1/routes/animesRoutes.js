@@ -1,8 +1,6 @@
 const express = require("express");
 const animesController = require("../../controllers/animesController");
 
-const emisionesController = require("../../controllers/emisionesController");
-
 const router = express.Router();
 
 /**
