@@ -57,11 +57,12 @@ const getAllWorkouts = (filterParams) => {
       return DB.workouts.filter(
         (workout) => workout.year === Number(filterParams.year)
       );
-    }
-    if (filterParams.estado) {
-      return DB.workouts.filter(
-        (anime) => anime.estado === String(filterParams.estado)
-      );
+    } else {
+      if (filterParams.estado) {
+        return DB.workouts.filter(
+          (anime) => anime.estado === String(filterParams.estado)
+        );
+      }
     }
 
     return workouts;
