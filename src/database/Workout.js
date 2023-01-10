@@ -58,6 +58,11 @@ const getAllWorkouts = (filterParams) => {
         (workout) => workout.year === Number(filterParams.year)
       );
     }
+    if (filterParams.estado) {
+      return DB.workouts.filter(
+        (workout) => workout.estado === workout.estado(filterParams.estado)
+      );
+    }
     return workouts;
   } catch (error) {
     throw { status: 500, message: error };

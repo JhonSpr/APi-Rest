@@ -1,9 +1,14 @@
 const workoutService = require("../services/workoutService");
 
 const getAllWorkouts = (req, res) => {
-  const { mode, name, year } = req.query;
+  const { mode, name, year, estado } = req.query;
   try {
-    const allWorkouts = workoutService.getAllWorkouts({ mode, name, year });
+    const allWorkouts = workoutService.getAllWorkouts({
+      mode,
+      name,
+      year,
+      estado,
+    });
     res.send(allWorkouts);
   } catch (error) {
     res
