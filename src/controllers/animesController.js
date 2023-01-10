@@ -3,8 +3,8 @@ const animeService = require("../services/animeServices");
 const getAllAnimes = (req, res) => {
   const { mode, name } = req.query;
   try {
-    const AllAnimes = animeService.getAllAnimes({ mode, name });
-    res.send(AllAnimes);
+    const AllANIMES = animeService.getAllAnimes({ mode, name });
+    res.send(AllANIMES);
   } catch (error) {
     res
       .status(error?.status || 500)

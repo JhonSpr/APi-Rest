@@ -1,5 +1,5 @@
 const DB = require("./animes.json");
-
+const { saveToDatabase } = require("./utils");
 const getAllAnimes = (filterParams) => {
   try {
     let animes = DB.workouts;
