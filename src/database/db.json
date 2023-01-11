@@ -14,7 +14,7 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
-      "generos": 4,
+      "generos": ["accion", "fantasia"],
       "genero1": "Accion"
     },
     {
