@@ -628,21 +628,7 @@
       "episodios": 13,
       "classEstado": "tag is-success end"
     },
-    {
-      "id": "VAZZROCK THE ANIMATION",
-      "mode": "TV",
-      "image": "https://i.postimg.cc/d0GZny6Y/vazzrock-the-animation.jpg",
-      "anime": "VAZZROCK THE ANIMATION",
-      "name": "Vazzrock the Animation",
-      "year": 2022,
-      "descripcion": "¡Las unidades de idols masculinos VAZZY y ROCK DOWN debutan en esta nueva serie de anime!",
-      "episodios": 13,
-      "sec1": "disable",
-      "sec2": "disable",
-      "sec3": "disable",
-      "estado": "Finalizado",
-      "classEstado": "tag is-success End"
-    },
+
     {
       "id": "Violet Evergarden",
       "name": "violet evergarden",
