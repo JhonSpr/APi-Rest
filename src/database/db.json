@@ -13,7 +13,8 @@
       "episodios": 12,
       "sec1": "disable",
       "sec2": "disable",
-      "sec3": "disable"
+      "sec3": "disable",
+      "genero1": "accion"
     },
     {
       "id": "BLEACH: Sennen Kessen-hen",
@@ -30,7 +31,8 @@
       "sec2": "disable",
       "sec3": "disable",
       "estado": "Finalizado",
-      "classEstado": "tag is-success end"
+      "classEstado": "tag is-success end",
+      "genero1": "accion"
     },
     {
       "id": "162",
