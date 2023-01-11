@@ -583,23 +583,6 @@
       "classEstado": "tag is-success end"
     },
     {
-      "id": "Isekai Ojisan",
-      "name": "isekai ojisan",
-      "anime": "Isekai Ojisan",
-      "mode": "TV",
-      "descripcion": "Otoño de 2017. El sobrino, Takafumi, acudió al hospital para visitar a su tío, quien acaba de despertar de un coma de diecisiete años. Sin embargo, parece que ha perdido la razón, pues asegura que estuvo en otro mundo llamado “Gran Bahamar” durante todo este tiempo, e incluso parece hablar un extraño lenguaje. Pero todo cambia cuando, su tío, un humano común, le muestra que aprendió a usar la magia en el otro mundo. Así, cuando Takafumi se da cuenta de que la magia que usa su tío es completamente real, le propone que use sus habilidades para convertirse en un YouTuber exitoso. Ahora cuidando de él, Takafumi y su tío comienzan a involucrarse en la vida del streaming, mientras su tío le cuenta de vez en cuando sobre su vida en el otro mundo.",
-      "image": "https://i.postimg.cc/Gpr6zMLL/isekai-ojisan.jpg",
-      "year": 2022,
-      "episodios": 12,
-      "sec2": "disable",
-      "sec3": "disable",
-      "textoSecuela": "Proximo Episodio",
-      "nombreSecuela": "Suspendido por casos COVID-19",
-      "estado": "En Emision",
-      "li13": "disable",
-      "classEstado": "tag is-success airing"
-    },
-    {
       "id": "Overlord IV",
       "name": "overlord iv",
       "anime": "Overlord IV",
@@ -1894,16 +1877,6 @@
       "year": 2022,
       "estado": "Finalizado",
       "classEstado": "tag is-success end"
-    },
-    {
-      "id": "Peter Grill to Kenja no Jikan Super Extra",
-      "mode": "TV",
-      "image": "https://i.postimg.cc/q7s4vhRR/peter-grill-to-kenja-no-jikan-super-extra.jpg",
-      "anime": "Peter Grill to Kenja no Jikan Super Extra",
-      "name": "peter grill to kenja no jikan super extra",
-      "year": 2022,
-      "estado": "En Emision",
-      "classEstado": "tag is-success airing"
     },
     {
       "id": "162",
