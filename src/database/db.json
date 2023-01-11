@@ -14,7 +14,8 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
-      "genero": ["accion", "fantasia", "terror"]
+      "generos": 4,
+      "genero1": "Accion"
     },
     {
       "id": "BLEACH: Sennen Kessen-hen",
@@ -31,8 +32,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "estado": "Finalizado",
-      "classEstado": "tag is-success end",
-      "genero": ["accion", "fantasia", "terror"]
+      "classEstado": "tag is-success end"
     },
     {
       "id": "162",
@@ -64,8 +64,7 @@
       "sec3": "disable",
       "year": 2021,
       "estado": "Finalizado",
-      "classEstado": "tag is-success end",
-      "genero": ["accion", "terror"]
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2",
