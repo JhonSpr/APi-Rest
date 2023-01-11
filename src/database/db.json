@@ -899,12 +899,15 @@
     {
       "id": "Fullmetal Alchemist Brotherhood",
       "name": "fullmetal Alchemist Brotherhood",
+      "anime": "fullmetal Alchemist Brotherhood",
       "mode": "TV",
-      "createdAt": "1/25/2022, 1:15:44 PM",
-      "updatedAt": "3/10/2022, 8:21:56 AM",
-      "link": "/fullmetal-alchemist-brotherhood",
       "image": "https://i.postimg.cc/TwzRdzMV/fullmetal-alchemist-brotherhood.jpg",
       "estado": "Finalizado",
+      "descripcion": "Los hermanos Elric emprenden un viaje tras haber perdido parte de su cuerpo mientras intentaban resucitar a su madre. Siendo ambos huérfanos de madre y con su padre en paradero desconocido, cuyo oscuro pasado es tan misterioso como él mismo, el hermano mayor, Edward Elric, decide convertirse en alquimista nacional para poder remediar el pecado que cometieron; pues la transmutación humana está vedada para los humanos y no hay perdón por aquellos que han visto la puerta, Si quieres obtener algo, debes sacrificar otra cosa que posea el mismo valor a cambio; esta es la ley de los estados equivalentes, nada se gana sin ningún sacrificio.",
+      "episodios": 64,
+      "sec1": "disable",
+      "sec2": "disable",
+      "sec3": "disable",
       "year": 2009,
       "classEstado": "tag is-success end"
     },
