@@ -2341,7 +2341,7 @@
       "name": "bungou stray dogs 4",
       "anime": "Bungou Stray Dogs 4",
       "year": 2023,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
       "episodios": 2,
       "textoSecuela": "Precuela",
       "nombreSecuela": "Bungou Stray Dogs 3",
