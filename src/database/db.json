@@ -984,8 +984,34 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Accion",
+      "genero2": "Aventuras",
+      "genero3": "Drama",
+      "genero4": "Misterio",
+      "genero5": "Shounen",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Aventuras",
+          "link": "/animes=filtros?genero=Aventuras"
+        },
+        {
+          "genero": "Drama",
+          "link": "/animes=filtros?genero=Drama"
+        },
+        {
+          "genero": "Misterio",
+          "link": "/animes=filtros?genero=Misterio"
+        },
+        {
+          "genero": "Psicologico",
+          "link": "/animes=filtros?genero=Psicologico"
+        },
+        {
+          "genero": "Seinen",
+          "link": "/animes=filtros?genero=Seinen"
+        }
+      ],
       "year": 2022,
       "classEstado": "tag is-success end"
     },
