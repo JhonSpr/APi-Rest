@@ -37,7 +37,7 @@
       "sec3": "disable",
       "estado": "Finalizado",
       "classEstado": "tag is-success end",
-      "genero1": "Accion"
+      "genero1": ["Accion", "Fantasia"]
     },
     {
       "id": "162",
@@ -52,6 +52,8 @@
       "sec3": "disable",
       "year": 2022,
       "estado": "Finalizado",
+      "genero1": ["Accion", "Fantasia"],
+
       "classEstado": "tag is-success end"
     },
     {
@@ -69,6 +71,8 @@
       "sec3": "disable",
       "year": 2021,
       "estado": "Finalizado",
+      "genero1": ["Accion", "Fantasia"],
+
       "classEstado": "tag is-success end"
     },
     {
@@ -86,6 +90,8 @@
       "linksec1": "/tensei-shitara-slime-datta-ken-2nd-temporada-parte-1",
       "sec2": "disable",
       "sec3": "disable",
+      "genero1": ["Accion", "Fantasia"],
+
       "classEstado": "tag is-success end"
     },
     {
@@ -102,7 +108,7 @@
       "episodios": 12,
       "estado": "Finalizado",
       "classEstado": "tag is-success end",
-      "genero1": "Accion"
+      "genero1": ["Accion", "Fantasia"]
     },
     {
       "id": "Hanyo no Yashahime ni no Shou",
@@ -119,7 +125,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "classEstado": "tag is-success end",
-      "genero1": "Accion"
+      "genero1": ["Accion", "Fantasia"]
     },
     {
       "id": "Heion Sedai no Idaten Tachi",
@@ -136,7 +142,7 @@
       "sec3": "disable",
       "year": 2021,
       "classEstado": "tag is-success end",
-      "genero1": "Accion"
+      "genero1": ["Accion", "Fantasia"]
     },
     {
       "id": "Peach Boy Riverside",
@@ -169,7 +175,8 @@
       "classEstado": "tag is-success end",
       "li26": "disable",
       "episodios": 24,
-      "descripcion": "Yuuji Itadori es un estudiante de instituto con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo del instituto para no dar un palo al agua… Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?"
+      "descripcion": "Yuuji Itadori es un estudiante de instituto con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo del instituto para no dar un palo al agua… Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?",
+      "genero1": ["Accion", "Fantasia"]
     },
     {
       "id": "Shingeki no Bahamut:Virgin Soul",
@@ -187,6 +194,7 @@
       "estado": "Finalizado",
       "year": 2017,
       "classEstado": "tag is-success end",
+      "genero1": ["Accion", "Fantasia"],
       "episodios": 24
     },
     {
@@ -211,6 +219,7 @@
       "image": "https://i.postimg.cc/k53RHbzX/castlevania-season-2.jpg",
       "estado": "Finalizado",
       "year": 2018,
+      "genero1": ["Accion", "Fantasia"],
       "classEstado": "tag is-success end"
     },
     {
@@ -231,6 +240,7 @@
       "nombreSecuela": "Overlord II",
       "nombreSecuela2": "Overlord IV",
       "sec3": "disable",
+      "genero1": ["Accion", "Fantasia"],
       "classEstado": "tag is-success end"
     },
     {
