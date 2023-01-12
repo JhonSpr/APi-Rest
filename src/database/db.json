@@ -1003,13 +1003,10 @@
           "genero": "Misterio",
           "link": "/animes=filtros?genero=Misterio"
         },
+
         {
-          "genero": "Psicologico",
-          "link": "/animes=filtros?genero=Psicologico"
-        },
-        {
-          "genero": "Seinen",
-          "link": "/animes=filtros?genero=Seinen"
+          "genero": "Shounen",
+          "link": "/animes=filtros?genero=Shounen"
         }
       ],
       "year": 2022,
