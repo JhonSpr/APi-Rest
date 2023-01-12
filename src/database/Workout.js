@@ -58,6 +58,11 @@ const getAllWorkouts = (filterParams) => {
         (workout) => workout.year === Number(filterParams.year)
       );
     }
+    if (filterParams.genero1) {
+      return DB.workouts.filter(
+        (workout) => workout.genero1 === "Accion"(filterParams.genero1)
+      );
+    }
 
     return workouts;
   } catch (error) {
