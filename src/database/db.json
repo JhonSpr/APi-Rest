@@ -190,7 +190,15 @@
       "episodios": 12,
       "estado": "Finalizado",
       "classEstado": "tag is-success end",
-      "genero1": ["Accion", "Fantasia"]
+      "genero1": "Accion",
+      "genero2": "Fantasia",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        }
+      ]
     },
     {
       "id": "Hanyo no Yashahime ni no Shou",
