@@ -119,7 +119,8 @@
       "sec3": "disable",
       "year": 2021,
       "estado": "Finalizado",
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Fantasia",
 
       "classEstado": "tag is-success end"
     },
