@@ -215,7 +215,28 @@
       "sec2": "disable",
       "sec3": "disable",
       "classEstado": "tag is-success end",
-      "genero1": ["Accion", "Fantasia"]
+      "genero1": "Aventuras",
+      "genero2": "Comedia",
+      "genero3": "Fantasia",
+      "genero4": "Sobrenatural",
+      "generos": [
+        {
+          "genero": "Aventuras",
+          "link": "/animes=filtros?genero=Aventuras"
+        },
+        {
+          "genero": "Comedia",
+          "link": "/animes=filtros?genero=Comedia"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?genero=Sobrenatural"
+        }
+      ]
     },
     {
       "id": "Heion Sedai no Idaten Tachi",
@@ -232,7 +253,30 @@
       "sec3": "disable",
       "year": 2021,
       "classEstado": "tag is-success end",
-      "genero1": ["Accion", "Fantasia"]
+      "genero1": "Accion",
+      "genero2": "Aventuras",
+      "genero3": "Demonios",
+      "genero4": "Fantasia",
+      "genero5": "Seinen",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Aventuras",
+          "link": "/animes=filtros?genero=Aventuras"
+        },
+        {
+          "genero": "Demonios",
+          "link": "/animes=filtros?genero=Demonios"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Seinen",
+          "link": "/animes=filtros?genero=Seinen"
+        }
+      ]
     },
     {
       "id": "Peach Boy Riverside",
@@ -249,7 +293,15 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": "Accion"
+      "genero1": "Fantasia",
+      "genero2": "Shounen",
+      "generos": [
+        { "genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia" },
+        {
+          "genero": "Shounen",
+          "link": "/animes=filtros?genero=Shounen"
+        }
+      ]
     },
     {
       "id": "Jujutsu Kaisen",
