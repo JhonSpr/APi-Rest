@@ -119,9 +119,15 @@
       "sec3": "disable",
       "year": 2021,
       "estado": "Finalizado",
-      "genero1": "Accion",
-      "genero2": "Fantasia",
-
+      "genero1": "Seinen",
+      "genero2": "Sobrenatural",
+      "generos": [
+        { "genero": "Seinen", "link": "/animes=filtros?genero=Seinen" },
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?genero=Sobrenatural"
+        }
+      ],
       "classEstado": "tag is-success end"
     },
     {
