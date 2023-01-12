@@ -41,9 +41,9 @@
       "estado": "Finalizado",
       "classEstado": "tag is-success end",
       "genero1": "Accion",
-      "genero2": "Aventuras",
+      "genero2": "Fantasia",
       "genero3": "Shoune",
-      "genero4": "Fantasia",
+      "genero4": "Aventuras",
       "generos": [
         { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
         {
