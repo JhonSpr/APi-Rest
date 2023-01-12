@@ -621,8 +621,15 @@
       "estado": "Finalizado",
       "year": 2022,
       "episodios": 12,
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Fantasia",
+      "genero2": "Isekai",
+      "generos": [
+        { "genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia" },
+        {
+          "genero": "Isekai",
+          "link": "/animes=filtros?genero=Isekai"
+        }
+      ],
       "classEstado": "tag is-success end"
     },
     {
@@ -639,8 +646,25 @@
       "image": "https://i.postimg.cc/ZqXmH8MV/fairy-gone-2nd-season.jpg",
       "estado": "Finalizado",
       "year": 2019,
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Accion",
+      "genero2": "Demonios",
+      "genero3": "Fantasia",
+      "genero4": "Magia",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Demonios",
+          "link": "/animes=filtros?genero=Demonios"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Magia",
+          "link": "/animes=filtros?genero=Magia"
+        }
+      ],
       "episodios": 12,
       "classEstado": "tag is-success end"
     },
@@ -657,8 +681,35 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Accion",
+      "genero2": "Aventuras",
+      "genero3": "Ecchi",
+      "genero4": "Fantasia",
+      "genero5": "Harem",
+      "genero6": "Romance",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Aventuras",
+          "link": "/animes=filtros?genero=Aventuras"
+        },
+        {
+          "genero": "Ecchi",
+          "link": "/animes=filtros?genero=Ecchi"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Harem",
+          "link": "/animes=filtros?genero=Harem"
+        },
+        {
+          "genero": "Romance",
+          "link": "/animes=filtros?genero=Romance"
+        }
+      ],
       "descripcion": "Luchando con la vida y la sociedad, el estudiante de secundaria Michio Kaga deambula por Internet y aterriza en un sitio web extraño. El sitio web, que presenta una serie de preguntas y un sistema basado en puntos, permite crear habilidades y destrezas para un personaje. Al completar su personaje, Kaga fue transportado a un mundo de fantasía similar a un juego y renació como un hombre fuerte que puede reclamar chicas de nivel ídolo. ¡Así comienza la leyenda del engaño y el harem de un hombre renacido!",
 
       "classEstado": "tag is-success end"
@@ -672,8 +723,20 @@
       "sec2": "disable",
       "sec3": "disable",
       "textoSecuela": "Precuela",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Drama",
+      "genero2": "Escolares",
+      "genero3": "Psicologico",
+      "generos": [
+        { "genero": "Drama", "link": "/animes=filtros?genero=Drama" },
+        {
+          "genero": "Escolares",
+          "link": "/animes=filtros?genero=Escolares"
+        },
+        {
+          "genero": "Psicologico",
+          "link": "/animes=filtros?genero=Psicologico"
+        }
+      ],
       "nombreSecuela": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
       "linksec1": "/youkoso-jitsuryoku-shijuo-shugi-no-kyoushitsu-e",
       "image": "https://i.postimg.cc/02kTpXN9/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season.jpg",
@@ -695,8 +758,20 @@
       "nombreSecuela": "Spy x Family 2nd temporada",
       "linksec1": "/spy-x-family-2nd-temporada",
       "estado": "Finalizado",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Accion",
+      "genero2": "Comedia",
+      "genero3": "Shoune",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Comedia",
+          "link": "/animes=filtros?genero=Comedia"
+        },
+        {
+          "genero": "Shounen",
+          "link": "/animes=filtros?genero=Shounen"
+        }
+      ],
       "episodios": 12,
       "year": 2022,
       "classEstado": "tag is-success end"
@@ -714,8 +789,33 @@
       "linksec1": "/date-a-live-iii",
       "image": "https://i.postimg.cc/1XJYCPzs/date-a-live-iv.jpg",
       "estado": "Finalizado",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Ciencia Ficcion",
+      "genero2": "Comedia",
+      "genero3": "Escolares",
+      "genero4": "Harem",
+      "genero5": "Romance",
+      "generos": [
+        {
+          "genero": "Ciencia Ficción",
+          "link": "/animes=filtros?genero=Ciencia Ficcion"
+        },
+        {
+          "genero": "Comedia",
+          "link": "/animes=filtros?genero=Comedia"
+        },
+        {
+          "genero": "Escolares",
+          "link": "/animes=filtros?genero=Escolares"
+        },
+        {
+          "genero": "Harem",
+          "link": "/animes=filtros?genero=Harem"
+        },
+        {
+          "genero": "Romance",
+          "link": "/animes=filtros?genero=Romance"
+        }
+      ],
       "year": 2022,
       "episodios": 12,
       "classEstado": "tag is-success end"
@@ -737,8 +837,35 @@
       "year": 2019,
       "episodios": 25,
       "li26": "disable",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Accion",
+      "genero2": "Aventuras",
+      "genero3": "Comedia",
+      "genero4": "Drama",
+      "genero5": "Fantasia",
+      "genero6": "Seinen",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Aventuras",
+          "link": "/animes=filtros?genero=Aventuras"
+        },
+        {
+          "genero": "Comedia",
+          "link": "/animes=filtros?genero=Comedia"
+        },
+        {
+          "genero": "Drama",
+          "link": "/animes=filtros?genero=Drama"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Seinen",
+          "link": "/animes=filtros?genero=Seinen"
+        }
+      ],
       "classEstado": "tag is-success end"
     },
     {
@@ -756,7 +883,26 @@
       "estado": "Finalizado",
       "year": 2022,
       "episodios": 13,
-      "classEstado": "tag is-success end"
+      "classEstado": "tag is-success end",
+      "genero1": "Accion",
+      "genero2": "Aventuras",
+      "genero3": "Drama",
+      "genero4": "Fantasia",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Aventuras",
+          "link": "/animes=filtros?genero=Aventuras"
+        },
+        {
+          "genero": "Drama",
+          "link": "/animes=filtros?genero=Drama"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        }
+      ]
     },
     {
       "id": "Tomodachi Game",
@@ -771,8 +917,18 @@
       "link": "/tomodachi-game",
       "image": "https://i.postimg.cc/JhNxYmTv/tomodachi-game.jpg",
       "estado": "Finalizado",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Psicologico",
+      "genero2": "Shounen",
+      "generos": [
+        {
+          "genero": "Psicologico",
+          "link": "/animes=filtros?genero=Psicologico"
+        },
+        {
+          "genero": "Shounen",
+          "link": "/animes=filtros?genero=Shounen"
+        }
+      ],
       "year": 2022,
       "classEstado": "tag is-success end"
     },
@@ -788,7 +944,31 @@
       "image": "https://i.postimg.cc/3wYmRGBf/baraou-no-souretsu.jpg",
       "estado": "Finalizado",
       "episodios": 24,
+      "genero1": "Accion",
+      "genero2": "Drama",
+      "genero3": "Historico",
+      "genero4": "Shoujo",
+      "genero5": "Sobrenatural",
       "year": 2022,
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Drama",
+          "link": "/animes=filtros?genero=Drama"
+        },
+        {
+          "genero": "Historico",
+          "link": "/animes=filtros?genero=Historico"
+        },
+        {
+          "genero": "Shoujo",
+          "link": "/animes=filtros?genero=Shoujo"
+        },
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?genero=Sobrenatural"
+        }
+      ],
       "classEstado": "tag is-success end"
     },
     {
