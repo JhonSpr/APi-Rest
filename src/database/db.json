@@ -145,8 +145,35 @@
       "linksec1": "/tensei-shitara-slime-datta-ken-2nd-temporada-parte-1",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Accion",
+      "genero2": "Aventuras",
+      "genero3": "Comedia",
+      "genero4": "Demonios",
+      "genero5": "Fantasia",
+      "genero6": "Magia",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Aventuras",
+          "link": "/animes=filtros?genero=Aventuras"
+        },
+        {
+          "genero": "Comedia",
+          "link": "/animes=filtros?genero=Comedia"
+        },
+        {
+          "genero": "Demonios",
+          "link": "/animes=filtros?genero=Demonios"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Magia",
+          "link": "/animes=filtros?genero=Magia"
+        }
+      ],
       "classEstado": "tag is-success end"
     },
     {
