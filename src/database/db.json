@@ -318,7 +318,35 @@
       "li26": "disable",
       "episodios": 24,
       "descripcion": "Yuuji Itadori es un estudiante de instituto con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo del instituto para no dar un palo al agua… Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?",
-      "genero1": ["Accion", "Fantasia"]
+      "genero1": "Accion",
+      "genero2": "Demonios",
+      "genero3": "Escolares",
+      "genero4": "Shounen",
+      "genero5": "Sobrenatural",
+      "genero6": "Terror",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Demonios",
+          "link": "/animes=filtros?genero=Demonios"
+        },
+        {
+          "genero": "Escolares",
+          "link": "/animes=filtros?genero=Escolares"
+        },
+        {
+          "genero": "Shounen",
+          "link": "/animes=filtros?genero=Shounen"
+        },
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?genero=Sobrenatural"
+        },
+        {
+          "genero": "Terror",
+          "link": "/animes=filtros?genero=Terror"
+        }
+      ]
     },
     {
       "id": "Shingeki no Bahamut:Virgin Soul",
@@ -336,8 +364,36 @@
       "estado": "Finalizado",
       "year": 2017,
       "classEstado": "tag is-success end",
-      "genero1": ["Accion", "Fantasia"],
-      "episodios": 24
+      "episodios": 24,
+      "genero1": "Accion",
+      "genero2": "Aventuras",
+      "genero3": "Demonios",
+      "genero4": "Fantasia",
+      "genero5": "Magia",
+      "genero6": "Sobrenatural",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Aventuras",
+          "link": "/animes=filtros?genero=Aventuras"
+        },
+        {
+          "genero": "Demonios",
+          "link": "/animes=filtros?genero=Demonios"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Magia",
+          "link": "/animes=filtros?genero=Magia"
+        },
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?genero=Sobrenatural"
+        }
+      ]
     },
     {
       "id": "Castlevania",
@@ -346,10 +402,6 @@
       "mode": "TV",
       "descripcion": "Segunda temporada de Castlevania.",
       "episodios": 8,
-      "li9": "disable",
-      "li10": "disable",
-      "li11": "disable",
-      "li12": "disable",
       "textoSecuela": "Precuela",
       "textoSecuela2": "Secuela",
       "linksec1": "/castlevania",
@@ -361,7 +413,35 @@
       "image": "https://i.postimg.cc/k53RHbzX/castlevania-season-2.jpg",
       "estado": "Finalizado",
       "year": 2018,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Demonios",
+      "genero3": "Fantasia",
+      "genero4": "Gore",
+      "genero5": "Horror",
+      "genero6": "Vamipiros",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Demonios",
+          "link": "/animes=filtros?genero=Demonios"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Gore",
+          "link": "/animes=filtros?genero=Gore"
+        },
+        {
+          "genero": "Horror",
+          "link": "/animes=filtros?genero=Horror"
+        },
+        {
+          "genero": "Vampiros",
+          "link": "/animes=filtros?genero=Vampiros"
+        }
+      ],
       "classEstado": "tag is-success end"
     },
     {
@@ -382,7 +462,35 @@
       "nombreSecuela": "Overlord II",
       "nombreSecuela2": "Overlord IV",
       "sec3": "disable",
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Aventuras",
+      "genero3": "Demonios",
+      "genero4": "Fantasia",
+      "genero5": "Magia",
+      "genero6": "Sobrenatural",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Aventuras",
+          "link": "/animes=filtros?genero=Aventuras"
+        },
+        {
+          "genero": "Demonios",
+          "link": "/animes=filtros?genero=Demonios"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Magia",
+          "link": "/animes=filtros?genero=Magia"
+        },
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?genero=Sobrenatural"
+        }
+      ],
       "classEstado": "tag is-success end"
     },
     {
@@ -401,8 +509,30 @@
       "sec3": "disable",
       "image": "https://i.postimg.cc/kG6n9jtr/ao-no-exorcist-kyoto-fujouou-hen.jpg",
       "estado": "Finalizado",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Accion",
+      "genero2": "Demonios",
+      "genero3": "Fantasia",
+      "genero4": "Shounen",
+      "genero5": "Sobrenatural",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Demonios",
+          "link": "/animes=filtros?genero=Demonios"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Shounen",
+          "link": "/animes=filtros?genero=Shounen"
+        },
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?genero=Sobrenatural"
+        }
+      ],
       "year": 2017,
       "classEstado": "tag is-success end"
     },
@@ -421,8 +551,30 @@
       "linksec1": "/fairy-gone-2nd-temporada",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Accion",
+      "genero2": "Demonios",
+      "genero3": "Fantasia",
+      "genero4": "Magia",
+      "genero5": "Sobrenatural",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Demonios",
+          "link": "/animes=filtros?genero=Demonios"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Magia",
+          "link": "/animes=filtros?genero=Magia"
+        },
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?genero=Sobrenatural"
+        }
+      ],
       "classEstado": "tag is-success end"
     },
     {
@@ -440,8 +592,20 @@
       "estado": "Finalizado",
       "year": 2022,
       "episodios": 1,
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Aventuras",
+      "genero2": "Ciencia Ficcion",
+      "genero3": "Shoune",
+      "generos": [
+        { "genero": "Aventuras", "link": "/animes=filtros?genero=Aventuras" },
+        {
+          "genero": "Ciencia Ficción",
+          "link": "/animes=filtros?genero=Ciencia Ficcion"
+        },
+        {
+          "genero": "Shounen",
+          "link": "/animes=filtros?genero=Shounen"
+        }
+      ],
       "classEstado": "tag is-success end"
     },
     {
