@@ -14,8 +14,11 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
-      "generos": ["accion", "fantasia"],
-      "genero1": "Accion"
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=accion" },
+        { "genero": "Fantasia", "link": "/animes=filtros?genero=accion" },
+        { "genero": "Terror", "link": "/animes=filtros?genero=accion" }
+      ]
     },
     {
       "id": "BLEACH: Sennen Kessen-hen",
