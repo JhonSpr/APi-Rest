@@ -59,7 +59,9 @@ const getAllWorkouts = (filterParams) => {
       );
     }
     if (filterParams.page) {
-      return DB.workouts.filter((workout) => workouts.length === 25);
+      return DB.workouts.filter(
+        (workout) => workouts.length === 25(workouts.length)
+      );
     }
 
     return workouts;
