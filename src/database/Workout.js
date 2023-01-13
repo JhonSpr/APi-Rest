@@ -1,6 +1,5 @@
 const DB = require("./db.json");
 const { saveToDatabase } = require("./utils");
-const mongoosePaginate = require("mongoose-paginate-v2");
 
 /**
  * @openapi
@@ -159,8 +158,6 @@ const deleteOneWorkout = (workoutId) => {
     throw { status: error?.status || 500, message: error?.message || error };
   }
 };
-
-getAllWorkouts.plugin(mongoosePaginate);
 
 module.exports = {
   getAllWorkouts,

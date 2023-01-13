@@ -3,7 +3,7 @@ const Workout = require("../database/Workout");
 
 const getAllWorkouts = (filterParams) => {
   try {
-    const allWorkouts = Workout.getAllWorkouts(filterParams);
+    const allWorkouts = Workout.getAllWorkouts.paginate(filterParams);
     return allWorkouts;
   } catch (error) {
     throw error;
