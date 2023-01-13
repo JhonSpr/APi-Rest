@@ -1025,8 +1025,12 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Deportes",
+      "genero2": "Musica",
+      "generos": [
+        { "genero": "Deportes", "link": "/animes=filtros?genero=Deportes" },
+        { "genero": "Musica", "link": "/animes=filtros?genero=Musica" }
+      ],
       "classEstado": "tag is-success end"
     },
     {
@@ -1041,8 +1045,12 @@
       "sec3": "disable",
       "image": "https://i.postimg.cc/ry0g0vWB/gensou-sangokushi-tengen-reishinki.jpg",
       "estado": "Finalizado",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Fantasia",
+      "genero2": "Historico",
+      "generos": [
+        { "genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia" },
+        { "genero": "Historico", "link": "/animes=filtros?genero=Historico" }
+      ],
       "year": 2022,
       "classEstado": "tag is-success end"
     },
@@ -1054,8 +1062,10 @@
       "descripcion": "Haru Shirogane es una persona de mente débil que es constantemente intimidada, mientras que Taiga ha viajado desde el otro lado del mar con la esperanza de convertirse en el hombre más fuerte del mundo. Una noche, los dos se encuentran con Shun Kamiya, el jugador más fuerte de XB (Extreme Baseball), y líder de la Tribu Minato. Cuando se encuentran, cada una de las tribus dispersas por Neo-Tokio está a punto de enfrentarse a una gran amenaza. Bajo las órdenes del Rey de Neo-Tokio, “Houtenshin”, el Chiyoda Try, dirigido por el misterioso Ojiro Otori, ha comenzado a tomar el control de todas las tribus del país. Sus malvadas garras están a punto de llegar a la Tribu Minato…",
       "sec1": "disable",
       "sec2": "disable",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Deportes",
+      "generos": [
+        { "genero": "Deportes", "link": "/animes=filtros?genero=Deportes" }
+      ],
       "sec3": "disable",
       "image": "https://i.postimg.cc/wxmcTDYH/tribe-nine.jpg",
       "estado": "Finalizado",
@@ -1071,7 +1081,15 @@
       "descripcion": "Dos asesinos se enfrentan cara a cara. Por un lado está Chateau, una cazadora de recompensas, y por otro lado el misterioso y poderoso Ryang-Ha. Chateau y Ryang-Ha se convertirán en enemigos tras este enfrentamiento... o así debería haber sido, pero por algún motivo, a Ryang-Ha le acaba gustando Chateau y se dedica a seguirla a todas partes. Poco a poco Chateau comienza a considerar a Ryang-Ha un compañero, lo que hace que ambos se acaben involucrados en el tema de varias organizaciones dándole caza a él. Y es más, resulta que todo tiene relación con el pasado de la chica.",
       "sec1": "disable",
       "sec2": "disable",
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Romance",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Romance",
+          "link": "/animes=filtros?genero=Romance"
+        }
+      ],
 
       "sec3": "disable",
       "image": "https://i.postimg.cc/DyhsvDcd/koroshi-ai.jpg",
@@ -1088,8 +1106,14 @@
       "descripcion": "El 'Viento Oxidizador' que lo oxida todo ha reducido a Japón a un páramo. Las personas viven temerosas del viento que corroe las ciudades y la vida en general. Un joven llamado Bisco Akaboshi de la tribu de los Hongos Guardianes se embarca en un viaje para conseguir el 'hongo que come óxido', un polvo milagroso que pufirica todo el óxido y así poder salvar a su maestro. Durante su viaje Bisco conoce a Milo Nekoyanagi, un joven y guapo doctor de Imihama, quien lo acompañará para buscar una cura contra el óxido que corroe a su hermana menor.",
       "sec1": "disable",
       "sec2": "disable",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Accion",
+      "genero2": "Aventuras",
+      "genero3": "Fantasia",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        { "genero": "Aventuras", "link": "/animes=filtros?genero=Aventuras" },
+        { "genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia" }
+      ],
       "sec3": "disable",
       "episodios": 12,
       "image": "https://i.postimg.cc/YCshWyQP/sabikui-bisco.jpg",
@@ -1105,8 +1129,12 @@
       "descripcion": "Yoshikazu Miyano es un manso estudiante de preparatoria al que le gusta leer mangas boys-love. Un día, se ve en la tesitura de detener una feroz pelea escolar, sin saber qué hacer. Antes de que todo vaya a peor, es interrumpido por el alumno de cursos superiores Shuumei Sasaki, que ocupa su lugar con valentía y salva a Miyano de su pena. Desde ese día, Miyano le admira en silencio. Sin embargo, tres meses después, Miyano se da cuenta de que Sasaki es más molesto que admirable. En la escuela, Miyano es recibido por él con juguetonas burlas, por no hablar de los frecuentes desprecios amistosos que recibe. Cuando Sasaki le pide recomendaciones de manga, Miyano le presta un manga boys-love que tiene. Sorprendentemente, Sasaki acaba disfrutando de su contenido y se engancha también al boys-love, marcando el inicio de una pasión compartida. ¿Podría convertirse en algo más?",
       "sec1": "disable",
       "sec2": "disable",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Escolares",
+      "genero2": "Yaoi",
+      "generos": [
+        { "genero": "Escolares", "link": "/animes=filtros?genero=Escolares" },
+        { "genero": "Yaoi", "link": "/animes=filtros?genero=Yaoi" }
+      ],
       "sec3": "disable",
       "image": "https://i.postimg.cc/PJyqr6t2/sasaki-to-miyano.jpg",
       "episodios": 13,
@@ -1132,9 +1160,23 @@
       "link": "/toaru-majutsu-no-index",
       "image": "https://i.postimg.cc/8zjCNBxm/toaru-majutsu-no-index.jpg",
       "estado": "Finalizado",
+      "genero1": "Accion",
+      "genero2": "Ciencia Ficcion",
+      "genero3": "Magia",
+      "genero4": "Superpoderes",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Ciencia Ficción",
+          "link": "/animes=filtros?genero=Ciencia Ficcion"
+        },
+        { "genero": "Magia", "link": "/animes=filtros?genero=Magia" },
+        {
+          "genero": "Superpoderes",
+          "link": "/animes=filtros?genero=Superpoderes"
+        }
+      ],
       "year": 2008,
-      "genero1": ["Accion", "Fantasia"],
-
       "episodios": 24,
       "classEstado": "tag is-success end"
     },
@@ -1149,8 +1191,25 @@
       "episodios": 13,
       "sec1": "disable",
       "sec2": "disable",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Accion",
+      "genero2": "Drama",
+      "genero3": "Fantasia",
+      "genero4": "Militar",
+      "genero5": "Seinen",
+      "genero6": "Sobrenatural",
+      "genero7": "Terror",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        { "genero": "Drama", "link": "/animes=filtros?genero=Drama" },
+        { "genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia" },
+        { "genero": "Militar", "link": "/animes=filtros?genero=Militar" },
+        { "genero": "Seinen", "link": "/animes=filtros?genero=Seinen" },
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?genero=Sobrenatural"
+        },
+        { "genero": "Terror", "link": "/animes=filtros?genero=Terror" }
+      ],
       "sec3": "disable",
       "estado": "Finalizado",
       "classEstado": "tag is-success end"
@@ -1163,8 +1222,19 @@
       "descripcion": "La historia del juego se desarrolla en una línea de tiempo alternativa en el futuro cercano de la Tierra en la década de 2060. Las secuelas de un accidente militar que resultó en una pandemia generalizada, así como la reciente conclusión de una descuidada guerra nuclear, ha despoblado masivamente el planeta, ha hecho inhabitable gran parte de la superficie y reducido las naciones que alguna vez fueron grandes a sombras de lo que fueron. Los androides utilizados para el trabajo y el combate se han convertido en una faceta importante de la vida, y los androides fácilmente replicables y desechables conocidos como “Tactical Dolls (T-Dolls)” son utilizados por compañías militares privadas en la primera línea de numerosas guerras. En el juego, el jugador asume el papel de un nuevo comandante en la PMC, a cargo de un comando de T-Dolls para combatir a una nueva Inteligencia Artificial que amenaza la paz.",
       "sec1": "disable",
       "sec2": "disable",
-      "genero1": ["Accion", "Fantasia"],
-
+      "genero1": "Accion",
+      "genero2": "Ciencia Ficcion",
+      "genero3": "Drama",
+      "genero4": "Militar",
+      "generos": [
+        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {
+          "genero": "Ciencia Ficción",
+          "link": "/animes=filtros?genero=Ciencia Ficcion"
+        },
+        { "genero": "Drama", "link": "/animes=filtros?genero=Drama" },
+        { "genero": "Militar", "link": "/animes=filtros?genero=Militar" }
+      ],
       "sec3": "disable",
       "image": "https://i.postimg.cc/05n5SBsC/dolls-frontline.jpg",
       "estado": "Finalizado",
