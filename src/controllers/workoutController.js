@@ -1,13 +1,21 @@
 const workoutService = require("../services/workoutService");
 
+const options = {
+  page: 1,
+  limit: 25,
+};
+
 const getAllWorkouts = (req, res) => {
   const { mode, name, year } = req.query;
   try {
-    const allWorkouts = workoutService.getAllWorkouts({
-      mode,
-      name,
-      year,
-    });
+    const allWorkouts = workoutService.paginate(
+      {
+        mode,
+        name,
+        year,
+      },
+      options
+    );
     res.send(allWorkouts);
   } catch (error) {
     res
