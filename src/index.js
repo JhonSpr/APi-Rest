@@ -7,7 +7,7 @@ const v1FinalizadosRouter = require("./v1/routes/finalizadosRoutes");
 const { swaggerDocs: V1SwaggerDocs } = require("./v1/swagger");
 
 const app = express();
-const PORT = process.env.PORT || 3002;
+const PORT = process.env.PORT;
 const cache = apicache.middleware;
 app.use(cors());
 app.use(express.json());
