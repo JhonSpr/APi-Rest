@@ -11,16 +11,6 @@
       "classEstado": "tag is-success airing"
     },
     {
-      "id": "BLEACH: Sennen Kessen-hen",
-      "mode": "TV",
-      "image": "https://i.postimg.cc/qBYYWBJZ/bleach-sennen-kessen-hen.jpg",
-      "anime": "BLEACH Sennen Kessen-hen",
-      "name": "bleach sennen kessen hen",
-      "year": 2022,
-      "estado": "Finalizado",
-      "classEstado": "tag is-success end"
-    },
-    {
       "id": "Yowamushi Pedal Limit Break",
       "mode": "TV",
       "image": "https://i.postimg.cc/fyj83sdY/yowamushi-pedal-limit-break.jpg",
