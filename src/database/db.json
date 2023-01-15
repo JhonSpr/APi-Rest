@@ -17,7 +17,7 @@
       "genero1": "Accion",
       "genero2": "Ciencia Ficcion",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Ciencia Ficción",
           "link": "/animes=filtros?genero=Ciencia Ficcion"
@@ -45,7 +45,7 @@
       "genero3": "Shoune",
       "genero4": "Aventuras",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Aventuras",
           "link": "/animes=filtros?genero=Aventuras"
@@ -81,7 +81,7 @@
       "genero5": "Psicologico",
       "genero6": "Seinen",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Aventuras",
           "link": "/animes=filtros?genero=Aventuras"
@@ -122,7 +122,7 @@
       "genero1": "Seinen",
       "genero2": "Sobrenatural",
       "generos": [
-        { "genero": "Seinen", "link": "/animes=filtros?genero=Seinen" },
+        {"genero": "Seinen", "link": "/animes=filtros?genero=Seinen"},
         {
           "genero": "Sobrenatural",
           "link": "/animes=filtros?genero=Sobrenatural"
@@ -152,7 +152,7 @@
       "genero5": "Fantasia",
       "genero6": "Magia",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Aventuras",
           "link": "/animes=filtros?genero=Aventuras"
@@ -193,7 +193,7 @@
       "genero1": "Accion",
       "genero2": "Fantasia",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Fantasia",
           "link": "/animes=filtros?genero=Fantasia"
@@ -259,7 +259,7 @@
       "genero4": "Fantasia",
       "genero5": "Seinen",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Aventuras",
           "link": "/animes=filtros?genero=Aventuras"
@@ -296,7 +296,7 @@
       "genero1": "Fantasia",
       "genero2": "Shounen",
       "generos": [
-        { "genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia" },
+        {"genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia"},
         {
           "genero": "Shounen",
           "link": "/animes=filtros?genero=Shounen"
@@ -325,7 +325,7 @@
       "genero5": "Sobrenatural",
       "genero6": "Terror",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Demonios",
           "link": "/animes=filtros?genero=Demonios"
@@ -372,7 +372,7 @@
       "genero5": "Magia",
       "genero6": "Sobrenatural",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Aventuras",
           "link": "/animes=filtros?genero=Aventuras"
@@ -420,7 +420,7 @@
       "genero5": "Horror",
       "genero6": "Vamipiros",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Demonios",
           "link": "/animes=filtros?genero=Demonios"
@@ -469,7 +469,7 @@
       "genero5": "Magia",
       "genero6": "Sobrenatural",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Aventuras",
           "link": "/animes=filtros?genero=Aventuras"
@@ -515,7 +515,7 @@
       "genero4": "Shounen",
       "genero5": "Sobrenatural",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Demonios",
           "link": "/animes=filtros?genero=Demonios"
@@ -557,7 +557,7 @@
       "genero4": "Magia",
       "genero5": "Sobrenatural",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Demonios",
           "link": "/animes=filtros?genero=Demonios"
@@ -596,7 +596,7 @@
       "genero2": "Ciencia Ficcion",
       "genero3": "Shoune",
       "generos": [
-        { "genero": "Aventuras", "link": "/animes=filtros?genero=Aventuras" },
+        {"genero": "Aventuras", "link": "/animes=filtros?genero=Aventuras"},
         {
           "genero": "Ciencia Ficción",
           "link": "/animes=filtros?genero=Ciencia Ficcion"
@@ -624,7 +624,7 @@
       "genero1": "Fantasia",
       "genero2": "Isekai",
       "generos": [
-        { "genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia" },
+        {"genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia"},
         {
           "genero": "Isekai",
           "link": "/animes=filtros?genero=Isekai"
@@ -651,7 +651,7 @@
       "genero3": "Fantasia",
       "genero4": "Magia",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Demonios",
           "link": "/animes=filtros?genero=Demonios"
@@ -688,7 +688,7 @@
       "genero5": "Harem",
       "genero6": "Romance",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Aventuras",
           "link": "/animes=filtros?genero=Aventuras"
@@ -727,7 +727,7 @@
       "genero2": "Escolares",
       "genero3": "Psicologico",
       "generos": [
-        { "genero": "Drama", "link": "/animes=filtros?genero=Drama" },
+        {"genero": "Drama", "link": "/animes=filtros?genero=Drama"},
         {
           "genero": "Escolares",
           "link": "/animes=filtros?genero=Escolares"
@@ -762,7 +762,7 @@
       "genero2": "Comedia",
       "genero3": "Shoune",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Comedia",
           "link": "/animes=filtros?genero=Comedia"
@@ -823,7 +823,7 @@
 
     {
       "id": "Tate no Yuusha no Naraigari",
-      "name": "tate no yuusha no Naraigari",
+      "name": "tate no yuusha no naraigari tv",
       "anime": "Tate no Yuusha no Naraigari",
       "mode": "TV",
       "descripcion": "Iwatani Naofumi es el típico otaku, al menos hasta que un día encuentra en la biblioteca un libro que lo transporta a otro mundo. Allí se convertirá en el Héroe del Escudo, uno de los Cuatro Héroes Cardinales, y tendrá que luchar contra las Olas de la Catástrofe junto a los héroes de la espada, la lanza y el arco. Emocionado ante la perspectiva de vivir una gran aventura, Naofumi parte de viaje con su grupo. No obstante, al cabo de unos pocos días lo traicionan y pierde su dinero, su dignidad y el respeto de los que le rodean.",
@@ -844,7 +844,7 @@
       "genero5": "Fantasia",
       "genero6": "Seinen",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Aventuras",
           "link": "/animes=filtros?genero=Aventuras"
@@ -889,7 +889,7 @@
       "genero3": "Drama",
       "genero4": "Fantasia",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Aventuras",
           "link": "/animes=filtros?genero=Aventuras"
@@ -951,7 +951,7 @@
       "genero5": "Sobrenatural",
       "year": 2022,
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Drama",
           "link": "/animes=filtros?genero=Drama"
@@ -990,7 +990,7 @@
       "genero4": "Misterio",
       "genero5": "Shounen",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Aventuras",
           "link": "/animes=filtros?genero=Aventuras"
@@ -1028,8 +1028,8 @@
       "genero1": "Deportes",
       "genero2": "Musica",
       "generos": [
-        { "genero": "Deportes", "link": "/animes=filtros?genero=Deportes" },
-        { "genero": "Musica", "link": "/animes=filtros?genero=Musica" }
+        {"genero": "Deportes", "link": "/animes=filtros?genero=Deportes"},
+        {"genero": "Musica", "link": "/animes=filtros?genero=Musica"}
       ],
       "classEstado": "tag is-success end"
     },
@@ -1048,8 +1048,8 @@
       "genero1": "Fantasia",
       "genero2": "Historico",
       "generos": [
-        { "genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia" },
-        { "genero": "Historico", "link": "/animes=filtros?genero=Historico" }
+        {"genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia"},
+        {"genero": "Historico", "link": "/animes=filtros?genero=Historico"}
       ],
       "year": 2022,
       "classEstado": "tag is-success end"
@@ -1064,7 +1064,7 @@
       "sec2": "disable",
       "genero1": "Deportes",
       "generos": [
-        { "genero": "Deportes", "link": "/animes=filtros?genero=Deportes" }
+        {"genero": "Deportes", "link": "/animes=filtros?genero=Deportes"}
       ],
       "sec3": "disable",
       "image": "https://i.postimg.cc/wxmcTDYH/tribe-nine.jpg",
@@ -1084,7 +1084,7 @@
       "genero1": "Accion",
       "genero2": "Romance",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Romance",
           "link": "/animes=filtros?genero=Romance"
@@ -1110,9 +1110,9 @@
       "genero2": "Aventuras",
       "genero3": "Fantasia",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
-        { "genero": "Aventuras", "link": "/animes=filtros?genero=Aventuras" },
-        { "genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia" }
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Aventuras", "link": "/animes=filtros?genero=Aventuras"},
+        {"genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia"}
       ],
       "sec3": "disable",
       "episodios": 12,
@@ -1132,8 +1132,8 @@
       "genero1": "Escolares",
       "genero2": "Yaoi",
       "generos": [
-        { "genero": "Escolares", "link": "/animes=filtros?genero=Escolares" },
-        { "genero": "Yaoi", "link": "/animes=filtros?genero=Yaoi" }
+        {"genero": "Escolares", "link": "/animes=filtros?genero=Escolares"},
+        {"genero": "Yaoi", "link": "/animes=filtros?genero=Yaoi"}
       ],
       "sec3": "disable",
       "image": "https://i.postimg.cc/PJyqr6t2/sasaki-to-miyano.jpg",
@@ -1165,12 +1165,12 @@
       "genero3": "Magia",
       "genero4": "Superpoderes",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Ciencia Ficción",
           "link": "/animes=filtros?genero=Ciencia Ficcion"
         },
-        { "genero": "Magia", "link": "/animes=filtros?genero=Magia" },
+        {"genero": "Magia", "link": "/animes=filtros?genero=Magia"},
         {
           "genero": "Superpoderes",
           "link": "/animes=filtros?genero=Superpoderes"
@@ -1199,16 +1199,16 @@
       "genero6": "Sobrenatural",
       "genero7": "Terror",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
-        { "genero": "Drama", "link": "/animes=filtros?genero=Drama" },
-        { "genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia" },
-        { "genero": "Militar", "link": "/animes=filtros?genero=Militar" },
-        { "genero": "Seinen", "link": "/animes=filtros?genero=Seinen" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Drama", "link": "/animes=filtros?genero=Drama"},
+        {"genero": "Fantasia", "link": "/animes=filtros?genero=Fantasia"},
+        {"genero": "Militar", "link": "/animes=filtros?genero=Militar"},
+        {"genero": "Seinen", "link": "/animes=filtros?genero=Seinen"},
         {
           "genero": "Sobrenatural",
           "link": "/animes=filtros?genero=Sobrenatural"
         },
-        { "genero": "Terror", "link": "/animes=filtros?genero=Terror" }
+        {"genero": "Terror", "link": "/animes=filtros?genero=Terror"}
       ],
       "sec3": "disable",
       "estado": "Finalizado",
@@ -1227,13 +1227,13 @@
       "genero3": "Drama",
       "genero4": "Militar",
       "generos": [
-        { "genero": "Accion", "link": "/animes=filtros?genero=Accion" },
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
           "genero": "Ciencia Ficción",
           "link": "/animes=filtros?genero=Ciencia Ficcion"
         },
-        { "genero": "Drama", "link": "/animes=filtros?genero=Drama" },
-        { "genero": "Militar", "link": "/animes=filtros?genero=Militar" }
+        {"genero": "Drama", "link": "/animes=filtros?genero=Drama"},
+        {"genero": "Militar", "link": "/animes=filtros?genero=Militar"}
       ],
       "sec3": "disable",
       "image": "https://i.postimg.cc/05n5SBsC/dolls-frontline.jpg",
