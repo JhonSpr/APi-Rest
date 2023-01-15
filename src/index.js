@@ -4,10 +4,10 @@ const cors = require("cors");
 const v1WorkoutRouter = require("./v1/routes/workoutRoutes");
 const v1EmisionesRouter = require("./v1/routes/emisionesRoutes");
 const v1FinalizadosRouter = require("./v1/routes/finalizadosRoutes");
-const { swaggerDocs: V1SwaggerDocs } = require("./v1/swagger");
+const {swaggerDocs: V1SwaggerDocs} = require("./v1/swagger");
 
 const app = express();
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 3000;
 const cache = apicache.middleware;
 app.use(cors());
 app.use(express.json());

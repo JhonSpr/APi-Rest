@@ -1,5 +1,5 @@
 const DB = require("./db.json");
-const { saveToDatabase } = require("./utils");
+const {saveToDatabase} = require("./utils");
 
 /**
  * @openapi
@@ -44,24 +44,29 @@ const getAllWorkouts = (filterParams) => {
     let workouts = DB.workouts;
     if (filterParams.mode) {
       return DB.workouts.filter((workout) =>
-        workout.mode.toLowerCase().includes(filterParams.mode)
+        workout.mode.toLowerCase().includes(filterParams.mode),
       );
     }
     if (filterParams.name) {
       return DB.workouts.filter((workout) =>
-        workout.name.toLowerCase().includes(filterParams.name)
+        workout.name.toLowerCase().includes(filterParams.name),
       );
     }
 
     if (filterParams.year) {
       return DB.workouts.filter(
-        (workout) => workout.year === Number(filterParams.year)
+        (workout) => workout.year === Number(filterParams.year),
+      );
+    }
+    if (filterParams.estado) {
+      return DB.workouts.filter(
+        (workout) => workout.estado == String(filterParams.estado),
       );
     }
 
     return workouts;
   } catch (error) {
-    throw { status: 500, message: error };
+    throw {status: 500, message: error};
   }
 };
 
@@ -78,7 +83,7 @@ const getOneWorkout = (workoutId) => {
 
     return workout;
   } catch (error) {
-    throw { status: error?.status || 500, message: error?.message || error };
+    throw {status: error?.status || 500, message: error?.message || error};
   }
 };
 
@@ -99,7 +104,7 @@ const createNewWorkout = (newWorkout) => {
 
     return newWorkout;
   } catch (error) {
-    throw { status: 500, message: error?.message || error };
+    throw {status: 500, message: error?.message || error};
   }
 };
 
@@ -116,7 +121,7 @@ const updateOneWorkout = (workoutId, changes) => {
     }
 
     const indexForUpdate = DB.workouts.findIndex(
-      (workout) => workout.id === workoutId
+      (workout) => workout.id === workoutId,
     );
 
     if (indexForUpdate === -1) {
@@ -129,7 +134,7 @@ const updateOneWorkout = (workoutId, changes) => {
     const updatedWorkout = {
       ...DB.workouts[indexForUpdate],
       ...changes,
-      updatedAt: new Date().toLocaleString("en-US", { timeZone: "UTC" }),
+      updatedAt: new Date().toLocaleString("en-US", {timeZone: "UTC"}),
     };
 
     DB.workouts[indexForUpdate] = updatedWorkout;
@@ -137,14 +142,14 @@ const updateOneWorkout = (workoutId, changes) => {
 
     return updatedWorkout;
   } catch (error) {
-    throw { status: error?.status || 500, message: error?.message || error };
+    throw {status: error?.status || 500, message: error?.message || error};
   }
 };
 
 const deleteOneWorkout = (workoutId) => {
   try {
     const indexForDeletion = DB.workouts.findIndex(
-      (workout) => workout.id === workoutId
+      (workout) => workout.id === workoutId,
     );
     if (indexForDeletion === -1) {
       throw {
@@ -155,7 +160,7 @@ const deleteOneWorkout = (workoutId) => {
     DB.workouts.splice(indexForDeletion, 1);
     saveToDatabase(DB);
   } catch (error) {
-    throw { status: error?.status || 500, message: error?.message || error };
+    throw {status: error?.status || 500, message: error?.message || error};
   }
 };
 
