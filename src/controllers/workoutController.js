@@ -1,15 +1,17 @@
-const workoutService = require("../services/workoutService");
+const animeService = require("../services/workoutService");
 
 const getAllWorkouts = (req, res) => {
-  const {mode, name, year, estado} = req.query;
+  const {mode, name, year, estado, episodios, page} = req.query;
   try {
-    const allWorkouts = workoutService.getAllWorkouts({
+    const animes = animeService.getAllWorkouts({
       mode,
       name,
       year,
       estado,
+      episodios,
+      page,
     });
-    res.send(allWorkouts);
+    res.send(animes);
   } catch (error) {
     res
       .status(error?.status || 500)
@@ -31,7 +33,7 @@ const getOneWorkout = (req, res) => {
   }
 
   try {
-    const workout = workoutService.getOneWorkout(workoutId);
+    const workout = animeervice.getOneWorkout(workoutId);
     res.send({workout});
   } catch (error) {
     res
@@ -44,31 +46,58 @@ const createNewWorkout = (req, res) => {
   const {body} = req;
 
   if (
+    !body.id ||
     !body.name ||
+    !body.anime ||
     !body.mode ||
-    !body.equipment ||
-    !body.exercises ||
-    !body.trainerTips
+    !body.descripcion ||
+    !body.image ||
+    !body.estado ||
+    !body.year ||
+    !body.classEstado ||
+    !body.episodios ||
+    !body.sec1 ||
+    !body.sec2 ||
+    !body.sec3 ||
+    !body.generos ||
+    !body.genero1 ||
+    !body.genero2 ||
+    !body.genero3 ||
+    !body.genero4 ||
+    !body.genero5 ||
+    !body.genero6 ||
+    !body.genero7
   ) {
     res.status(400).send({
       status: "FAILED",
       data: {
-        error:
-          "One of the following keys is missing or is empty in request body: 'name', 'mode', 'equipment', 'exercises', 'trainerTips'",
+        error: "No se Pudo Crear",
       },
     });
   }
 
   const newWorkout = {
+    id: body.id,
     name: body.name,
     mode: body.mode,
-    equipment: body.equipment,
-    exercises: body.exercises,
-    trainerTips: body.trainerTips,
+    anime: body.anime,
+    descripcion: body.descripcion,
+    year: body.year,
+    image: body.image,
+    estado: body.estado,
+    classEstado: body.classEstado,
+    generos: body.generos,
+    genero1: body.genero1,
+    genero2: body.genero2,
+    genero3: body.genero3,
+    genero4: body.genero4,
+    genero5: body.genero5,
+    genero6: body.genero6,
+    genero7: body.genero7,
   };
 
   try {
-    const createdWorkout = workoutService.createNewWorkout(newWorkout);
+    const createdWorkout = animeService.createNewWorkout(newWorkout);
     res.status(201).send({status: "OK", data: createdWorkout});
   } catch (error) {
     res
@@ -91,7 +120,7 @@ const updateOneWorkout = (req, res) => {
   }
 
   try {
-    const updatedWorkout = workoutService.updateOneWorkout(workoutId, body);
+    const updatedWorkout = animeService.updateOneWorkout(workoutId, body);
     res.send({status: "OK", data: updatedWorkout});
   } catch (error) {
     res
@@ -113,7 +142,7 @@ const deleteOneWorkout = (req, res) => {
   }
 
   try {
-    workoutService.deleteOneWorkout(workoutId);
+    animeService.deleteOneWorkout(workoutId);
     res.status(204).send({status: "OK"});
   } catch (error) {
     res

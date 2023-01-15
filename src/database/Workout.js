@@ -1,3 +1,4 @@
+const e = require("express");
 const DB = require("./db.json");
 const {saveToDatabase} = require("./utils");
 
@@ -63,7 +64,14 @@ const getAllWorkouts = (filterParams) => {
         (workout) => workout.estado == String(filterParams.estado),
       );
     }
-
+    if (filterParams.episodios) {
+      return DB.workouts.filter(
+        (anime) => anime.episodios === Number(filterParams.episodios),
+      );
+    }
+    if (filterParams.page) {
+      return DB.workouts.filter((e) => e.page === Number(filterParams.page));
+    }
     return workouts;
   } catch (error) {
     throw {status: 500, message: error};
