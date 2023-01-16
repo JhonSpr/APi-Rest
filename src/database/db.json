@@ -2709,7 +2709,25 @@
       "year": 2020,
       "descripcion": "Ha pasado un siglo desde que el rey Kyle del reino de Orvelia destruyó al feroz señor demonio Angmund, restaurando la paz en las tierras. Pero la serenidad no estaba destinada a durar para siempre, con la noticia de las nuevas apariciones de demonios llegando al oído del joven escudero Kasel, quien reúne a un grupo de compañeros que se embarcan en un viaje para localizar la legendaria espada sagrada para derrotar a los nuevos enemigos.",
       "episodios": 26,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Aventuras",
+      "genero3": "Fantasia",
+      "genero4": "Magia",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Aventuras",
+          "link": "/animes=filtros?genero=Aventuras"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Magia",
+          "link": "/animes=filtros?genero=Magia"
+        }
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -2724,7 +2742,28 @@
       "anime": "Danmachi III",
       "descripcion": "Tercera Temporada de Danmachi",
       "episodios": 12,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Aventuras",
+      "genero3": "Romance",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Aventuras",
+          "link": "/animes=filtros?genero=Aventuras"
+        },
+        {
+          "genero": "Comedia",
+          "link": "/animes=filtros?genero=Comedia"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Romance",
+          "link": "/animes=filtros?genero=Romance"
+        }
+      ],
       "textoSecuela": "Precuela",
       "textoSecuela2": "Historia Paralela",
       "textoSecuela3": "Secuela",
@@ -2748,7 +2787,25 @@
       "estado": "Finalizado",
       "descripcion": "Segunda Temporada de Danmachi",
       "episodios": 13,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Comedia",
+      "genero3": "Romance",
+      "genero4": "Shounen",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Comedia",
+          "link": "/animes=filtros?genero=Comedia"
+        },
+        {
+          "genero": "Romance",
+          "link": "/animes=filtros?genero=Romance"
+        },
+        {
+          "genero": "Shounen",
+          "link": "/animes=filtros?genero=Shounen"
+        }
+      ],
       "textoSecuela": "Precuela",
       "textoSecuela2": "Secuela",
       "nombreSecuela": "Danmachi",
@@ -2769,7 +2826,25 @@
       "estado": "Finalizado",
       "descripcion": "Segunda parte de Sword Art Online: Alicization - War of Underworld",
       "episodios": 11,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Aventuras",
+      "genero3": "Fantasia",
+      "genero4": "Romance",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Aventuras",
+          "link": "/animes=filtros?genero=Aventuras"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Romance",
+          "link": "/animes=filtros?genero=Romance"
+        }
+      ],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Sword Art Online: Alicization - War of Underworld",
       "linksec1": "sword-art-online-alicization-war-of-underworld",
@@ -2787,7 +2862,20 @@
       "anime": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Temporada Parte 1",
       "descripcion": "Segunda Temporada de Re:zero",
       "episodios": 13,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Drama",
+      "genero2": "Fantasia",
+      "genero3": "Psicologico",
+      "generos": [
+        {"genero": "Drama", "link": "/animes=filtros?genero=Drama"},
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Psicologico",
+          "link": "/animes=filtros?genero=Psicologico"
+        }
+      ],
       "textoSecuela": "Precuela",
       "textoSecuela2": "Secuela",
       "nombreSecuela": "Re:zero Kara Hajimeru Isekai SeiKatsu: Shin Henshuu-Ban (Nueva Edición)",
@@ -2808,7 +2896,25 @@
       "name": "noragami aragoto",
       "estado": "Finalizado",
       "year": 2015,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Aventuras",
+      "genero3": "Comedia",
+      "genero4": "Sobrenatural",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Aventuras",
+          "link": "/animes=filtros?genero=Aventuras"
+        },
+        {
+          "genero": "Comedia",
+          "link": "/animes=filtros?genero=Comedia"
+        },
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?genero=Sobrenatural"
+        }
+      ],
       "descripcion": "Segunda Temporada de noragami",
       "episodios": 13,
       "textoSecuela": "Precuela",
@@ -2827,7 +2933,25 @@
       "name": "noragami",
       "estado": "Finalizado",
       "year": 2014,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Aventuras",
+      "genero3": "Romance",
+      "genero4": "Sobrenatural",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Aventuras",
+          "link": "/animes=filtros?genero=Aventuras"
+        },
+        {
+          "genero": "Comedia",
+          "link": "/animes=filtros?genero=Comedia"
+        },
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?genero=Sobrenatural"
+        }
+      ],
       "descripcion": "Yato es un dios menor que sueña con tener una gran cantidad de seguidores que lo adoren y recen plegarias por él. Desafortunadamente, su sueño está lejos de hacerse realidad, debido a que no tiene ni siquiera un solo santuario dedicado a su persona. Para empeorar las cosas, la única socia que tenía para ayudar a resolver los problemas de la gente acaba de renunciar. Su divina suerte sólo podría cambiar cuando conoce a Hiyori Iki, una estudiante de secundaria. Tras verse involucrada en un accidente, Hiyori se convierte en una han'yō o semi-fantasma. Metida en un lío bastante grande, la joven decide quedarse con Yato hasta que consiga recuperar su antiguo estado como humana. Junto a Hiyori y su nuevo shinki (tesoro sagrado o regalía) Yukine, Yato hará todo lo que pueda para ganar fama, reconocimiento y sólo tal vez, una capilla dedicada a él también.",
       "episodios": 14,
       "textoSecuela": "Secuela",
@@ -2844,7 +2968,20 @@
       "image": "https://i.postimg.cc/RFxhPx33/spy-x-family-cour-2.jpg",
       "anime": "Spy x Family 2nd Temporada",
       "episodios": 13,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Comedia",
+      "genero3": "Escolares",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Comedia",
+          "link": "/animes=filtros?genero=Comedia"
+        },
+        {
+          "genero": "Escolares",
+          "link": "/animes=filtros?genero=Escolares"
+        }
+      ],
       "name": "spy x family 2nd temporada",
       "descripcion": "Segunda Temporada de SPY x FAMILY",
       "textoSecuela": "Precuela",
@@ -2866,7 +3003,20 @@
       "estado": "Finalizado",
       "descripcion": "Segunda Temporada de Tokyo Ghoul:re",
       "episodios": 12,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Horror",
+      "genero3": "Romance",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Horror",
+          "link": "/animes=filtros?genero=Horror"
+        },
+        {
+          "genero": "Romance",
+          "link": "/animes=filtros?genero=Romance"
+        }
+      ],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Tokyo Ghoul:Re",
       "linksec1": "/tokyo-ghoul-re",
@@ -2885,12 +3035,25 @@
       "estado": "Finalizado",
       "descripcion": "Dos años después del ataque del CCG al Anteiku, la ciudad de Tokio cambia drásticamente debido a la influencia del CCG. Además, los ghouls siguen siendo un problema, pues ahora se han vuelto más cautos. Sin embargo, se creará la nueva escuadra experimental Quinx para mantenerlos a raya, un grupo liderado por un mitad ghoul, mitad humano.",
       "episodios": 12,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Horror",
+      "genero3": "Romance",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Horror",
+          "link": "/animes=filtros?genero=Horror"
+        },
+        {
+          "genero": "Romance",
+          "link": "/animes=filtros?genero=Romance"
+        }
+      ],
       "textoSecuela": "Precuela",
       "textoSecuela2": "Secuela",
       "nombreSecuela": "Tokyo Ghoul √A",
       "nombreSecuela2": "Tokyo Ghoul:re 2",
-      "linksec1": "/tokyo-ghoul-radic-a",
+      "linksec1": "/tokyo-ghoul-√a",
       "linksec2": "/tokyo-ghoul-re-2",
       "sec3": "disable",
       "year": 2018,
@@ -2906,7 +3069,20 @@
       "estado": "Finalizado",
       "descripcion": "En un futuro distante, la humanidad ha creado ciudades fortificadas llamadas Plantaciones, que funcionan como refugio para las personas, pues el suelo de la Tierra está arruinado. Dentro de estas ciudades futuristas, niños y niñas son entrenados para pilotar robots gigantes llamados Franxx, sin saber nada del mundo exterior. Estos jóvenes pilotos son conocidos como parásitos y son enviados a misiones a bordo de los Franxx para combatir a misteriosos enemigos llamados Klaxosaurios. Sin embargo, esta lucha oculta un problema aún mayor.",
       "episodios": 26,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Ciencia Ficcion",
+      "genero3": "Drama",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Ciencia Ficción",
+          "link": "/animes=filtros?genero=Ciencia Ficcion"
+        },
+        {
+          "genero": "Drama",
+          "link": "/animes=filtros?genero=Drama"
+        }
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -2922,7 +3098,25 @@
       "name": "goblin slayer",
       "descripcion": "En un mundo de fantasía, los aventureros de todas partes se unen al Gremio, a fin de completar contratos de cualquier trabajo disponible que incluya la caza de diversos tipos de monstruos que vagan por la tierra u otro tipo de misión que sea ofrecida. Una sacerdotisa inexperta junto a un grupo de novatos forman su primer grupo de aventuras, aceptando un contrato para destruir un nido de goblins, sin embargo la falta de experiencia y exceso de confianza de los integrantes les juega una mala pasada y el resto de su grupo es eliminado. Sorpresivamente, ella es salvada por un hombre conocido como Goblin Slayer, un aventurero cuyo único propósito es la erradicación de los goblins con una dedicación extrema.",
       "episodios": 13,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Fantasia",
+      "genero3": "Horror",
+      "genero4": "Magia",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Horror",
+          "link": "/animes=filtros?genero=Horror"
+        },
+        {
+          "genero": "Magia",
+          "link": "/animes=filtros?genero=Magia"
+        }
+      ],
       "textoSecuela": "Secuela",
       "nombreSecuela": "Goblin Slayer: Goblin's Crown",
       "linksec1": "/goblin-slayer-goblins-crown",
@@ -2938,10 +3132,23 @@
       "mode": "TV",
       "image": "https://i.postimg.cc/GhDgB96w/knights-and-magic.jpg",
       "anime": "Knights and Magic",
-      "name": "knights & magic",
+      "name": "knights and magic",
       "descripcion": "Un otaku de los mechas ve cumplido su sueño al morir en un accidente y reencarnarse en otro mundo como Ernesti Echevarria, o simplemente Eru. Pues aunque comienza una nueva vida, sigue recordando su pasión y hará todo lo posible para poder pilotar un Silhouette Knight, un robot que existe en su nueva realidad.",
       "episodios": 13,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Escolares",
+      "genero3": "Fantasia",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Escolares",
+          "link": "/animes=filtros?genero=Escolares"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        }
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -2954,10 +3161,33 @@
       "mode": "TV",
       "image": "https://i.postimg.cc/rwLn5MLd/tokyo-ghoul-radic-a.jpg",
       "anime": "Tokyo Ghoul √A",
-      "name": "tokyo ghoul √A",
+      "name": "tokyo ghoul √a",
       "descripcion": "Segunda temporada de Tokyo Ghoul",
       "episodios": 12,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Drama",
+      "genero3": "Fantasia",
+      "genero4": "Horror",
+      "genero5": "Romance",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Drama",
+          "link": "/animes=filtros?genero=Drama"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Horror",
+          "link": "/animes=filtros?genero=Horror"
+        },
+        {
+          "genero": "Romance",
+          "link": "/animes=filtros?genero=Romance"
+        }
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -2972,13 +3202,36 @@
       "image": "https://i.postimg.cc/9fmLNb0C/tokyo-ghoul.jpg",
       "anime": "Tokyo Ghoul",
       "name": "tokyo ghoul",
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Drama",
+      "genero3": "Fantasia",
+      "genero4": "Horror",
+      "genero5": "Romance",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Drama",
+          "link": "/animes=filtros?genero=Drama"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Horror",
+          "link": "/animes=filtros?genero=Horror"
+        },
+        {
+          "genero": "Romance",
+          "link": "/animes=filtros?genero=Romance"
+        }
+      ],
       "estado": "Finalizado",
       "descripcion": "En Tokio ocurren varias muertes, cometidas por Ghouls, seres desconocidos que sobreviven a base de carne humana. Un día Ken Kaneki, un joven de 18 años conoce a una chica llamada Rize Kamishiro en una cafetería y la invita a salir. Tras una cita aparentemente normal, Kaneki se ofrece a acompañarla a su casa. Al entrar a un callejón es atacado por ella, quien resulta ser un Ghoul. Durante el ataque, Kaneki es salvado por la caída de unas vigas que matan a Rize antes de que pueda matarlo, pero lo deja terriblemente herido. Debido a la gravedad de sus heridas, recibe un trasplante de órganos por el ghoul atacante (Rize Kamishiro). Así, Kaneki termina convirtiéndose en un ser mitad Ghoul y mitad Humano, de ahora en adelante deberá vivir escondiéndose de los humanos sin tener a quién recurrir. Conoce a unos Ghouls quienes trabajan en la cafetería donde conoció a Rize y se entera que los trabajadores de esa cafetería también resultan ser ghouls que sobreviven a base de cafe, ya que el cafe es el único gusto que comparten los Ghouls y los humanos. Lo demás es rechazado por el estómago de los Ghouls, salvo la carne humana, que han de consumir cada cierto tiempo.Durante el transcurso de la historia Kaneki conocerá a nuevos compañeros y verá el lado oscuro de tanto la humanidad como de los Ghouls.",
       "episodios": 12,
       "textoSecuela": "Secuela",
       "nombreSecuela": "Tokyo Ghoul √A",
-      "linksec1": "/tokyo-ghoul-radic-a",
+      "linksec1": "/tokyo-ghoul-√a",
       "sec2": "disable",
       "sec3": "disable",
       "year": 2014,
@@ -2993,7 +3246,25 @@
       "name": "id invaded",
       "descripcion": "Ambientada en un mundo virtual, la identificación visualmente impresionante ID:INVADED sigue a Sakaido, un detective que busca resolver el espeluznante asesinato de Kaeru, una joven. Pero resolver este caso es diferente a cualquier otro, ya que el mundo comienza a retorcerse y dar la vuelta a Sakaido, desafiando lo que él piensa y cree.",
       "episodios": 13,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Drama",
+      "genero3": "Misterio",
+      "genero4": "Ciencia Ficcion",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Drama",
+          "link": "/animes=filtros?genero=Drama"
+        },
+        {
+          "genero": "Misterio",
+          "link": "/animes=filtros?genero=Misterio"
+        },
+        {
+          "genero": "Ciencia Ficción",
+          "link": "/animes=filtros?genero=Ciencia Ficcion"
+        }
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -3008,9 +3279,29 @@
       "image": "https://i.postimg.cc/d3PdgQ6r/levius.jpg",
       "anime": "Levius",
       "name": "levius",
+      "descripcion": "En una era en la que las máquinas funcionan con vapor, y tecnología se fusiona con nuestros cuerpos para hacer combates de cyber-boxeo increíblemente populares. Un chico llamado Levius entra en esas batallas pensando que solo podía ser el destino, pero su talento decidirá su futuro.",
+      "episodios": 12,
+      "genero1": "Accion",
+      "genero2": "Arte Marciales",
+      "genero3": "Ciencia Ficcion",
+      "genero4": "Seinen",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Arte Marciales",
+          "link": "/animes=filtros?genero=Arte Marciales"
+        },
+        {
+          "genero": "Ciencia Ficción",
+          "link": "/animes=filtros?genero=Ciencia Ficcion"
+        },
+        {
+          "genero": "Seinen",
+          "link": "/animes=filtros?genero=Seinen"
+        }
+      ],
       "estado": "Finalizado",
       "year": 2019,
-      "genero1": ["Accion", "Fantasia"],
       "classEstado": "tag is-success end",
       "page": 5
     },
@@ -3023,7 +3314,15 @@
       "year": 2022,
       "descripcion": "Denji es un adolescente que vive con un demonio motosierra llamado Pochita. Debido a la deuda que dejó su padre, ha estado viviendo una vida por los suelos mientras paga su deuda recolectando cadáveres de demonios con Pochita. Un día, Denji es traicionado y asesinado. A medida que su conciencia se desvanece, hace un contrato con Pochita y revive como chainsaw man, un hombre con un corazón de diablo.",
       "episodios": 12,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Sobrenatural",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?genero=Sobrenatural"
+        }
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -3044,31 +3343,64 @@
       "nombreSecuela": "Mob Psycho 100 II",
       "linksec1": "/mob-psycho-100-ii",
       "sec2": "disable",
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Comedia",
+      "genero3": "Sobrenatural",
+      "genero4": "Superpoderes",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Comedia", "link": "/animes=filtros?genero=Comedia"},
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?genero=Sobrenatural"
+        },
+        {
+          "genero": "Superpoderes",
+          "link": "/animes=filtros?genero=Superpoderes"
+        }
+      ],
       "sec3": "disable",
       "estado": "Finalizado",
       "classEstado": "tag is-success end",
       "page": 5
     },
     {
-      "id": "Danmachi IV",
+      "id": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV",
       "mode": "TV",
       "image": "https://i.postimg.cc/vB2jYbWT/danmachi-iv.jpg",
-      "anime": "danmachi IV",
-      "name": "danmachi iv",
+      "anime": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV",
+      "name": "dungeon ni deai wo motomeru no wa machigatteiru darou ka iv",
       "year": 2022,
-      "descripcion": "Cuarta Temporada de DanMachi",
-      "episodios": 12,
+      "descripcion": "Cuarta temporada de Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+      "episodios": 13,
       "genero1": "Accion",
-      "textoSecuela": "",
-      "textoSecuela2": "",
-      "nombreSecuela": "",
-      "nombreSecuela2": "",
+      "genero2": "Aventuras",
+      "genero3": "Comedia",
+      "genero4": "Fantasia",
+      "genero5": "Romance",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Aventuras", "link": "/animes=filtros?genero=Aventuras"},
+        {
+          "genero": "Comedia",
+          "link": "/animes=filtros?genero=Comedia"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Romance",
+          "link": "/animes=filtros?genero=Romance"
+        }
+      ],
+      "textoSecuela": "Precuela",
+      "nombreSecuela": "Danmachi III",
       "linksec1": "/danmachi-iii",
-      "linksec2": "/danmachi-iv-fuka-shou-yakusai-hen",
+      "sec2": "disable",
       "sec3": "disable",
-      "estado": "Finalizado",
-      "classEstado": "tag is-success end",
+      "estado": "En Emision",
+      "classEstado": "tag is-success airing",
       "page": 6
     },
     {
@@ -3078,7 +3410,25 @@
       "anime": "Fuufu Ijou, Koibito Miman",
       "name": "fuufu ijou koibito miman",
       "year": 2022,
-      "genero1": "Accion",
+      "genero1": "Comedia",
+      "genero2": "Drama",
+      "genero3": "Escolares",
+      "genero4": "Romance",
+      "genero": [
+        {"genero": "Comedia", "link": "/animes=filtros?genero=Fantasia"},
+        {
+          "genero": "Drama",
+          "link": "/animes=filtros?genero=Drama"
+        },
+        {
+          "genero": "Escolares",
+          "link": "/animes=filtros?genero=Escolares"
+        },
+        {
+          "genero": "Romance",
+          "link": "/animes=filtros?genero=Romance"
+        }
+      ],
       "descripcion": "La historia se desarrolla en una escuela secundaria donde los estudiantes se ven obligados a vivir como una pseudo pareja como parte de un plan de estudios. Jiro Yakuin está emparejado con Akari Watanabe, que es todo lo contrario a él, en la clase tradicional de entrenamiento marital. A sugerencia de Akari, comienzan a vivir como una pseudo pareja para obtener el derecho a intercambiar pares, que se otorga a los mejores. Practican varias actividades, como el primer beso, para ganar puntos, pero a medida que llegan a comprender las personalidades y pensamientos de los demás, sin querer se vuelven más cercanos y llegan a gustarse.",
       "episodios": 12,
       "sec1": "disable",
@@ -3094,10 +3444,35 @@
       "image": "https://i.postimg.cc/q7s4vhRR/peter-grill-to-kenja-no-jikan-super-extra.jpg",
       "anime": "Peter Grill to Kenja no Jikan Super Extra",
       "name": "peter grill to kenja no jikan super extra",
+      "descripcion": "Segunda temporada de Peter Grill to Kenja no Jikan",
+      "textoSecuela": "Precuela",
+      "nombreSecuela": "Peter Grill to Kenja no Jikan",
+      "linksec1": "/peter-grill-to-kenja-no-jikan",
+      "sec2": "disable",
+      "sec3": "disable",
       "year": 2022,
-      "genero1": "Accion",
-      "estado": "En Emision",
-      "classEstado": "tag is-success airing",
+      "genero1": "Comedia",
+      "genero2": "Ecchi",
+      "genero3": "Fantasia",
+      "genero4": "Harem",
+      "episodios": 12,
+      "generos": [
+        {"genero": "Comedia", "link": "/animes=filtros?genero=Comedia"},
+        {
+          "genero": "Ecchi",
+          "link": "/animes=filtros?genero=Ecchi"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Harem",
+          "link": "/animes=filtros?generos=Harem"
+        }
+      ],
+      "estado": "Finalizado",
+      "classEstado": "tag is-success end",
       "page": 6
     },
     {
@@ -3108,8 +3483,11 @@
       "name": "yowamushi pedal limit break",
       "year": 2022,
       "descripcion": "Quinta temporada de Yowamushi Pedal",
-      "episodios": 11,
-      "genero1": "Accion",
+      "episodios": 12,
+      "genero1": "Deportes",
+      "generos": [
+        {"genero": "Deportes", "link": "/animes=filtros?genero=Deportes"}
+      ],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Yowamushi Pedal: Glory Line",
       "linksec1": "/ywamushi-pedal-glory-line",
@@ -3127,11 +3505,14 @@
       "anime": "BLUELOCK",
       "name": "bluelock",
       "year": 2022,
-      "genero1": "Accion",
+      "genero1": "Deportes",
+      "generos": [
+        {"genero": "Deportes", "link": "/animes=filtros?genero=Deportes"}
+      ],
       "descripcion": "Después de una derrota desastrosa en la Copa del Mundo de 2018, el equipo de Japón lucha por reagruparse. Pero, ¿qué falta? Un Ace Striker absoluto, que puede guiarlos hacia la victoria. La Unión de Fútbol de Japón está empeñada en crear un delantero que tenga hambre de goles y sed de victoria, y que pueda ser el instrumento decisivo para darle la vuelta a un partido perdido... y para hacerlo, ha reunido a 300 de los mejores de Japón. y jugadores juveniles más brillantes. ¿Quién surgirá para liderar el equipo... y será capaz de superar en fuerza y ego a todos los que se interpongan en su camino?",
-      "episodios": 13,
+      "episodios": 14,
       "textoSecuela": "Proximo Episodio",
-      "nombreSecuela": "Sabado 14 de enero 2023",
+      "nombreSecuela": "Sabado 21 de enero 2023",
       "sec2": "disable",
       "sec3": "disable",
       "estado": "En Emision",
@@ -3145,15 +3526,33 @@
       "anime": "Fumetsu no Anata e Temporada 2",
       "name": "fumetsu no anata e 2nd temporada",
       "year": 2022,
-      "genero1": "Accion",
       "estado": "En Emision",
       "descripcion": "En un principio, FUSHI era un “orbe” arrojado a la Tierra. Como FUSHI, vio el fallecimiento de una niña/figura materna, un extraordinario hermano mayor, amigos en el campo de batalla y, finalmente, una anciana, lo que le permitió convertirse en algo parecido a un ser humano. Han pasado décadas. Décadas más tarde, el archienemigo de FUSHI, NOKKER, ha vuelto a poner el mundo patas arriba. El archienemigo NOKKER está de nuevo al ataque y el mundo está sumido en el caos. FUSHI debe romper su largo silencio y levantarse. Pero espera. Puede luchar solo. Pero él no puede proteger a todos, solo. ¿Luchará, sabiendo que habrá nuevas bajas, o...? FUSHI y sus guerreros se embarcan en una batalla para salvar el futuro.",
-      "episodios": 11,
+      "genero1": "Aventuras",
+      "genero2": "Drama",
+      "genero3": "Shounen",
+      "genero4": "Sobrenatural",
+      "generos": [
+        {"genero": "Aventuras", "link": "/animes=filtros?genero=Aventuras"},
+        {
+          "genero": "Drama",
+          "link": "/animes=filtros?genero=Drama"
+        },
+        {
+          "genero": "Shounen",
+          "link": "/animes=filtros?genero=Shounen"
+        },
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?generos=Sobrenatural"
+        }
+      ],
+      "episodios": 12,
       "textoSecuela": "Precuela",
       "nombreSecuela": "Fumetsu no Anata e",
       "linksec1": "/fumetsu-no-anata-e",
       "textoSecuela2": "Proximo Episodio",
-      "nombreSecuela2": "Domingo 14 de enero 2023",
+      "nombreSecuela2": "Domingo 22 de enero 2023",
       "sec3": "disable",
       "classEstado": "tag is-success airing",
       "page": 6
