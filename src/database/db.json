@@ -2653,7 +2653,25 @@
       "estado": "Finalizado",
       "descripcion": "Segunda Temporada del Psquiloco",
       "episodios": 14,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Comedia",
+      "genero3": "Fantasia",
+      "genero4": "Sobrenatural",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Comedia",
+          "link": "/animes=filtros?genero=Comedia"
+        },
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Sobrenatural",
+          "link": "/animes=filtros?genero=Sobrenatural"
+        }
+      ],
       "textoSecuela": "Precuela",
       "textoSecuela2": "Secuela",
       "nombreSecuela": "Mob Psycho 100 II",
