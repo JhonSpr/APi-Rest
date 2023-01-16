@@ -2674,7 +2674,25 @@
       "estado": "Finalizado",
       "descripcion": "El oficinista Leon se reencarna en un videojuego de simulación de citas, donde las mujeres reinan y solo los hombres hermosos tienen un asiento en la mesa. Pero Leon tiene un arma secreta: recuerda todo de su vida pasada, que incluye un juego completo del mismo juego en el que ahora está atrapado. ¿Puede Leon provocar una revolución para cambiar este nuevo orden mundial?",
       "episodios": 12,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Escolares",
+      "genero2": "Fantasia",
+      "genero3": "Harem",
+      "genero4": "Romance",
+      "generos": [
+        {"genero": "Escolares", "link": "/animes=filtros?genero=Escolares"},
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        },
+        {
+          "genero": "Harem",
+          "link": "/animes=filtros?genero=Harem"
+        },
+        {
+          "genero": "Romance",
+          "link": "/animes=filtros?genero=Romance"
+        }
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -2691,7 +2709,15 @@
       "estado": "Finalizado",
       "descripcion": "Los Pilares aparecieron repentinamente en la Tierra, representando una amenaza para todas las formas de vida. Al quedarse sin opciones para protegerse, la humanidad se encuentra al borde de la extinción, pero un dios llamado Odin les ofrece un camino hacia la salvación. Odin proclama un contraataque contra los Pilares al otorgar a la humanidad jóvenes pilotos con poderes sobrenaturales, las Valquirias y sus aviones de combate espirituales como medio de contraataque. La batalla entre la humanidad y los Pilares no ha cesado, incluso después de varios años. Las Valquirias en sus aviones de combate espirituales, así como los hombres que las apoyan, arriesgan sus vidas en los cielos para salvar la Tierra. Japón no es una excepción. Tres valquirias luchan contra enormes pilares que se elevan sobre el sagrado monte Fuji. Todos son muy hábiles, pero hasta el último de ellos es un alborotador. Un piloto as se une a ellos desde Europa, pero tiene un pasado accidentado ...Humanidad, ahora es el momento de luchar. La batalla final de Ragnarok se acerca rápidamente",
       "episodios": 12,
-      "genero1": ["Accion", "Fantasia"],
+      "genero1": "Accion",
+      "genero2": "Fantasia",
+      "generos": [
+        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {
+          "genero": "Fantasia",
+          "link": "/animes=filtros?genero=Fantasia"
+        }
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
