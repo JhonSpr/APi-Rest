@@ -1,4 +1,4 @@
-const Workout = require("../database/Workout");
+const Workout = require("../database/AnimeModel");
 
 const getAllWorkouts = (filterParams) => {
   try {

@@ -1,4 +1,4 @@
-const animeService = require("../services/workoutService");
+const animeService = require("../services/AnimeService");
 
 const getAllWorkouts = (req, res) => {
   const {mode, name, year, estado, episodios, page} = req.query;
