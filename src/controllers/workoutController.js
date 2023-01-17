@@ -115,13 +115,13 @@ const updateOneWorkout = (req, res) => {
   if (!workoutId) {
     res.status(400).send({
       status: "FAILED",
-      data: {error: "Parameter ':workoutId' can not be empty"},
+      data: {error: "No existe el anime con ese ID"},
     });
   }
 
   try {
-    const updatedWorkout = animeService.updateOneWorkout(workoutId, body);
-    res.send({status: "OK", data: updatedWorkout});
+    const animeUpdated = animeService.updateOneWorkout(workoutId, body);
+    res.send({status: "OK", data: animeUpdated});
   } catch (error) {
     res
       .status(error?.status || 500)
