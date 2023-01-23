@@ -14,6 +14,7 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "genero1": "Accion",
       "genero2": "Ciencia Ficcion",
       "generos": [
@@ -43,6 +44,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "estado": "Finalizado",
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "genero1": "Accion",
       "genero2": "Fantasia",
@@ -80,6 +82,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "year": 2022,
+      "tipo": "Anime",
       "estado": "Finalizado",
       "classEstado": "tag is-success end",
       "genero1": "Accion",
@@ -129,6 +132,7 @@
       "linksec1": "/shadows-house-2nd-temporada",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "year": 2021,
       "estado": "Finalizado",
       "genero1": "Seinen",
@@ -161,6 +165,7 @@
       "linksec1": "/tensei-shitara-slime-datta-ken-2nd-temporada-parte-1",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "genero1": "Accion",
       "genero2": "Aventuras",
       "genero3": "Comedia",
@@ -212,6 +217,7 @@
       "classEstado": "tag is-success end",
       "genero1": "Accion",
       "genero2": "Fantasia",
+      "tipo": "Anime",
       "generos": [
         {
           "genero": "Accion",
@@ -236,6 +242,7 @@
       "year": 2021,
       "episodios": 24,
       "sec1": "disable",
+      "tipo": "Anime",
       "sec2": "disable",
       "sec3": "disable",
       "classEstado": "tag is-success end",
@@ -277,6 +284,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "year": 2021,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "genero1": "Accion",
       "genero2": "Aventuras",
@@ -322,6 +330,7 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "genero1": "Fantasia",
       "genero2": "Shounen",
       "generos": [
@@ -351,6 +360,7 @@
       "li26": "disable",
       "episodios": 24,
       "descripcion": "Yuuji Itadori es un estudiante de instituto con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo del instituto para no dar un palo al agua… Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?",
+      "tipo": "Anime",
       "genero1": "Accion",
       "genero2": "Demonios",
       "genero3": "Escolares",
@@ -401,6 +411,7 @@
       "estado": "Finalizado",
       "year": 2017,
       "classEstado": "tag is-success end",
+      "tipo": "Anime",
       "episodios": 24,
       "genero1": "Accion",
       "genero2": "Aventuras",
@@ -487,6 +498,7 @@
         }
       ],
       "classEstado": "tag is-success end",
+      "tipo": "Anime",
       "page": 1
     },
     {
@@ -540,6 +552,7 @@
         }
       ],
       "classEstado": "tag is-success end",
+      "tipo": "Anime",
       "page": 1
     },
     {
@@ -587,6 +600,7 @@
       ],
       "year": 2017,
       "classEstado": "tag is-success end",
+      "tipo": "Anime",
       "page": 1
     },
     {
@@ -632,6 +646,7 @@
         }
       ],
       "classEstado": "tag is-success end",
+      "tipo": "Anime",
       "page": 1
     },
     {
@@ -667,6 +682,7 @@
         }
       ],
       "classEstado": "tag is-success end",
+      "tipo": "Anime",
       "page": 1
     },
     {
@@ -695,6 +711,7 @@
         }
       ],
       "classEstado": "tag is-success end",
+      "tipo": "Anime",
       "page": 1
     },
     {
@@ -735,6 +752,7 @@
       ],
       "episodios": 12,
       "classEstado": "tag is-success end",
+      "tipo": "Anime",
       "page": 1
     },
     {
@@ -784,6 +802,7 @@
       ],
       "descripcion": "Luchando con la vida y la sociedad, el estudiante de secundaria Michio Kaga deambula por Internet y aterriza en un sitio web extraño. El sitio web, que presenta una serie de preguntas y un sistema basado en puntos, permite crear habilidades y destrezas para un personaje. Al completar su personaje, Kaga fue transportado a un mundo de fantasía similar a un juego y renació como un hombre fuerte que puede reclamar chicas de nivel ídolo. ¡Así comienza la leyenda del engaño y el harem de un hombre renacido!",
       "classEstado": "tag is-success end",
+      "tipo": "Anime",
       "page": 1
     },
     {
@@ -817,6 +836,7 @@
       "image": "https://i.postimg.cc/02kTpXN9/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2nd-season.jpg",
       "estado": "Finalizado",
       "year": 2022,
+      "tipo": "Anime",
       "episodios": 13,
       "classEstado": "tag is-success end",
       "page": 1
@@ -835,6 +855,7 @@
       "linksec1": "/spy-x-family-2nd-temporada",
       "estado": "Finalizado",
       "genero1": "Accion",
+      "tipo": "Anime",
       "genero2": "Comedia",
       "genero3": "Shoune",
       "generos": [
@@ -871,6 +892,7 @@
       "estado": "Finalizado",
       "genero1": "Ciencia Ficcion",
       "genero2": "Comedia",
+      "tipo": "Anime",
       "genero3": "Escolares",
       "genero4": "Harem",
       "genero5": "Romance",
@@ -922,6 +944,7 @@
       "genero3": "Comedia",
       "genero4": "Drama",
       "genero5": "Fantasia",
+      "tipo": "Anime",
       "genero6": "Seinen",
       "generos": [
         {
@@ -972,6 +995,7 @@
       "genero2": "Aventuras",
       "genero3": "Drama",
       "genero4": "Fantasia",
+      "tipo": "Anime",
       "generos": [
         {
           "genero": "Accion",
@@ -1019,6 +1043,7 @@
       ],
       "year": 2022,
       "classEstado": "tag is-success end",
+      "tipo": "Anime",
       "page": 1
     },
     {
@@ -1062,6 +1087,7 @@
         }
       ],
       "classEstado": "tag is-success end",
+      "tipo": "Anime",
       "page": 2
     },
     {
@@ -1080,6 +1106,7 @@
       "genero1": "Accion",
       "genero2": "Aventuras",
       "genero3": "Drama",
+      "tipo": "Anime",
       "genero4": "Misterio",
       "genero5": "Shounen",
       "generos": [
@@ -1126,6 +1153,7 @@
       "generos": [
         {
           "genero": "Deportes",
+          "tipo": "Anime",
           "link": "/animes=filtros?genero=Deportes"
         },
         {
@@ -1161,6 +1189,7 @@
         }
       ],
       "year": 2022,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 2
     },
@@ -1184,6 +1213,7 @@
       "estado": "Finalizado",
       "year": 2022,
       "episodios": 12,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 2
     },
@@ -1197,6 +1227,7 @@
       "sec2": "disable",
       "genero1": "Accion",
       "genero2": "Romance",
+      "tipo": "Anime",
       "generos": [
         {
           "genero": "Accion",
@@ -1226,6 +1257,7 @@
       "genero1": "Accion",
       "genero2": "Aventuras",
       "genero3": "Fantasia",
+      "tipo": "Anime",
       "generos": [
         {
           "genero": "Accion",
@@ -1269,6 +1301,7 @@
         }
       ],
       "sec3": "disable",
+      "tipo": "Anime",
       "image": "https://i.postimg.cc/PJyqr6t2/sasaki-to-miyano.jpg",
       "episodios": 13,
       "estado": "Finalizado",
@@ -1318,6 +1351,7 @@
       ],
       "year": 2008,
       "episodios": 24,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 2
     },
@@ -1371,6 +1405,7 @@
       ],
       "sec3": "disable",
       "estado": "Finalizado",
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 2
     },
@@ -1408,6 +1443,7 @@
       "image": "https://i.postimg.cc/05n5SBsC/dolls-frontline.jpg",
       "estado": "Finalizado",
       "year": 2022,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 2
     },
@@ -1427,6 +1463,7 @@
       "estado": "Finalizado",
       "year": 2022,
       "episodios": 13,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 2
     },
@@ -1438,6 +1475,7 @@
       "descripcion": "La historia se centra alrededor de las llamadas 'Auto Memory Dolls'; muñecas inicialmente creadas por un científico para asistir a su esposa ciega a escribir sus novelas y, luego, rentarlas a personas que necesitan de sus servicios. Mientras que la función inicial de las Auto Memory Dolls es solo generar las voces a texto, un segundo grupo de personas creó una compañía que renta hermosas y talentosas mujeres quienes, teniendo las mismas funciones que una Auto Memory Doll original, también pueden realizar tareas relacionadas con la milicia o el ejército.",
       "sec1": "disable",
       "sec2": "disable",
+      "tipo": "Anime",
       "genero1": ["Accion", "Fantasia"],
       "sec3": "disable",
       "image": "https://i.postimg.cc/1R7hshSb/violet-evergarden.jpg",
@@ -1462,6 +1500,7 @@
       "image": "https://i.postimg.cc/xd2Bt9GN/shadows-house-2nd-season.jpg",
       "estado": "Finalizado",
       "year": 2022,
+      "tipo": "Anime",
       "episodios": 12,
       "classEstado": "tag is-success end",
       "page": 2
@@ -1482,6 +1521,7 @@
       "image": "https://i.postimg.cc/fLsWc7Fm/orient-2nd-cour.jpg",
       "estado": "Finalizado",
       "year": 2022,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 2
     },
@@ -1493,6 +1533,7 @@
       "descripcion": "Otoño de 2017. El sobrino, Takafumi, acudió al hospital para visitar a su tío, quien acaba de despertar de un coma de diecisiete años. Sin embargo, parece que ha perdido la razón, pues asegura que estuvo en otro mundo llamado “Gran Bahamar” durante todo este tiempo, e incluso parece hablar un extraño lenguaje. Pero todo cambia cuando, su tío, un humano común, le muestra que aprendió a usar la magia en el otro mundo. Así, cuando Takafumi se da cuenta de que la magia que usa su tío es completamente real, le propone que use sus habilidades para convertirse en un YouTuber exitoso. Ahora cuidando de él, Takafumi y su tío comienzan a involucrarse en la vida del streaming, mientras su tío le cuenta de vez en cuando sobre su vida en el otro mundo.",
       "image": "https://i.postimg.cc/Gpr6zMLL/isekai-ojisan.jpg",
       "year": 2022,
+      "tipo": "Anime",
       "episodios": 12,
       "sec2": "disable",
       "genero1": ["Accion", "Fantasia"],
@@ -1508,6 +1549,7 @@
       "id": "Overlord IV",
       "name": "overlord iv",
       "anime": "Overlord IV",
+      "tipo": "Anime",
       "mode": "TV",
       "image": "https://i.postimg.cc/LXq7sh27/overlord-iv.jpg",
       "sec2": "disable",
@@ -1531,6 +1573,7 @@
       "descripcion": "Yuji Sano, empleado de una empresa explotadora, es convocado a otro mundo mientras termina su trabajo en casa. Su profesión en el otro mundo, domador de monstruos, se considera un trabajo que dificulta el convertirse en aventurero. Sin embargo, gracias a unos slimes que conoció y que leyeron varios libros mágicos, obtuvo poderes mágicos y una segunda profesión, la de sabio. Yuuji adquirió un poder abrumador, pero ¿es consciente de su fuerza? Se convierte ciegamente en el más fuerte y sin igual de todo el nuevo mundo.",
       "episodios": 12,
       "sec1": "disable",
+      "tipo": "Anime",
       "sec2": "disable",
       "sec3": "disable",
       "genero1": ["Accion", "Fantasia"],
@@ -1548,6 +1591,7 @@
       "descripcion": "Un frío invierno, la humanidad perdió su batalla con los vampiros, y con ellos, la mayor parte de lo que llamaron hogar. Una pequeña población de supervivientes creó un muro de luz en un pequeño pueblo para protegerlos y darles un lugar donde vivir en paz. Nuestro protagonista, Momo, vive una vida reprimida pero aún desea coexistir con el enemigo, los vampiros. Bien, la reina vampiro, una vez amó a los humanos y desapareció del campo de batalla. Mientras la guerra hace estragos en la ciudad de los humanos, los dos tienen un encuentro fatídico. Érase una vez, humanos y vampiros vivían en armonía en un lugar llamado Paraíso. Esta es la historia de una joven y un vampiro en un viaje para encontrar el Paraíso.",
       "sec1": "disable",
       "sec2": "disable",
+      "tipo": "Anime",
       "sec3": "disable",
       "episodios": 5,
       "genero1": ["Accion", "Fantasia"],
@@ -1564,6 +1608,7 @@
       "mode": "TV",
       "descripcion": "Todo tiene su propio espíritu, y aquellos que pueden invocar esos espíritus son los Invocadores. Pueden invocar a la tierra, a los muertos, las estrellas, a las almas... Las leyendas de los Invocadores siempre han formado parte de la cara oculta de la historia. A lo largo de los años se han librado innumerables guerras entre los Invocadores humanos por el origen de los espíritus de todos los seres: la diosa Pandora. Con el tiempo, los Invocadores se han dividido en dos facciones: los Guardianes y los Destructores. Incapaces de ver a los humanos perecer en un baño de sangre, los líderes de ambos bandos sellaron a Pandora y pusieron fin a la edad de oro de los Invocadores... Varios siglos después, Ah Jie, quien se esfuerza por convertirse en el rey del ramen, convoca sin querer a la diosa Dora y de repente se ve inmerso en el mundo de los Invocadores. Durante su viaje se encuentra con otros Invocadores y unen fuerzas con los Guardianes para enfrentarse a sus mayores enemigos: los Destructores.",
       "episodios": 12,
+      "tipo": "Anime",
       "sec1": "disable",
       "sec2": "disable",
       "genero1": ["Accion", "Fantasia"],
@@ -1588,6 +1633,7 @@
       "image": "https://i.postimg.cc/Yqj4CHWF/kingdom-4th-season.jpg",
       "estado": "Finalizado",
       "episodios": 26,
+      "tipo": "Anime",
       "year": 2022,
       "classEstado": "tag is-success end",
       "page": 2
@@ -1606,6 +1652,7 @@
       "image": "https://i.postimg.cc/J7Yng22z/mahoutsukai-reimeiki.jpg",
       "estado": "Finalizado",
       "year": 2022,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 2
     },
@@ -1625,6 +1672,7 @@
       "image": "https://i.postimg.cc/mgCgP22P/tiger-and-bunny-2.jpg",
       "estado": "Finalizado",
       "year": 2022,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 2
     },
@@ -1638,6 +1686,7 @@
       "estado": "Finalizado",
       "year": 2018,
       "episodios": 26,
+      "tipo": "Anime",
       "sec2": "disable",
       "genero1": ["Accion", "Fantasia"],
       "sec3": "disable",
@@ -1661,6 +1710,7 @@
       "linksec1": "/ginga-eiyuu-densetsu-die-neue-these-gekitotsu",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "estado": "Finalizado",
       "classEstado": "tag is-success end",
       "page": 2
@@ -1681,6 +1731,7 @@
       "image": "https://i.postimg.cc/Lsm2htbW/shingeki-no-kyojin-the-final-season-part-2.jpg",
       "estado": "Finalizado",
       "year": 2022,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 3
     },
@@ -1700,6 +1751,7 @@
       "image": "https://i.postimg.cc/7ZkfMTR3/muhyo-to-rouji-no-mahouritsu-soudan-jimusho.jpg",
       "estado": "Finalizado",
       "year": 2018,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 3
     },
@@ -1717,6 +1769,7 @@
       "image": "https://i.postimg.cc/Wpq3BnLm/golden-time.jpg",
       "estado": "Finalizado",
       "year": 2016,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 3
     },
@@ -1734,6 +1787,7 @@
       "genero1": ["Accion", "Fantasia"],
       "sec3": "disable",
       "year": 2009,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 3
     },
@@ -1753,6 +1807,7 @@
       "linksec1": "/overlord-ii",
       "estado": "Finalizado",
       "year": 2015,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 3
     },
@@ -1775,6 +1830,7 @@
       "image": "https://i.postimg.cc/jj9Tcpjp/overlord-ii.jpg",
       "estado": "Finalizado",
       "year": 2018,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 3
     },
@@ -1794,6 +1850,7 @@
       "image": "https://i.postimg.cc/zXdcTnvM/aldnoah-zero-part-2.jpg",
       "estado": "Finalizado",
       "year": 2015,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 3
     },
@@ -1815,6 +1872,7 @@
       "image": "https://i.postimg.cc/sfm6RpYX/yama-no-susume-third-season.jpg",
       "estado": "Finalizado",
       "year": 2018,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 3
     },
@@ -1836,6 +1894,7 @@
       "image": "https://i.postimg.cc/Kj85YHPY/kimetsu-no-yaiba-mugen-ressha-hen-tv.jpg",
       "estado": "Finalizado",
       "year": 2021,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 3
     },
@@ -1846,6 +1905,7 @@
       "mode": "TV",
       "descripcion": "Ushio es un joven que no cree ni una pizca de las historias de monstruos que le cuenta su papá, una de ellas dice que en el templo de su casa se halla un Youkai empalado desde hace 500 años …",
       "sec2": "disable",
+      "tipo": "Anime",
       "sec3": "disable",
       "textoSecuela": "Historia Completa",
       "nombreSecuela": "Ushio to Tora (TV)",
@@ -1866,6 +1926,7 @@
       "descripcion": "Adaptación animada del juego de cartas social “Rage of Bahamut”",
       "episodios": 12,
       "sec2": "disable",
+      "tipo": "Anime",
       "sec3": "disable",
       "genero1": ["Accion", "Fantasia"],
       "textoSecuela": "Secuela",
@@ -1882,6 +1943,7 @@
       "name": "ao no exorcist",
       "anime": "Ao no Exorcist",
       "mode": "TV",
+      "tipo": "Anime",
       "descripcion": "En Ao no exorcist: El mundo esta unido por 2 dimensiones,el mundo de los seres vivos y de los demonios llamada también Geneha ninguno de los 2 mundos puede tener contacto alguno,pero estos demonios pueden ir al mundo de los seres vivos y poseer y manipular a cualquier humano,vease el caso de Satanás el dios oscuro del inframundo,Satanás quiere entrar al mundo de los seres vivos,pero no hay cuerpo humano que lo pueda resistir ,visto esto engendro a Rin Okumura hijo suyo y de una humana,pero resulta que Rin okumura se da cuenta que es el hijo de Satanas y lo rechaza como padre,y el no esta dispuesto a seguir sus planes,después de un intento fallido de satanás de llevar y matar a su protector Fujimoto, el Hijo de satanás (Rin Okumura) decide ser un Exorcista y así comienza la historia en Ao no exorcist.....",
       "sec3": "disable",
       "textoSecuela": "Secuela",
@@ -1910,6 +1972,7 @@
       "nombreSecuela": "Lord El-Melloi II-sei no jikenbo",
       "linksec1": "/lord-el-melloi-ii-sei-no-jikenbo",
       "episodios": 14,
+      "tipo": "Anime",
       "genero1": ["Accion", "Fantasia"],
       "image": "https://i.postimg.cc/jScPDXjw/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note.jpg",
       "estado": "Finalizado",
@@ -1925,6 +1988,7 @@
       "descripcion": "Un hechicero que una vez fue el mejor estudiante de la famosa Torre de Colmillos, ahora pasa su tiempo persiguiendo a sus clientes desesperados como prestamista, al menos hasta que a un cliente se le ocurre un plan para hacer dinero: fraude matrimonial. Sin querer ser arrastrado al plan, Orphen se encuentra con un monstruo que ha sido su objetivo desde el día en que dejó la Torre de Colmillos. Son muchos los que buscan matar al monstruo, y Orphen hace todo lo posible para protegerlo, por lo que sus pésimos pero pacíficos días terminan. Más tarde, el tratar de devolver a su hermana, Azalie, a su verdadera forma, los conduce a muchos más misterios y a la clave del secreto del mundo",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "textoSecuela": "Secuela",
       "nombreSecuela": "Majutsushi Orphen Hagure Tabi: Kimluck Hen",
       "linksec1": "/majutsushi-orphen-hagure-tabi-kimluck-hen",
@@ -1947,6 +2011,7 @@
       "episodios": 10,
       "genero1": ["Accion", "Fantasia"],
       "sec2": "disable",
+      "tipo": "Anime",
       "sec3": "disable",
       "textoSecuela": "Precuela",
       "nombreSecuela": "Castlevania 2",
@@ -1971,6 +2036,7 @@
       "genero1": ["Accion", "Fantasia"],
       "image": "https://i.postimg.cc/4NJ3YTHP/arifureta-shokugyou-de-sekai-saikyou-2nd-season.jpg",
       "estado": "Finalizado",
+      "tipo": "Anime",
       "year": 2022,
       "classEstado": "tag is-success end",
       "page": 3
@@ -1982,6 +2048,7 @@
       "descripcion": "Hiiragi Seiichi es un feo, repugnante, sucio y maloliente gordo; o al menos estos son los insultos que ha escuchado durante toda su vida. Así era su vida diaria escolar de acoso, y luego, por alguna razón, un día cuando terminaron las clases, una voz que decía ser un Dios dijo a través del sistema de megafonía que se prepararan para ser transportados a otro mundo. Es más, no solo Seiichi, sino toda la escuela. Un mundo de fantasía en donde existen elementos similares a los de un juego de rol, como niveles, estadísticas y habilidades. Sin embargo, el Dios todavía tenía preparativos para completar la transferencia, y los enviaría tan pronto como el ritual de invocación del héroe estuviera listo. Así, todas las clases formaron grupos para esperar la transferencia y, como se esperaba, Seiichi fue excluido y convocado a un área diferente. Pero en la zona a la que llegó, Seiichi se topó con el “Fruto de la Evolución”, y eso cambiaría completamente su vida…",
       "sec1": "disable",
       "sec2": "disable",
+      "tipo": "Anime",
       "sec3": "disable",
       "genero1": ["Accion", "Fantasia"],
       "episodios": 12,
@@ -2005,6 +2072,7 @@
       "image": "https://i.postimg.cc/4y4Txs2h/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru.jpg",
       "descripcion": "La historia da comienzo cuando la diosa Rista invoca a un héroe para ayudarle en su mundo, el cual parece un videojuego de gran dificultad. El protagonista, Seiya, es excepcional en prácticamente todo, pero también es excesivamente cauto. Hace cosas como comprar tres sets de armadura (uno para usar, uno de repuesto, y otro de repuesto para el de repuesto) y no contenerse en absoluto ni siquiera contra un triste limo, por si acaso.",
       "estado": "Finalizado",
+      "tipo": "Anime",
       "year": 2019,
       "classEstado": "tag is-success end",
       "page": 3
@@ -2019,6 +2087,7 @@
       "textoSecuela": "Secuela",
       "textoSecuela2": "Secuela",
       "nombreSecuela": "Accel World",
+      "tipo": "Anime",
       "nombreSecuela2": "Sword Art Online II",
       "linksec1": "/accel-world",
       "linksec2": "sword-art-online-ii",
@@ -2041,6 +2110,7 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "genero1": ["Accion", "Fantasia"],
       "estado": "Finalizado",
       "year": 2020,
@@ -2059,6 +2129,7 @@
       "episodios": 13,
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "genero1": ["Accion", "Fantasia"],
       "linksec1": "/drifters-ova",
       "nombreSecuela": "Drifters (Ova)",
@@ -2082,6 +2153,7 @@
       "nombreSecuela": "Saint Seiya",
       "textoSecuela": "Secuela",
       "episodios": 26,
+      "tipo": "Anime",
       "year": 2009,
       "classEstado": "tag is-success end",
       "page": 3
@@ -2101,6 +2173,7 @@
       "textoSecuela": "Precuela",
       "nombreSecuela": "Kekkai Sensen",
       "linksec1": "/kekkai-sensen",
+      "tipo": "Anime",
       "year": 2017,
       "classEstado": "tag is-success end",
       "page": 3
@@ -2118,6 +2191,7 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "year": 2022,
       "classEstado": "tag is-success end",
       "page": 3
@@ -2135,6 +2209,7 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "year": 2022,
       "classEstado": "tag is-success end",
       "page": 3
@@ -2151,6 +2226,7 @@
       "genero1": ["Accion", "Fantasia"],
       "sec1": "disable",
       "sec2": "disable",
+      "tipo": "Anime",
       "sec3": "disable",
       "year": 2022,
       "classEstado": "tag is-success end",
@@ -2167,6 +2243,7 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "episodios": 13,
       "genero1": ["Accion", "Fantasia"],
       "year": 2022,
@@ -2186,6 +2263,7 @@
       "genero1": ["Accion", "Fantasia"],
       "sec1": "disable",
       "sec2": "disable",
+      "tipo": "Anime",
       "sec3": "disable",
       "classEstado": "tag is-success end",
       "page": 4
@@ -2203,6 +2281,7 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "year": 2022,
       "classEstado": "tag is-success end",
       "page": 4
@@ -2220,6 +2299,7 @@
       "genero1": ["Accion", "Fantasia"],
       "sec1": "disable",
       "sec2": "disable",
+      "tipo": "Anime",
       "sec3": "disable",
       "classEstado": "tag is-success end",
       "page": 4
@@ -2240,6 +2320,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "year": 2022,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 4
     },
@@ -2257,6 +2338,7 @@
       "anime": "Ryman's Club",
       "estado": "Finalizado",
       "year": 2022,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 4
     },
@@ -2273,6 +2355,7 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "year": 2022,
       "classEstado": "tag is-success end",
       "page": 4
@@ -2291,6 +2374,7 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 4
     },
@@ -2310,6 +2394,7 @@
       "nombreSecuela": "Orient 2nd Temporada",
       "linksec1": "/orient-2nd-temporada",
       "year": 2022,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 4
     },
@@ -2329,6 +2414,7 @@
       "nombreSecuela": "Genjitsu Shungi Yuusha no Oukoku Saikenki",
       "linksec1": "/genjitsu-shungi-yuusha-no-oukoku-saikenki",
       "year": 2022,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 4
     },
@@ -2346,6 +2432,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "year": 2022,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 4
     },
@@ -2363,6 +2450,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "year": 2022,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 4
     },
@@ -2380,6 +2468,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "year": 2022,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 4
     },
@@ -2397,6 +2486,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "year": 2022,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 4
     },
@@ -2416,6 +2506,7 @@
       "sec3": "disable",
       "estado": "Finalizado",
       "year": 2018,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 4
     },
@@ -2433,6 +2524,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "year": 2018,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 4
     },
@@ -2456,6 +2548,7 @@
       "linksec2": "/accel-world-acchel-world",
       "linksec3": "/accel-world-infinite-burst",
       "year": 2012,
+      "tipo": "Anime",
       "classEstado": "tag is-success end",
       "page": 4
     },
@@ -2470,6 +2563,7 @@
       "episodios": 26,
       "genero1": ["Accion", "Fantasia"],
       "sec2": "disable",
+      "tipo": "Anime",
       "textoSecuela": "Secuela",
       "textoSecuela3": "Historia Paralela",
       "nombreSecuela": "Utawarerumono: Itsuwari no Kamen",
@@ -2493,6 +2587,7 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "year": 2021,
       "classEstado": "tag is-success end",
       "page": 4
@@ -2510,6 +2605,7 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "year": 2020,
       "classEstado": "tag is-success end",
       "page": 4
@@ -2527,6 +2623,7 @@
       "nombreSecuela": "Re:zero kara Hajimeru Isekai Seikatsu 2nd Temporada Parte 1",
       "sec2": "disable",
       "sec3": "disable",
+      "tipo": "Anime",
       "estado": "Finalizado",
       "year": 2020,
       "classEstado": "tag is-success end",
@@ -2543,6 +2640,7 @@
       "genero1": ["Accion", "Fantasia"],
       "sec1": "disable",
       "sec2": "disable",
+      "tipo": "Anime",
       "sec3": "disable",
       "estado": "Finalizado",
       "year": 2020,
@@ -2565,6 +2663,7 @@
       "linksec2": "/shingeki-no-kyojin-temporada-final-parte-2",
       "sec3": "disable",
       "episodios": 12,
+      "tipo": "Anime",
       "genero1": ["Accion", "Fantasia"],
       "year": 2020,
       "classEstado": "tag is-success end",
@@ -2582,6 +2681,7 @@
       "genero1": ["Accion", "Fantasia"],
       "sec1": "disable",
       "sec2": "disable",
+      "tipo": "Anime",
       "sec3": "disable",
       "year": 2020,
       "classEstado": "tag is-success end",
@@ -2596,6 +2696,7 @@
       "estado": "Finalizado",
       "descripcion": "Moroha: InuYasha Next Generations.",
       "episodios": 24,
+      "tipo": "Anime",
       "genero1": ["Accion", "Fantasia"],
       "textoSecuela": "Precuela",
       "textoSecuela2": "Secuela",
@@ -2615,6 +2716,7 @@
       "name": "majo no tabitabi",
       "anime": "Majo no Tabitabi",
       "estado": "Finalizado",
+      "tipo": "Anime",
       "descripcion": "No se trata del destino... ¿Cuál es tu historia favorita? ¿Tiene un héroe que mata a un dragón y salva a una princesa? ¿O un hijo de la profecía destinado a la grandeza? Bueno, mi historia favorita es un poco diferente. Es la historia de una bruja que viaja por el mundo sin buscar nada en particular. Sin búsqueda propia, es libre de vagar donde el viento la lleve, agregando algunas páginas a la historia de quienquiera que conozca antes de emprender su próxima aventura. Al final de sus viajes, la bruja contrata a un aprendiz que algún día comenzará su propio viaje. Y así continúa el ciclo, o eso dice la historia. Ahora, la bruja que comienza de nuevo la historia ... ¿quién podría ser?",
       "episodios": 12,
       "genero1": ["Accion", "Fantasia"],
@@ -2633,6 +2735,7 @@
       "anime": "Mob Psycho 100",
       "episodios": 13,
       "genero1": ["Accion", "Fantasia"],
+      "tipo": "Anime",
       "estado": "Finalizado",
       "des": "Kageyama Shigeo, apodado Mob, es un chico con problemas para expresarse pero que en realidad es un poderoso esper. Mob está decidido a llevar una vida normal y mantiene sus poderes especiales reprimidos, pero cuando sus emociones alcancen el nivel del 100%, ¡le ocurrirá algo terrible! Rodeado por falsos espers, espíritus malignos y misteriosas organizaciones, ¿qué hará Mob? ¿Qué elecciones tomará?",
       "textoSecuela": "Secuela",
@@ -2657,6 +2760,7 @@
       "genero2": "Comedia",
       "genero3": "Fantasia",
       "genero4": "Sobrenatural",
+      "tipo": "Anime",
       "generos": [
         {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
@@ -2695,6 +2799,7 @@
       "genero1": "Escolares",
       "genero2": "Fantasia",
       "genero3": "Harem",
+      "tipo": "Anime",
       "genero4": "Romance",
       "generos": [
         {"genero": "Escolares", "link": "/animes=filtros?genero=Escolares"},
@@ -2728,6 +2833,7 @@
       "descripcion": "Los Pilares aparecieron repentinamente en la Tierra, representando una amenaza para todas las formas de vida. Al quedarse sin opciones para protegerse, la humanidad se encuentra al borde de la extinción, pero un dios llamado Odin les ofrece un camino hacia la salvación. Odin proclama un contraataque contra los Pilares al otorgar a la humanidad jóvenes pilotos con poderes sobrenaturales, las Valquirias y sus aviones de combate espirituales como medio de contraataque. La batalla entre la humanidad y los Pilares no ha cesado, incluso después de varios años. Las Valquirias en sus aviones de combate espirituales, así como los hombres que las apoyan, arriesgan sus vidas en los cielos para salvar la Tierra. Japón no es una excepción. Tres valquirias luchan contra enormes pilares que se elevan sobre el sagrado monte Fuji. Todos son muy hábiles, pero hasta el último de ellos es un alborotador. Un piloto as se une a ellos desde Europa, pero tiene un pasado accidentado ...Humanidad, ahora es el momento de luchar. La batalla final de Ragnarok se acerca rápidamente",
       "episodios": 12,
       "genero1": "Accion",
+      "tipo": "Anime",
       "genero2": "Fantasia",
       "generos": [
         {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
@@ -2756,6 +2862,7 @@
       "genero1": "Accion",
       "genero2": "Aventuras",
       "genero3": "Fantasia",
+      "tipo": "Anime",
       "genero4": "Magia",
       "generos": [
         {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
@@ -2789,6 +2896,7 @@
       "genero1": "Accion",
       "genero2": "Aventuras",
       "genero3": "Romance",
+      "tipo": "Anime",
       "generos": [
         {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
@@ -2835,6 +2943,7 @@
       "genero2": "Comedia",
       "genero3": "Romance",
       "genero4": "Shounen",
+      "tipo": "Anime",
       "generos": [
         {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
@@ -2872,6 +2981,7 @@
       "episodios": 11,
       "genero1": "Accion",
       "genero2": "Aventuras",
+      "tipo": "Anime",
       "genero3": "Fantasia",
       "genero4": "Romance",
       "generos": [
@@ -2909,6 +3019,7 @@
       "genero1": "Drama",
       "genero2": "Fantasia",
       "genero3": "Psicologico",
+      "tipo": "Anime",
       "generos": [
         {"genero": "Drama", "link": "/animes=filtros?genero=Drama"},
         {
@@ -2944,6 +3055,7 @@
       "genero2": "Aventuras",
       "genero3": "Comedia",
       "genero4": "Sobrenatural",
+      "tipo": "Anime",
       "generos": [
         {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
@@ -2980,6 +3092,7 @@
       "genero1": "Accion",
       "genero2": "Aventuras",
       "genero3": "Romance",
+      "tipo": "Anime",
       "genero4": "Sobrenatural",
       "generos": [
         {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
@@ -3015,6 +3128,7 @@
       "genero1": "Accion",
       "genero2": "Comedia",
       "genero3": "Escolares",
+      "tipo": "Anime",
       "generos": [
         {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
@@ -3050,6 +3164,7 @@
       "genero1": "Accion",
       "genero2": "Horror",
       "genero3": "Romance",
+      "tipo": "Anime",
       "generos": [
         {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
@@ -3076,6 +3191,7 @@
       "image": "https://i.postimg.cc/K8KWZRfM/tokyo-ghoul-re.jpg",
       "anime": "Tokyo Ghoul Re",
       "name": "tokyo ghoul re",
+      "tipo": "Anime",
       "estado": "Finalizado",
       "descripcion": "Dos años después del ataque del CCG al Anteiku, la ciudad de Tokio cambia drásticamente debido a la influencia del CCG. Además, los ghouls siguen siendo un problema, pues ahora se han vuelto más cautos. Sin embargo, se creará la nueva escuadra experimental Quinx para mantenerlos a raya, un grupo liderado por un mitad ghoul, mitad humano.",
       "episodios": 12,
@@ -3115,6 +3231,7 @@
       "episodios": 26,
       "genero1": "Accion",
       "genero2": "Ciencia Ficcion",
+      "tipo": "Anime",
       "genero3": "Drama",
       "generos": [
         {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
@@ -3142,6 +3259,7 @@
       "name": "goblin slayer",
       "descripcion": "En un mundo de fantasía, los aventureros de todas partes se unen al Gremio, a fin de completar contratos de cualquier trabajo disponible que incluya la caza de diversos tipos de monstruos que vagan por la tierra u otro tipo de misión que sea ofrecida. Una sacerdotisa inexperta junto a un grupo de novatos forman su primer grupo de aventuras, aceptando un contrato para destruir un nido de goblins, sin embargo la falta de experiencia y exceso de confianza de los integrantes les juega una mala pasada y el resto de su grupo es eliminado. Sorpresivamente, ella es salvada por un hombre conocido como Goblin Slayer, un aventurero cuyo único propósito es la erradicación de los goblins con una dedicación extrema.",
       "episodios": 13,
+      "tipo": "Anime",
       "genero1": "Accion",
       "genero2": "Fantasia",
       "genero3": "Horror",
@@ -3195,6 +3313,7 @@
       ],
       "sec1": "disable",
       "sec2": "disable",
+      "tipo": "Anime",
       "sec3": "disable",
       "year": 2017,
       "classEstado": "tag is-success end",
@@ -3211,6 +3330,7 @@
       "genero1": "Accion",
       "genero2": "Drama",
       "genero3": "Fantasia",
+      "tipo": "Anime",
       "genero4": "Horror",
       "genero5": "Romance",
       "generos": [
@@ -3248,6 +3368,7 @@
       "name": "tokyo ghoul",
       "genero1": "Accion",
       "genero2": "Drama",
+      "tipo": "Anime",
       "genero3": "Fantasia",
       "genero4": "Horror",
       "genero5": "Romance",
@@ -3313,6 +3434,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "estado": "Finalizado",
+      "tipo": "Anime",
       "year": 2020,
       "classEstado": "tag is-success end",
       "page": 5
@@ -3327,6 +3449,7 @@
       "episodios": 12,
       "genero1": "Accion",
       "genero2": "Arte Marciales",
+      "tipo": "Anime",
       "genero3": "Ciencia Ficcion",
       "genero4": "Seinen",
       "generos": [
@@ -3360,6 +3483,7 @@
       "episodios": 12,
       "genero1": "Accion",
       "genero2": "Sobrenatural",
+      "tipo": "Anime",
       "generos": [
         {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
         {
@@ -3390,6 +3514,7 @@
       "genero1": "Accion",
       "genero2": "Comedia",
       "genero3": "Sobrenatural",
+      "tipo": "Anime",
       "genero4": "Superpoderes",
       "generos": [
         {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
@@ -3414,6 +3539,7 @@
       "image": "https://i.postimg.cc/vB2jYbWT/danmachi-iv.jpg",
       "anime": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV",
       "name": "dungeon ni deai wo motomeru no wa machigatteiru darou ka iv",
+      "tipo": "Anime",
       "year": 2022,
       "descripcion": "Cuarta temporada de Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
       "episodios": 13,
@@ -3451,6 +3577,7 @@
       "id": "Fuufu Ijou, Koibito Miman",
       "mode": "TV",
       "image": "https://i.postimg.cc/2SHXFCKw/fuufu-ijou-koibito-miman.jpg",
+      "tipo": "Anime",
       "anime": "Fuufu Ijou, Koibito Miman",
       "name": "fuufu ijou koibito miman",
       "year": 2022,
@@ -3485,6 +3612,7 @@
     {
       "id": "Peter Grill to Kenja no Jikan Super Extra",
       "mode": "TV",
+      "tipo": "Anime",
       "image": "https://i.postimg.cc/q7s4vhRR/peter-grill-to-kenja-no-jikan-super-extra.jpg",
       "anime": "Peter Grill to Kenja no Jikan Super Extra",
       "name": "peter grill to kenja no jikan super extra",
@@ -3528,6 +3656,7 @@
       "year": 2022,
       "descripcion": "Quinta temporada de Yowamushi Pedal",
       "episodios": 12,
+      "tipo": "Anime",
       "genero1": "Deportes",
       "generos": [
         {"genero": "Deportes", "link": "/animes=filtros?genero=Deportes"}
@@ -3560,6 +3689,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "estado": "En Emision",
+      "tipo": "Anime",
       "classEstado": "tag is-success airing",
       "page": 6
     },
@@ -3574,6 +3704,7 @@
       "descripcion": "En un principio, FUSHI era un “orbe” arrojado a la Tierra. Como FUSHI, vio el fallecimiento de una niña/figura materna, un extraordinario hermano mayor, amigos en el campo de batalla y, finalmente, una anciana, lo que le permitió convertirse en algo parecido a un ser humano. Han pasado décadas. Décadas más tarde, el archienemigo de FUSHI, NOKKER, ha vuelto a poner el mundo patas arriba. El archienemigo NOKKER está de nuevo al ataque y el mundo está sumido en el caos. FUSHI debe romper su largo silencio y levantarse. Pero espera. Puede luchar solo. Pero él no puede proteger a todos, solo. ¿Luchará, sabiendo que habrá nuevas bajas, o...? FUSHI y sus guerreros se embarcan en una batalla para salvar el futuro.",
       "genero1": "Aventuras",
       "genero2": "Drama",
+      "tipo": "Anime",
       "genero3": "Shounen",
       "genero4": "Sobrenatural",
       "generos": [
@@ -3609,6 +3740,7 @@
       "anime": "Bungou Stray Dogs 4",
       "year": 2023,
       "genero1": "Accion",
+      "tipo": "Anime",
       "episodios": 2,
       "textoSecuela": "Precuela",
       "nombreSecuela": "Bungou Stray Dogs 3",
