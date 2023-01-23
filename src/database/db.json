@@ -20,11 +20,11 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/animes=filtros?genero=Ciencia Ficcion"
+          "link": "/browser?genero=Ciencia Ficcion"
         }
       ],
       "page": 1
@@ -53,19 +53,19 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Shounen",
-          "link": "/animes=filtros?genero=Shounen"
+          "link": "/browser?genero=Shounen"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         }
       ],
       "page": 1
@@ -94,27 +94,27 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Comedia",
-          "link": "/animes=filtros?genero=Comedia"
+          "link": "/browser?genero=Comedia"
         },
         {
           "genero": "Drama",
-          "link": "/animes=filtros?genero=Drama"
+          "link": "/browser?genero=Drama"
         },
         {
           "genero": "Psicologico",
-          "link": "/animes=filtros?genero=Psicologico"
+          "link": "/browser?genero=Psicologico"
         },
         {
           "genero": "Seinen",
-          "link": "/animes=filtros?genero=Seinen"
+          "link": "/browser?genero=Seinen"
         }
       ],
       "page": 1
@@ -140,11 +140,11 @@
       "generos": [
         {
           "genero": "Seinen",
-          "link": "/animes=filtros?genero=Seinen"
+          "link": "/browser?genero=Seinen"
         },
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?genero=Sobrenatural"
+          "link": "/browser?genero=Sobrenatural"
         }
       ],
       "classEstado": "tag is-success end",
@@ -175,27 +175,27 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Comedia",
-          "link": "/animes=filtros?genero=Comedia"
+          "link": "/browser?genero=Comedia"
         },
         {
           "genero": "Demonios",
-          "link": "/animes=filtros?genero=Demonios"
+          "link": "/browser?genero=Demonios"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Magia",
-          "link": "/animes=filtros?genero=Magia"
+          "link": "/browser?genero=Magia"
         }
       ],
       "classEstado": "tag is-success end",
@@ -221,11 +221,11 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         }
       ],
       "page": 1
@@ -253,19 +253,19 @@
       "generos": [
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Comedia",
-          "link": "/animes=filtros?genero=Comedia"
+          "link": "/browser?genero=Comedia"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?genero=Sobrenatural"
+          "link": "/browser?genero=Sobrenatural"
         }
       ],
       "page": 1
@@ -294,23 +294,23 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Demonios",
-          "link": "/animes=filtros?genero=Demonios"
+          "link": "/browser?genero=Demonios"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Seinen",
-          "link": "/animes=filtros?genero=Seinen"
+          "link": "/browser?genero=Seinen"
         }
       ],
       "page": 1
@@ -336,11 +336,11 @@
       "generos": [
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Shounen",
-          "link": "/animes=filtros?genero=Shounen"
+          "link": "/browser?genero=Shounen"
         }
       ],
       "page": 1
@@ -370,27 +370,27 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Demonios",
-          "link": "/animes=filtros?genero=Demonios"
+          "link": "/browser?genero=Demonios"
         },
         {
           "genero": "Escolares",
-          "link": "/animes=filtros?genero=Escolares"
+          "link": "/browser?genero=Escolares"
         },
         {
           "genero": "Shounen",
-          "link": "/animes=filtros?genero=Shounen"
+          "link": "/browser?genero=Shounen"
         },
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?genero=Sobrenatural"
+          "link": "/browser?genero=Sobrenatural"
         },
         {
           "genero": "Terror",
-          "link": "/animes=filtros?genero=Terror"
+          "link": "/browser?genero=Terror"
         }
       ],
       "page": 1
@@ -422,27 +422,27 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Demonios",
-          "link": "/animes=filtros?genero=Demonios"
+          "link": "/browser?genero=Demonios"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Magia",
-          "link": "/animes=filtros?genero=Magia"
+          "link": "/browser?genero=Magia"
         },
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?genero=Sobrenatural"
+          "link": "/browser?genero=Sobrenatural"
         }
       ],
       "page": 1
@@ -474,27 +474,27 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Demonios",
-          "link": "/animes=filtros?genero=Demonios"
+          "link": "/browser?genero=Demonios"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Gore",
-          "link": "/animes=filtros?genero=Gore"
+          "link": "/browser?genero=Gore"
         },
         {
           "genero": "Horror",
-          "link": "/animes=filtros?genero=Horror"
+          "link": "/browser?genero=Horror"
         },
         {
           "genero": "Vampiros",
-          "link": "/animes=filtros?genero=Vampiros"
+          "link": "/browser?genero=Vampiros"
         }
       ],
       "classEstado": "tag is-success end",
@@ -528,27 +528,27 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Demonios",
-          "link": "/animes=filtros?genero=Demonios"
+          "link": "/browser?genero=Demonios"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Magia",
-          "link": "/animes=filtros?genero=Magia"
+          "link": "/browser?genero=Magia"
         },
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?genero=Sobrenatural"
+          "link": "/browser?genero=Sobrenatural"
         }
       ],
       "classEstado": "tag is-success end",
@@ -579,23 +579,23 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Demonios",
-          "link": "/animes=filtros?genero=Demonios"
+          "link": "/browser?genero=Demonios"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Shounen",
-          "link": "/animes=filtros?genero=Shounen"
+          "link": "/browser?genero=Shounen"
         },
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?genero=Sobrenatural"
+          "link": "/browser?genero=Sobrenatural"
         }
       ],
       "year": 2017,
@@ -626,23 +626,23 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Demonios",
-          "link": "/animes=filtros?genero=Demonios"
+          "link": "/browser?genero=Demonios"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Magia",
-          "link": "/animes=filtros?genero=Magia"
+          "link": "/browser?genero=Magia"
         },
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?genero=Sobrenatural"
+          "link": "/browser?genero=Sobrenatural"
         }
       ],
       "classEstado": "tag is-success end",
@@ -670,15 +670,15 @@
       "generos": [
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/animes=filtros?genero=Ciencia Ficcion"
+          "link": "/browser?genero=Ciencia Ficcion"
         },
         {
           "genero": "Shounen",
-          "link": "/animes=filtros?genero=Shounen"
+          "link": "/browser?genero=Shounen"
         }
       ],
       "classEstado": "tag is-success end",
@@ -703,11 +703,11 @@
       "generos": [
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Isekai",
-          "link": "/animes=filtros?genero=Isekai"
+          "link": "/browser?genero=Isekai"
         }
       ],
       "classEstado": "tag is-success end",
@@ -735,19 +735,19 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Demonios",
-          "link": "/animes=filtros?genero=Demonios"
+          "link": "/browser?genero=Demonios"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Magia",
-          "link": "/animes=filtros?genero=Magia"
+          "link": "/browser?genero=Magia"
         }
       ],
       "episodios": 12,
@@ -777,27 +777,27 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Ecchi",
-          "link": "/animes=filtros?genero=Ecchi"
+          "link": "/browser?genero=Ecchi"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Harem",
-          "link": "/animes=filtros?genero=Harem"
+          "link": "/browser?genero=Harem"
         },
         {
           "genero": "Romance",
-          "link": "/animes=filtros?genero=Romance"
+          "link": "/browser?genero=Romance"
         }
       ],
       "descripcion": "Luchando con la vida y la sociedad, el estudiante de secundaria Michio Kaga deambula por Internet y aterriza en un sitio web extraño. El sitio web, que presenta una serie de preguntas y un sistema basado en puntos, permite crear habilidades y destrezas para un personaje. Al completar su personaje, Kaga fue transportado a un mundo de fantasía similar a un juego y renació como un hombre fuerte que puede reclamar chicas de nivel ídolo. ¡Así comienza la leyenda del engaño y el harem de un hombre renacido!",
@@ -820,15 +820,15 @@
       "generos": [
         {
           "genero": "Drama",
-          "link": "/animes=filtros?genero=Drama"
+          "link": "/browser?genero=Drama"
         },
         {
           "genero": "Escolares",
-          "link": "/animes=filtros?genero=Escolares"
+          "link": "/browser?genero=Escolares"
         },
         {
           "genero": "Psicologico",
-          "link": "/animes=filtros?genero=Psicologico"
+          "link": "/browser?genero=Psicologico"
         }
       ],
       "nombreSecuela": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
@@ -861,15 +861,15 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Comedia",
-          "link": "/animes=filtros?genero=Comedia"
+          "link": "/browser?genero=Comedia"
         },
         {
           "genero": "Shounen",
-          "link": "/animes=filtros?genero=Shounen"
+          "link": "/browser?genero=Shounen"
         }
       ],
       "episodios": 12,
@@ -899,23 +899,23 @@
       "generos": [
         {
           "genero": "Ciencia Ficción",
-          "link": "/animes=filtros?genero=Ciencia Ficcion"
+          "link": "/browser?genero=Ciencia Ficcion"
         },
         {
           "genero": "Comedia",
-          "link": "/animes=filtros?genero=Comedia"
+          "link": "/browser?genero=Comedia"
         },
         {
           "genero": "Escolares",
-          "link": "/animes=filtros?genero=Escolares"
+          "link": "/browser?genero=Escolares"
         },
         {
           "genero": "Harem",
-          "link": "/animes=filtros?genero=Harem"
+          "link": "/browser?genero=Harem"
         },
         {
           "genero": "Romance",
-          "link": "/animes=filtros?genero=Romance"
+          "link": "/browser?genero=Romance"
         }
       ],
       "year": 2022,
@@ -949,27 +949,27 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Comedia",
-          "link": "/animes=filtros?genero=Comedia"
+          "link": "/browser?genero=Comedia"
         },
         {
           "genero": "Drama",
-          "link": "/animes=filtros?genero=Drama"
+          "link": "/browser?genero=Drama"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Seinen",
-          "link": "/animes=filtros?genero=Seinen"
+          "link": "/browser?genero=Seinen"
         }
       ],
       "classEstado": "tag is-success end",
@@ -999,19 +999,19 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Drama",
-          "link": "/animes=filtros?genero=Drama"
+          "link": "/browser?genero=Drama"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         }
       ],
       "page": 1
@@ -1034,11 +1034,11 @@
       "generos": [
         {
           "genero": "Psicologico",
-          "link": "/animes=filtros?genero=Psicologico"
+          "link": "/browser?genero=Psicologico"
         },
         {
           "genero": "Shounen",
-          "link": "/animes=filtros?genero=Shounen"
+          "link": "/browser?genero=Shounen"
         }
       ],
       "year": 2022,
@@ -1067,23 +1067,23 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Drama",
-          "link": "/animes=filtros?genero=Drama"
+          "link": "/browser?genero=Drama"
         },
         {
           "genero": "Historico",
-          "link": "/animes=filtros?genero=Historico"
+          "link": "/browser?genero=Historico"
         },
         {
           "genero": "Shoujo",
-          "link": "/animes=filtros?genero=Shoujo"
+          "link": "/browser?genero=Shoujo"
         },
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?genero=Sobrenatural"
+          "link": "/browser?genero=Sobrenatural"
         }
       ],
       "classEstado": "tag is-success end",
@@ -1112,23 +1112,23 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Drama",
-          "link": "/animes=filtros?genero=Drama"
+          "link": "/browser?genero=Drama"
         },
         {
           "genero": "Misterio",
-          "link": "/animes=filtros?genero=Misterio"
+          "link": "/browser?genero=Misterio"
         },
         {
           "genero": "Shounen",
-          "link": "/animes=filtros?genero=Shounen"
+          "link": "/browser?genero=Shounen"
         }
       ],
       "year": 2022,
@@ -1154,11 +1154,11 @@
         {
           "genero": "Deportes",
           "tipo": "Anime",
-          "link": "/animes=filtros?genero=Deportes"
+          "link": "/browser?genero=Deportes"
         },
         {
           "genero": "Musica",
-          "link": "/animes=filtros?genero=Musica"
+          "link": "/browser?genero=Musica"
         }
       ],
       "classEstado": "tag is-success end",
@@ -1181,11 +1181,11 @@
       "generos": [
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Historico",
-          "link": "/animes=filtros?genero=Historico"
+          "link": "/browser?genero=Historico"
         }
       ],
       "year": 2022,
@@ -1205,7 +1205,7 @@
       "generos": [
         {
           "genero": "Deportes",
-          "link": "/animes=filtros?genero=Deportes"
+          "link": "/browser?genero=Deportes"
         }
       ],
       "sec3": "disable",
@@ -1231,11 +1231,11 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Romance",
-          "link": "/animes=filtros?genero=Romance"
+          "link": "/browser?genero=Romance"
         }
       ],
       "sec3": "disable",
@@ -1261,15 +1261,15 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         }
       ],
       "sec3": "disable",
@@ -1293,11 +1293,11 @@
       "generos": [
         {
           "genero": "Escolares",
-          "link": "/animes=filtros?genero=Escolares"
+          "link": "/browser?genero=Escolares"
         },
         {
           "genero": "Yaoi",
-          "link": "/animes=filtros?genero=Yaoi"
+          "link": "/browser?genero=Yaoi"
         }
       ],
       "sec3": "disable",
@@ -1334,19 +1334,19 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/animes=filtros?genero=Ciencia Ficcion"
+          "link": "/browser?genero=Ciencia Ficcion"
         },
         {
           "genero": "Magia",
-          "link": "/animes=filtros?genero=Magia"
+          "link": "/browser?genero=Magia"
         },
         {
           "genero": "Superpoderes",
-          "link": "/animes=filtros?genero=Superpoderes"
+          "link": "/browser?genero=Superpoderes"
         }
       ],
       "year": 2008,
@@ -1376,31 +1376,31 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Drama",
-          "link": "/animes=filtros?genero=Drama"
+          "link": "/browser?genero=Drama"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Militar",
-          "link": "/animes=filtros?genero=Militar"
+          "link": "/browser?genero=Militar"
         },
         {
           "genero": "Seinen",
-          "link": "/animes=filtros?genero=Seinen"
+          "link": "/browser?genero=Seinen"
         },
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?genero=Sobrenatural"
+          "link": "/browser?genero=Sobrenatural"
         },
         {
           "genero": "Terror",
-          "link": "/animes=filtros?genero=Terror"
+          "link": "/browser?genero=Terror"
         }
       ],
       "sec3": "disable",
@@ -1424,19 +1424,19 @@
       "generos": [
         {
           "genero": "Accion",
-          "link": "/animes=filtros?genero=Accion"
+          "link": "/browser?genero=Accion"
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/animes=filtros?genero=Ciencia Ficcion"
+          "link": "/browser?genero=Ciencia Ficcion"
         },
         {
           "genero": "Drama",
-          "link": "/animes=filtros?genero=Drama"
+          "link": "/browser?genero=Drama"
         },
         {
           "genero": "Militar",
-          "link": "/animes=filtros?genero=Militar"
+          "link": "/browser?genero=Militar"
         }
       ],
       "sec3": "disable",
@@ -2762,18 +2762,18 @@
       "genero4": "Sobrenatural",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Comedia",
-          "link": "/animes=filtros?genero=Comedia"
+          "link": "/browser?genero=Comedia"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?genero=Sobrenatural"
+          "link": "/browser?genero=Sobrenatural"
         }
       ],
       "textoSecuela": "Precuela",
@@ -2802,18 +2802,18 @@
       "tipo": "Anime",
       "genero4": "Romance",
       "generos": [
-        {"genero": "Escolares", "link": "/animes=filtros?genero=Escolares"},
+        {"genero": "Escolares", "link": "/browser?genero=Escolares"},
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Harem",
-          "link": "/animes=filtros?genero=Harem"
+          "link": "/browser?genero=Harem"
         },
         {
           "genero": "Romance",
-          "link": "/animes=filtros?genero=Romance"
+          "link": "/browser?genero=Romance"
         }
       ],
       "sec1": "disable",
@@ -2836,10 +2836,10 @@
       "tipo": "Anime",
       "genero2": "Fantasia",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         }
       ],
       "sec1": "disable",
@@ -2865,18 +2865,18 @@
       "tipo": "Anime",
       "genero4": "Magia",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Magia",
-          "link": "/animes=filtros?genero=Magia"
+          "link": "/browser?genero=Magia"
         }
       ],
       "sec1": "disable",
@@ -2898,22 +2898,22 @@
       "genero3": "Romance",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Comedia",
-          "link": "/animes=filtros?genero=Comedia"
+          "link": "/browser?genero=Comedia"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Romance",
-          "link": "/animes=filtros?genero=Romance"
+          "link": "/browser?genero=Romance"
         }
       ],
       "textoSecuela": "Precuela",
@@ -2945,18 +2945,18 @@
       "genero4": "Shounen",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Comedia",
-          "link": "/animes=filtros?genero=Comedia"
+          "link": "/browser?genero=Comedia"
         },
         {
           "genero": "Romance",
-          "link": "/animes=filtros?genero=Romance"
+          "link": "/browser?genero=Romance"
         },
         {
           "genero": "Shounen",
-          "link": "/animes=filtros?genero=Shounen"
+          "link": "/browser?genero=Shounen"
         }
       ],
       "textoSecuela": "Precuela",
@@ -2985,18 +2985,18 @@
       "genero3": "Fantasia",
       "genero4": "Romance",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Romance",
-          "link": "/animes=filtros?genero=Romance"
+          "link": "/browser?genero=Romance"
         }
       ],
       "textoSecuela": "Precuela",
@@ -3021,14 +3021,14 @@
       "genero3": "Psicologico",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Drama", "link": "/animes=filtros?genero=Drama"},
+        {"genero": "Drama", "link": "/browser?genero=Drama"},
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Psicologico",
-          "link": "/animes=filtros?genero=Psicologico"
+          "link": "/browser?genero=Psicologico"
         }
       ],
       "textoSecuela": "Precuela",
@@ -3057,18 +3057,18 @@
       "genero4": "Sobrenatural",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Comedia",
-          "link": "/animes=filtros?genero=Comedia"
+          "link": "/browser?genero=Comedia"
         },
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?genero=Sobrenatural"
+          "link": "/browser?genero=Sobrenatural"
         }
       ],
       "descripcion": "Segunda Temporada de noragami",
@@ -3095,18 +3095,18 @@
       "tipo": "Anime",
       "genero4": "Sobrenatural",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Aventuras",
-          "link": "/animes=filtros?genero=Aventuras"
+          "link": "/browser?genero=Aventuras"
         },
         {
           "genero": "Comedia",
-          "link": "/animes=filtros?genero=Comedia"
+          "link": "/browser?genero=Comedia"
         },
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?genero=Sobrenatural"
+          "link": "/browser?genero=Sobrenatural"
         }
       ],
       "descripcion": "Yato es un dios menor que sueña con tener una gran cantidad de seguidores que lo adoren y recen plegarias por él. Desafortunadamente, su sueño está lejos de hacerse realidad, debido a que no tiene ni siquiera un solo santuario dedicado a su persona. Para empeorar las cosas, la única socia que tenía para ayudar a resolver los problemas de la gente acaba de renunciar. Su divina suerte sólo podría cambiar cuando conoce a Hiyori Iki, una estudiante de secundaria. Tras verse involucrada en un accidente, Hiyori se convierte en una han'yō o semi-fantasma. Metida en un lío bastante grande, la joven decide quedarse con Yato hasta que consiga recuperar su antiguo estado como humana. Junto a Hiyori y su nuevo shinki (tesoro sagrado o regalía) Yukine, Yato hará todo lo que pueda para ganar fama, reconocimiento y sólo tal vez, una capilla dedicada a él también.",
@@ -3130,14 +3130,14 @@
       "genero3": "Escolares",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Comedia",
-          "link": "/animes=filtros?genero=Comedia"
+          "link": "/browser?genero=Comedia"
         },
         {
           "genero": "Escolares",
-          "link": "/animes=filtros?genero=Escolares"
+          "link": "/browser?genero=Escolares"
         }
       ],
       "name": "spy x family 2nd temporada",
@@ -3166,14 +3166,14 @@
       "genero3": "Romance",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Horror",
-          "link": "/animes=filtros?genero=Horror"
+          "link": "/browser?genero=Horror"
         },
         {
           "genero": "Romance",
-          "link": "/animes=filtros?genero=Romance"
+          "link": "/browser?genero=Romance"
         }
       ],
       "textoSecuela": "Precuela",
@@ -3199,14 +3199,14 @@
       "genero2": "Horror",
       "genero3": "Romance",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Horror",
-          "link": "/animes=filtros?genero=Horror"
+          "link": "/browser?genero=Horror"
         },
         {
           "genero": "Romance",
-          "link": "/animes=filtros?genero=Romance"
+          "link": "/browser?genero=Romance"
         }
       ],
       "textoSecuela": "Precuela",
@@ -3234,14 +3234,14 @@
       "tipo": "Anime",
       "genero3": "Drama",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Ciencia Ficción",
-          "link": "/animes=filtros?genero=Ciencia Ficcion"
+          "link": "/browser?genero=Ciencia Ficcion"
         },
         {
           "genero": "Drama",
-          "link": "/animes=filtros?genero=Drama"
+          "link": "/browser?genero=Drama"
         }
       ],
       "sec1": "disable",
@@ -3265,18 +3265,18 @@
       "genero3": "Horror",
       "genero4": "Magia",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Horror",
-          "link": "/animes=filtros?genero=Horror"
+          "link": "/browser?genero=Horror"
         },
         {
           "genero": "Magia",
-          "link": "/animes=filtros?genero=Magia"
+          "link": "/browser?genero=Magia"
         }
       ],
       "textoSecuela": "Secuela",
@@ -3301,14 +3301,14 @@
       "genero2": "Escolares",
       "genero3": "Fantasia",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Escolares",
-          "link": "/animes=filtros?genero=Escolares"
+          "link": "/browser?genero=Escolares"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         }
       ],
       "sec1": "disable",
@@ -3334,22 +3334,22 @@
       "genero4": "Horror",
       "genero5": "Romance",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Drama",
-          "link": "/animes=filtros?genero=Drama"
+          "link": "/browser?genero=Drama"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Horror",
-          "link": "/animes=filtros?genero=Horror"
+          "link": "/browser?genero=Horror"
         },
         {
           "genero": "Romance",
-          "link": "/animes=filtros?genero=Romance"
+          "link": "/browser?genero=Romance"
         }
       ],
       "sec1": "disable",
@@ -3373,22 +3373,22 @@
       "genero4": "Horror",
       "genero5": "Romance",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Drama",
-          "link": "/animes=filtros?genero=Drama"
+          "link": "/browser?genero=Drama"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Horror",
-          "link": "/animes=filtros?genero=Horror"
+          "link": "/browser?genero=Horror"
         },
         {
           "genero": "Romance",
-          "link": "/animes=filtros?genero=Romance"
+          "link": "/browser?genero=Romance"
         }
       ],
       "estado": "Finalizado",
@@ -3416,18 +3416,18 @@
       "genero3": "Misterio",
       "genero4": "Ciencia Ficcion",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Drama",
-          "link": "/animes=filtros?genero=Drama"
+          "link": "/browser?genero=Drama"
         },
         {
           "genero": "Misterio",
-          "link": "/animes=filtros?genero=Misterio"
+          "link": "/browser?genero=Misterio"
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/animes=filtros?genero=Ciencia Ficcion"
+          "link": "/browser?genero=Ciencia Ficcion"
         }
       ],
       "sec1": "disable",
@@ -3453,18 +3453,18 @@
       "genero3": "Ciencia Ficcion",
       "genero4": "Seinen",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Arte Marciales",
-          "link": "/animes=filtros?genero=Arte Marciales"
+          "link": "/browser?genero=Arte Marciales"
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/animes=filtros?genero=Ciencia Ficcion"
+          "link": "/browser?genero=Ciencia Ficcion"
         },
         {
           "genero": "Seinen",
-          "link": "/animes=filtros?genero=Seinen"
+          "link": "/browser?genero=Seinen"
         }
       ],
       "estado": "Finalizado",
@@ -3485,10 +3485,10 @@
       "genero2": "Sobrenatural",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?genero=Sobrenatural"
+          "link": "/browser?genero=Sobrenatural"
         }
       ],
       "sec1": "disable",
@@ -3517,15 +3517,15 @@
       "tipo": "Anime",
       "genero4": "Superpoderes",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
-        {"genero": "Comedia", "link": "/animes=filtros?genero=Comedia"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
+        {"genero": "Comedia", "link": "/browser?genero=Comedia"},
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?genero=Sobrenatural"
+          "link": "/browser?genero=Sobrenatural"
         },
         {
           "genero": "Superpoderes",
-          "link": "/animes=filtros?genero=Superpoderes"
+          "link": "/browser?genero=Superpoderes"
         }
       ],
       "sec3": "disable",
@@ -3549,19 +3549,19 @@
       "genero4": "Fantasia",
       "genero5": "Romance",
       "generos": [
-        {"genero": "Accion", "link": "/animes=filtros?genero=Accion"},
-        {"genero": "Aventuras", "link": "/animes=filtros?genero=Aventuras"},
+        {"genero": "Accion", "link": "/browser?genero=Accion"},
+        {"genero": "Aventuras", "link": "/browser?genero=Aventuras"},
         {
           "genero": "Comedia",
-          "link": "/animes=filtros?genero=Comedia"
+          "link": "/browser?genero=Comedia"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Romance",
-          "link": "/animes=filtros?genero=Romance"
+          "link": "/browser?genero=Romance"
         }
       ],
       "textoSecuela": "Precuela",
@@ -3586,18 +3586,18 @@
       "genero3": "Escolares",
       "genero4": "Romance",
       "genero": [
-        {"genero": "Comedia", "link": "/animes=filtros?genero=Fantasia"},
+        {"genero": "Comedia", "link": "/browser?genero=Fantasia"},
         {
           "genero": "Drama",
-          "link": "/animes=filtros?genero=Drama"
+          "link": "/browser?genero=Drama"
         },
         {
           "genero": "Escolares",
-          "link": "/animes=filtros?genero=Escolares"
+          "link": "/browser?genero=Escolares"
         },
         {
           "genero": "Romance",
-          "link": "/animes=filtros?genero=Romance"
+          "link": "/browser?genero=Romance"
         }
       ],
       "descripcion": "La historia se desarrolla en una escuela secundaria donde los estudiantes se ven obligados a vivir como una pseudo pareja como parte de un plan de estudios. Jiro Yakuin está emparejado con Akari Watanabe, que es todo lo contrario a él, en la clase tradicional de entrenamiento marital. A sugerencia de Akari, comienzan a vivir como una pseudo pareja para obtener el derecho a intercambiar pares, que se otorga a los mejores. Practican varias actividades, como el primer beso, para ganar puntos, pero a medida que llegan a comprender las personalidades y pensamientos de los demás, sin querer se vuelven más cercanos y llegan a gustarse.",
@@ -3629,18 +3629,18 @@
       "genero4": "Harem",
       "episodios": 12,
       "generos": [
-        {"genero": "Comedia", "link": "/animes=filtros?genero=Comedia"},
+        {"genero": "Comedia", "link": "/browser?genero=Comedia"},
         {
           "genero": "Ecchi",
-          "link": "/animes=filtros?genero=Ecchi"
+          "link": "/browser?genero=Ecchi"
         },
         {
           "genero": "Fantasia",
-          "link": "/animes=filtros?genero=Fantasia"
+          "link": "/browser?genero=Fantasia"
         },
         {
           "genero": "Harem",
-          "link": "/animes=filtros?generos=Harem"
+          "link": "/browser?generos=Harem"
         }
       ],
       "estado": "Finalizado",
@@ -3658,9 +3658,7 @@
       "episodios": 12,
       "tipo": "Anime",
       "genero1": "Deportes",
-      "generos": [
-        {"genero": "Deportes", "link": "/animes=filtros?genero=Deportes"}
-      ],
+      "generos": [{"genero": "Deportes", "link": "/browser?genero=Deportes"}],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Yowamushi Pedal: Glory Line",
       "linksec1": "/ywamushi-pedal-glory-line",
@@ -3679,9 +3677,7 @@
       "name": "bluelock",
       "year": 2022,
       "genero1": "Deportes",
-      "generos": [
-        {"genero": "Deportes", "link": "/animes=filtros?genero=Deportes"}
-      ],
+      "generos": [{"genero": "Deportes", "link": "/browser?genero=Deportes"}],
       "descripcion": "Después de una derrota desastrosa en la Copa del Mundo de 2018, el equipo de Japón lucha por reagruparse. Pero, ¿qué falta? Un Ace Striker absoluto, que puede guiarlos hacia la victoria. La Unión de Fútbol de Japón está empeñada en crear un delantero que tenga hambre de goles y sed de victoria, y que pueda ser el instrumento decisivo para darle la vuelta a un partido perdido... y para hacerlo, ha reunido a 300 de los mejores de Japón. y jugadores juveniles más brillantes. ¿Quién surgirá para liderar el equipo... y será capaz de superar en fuerza y ego a todos los que se interpongan en su camino?",
       "episodios": 14,
       "textoSecuela": "Proximo Episodio",
@@ -3708,18 +3704,18 @@
       "genero3": "Shounen",
       "genero4": "Sobrenatural",
       "generos": [
-        {"genero": "Aventuras", "link": "/animes=filtros?genero=Aventuras"},
+        {"genero": "Aventuras", "link": "/browser?genero=Aventuras"},
         {
           "genero": "Drama",
-          "link": "/animes=filtros?genero=Drama"
+          "link": "/browser?genero=Drama"
         },
         {
           "genero": "Shounen",
-          "link": "/animes=filtros?genero=Shounen"
+          "link": "/browser?genero=Shounen"
         },
         {
           "genero": "Sobrenatural",
-          "link": "/animes=filtros?generos=Sobrenatural"
+          "link": "/browser?generos=Sobrenatural"
         }
       ],
       "episodios": 12,
