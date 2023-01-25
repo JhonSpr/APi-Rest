@@ -3329,6 +3329,16 @@
       "estado": "Finalizado",
       "year": 2018,
       "classEstado": "tag is-success end",
+      "options": [
+        {"link": "https://animefenix.tv/goblin-slayer", "pagina": "Animefenix"},
+        {
+          "link": "https://www3.animeflv.net/anime/goblin-slayer",
+          "pagina": "Animeflv"
+        },
+        {"link": "https://jkanime.net/goblin-slayer/", "pagina": "Jkanime"}
+      ],
+      "duration": "24 min",
+      "studio": "White Fox",
       "page": 5
     },
     {
