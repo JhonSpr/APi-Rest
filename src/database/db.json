@@ -1952,10 +1952,29 @@
       "textoSecuela": "Historia Completa",
       "nombreSecuela": "Ushio to Tora (TV)",
       "linksec1": "/ushio-to-tora-tv",
-      "episodios": 10,
-      "genero1": ["Accion", "Fantasia"],
+      "episodios": 26,
+      "genero1": "Sobrenatural",
+      "genero2": "Shounen",
+      "genero3": "Demonios",
+      "genero4": "Comedia",
+      "generos": [
+        {"genero": "Sobrenatural", "link": "/browser?generos=Sobrenatural"},
+        {"genero": "Shounen", "link": "/browser?generos=Shounen"},
+        {"genero": "Demonios", "link": "/browser?generos=Demonios"},
+        {"genero": "", "link": "/browser?generos=Comedia"}
+      ],
       "image": "https://i.postimg.cc/657d1RzF/ushio-to-tora.jpg",
       "estado": "Finalizado",
+      "duration": "24 min",
+      "studio": "MAPPA, Studio VOLN",
+      "options": [
+        {"link": "https://animefenix.tv/ushio-to-tora", "pagina": "Animefenix"},
+        {
+          "link": "https://www3.animeflv.net/anime/ushio-to-tora-tv",
+          "pagina": "Animeflv"
+        },
+        {"link": "https://jkanime.net/ushio-to-tora-tv/", "pagina": "Jkanime"}
+      ],
       "year": 2015,
       "classEstado": "tag is-success end",
       "page": 3
@@ -3158,6 +3177,16 @@
       "linksec1": "/noragami-aragoto",
       "sec2": "disable",
       "sec3": "disable",
+      "duration": "24 min",
+      "studio": "Bones",
+      "options": [
+        {"link": "https://animefenix.tv/noragami", "pagina": "Animefenix"},
+        {
+          "link": "https://www3.animeflv.net/anime/noragami",
+          "pagina": "Animeflv"
+        },
+        {"link": "https://jkanime.net/noragami/", "pagina": "Jkanime"}
+      ],
       "classEstado": "tag is-success end",
       "page": 5
     },
