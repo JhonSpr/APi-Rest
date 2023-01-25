@@ -27,7 +27,11 @@
           "link": "/browser?generos=Ciencia Ficcion"
         }
       ],
-      "options": [{"link": "https://animefenix.tv", "pagina": "Animefenix"}],
+      "options": [
+        {"link": "https://animefenix.tv", "pagina": "Animefenix"},
+        {"link": "https://www3.animeflv.net", "pagina": "Animeflv"}
+      ],
+
       "page": 1
     },
     {
