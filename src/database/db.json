@@ -1961,7 +1961,7 @@
         {"genero": "Sobrenatural", "link": "/browser?generos=Sobrenatural"},
         {"genero": "Shounen", "link": "/browser?generos=Shounen"},
         {"genero": "Demonios", "link": "/browser?generos=Demonios"},
-        {"genero": "", "link": "/browser?generos=Comedia"}
+        {"genero": "Comedia", "link": "/browser?generos=Comedia"}
       ],
       "image": "https://i.postimg.cc/657d1RzF/ushio-to-tora.jpg",
       "estado": "Finalizado",
