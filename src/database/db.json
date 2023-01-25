@@ -81,11 +81,26 @@
           "link": "/browser?generos=Fantasia"
         }
       ],
-      "options": [],
+      "options": [
+        {
+          "link": "https://animefenix.tv/bleach-sennen-kessen-hen",
+          "pagina": "Animefenix"
+        },
+        {
+          "link": "https://www3.animeflv.net/anime/bleach-sennen-kessenhen",
+          "pagina": "Animeflv"
+        },
+        {
+          "link": "https://jkanime.net/bleach-sennen-kessen-hen/",
+          "pagina": "Jkanime"
+        }
+      ],
+      "studio": "Studio Pierrot",
+      "duration": "24 min",
       "page": 1
     },
     {
-      "id": "162",
+      "id": "hoshi no samidare",
       "mode": "TV",
       "image": "https://i.postimg.cc/mrM19VRw/hoshinosamidare-KV-1.jpg",
       "anime": "Hoshi no samidare",
@@ -131,6 +146,19 @@
           "link": "/browser?generos=Seinen"
         }
       ],
+      "options": [
+        {
+          "link": "https://animefenix.tv/hoshi-no-samidare",
+          "pagina": "Animefenix"
+        },
+        {
+          "link": "https://www3.animeflv.net/anime/hoshi-no-samidare",
+          "pagina": "Animeflv"
+        },
+        {"link": "https://jkanime.net/hoshi-no-samidare/", "pagina": "Jkanime"}
+      ],
+      "duration": "24 min",
+      "studio": "NAZ",
       "page": 1
     },
     {
