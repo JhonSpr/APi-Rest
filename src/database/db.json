@@ -29,7 +29,10 @@
       ],
       "options": [
         {"link": "https://animefenix.tv/akudama-drive", "pagina": "Animefenix"},
-        {"link": "https://www3.animeflv.net", "pagina": "Animeflv"}
+        {
+          "link": "https://www3.animeflv.net/anime/akudama-drive",
+          "pagina": "Animeflv"
+        }
       ],
 
       "page": 1
