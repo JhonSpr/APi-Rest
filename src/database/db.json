@@ -1067,12 +1067,25 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
+
       "episodios": 12,
-      "link": "/tomodachi-game",
       "image": "https://i.postimg.cc/JhNxYmTv/tomodachi-game.jpg",
       "estado": "Finalizado",
       "genero1": "Psicologico",
       "genero2": "Shounen",
+      "studio": "Okuruto Noboru",
+      "duration": "24 min",
+      "options": [
+        {
+          "pagina": "Animefenix",
+          "link": "https://animefenix.tv/tomodachi-game"
+        },
+        {
+          "pagina": "Animeflv",
+          "link": "https://www3.animeflv.net/anime/tomodachi-game"
+        },
+        {"pagina": "Jkanime", "link": "https://jkanime.net/tomodachi-game/"}
+      ],
       "generos": [
         {
           "genero": "Psicologico",
