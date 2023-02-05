@@ -33,7 +33,7 @@ const getOneWorkout = (req, res) => {
   }
 
   try {
-    const workout = animeervice.getOneWorkout(workoutId);
+    const workout = animeService.getOneWorkout(workoutId);
     res.send({workout});
   } catch (error) {
     res
