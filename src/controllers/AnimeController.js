@@ -34,7 +34,7 @@ const getOneWorkout = (req, res) => {
 
   try {
     const workout = animeService.getOneWorkout(workoutId);
-    res.send({workout});
+    res.send(workout);
   } catch (error) {
     res
       .status(error?.status || 500)
