@@ -1,7 +1,7 @@
 const animeService = require("../services/AnimeService");
 
 const getAllWorkouts = (req, res) => {
-  const {mode, name, episodios, tipo} = req.query;
+  const {mode, name, tipo} = req.query;
   try {
     const limit = parseInt(req.query.limit) || 25;
     const page = parseInt(req.query.page) || 1;
@@ -10,6 +10,7 @@ const getAllWorkouts = (req, res) => {
     const estado = req.query.estado || null;
     const year = req.query.estado || null;
     const episodios = req.query.episodios || null;
+    const tipo = req.query.tipo || null;
     const animes = animeService.getAllWorkouts({
       mode,
       name,
