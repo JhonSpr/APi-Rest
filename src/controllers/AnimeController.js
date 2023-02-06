@@ -13,7 +13,6 @@ const getAllWorkouts = (req, res) => {
       mode,
       name,
       year,
-      estado,
       episodios,
     });
     const sortedData = animes.sort((a, b) => {
