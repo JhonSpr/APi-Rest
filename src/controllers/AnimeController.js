@@ -7,10 +7,8 @@ const getAllWorkouts = (req, res) => {
     const page = parseInt(req.query.page) || 1;
     const startIndex = (page - 1) * limit;
     const endIndex = startIndex + limit;
-    const estado = req.query.estado || null;
     const year = req.query.estado || null;
     const episodios = req.query.episodios || null;
-    const tipo = req.query.tipo || null;
     const animes = animeService.getAllWorkouts({
       mode,
       name,
