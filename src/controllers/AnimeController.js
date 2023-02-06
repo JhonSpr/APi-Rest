@@ -22,7 +22,11 @@ const getAllWorkouts = (req, res) => {
       return 0;
     });
     const filteredData = animes.filter(
-      (item) => item.tipo === tipo && item.year === year && item.mode === mode,
+      (item) =>
+        item.tipo === tipo &&
+        item.estado === estado &&
+        item.year === year &&
+        item.mode === mode,
     );
     const paginatedData = animes.slice(startIndex, endIndex);
     const datos = filteredData.slice(startIndex, endIndex);
