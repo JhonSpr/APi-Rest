@@ -1,17 +1,37 @@
 const animeService = require("../services/AnimeService");
 
 const getAllWorkouts = (req, res) => {
-  const {mode, name, year, estado, episodios, page} = req.query;
+  const {mode, name, episodios, tipo} = req.query;
   try {
+    const limit = parseInt(req.query.limit) || 25;
+    const page = parseInt(req.query.page) || 1;
+    const startIndex = (page - 1) * limit;
+    const endIndex = startIndex + limit;
+    const estado = req.query.estado || null;
+    const year = req.query.estado || null;
+    const episodios = req.query.episodios || null;
     const animes = animeService.getAllWorkouts({
       mode,
       name,
       year,
       estado,
       episodios,
-      page,
     });
-    res.send(animes);
+    const sortedData = animes.sort((a, b) => {
+      if (a.name < b.name) return -1;
+      if (a.name > b.name) return 1;
+      return 0;
+    });
+    const filteredData = animes.filter(
+      (item) =>
+        item.tipo === tipo &&
+        item.estado === estado &&
+        item.year === year &&
+        item.mode === mode,
+    );
+    const paginatedData = animes.slice(startIndex, endIndex);
+    const datos = filteredData.slice(startIndex, endIndex);
+    res.send(datos.length == 0 ? paginatedData : datos);
   } catch (error) {
     res
       .status(error?.status || 500)
