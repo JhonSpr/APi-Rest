@@ -5,7 +5,7 @@ const v1animeRouter = require("./v1/routes/animeRoutes");
 const {swaggerDocs: V1SwaggerDocs} = require("./v1/swagger");
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 const cache = apicache.middleware;
 app.use(cors());
 app.use(express.json());

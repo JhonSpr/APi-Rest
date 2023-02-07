@@ -1,7 +1,7 @@
 {
   "workouts": [
     {
-      "id": "Akudama Drive",
+      "id": "1",
       "name": "akudama drive",
       "anime": "Akudama Drive",
       "mode": "TV",
@@ -29,7 +29,10 @@
         }
       ],
       "options": [
-        {"link": "https://animefenix.tv/akudama-drive", "pagina": "Animefenix"},
+        {
+          "link": "https://animefenix.tv/akudama-drive",
+          "pagina": "Animefenix"
+        },
         {
           "link": "https://www3.animeflv.net/anime/akudama-drive",
           "pagina": "Animeflv"
@@ -40,7 +43,8 @@
         }
       ],
       "duration": "24 min",
-      "studio": "Studio Pierrot"
+      "studio": "Studio Pierrot",
+      "updatedAt": "2/7/2023, 6:08:57 AM"
     },
     {
       "id": "BLEACH: Sennen Kessen-hen",
@@ -154,7 +158,10 @@
           "link": "https://www3.animeflv.net/anime/hoshi-no-samidare",
           "pagina": "Animeflv"
         },
-        {"link": "https://jkanime.net/hoshi-no-samidare/", "pagina": "Jkanime"}
+        {
+          "link": "https://jkanime.net/hoshi-no-samidare/",
+          "pagina": "Jkanime"
+        }
       ],
       "duration": "24 min",
       "studio": "NAZ"
@@ -1075,7 +1082,10 @@
           "pagina": "Animeflv",
           "link": "https://www3.animeflv.net/anime/tomodachi-game"
         },
-        {"pagina": "Jkanime", "link": "https://jkanime.net/tomodachi-game/"}
+        {
+          "pagina": "Jkanime",
+          "link": "https://jkanime.net/tomodachi-game/"
+        }
       ],
       "generos": [
         {
@@ -1962,22 +1972,40 @@
       "genero3": "Demonios",
       "genero4": "Comedia",
       "generos": [
-        {"genero": "Sobrenatural", "link": "/generos/Sobrenatural"},
-        {"genero": "Shounen", "link": "/generos/Shounen"},
-        {"genero": "Demonios", "link": "/generos/Demonios"},
-        {"genero": "Comedia", "link": "/generos/Comedia"}
+        {
+          "genero": "Sobrenatural",
+          "link": "/generos/Sobrenatural"
+        },
+        {
+          "genero": "Shounen",
+          "link": "/generos/Shounen"
+        },
+        {
+          "genero": "Demonios",
+          "link": "/generos/Demonios"
+        },
+        {
+          "genero": "Comedia",
+          "link": "/generos/Comedia"
+        }
       ],
       "image": "https://i.postimg.cc/657d1RzF/ushio-to-tora.jpg",
       "estado": "Finalizado",
       "duration": "24 min",
       "studio": "MAPPA, Studio VOLN",
       "options": [
-        {"link": "https://animefenix.tv/ushio-to-tora", "pagina": "Animefenix"},
+        {
+          "link": "https://animefenix.tv/ushio-to-tora",
+          "pagina": "Animefenix"
+        },
         {
           "link": "https://www3.animeflv.net/anime/ushio-to-tora-tv",
           "pagina": "Animeflv"
         },
-        {"link": "https://jkanime.net/ushio-to-tora-tv/", "pagina": "Jkanime"}
+        {
+          "link": "https://jkanime.net/ushio-to-tora-tv/",
+          "pagina": "Jkanime"
+        }
       ],
       "year": 2015,
       "classEstado": "tag is-success end",
@@ -2827,7 +2855,10 @@
       "genero4": "Sobrenatural",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Comedia",
           "link": "/generos/Comedia"
@@ -2867,7 +2898,10 @@
       "tipo": "Anime",
       "genero4": "Romance",
       "generos": [
-        {"genero": "Escolares", "link": "/generos/Escolares"},
+        {
+          "genero": "Escolares",
+          "link": "/generos/Escolares"
+        },
         {
           "genero": "Fantasia",
           "link": "/generos/Fantasia"
@@ -2901,7 +2935,10 @@
       "tipo": "Anime",
       "genero2": "Fantasia",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Fantasia",
           "link": "/generos/Fantasia"
@@ -2930,7 +2967,10 @@
       "tipo": "Anime",
       "genero4": "Magia",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Aventuras",
           "link": "/generos/Aventuras"
@@ -2963,7 +3003,10 @@
       "genero3": "Romance",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Aventuras",
           "link": "/generos/Aventuras"
@@ -3010,7 +3053,10 @@
       "genero4": "Shounen",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Comedia",
           "link": "/generos/Comedia"
@@ -3050,7 +3096,10 @@
       "genero3": "Fantasia",
       "genero4": "Romance",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Aventuras",
           "link": "/generos/Aventuras"
@@ -3086,7 +3135,10 @@
       "genero3": "Psicologico",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Drama", "link": "/generos/Drama"},
+        {
+          "genero": "Drama",
+          "link": "/generos/Drama"
+        },
         {
           "genero": "Fantasia",
           "link": "/generos/Fantasia"
@@ -3122,7 +3174,10 @@
       "genero4": "Sobrenatural",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Aventuras",
           "link": "/generos/Aventuras"
@@ -3160,7 +3215,10 @@
       "tipo": "Anime",
       "genero4": "Sobrenatural",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Aventuras",
           "link": "/generos/Aventuras"
@@ -3184,12 +3242,18 @@
       "duration": "24 min",
       "studio": "Bones",
       "options": [
-        {"link": "https://animefenix.tv/noragami", "pagina": "Animefenix"},
+        {
+          "link": "https://animefenix.tv/noragami",
+          "pagina": "Animefenix"
+        },
         {
           "link": "https://www3.animeflv.net/anime/noragami",
           "pagina": "Animeflv"
         },
-        {"link": "https://jkanime.net/noragami/", "pagina": "Jkanime"}
+        {
+          "link": "https://jkanime.net/noragami/",
+          "pagina": "Jkanime"
+        }
       ],
       "classEstado": "tag is-success end",
       "al": 5
@@ -3205,7 +3269,10 @@
       "genero3": "Escolares",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Comedia",
           "link": "/generos/Comedia"
@@ -3241,7 +3308,10 @@
       "genero3": "Romance",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Horror",
           "link": "/generos/Horror"
@@ -3274,7 +3344,10 @@
       "genero2": "Horror",
       "genero3": "Romance",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Horror",
           "link": "/generos/Horror"
@@ -3309,7 +3382,10 @@
       "tipo": "Anime",
       "genero3": "Drama",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Ciencia Ficción",
           "link": "/generos/Ciencia Ficcion"
@@ -3340,7 +3416,10 @@
       "genero3": "Horror",
       "genero4": "Magia",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Fantasia",
           "link": "/generos/Fantasia"
@@ -3363,12 +3442,18 @@
       "year": 2018,
       "classEstado": "tag is-success end",
       "options": [
-        {"link": "https://animefenix.tv/goblin-slayer", "pagina": "Animefenix"},
+        {
+          "link": "https://animefenix.tv/goblin-slayer",
+          "pagina": "Animefenix"
+        },
         {
           "link": "https://www3.animeflv.net/anime/goblin-slayer",
           "pagina": "Animeflv"
         },
-        {"link": "https://jkanime.net/goblin-slayer/", "pagina": "Jkanime"}
+        {
+          "link": "https://jkanime.net/goblin-slayer/",
+          "pagina": "Jkanime"
+        }
       ],
       "duration": "24 min",
       "studio": "White Fox",
@@ -3386,7 +3471,10 @@
       "genero2": "Escolares",
       "genero3": "Fantasia",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Escolares",
           "link": "/generos/Escolares"
@@ -3419,7 +3507,10 @@
       "genero4": "Horror",
       "genero5": "Romance",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Drama",
           "link": "/generos/Drama"
@@ -3458,7 +3549,10 @@
       "genero4": "Horror",
       "genero5": "Romance",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Drama",
           "link": "/generos/Drama"
@@ -3501,7 +3595,10 @@
       "genero3": "Misterio",
       "genero4": "Ciencia Ficcion",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Drama",
           "link": "/generos/Drama"
@@ -3538,7 +3635,10 @@
       "genero3": "Ciencia Ficcion",
       "genero4": "Seinen",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Arte Marciales",
           "link": "/generos/Arte Marciales"
@@ -3570,7 +3670,10 @@
       "genero2": "Sobrenatural",
       "tipo": "Anime",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
         {
           "genero": "Sobrenatural",
           "link": "/generos/Sobrenatural"
@@ -3602,8 +3705,14 @@
       "tipo": "Anime",
       "genero4": "Superpoderes",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
-        {"genero": "Comedia", "link": "/generos/Comedia"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
+        {
+          "genero": "Comedia",
+          "link": "/generos/Comedia"
+        },
         {
           "genero": "Sobrenatural",
           "link": "/generos/Sobrenatural"
@@ -3634,8 +3743,14 @@
       "genero4": "Fantasia",
       "genero5": "Romance",
       "generos": [
-        {"genero": "Accion", "link": "/generos/Accion"},
-        {"genero": "Aventuras", "link": "/generos/Aventuras"},
+        {
+          "genero": "Accion",
+          "link": "/generos/Accion"
+        },
+        {
+          "genero": "Aventuras",
+          "link": "/generos/Aventuras"
+        },
         {
           "genero": "Comedia",
           "link": "/generos/Comedia"
@@ -3671,7 +3786,10 @@
       "genero3": "Escolares",
       "genero4": "Romance",
       "genero": [
-        {"genero": "Comedia", "link": "/generos/Fantasia"},
+        {
+          "genero": "Comedia",
+          "link": "/generos/Fantasia"
+        },
         {
           "genero": "Drama",
           "link": "/generos/Drama"
@@ -3714,7 +3832,10 @@
       "genero4": "Harem",
       "episodios": 12,
       "generos": [
-        {"genero": "Comedia", "link": "/generos/Comedia"},
+        {
+          "genero": "Comedia",
+          "link": "/generos/Comedia"
+        },
         {
           "genero": "Ecchi",
           "link": "/generos/Ecchi"
@@ -3743,7 +3864,12 @@
       "episodios": 12,
       "tipo": "Anime",
       "genero1": "Deportes",
-      "generos": [{"genero": "Deportes", "link": "/generos/Deportes"}],
+      "generos": [
+        {
+          "genero": "Deportes",
+          "link": "/generos/Deportes"
+        }
+      ],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Yowamushi Pedal: Glory Line",
       "linksec1": "/ywamushi-pedal-glory-line",
@@ -3762,7 +3888,12 @@
       "name": "bluelock",
       "year": 2022,
       "genero1": "Deportes",
-      "generos": [{"genero": "Deportes", "link": "/generos/Deportes"}],
+      "generos": [
+        {
+          "genero": "Deportes",
+          "link": "/generos/Deportes"
+        }
+      ],
       "descripcion": "Después de una derrota desastrosa en la Copa del Mundo de 2018, el equipo de Japón lucha por reagruparse. Pero, ¿qué falta? Un Ace Striker absoluto, que puede guiarlos hacia la victoria. La Unión de Fútbol de Japón está empeñada en crear un delantero que tenga hambre de goles y sed de victoria, y que pueda ser el instrumento decisivo para darle la vuelta a un partido perdido... y para hacerlo, ha reunido a 300 de los mejores de Japón. y jugadores juveniles más brillantes. ¿Quién surgirá para liderar el equipo... y será capaz de superar en fuerza y ego a todos los que se interpongan en su camino?",
       "episodios": 14,
       "textoSecuela": "Proximo Episodio",
@@ -3789,7 +3920,10 @@
       "genero3": "Shounen",
       "genero4": "Sobrenatural",
       "generos": [
-        {"genero": "Aventuras", "link": "/generos/Aventuras"},
+        {
+          "genero": "Aventuras",
+          "link": "/generos/Aventuras"
+        },
         {
           "genero": "Drama",
           "link": "/generos/Drama"
