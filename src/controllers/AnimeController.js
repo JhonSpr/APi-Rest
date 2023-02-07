@@ -1,19 +1,20 @@
 const animeService = require("../services/AnimeService");
 
 const getAllWorkouts = (req, res) => {
-  const {mode, name, tipo, estado} = req.query;
+  const {mode, name, estado} = req.query;
   try {
     const limit = parseInt(req.query.limit) || 25;
     const page = parseInt(req.query.page) || 1;
     const startIndex = (page - 1) * limit;
     const endIndex = startIndex + limit;
-    const year = req.query.estado || null;
-    const episodios = req.query.episodios || null;
+    const year = req.query.year;
+    const episodios = req.query.episodios;
     const animes = animeService.getAllWorkouts({
       mode,
       name,
       year,
       episodios,
+      estado,
     });
     const sortedData = animes.sort((a, b) => {
       if (a.name < b.name) return -1;
@@ -22,13 +23,11 @@ const getAllWorkouts = (req, res) => {
     });
     const filteredData = animes.filter(
       (item) =>
-        item.tipo === tipo &&
-        item.estado === estado &&
-        item.year === year &&
-        item.mode === mode,
+        item.estado === estado && item.year === year && item.mode === mode,
     );
     const paginatedData = animes.slice(startIndex, endIndex);
     const datos = filteredData.slice(startIndex, endIndex);
+    const data = filteredData.concat(paginatedData);
     res.send(datos.length == 0 ? paginatedData : datos);
   } catch (error) {
     res
