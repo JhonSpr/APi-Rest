@@ -3,7 +3,7 @@ const animeService = require("../services/AnimeService");
 const getAllWorkouts = (req, res) => {
   const {mode, name, estado} = req.query;
   try {
-    const limit = parseInt(req.query.limit) || 24;
+    const limit = parseInt(req.query.limit) || 0;
     const page = parseInt(req.query.page) || 1;
     const startIndex = (page - 1) * limit;
     const endIndex = startIndex + limit;
