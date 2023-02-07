@@ -13,7 +13,6 @@ const getAllWorkouts = (req, res) => {
       mode,
       name,
       year,
-      episodios,
       estado,
     });
     const sortedData = animes.sort((a, b) => {
@@ -23,7 +22,10 @@ const getAllWorkouts = (req, res) => {
     });
     const filteredData = animes.filter(
       (item) =>
-        item.estado === estado && item.year === year && item.mode === mode,
+        item.estado == estado &&
+        item.year == year &&
+        item.mode == mode &&
+        item.episodios == episodios,
     );
     const paginatedData = animes.slice(startIndex, endIndex);
     const datos = filteredData.slice(startIndex, endIndex);
