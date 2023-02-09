@@ -64,14 +64,12 @@ const getAllWorkouts = (filterParams) => {
         (workout) => workout.estado == String(filterParams.estado),
       );
     }
-    if (filterParams.episodios) {
+    if (filterParams.genero1) {
       return DB.workouts.filter(
-        (anime) => anime.episodios === Number(filterParams.episodios),
+        (anime) => anime.genero1 == String(filterParams.genero1),
       );
     }
-    if (filterParams.page) {
-      return DB.workouts.filter((e) => e.page === Number(filterParams.page));
-    }
+
     return workouts;
   } catch (error) {
     throw {status: 500, message: error};

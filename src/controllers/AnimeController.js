@@ -29,7 +29,6 @@ const getAllWorkouts = (req, res) => {
     );
     const paginatedData = animes.slice(startIndex, endIndex);
     const datos = filteredData.slice(startIndex, endIndex);
-    const data = filteredData.concat(paginatedData);
     res.send(datos.length == 0 ? paginatedData : datos);
   } catch (error) {
     res
