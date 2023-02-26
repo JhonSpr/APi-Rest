@@ -40,140 +40,152 @@ const {saveToDatabase} = require("./utils");
  *             type: string
  *           example: ["Split the 21 thrusters as needed", "Try to do the 9 and 6 thrusters unbroken", "RX Weights: 115lb/75lb"]
  */
-const getAllWorkouts = (filterParams) => {
+const getAllAnime = (filterParams) => {
   try {
-    let workouts = DB.workouts;
-    if (filterParams.mode) {
-      return DB.workouts.filter((workout) =>
-        workout.mode.toLowerCase().includes(filterParams.mode),
-      );
-    }
+    let animes = DB.animes;
     if (filterParams.name) {
-      return DB.workouts.filter((workout) =>
+      return DB.animes.filter((workout) =>
         workout.name.includes(filterParams.name.toLowerCase()),
       );
     }
 
     if (filterParams.year) {
-      return DB.workouts.filter(
-        (workout) => workout.year === Number(filterParams.year),
+      return DB.animes.filter(
+        (anime) => anime.year === Number(filterParams.year),
       );
     }
     if (filterParams.estado) {
-      return DB.workouts.filter(
-        (workout) => workout.estado == String(filterParams.estado),
+      return DB.animes.filter(
+        (anime) => anime.estado == String(filterParams.estado),
       );
     }
-    if (filterParams.genero1) {
-      return DB.workouts.filter(
-        (anime) => anime.genero1 == String(filterParams.genero1),
+    if (filterParams.tipo) {
+      return DB.animes.filter(
+        (anime) => anime.mode == String(filterParams.tipo),
+      );
+    }
+    if (filterParams.episodes) {
+      return DB.animes.filter(
+        (anime) => anime.episodios == String(filterParams.episodes),
+      );
+    }
+    if (filterParams.genero) {
+      return DB.animes.filter(
+        (anime) =>
+          anime.genero1 == String(filterParams.genero) ||
+          anime.genero2 == String(filterParams.genero) ||
+          anime.genero3 == String(filterParams.genero) ||
+          anime.genero4 == String(filterParams.genero) ||
+          anime.genero5 == String(filterParams.genero) ||
+          anime.genero6 == String(filterParams.genero) ||
+          anime.genero7 == String(filterParams.genero),
       );
     }
 
-    return workouts;
+    return animes;
   } catch (error) {
     throw {status: 500, message: error};
   }
 };
 
-const getOneWorkout = (workoutId) => {
-  try {
-    const workout = DB.workouts.find((workout) => workout.id === workoutId);
+// const getOneWorkout = (workoutId) => {
+//   try {
+//     const workout = DB.workouts.find((workout) => workout.id === workoutId);
 
-    if (!workout) {
-      throw {
-        status: 400,
-        message: `Can't find workout with the id '${workoutId}'`,
-      };
-    }
+//     if (!workout) {
+//       throw {
+//         status: 400,
+//         message: `Can't find workout with the id '${workoutId}'`,
+//       };
+//     }
 
-    return workout;
-  } catch (error) {
-    throw {status: error?.status || 500, message: error?.message || error};
-  }
-};
+//     return workout;
+//   } catch (error) {
+//     throw {status: error?.status || 500, message: error?.message || error};
+//   }
+// };
 
-const createNewWorkout = (newWorkout) => {
-  try {
-    const isAlreadyAdded =
-      DB.workouts.findIndex((workout) => workout.name === newWorkout.name) > -1;
+// const createNewWorkout = (newWorkout) => {
+//   try {
+//     const isAlreadyAdded =
+//       DB.workouts.findIndex((workout) => workout.name === newWorkout.name) > -1;
 
-    if (isAlreadyAdded) {
-      throw {
-        status: 400,
-        message: `Workout with the name '${newWorkout.name}' already exists`,
-      };
-    }
+//     if (isAlreadyAdded) {
+//       throw {
+//         status: 400,
+//         message: `Workout with the name '${newWorkout.name}' already exists`,
+//       };
+//     }
 
-    DB.workouts.push(newWorkout);
-    saveToDatabase(DB);
+//     DB.workouts.push(newWorkout);
+//     saveToDatabase(DB);
 
-    return newWorkout;
-  } catch (error) {
-    throw {status: 500, message: error?.message || error};
-  }
-};
+//     return newWorkout;
+//   } catch (error) {
+//     throw {status: 500, message: error?.message || error};
+//   }
+// };
 
-const updateOneWorkout = (workoutId, changes) => {
-  try {
-    const isAlreadyAdded =
-      DB.workouts.findIndex((workout) => workout.name === changes.name) > -1;
+// const updateOneWorkout = (workoutId, changes) => {
+//   try {
+//     const isAlreadyAdded =
+//       DB.workouts.findIndex((workout) => workout.name === changes.name) > -1;
 
-    if (isAlreadyAdded) {
-      throw {
-        status: 400,
-        message: `Workout with the name '${changes.name}' already exists`,
-      };
-    }
+//     if (isAlreadyAdded) {
+//       throw {
+//         status: 400,
+//         message: `Workout with the name '${changes.name}' already exists`,
+//       };
+//     }
 
-    const indexForUpdate = DB.workouts.findIndex(
-      (workout) => workout.id === workoutId,
-    );
+//     const indexForUpdate = DB.workouts.findIndex(
+//       (workout) => workout.id === workoutId,
+//     );
 
-    if (indexForUpdate === -1) {
-      throw {
-        status: 400,
-        message: `Can't find workout with the id '${workoutId}'`,
-      };
-    }
+//     if (indexForUpdate === -1) {
+//       throw {
+//         status: 400,
+//         message: `Can't find workout with the id '${workoutId}'`,
+//       };
+//     }
 
-    const updatedWorkout = {
-      ...DB.workouts[indexForUpdate],
-      ...changes,
-      updatedAt: new Date().toLocaleString("en-US", {timeZone: "UTC"}),
-    };
+//     const updatedWorkout = {
+//       ...DB.workouts[indexForUpdate],
+//       ...changes,
+//       updatedAt: new Date().toLocaleString("en-US", {timeZone: "UTC"}),
+//     };
 
-    DB.workouts[indexForUpdate] = updatedWorkout;
-    saveToDatabase(DB);
+//     DB.workouts[indexForUpdate] = updatedWorkout;
+//     saveToDatabase(DB);
 
-    return updatedWorkout;
-  } catch (error) {
-    throw {status: error?.status || 500, message: error?.message || error};
-  }
-};
+//     return updatedWorkout;
+//   } catch (error) {
+//     throw {status: error?.status || 500, message: error?.message || error};
+//   }
+// };
 
-const deleteOneWorkout = (workoutId) => {
-  try {
-    const indexForDeletion = DB.workouts.findIndex(
-      (workout) => workout.id === workoutId,
-    );
-    if (indexForDeletion === -1) {
-      throw {
-        status: 400,
-        message: `Can't find workout with the id '${workoutId}'`,
-      };
-    }
-    DB.workouts.splice(indexForDeletion, 1);
-    saveToDatabase(DB);
-  } catch (error) {
-    throw {status: error?.status || 500, message: error?.message || error};
-  }
-};
+// const deleteOneWorkout = (workoutId) => {
+//   try {
+//     const indexForDeletion = DB.workouts.findIndex(
+//       (workout) => workout.id === workoutId,
+//     );
+//     if (indexForDeletion === -1) {
+//       throw {
+//         status: 400,
+//         message: `Can't find workout with the id '${workoutId}'`,
+//       };
+//     }
+//     DB.workouts.splice(indexForDeletion, 1);
+//     saveToDatabase(DB);
+//   } catch (error) {
+//     throw {status: error?.status || 500, message: error?.message || error};
+//   }
+// };
 
 module.exports = {
-  getAllWorkouts,
-  getOneWorkout,
-  createNewWorkout,
-  updateOneWorkout,
-  deleteOneWorkout,
+  getAllAnime,
+  // getOneWorkout,
+  // createNewWorkout,
+  // updateOneWorkout,
+  // deleteOneWorkout,
 };

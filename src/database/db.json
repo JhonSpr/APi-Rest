@@ -1,5 +1,5 @@
 {
-  "workouts": [
+  "animes": [
     {
       "id": "1",
       "name": "akudama drive",
@@ -1218,7 +1218,7 @@
         }
       ],
       "classEstado": "tag is-success end",
-      "al": 2
+      "tipo": "Anime"
     },
     {
       "id": "Gensou Sangokushi Tenge Reishink",
@@ -3683,8 +3683,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "estado": "Finalizado",
-      "classEstado": "tag is-success end",
-      "al": 5
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Mob Psycho 100 III",
@@ -3724,8 +3723,7 @@
       ],
       "sec3": "disable",
       "estado": "Finalizado",
-      "classEstado": "tag is-success end",
-      "al": 5
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV",
@@ -3770,8 +3768,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "estado": "En Emision",
-      "classEstado": "tag is-success airing",
-      "al": 6
+      "classEstado": "tag is-success airing"
     },
     {
       "id": "Fuufu Ijou, Koibito Miman",
@@ -3809,8 +3806,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "estado": "Finalizado",
-      "classEstado": "tag is-success end",
-      "al": 6
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Peter Grill to Kenja no Jikan Super Extra",
@@ -3850,8 +3846,7 @@
         }
       ],
       "estado": "Finalizado",
-      "classEstado": "tag is-success end",
-      "al": 6
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Yowamushi Pedal Limit Break",
@@ -3877,8 +3872,7 @@
       "nombreSecuela2": "Sabado 14 de enerp 2023",
       "sec3": "disable",
       "estado": "En Emision",
-      "classEstado": "tag is-success airing",
-      "al": 6
+      "classEstado": "tag is-success airing"
     },
     {
       "id": "BLUELOCK",
@@ -3902,8 +3896,7 @@
       "sec3": "disable",
       "estado": "En Emision",
       "tipo": "Anime",
-      "classEstado": "tag is-success airing",
-      "al": 6
+      "classEstado": "tag is-success airing"
     },
     {
       "id": "Fumetsu no Anata e Temporada 2",
@@ -3944,8 +3937,7 @@
       "textoSecuela2": "Proximo Episodio",
       "nombreSecuela2": "Domingo 22 de enero 2023",
       "sec3": "disable",
-      "classEstado": "tag is-success airing",
-      "al": 6
+      "classEstado": "tag is-success airing"
     },
     {
       "id": "Bungou Stray Dogs 4",
@@ -3964,8 +3956,7 @@
       "sec3": "disable",
       "descripcion": "“Su agencia de detectives es un orgullo del país”. Ha pasado aproximadamente un mes desde que la Agencia Armada de Detectives, en colaboración con Port Mafia, ganó la operación de canibalismo ideada por las Ratas en la Casa de los Muertos. La Agencia de Detectives Armados recibió la medalla más alta por su contribución a la seguridad, la Orden del Arco de Exorcismo de Azusa, y fue elogiada por todo el país. Entonces llega una solicitud urgente del gobierno. Los cuatro asesinatos de los jóvenes senadores se compararon con los cinco signos de la mortalidad del ser celestial más alto de Rokudo Rinne, los Seis Reinos de la Reencarnación. La Agencia de Detectives Armados se propone evitar que ocurra el asesinato restante. “Todas las fuerzas deben trabajar juntas para prevenir los intentos del mal”. ¡Pero resulta ser una trampa tendida por el astuto Demonio Fyodor, que se suponía que había sido capturado...! Los funcionarios del gobierno sospechan de la justicia que defienden. Una unidad especial de la policía militar, los Perros de Caza, está lista para entrar en acción. La Descomposición del Ángel está vagando por las calles para provocar la destrucción del mundo. La Agencia de Detectives Armados, que ha sido calumniada por el público desde su gloria, se enfrenta uno tras otro a nuevos enemigos y su desesperación sin fondo. Con su amistad desmoronándose, ¿será Atsushi Nakajima capaz de superar esta crisis sin precedentes? Sin un rayo de esperanza a la vista, la batalla está a punto de comenzar...",
       "estado": "En Emision",
-      "classEstado": "tag is-success airing",
-      "al": 6
+      "classEstado": "tag is-success airing"
     }
   ]
 }
