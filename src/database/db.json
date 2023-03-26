@@ -15,15 +15,15 @@
       "sec2": "disable",
       "sec3": "disable",
       "tipo": "Anime",
-      "genero1": "Accion ",
-      "genero2": "Ciencia Ficcion ",
+      "genero1": "Accion",
+      "genero2": "Ciencia Ficcion",
       "generos": [
         {
-          "genero": "Accion ",
+          "genero": "Accion",
           "link": "/generos/Accion"
         },
         {
-          "genero": "Ciencia Ficción ",
+          "genero": "Ciencia Ficción",
           "link": "/generos/Ciencia Ficcion"
         }
       ],
