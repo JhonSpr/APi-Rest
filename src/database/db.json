@@ -530,6 +530,10 @@
       "linksec2": "/overlord-iv",
       "nombreSecuela": "Overlord II",
       "nombreSecuela2": "Overlord IV",
+      "secuelas": [
+        {"secuela": "Overlord II", "link": "/overlord-ii"},
+        {"secuela": "Overlord IV", "link": "/overlord-iv"}
+      ],
       "sec3": "disable",
       "genero1": "Accion",
       "genero2": "Aventuras",
