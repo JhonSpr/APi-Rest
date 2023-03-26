@@ -15,36 +15,20 @@
       "sec2": "disable",
       "sec3": "disable",
       "tipo": "Anime",
-      "visitas": 0,
-      "genero1": "Accion",
-      "genero2": "Ciencia Ficcion",
+      "genero1": "Accion ",
+      "genero2": "Ciencia Ficcion ",
       "generos": [
         {
-          "genero": "Accion",
+          "genero": "Accion ",
           "link": "/generos/Accion"
         },
         {
-          "genero": "Ciencia Ficción",
+          "genero": "Ciencia Ficción ",
           "link": "/generos/Ciencia Ficcion"
         }
       ],
-      "options": [
-        {
-          "link": "https://animefenix.tv/akudama-drive",
-          "pagina": "Animefenix"
-        },
-        {
-          "link": "https://www3.animeflv.net/anime/akudama-drive",
-          "pagina": "Animeflv"
-        },
-        {
-          "link": "https://jkanime.net/akudama-drive/",
-          "pagina": "Jkanime"
-        }
-      ],
       "duration": "24 min",
-      "studio": "Studio Pierrot",
-      "updatedAt": "2/7/2023, 6:08:57 AM"
+      "studio": "Studio Pierrot"
     },
     {
       "id": "BLEACH: Sennen Kessen-hen",
@@ -69,36 +53,23 @@
       "genero4": "Aventuras",
       "generos": [
         {
-          "genero": "Accion",
+          "genero": "Accion ",
           "link": "/generos/Accion"
         },
         {
-          "genero": "Aventuras",
+          "genero": "Aventuras ",
           "link": "/generos/Aventuras"
         },
         {
-          "genero": "Shounen",
+          "genero": "Shounen ",
           "link": "/generos/Shounen"
         },
         {
-          "genero": "Fantasia",
+          "genero": "Fantasia ",
           "link": "/generos/Fantasia"
         }
       ],
-      "options": [
-        {
-          "link": "https://animefenix.tv/bleach-sennen-kessen-hen",
-          "pagina": "Animefenix"
-        },
-        {
-          "link": "https://www3.animeflv.net/anime/bleach-sennen-kessenhen",
-          "pagina": "Animeflv"
-        },
-        {
-          "link": "https://jkanime.net/bleach-sennen-kessen-hen/",
-          "pagina": "Jkanime"
-        }
-      ],
+
       "studio": "Studio Pierrot",
       "duration": "24 min"
     },
