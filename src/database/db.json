@@ -2609,6 +2609,10 @@
       "nombreSecuela3": "Accel World: Infinite Burst",
       "linksec2": "/accel-world-acchel-world",
       "linksec3": "/accel-world-infinite-burst",
+      "generos": [
+        {"genero": "Accion", "link": "/generos/Accion"},
+        {"genero": "Fantasia", "link": "/generos/Fantasia"}
+      ],
       "secuelas": [
         {"secuela": "Accel World Ex", "link": "/accel-world-acchel-world"}
       ],
