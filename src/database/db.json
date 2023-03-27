@@ -531,7 +531,7 @@
       "nombreSecuela2": "Overlord IV",
       "secuelas": [{"secuela": "Overlord IV", "link": "/overlord-iv"}],
       "precuelas": [{"precuela": "Overlord II", "link": "/overlord-ii"}],
-      "sec3": "disable",
+      "trailer": "https://www.youtube.com/embed/ZOEihZPz3aE",
       "genero1": "Accion",
       "genero2": "Aventuras",
       "genero3": "Demonios",
