@@ -2603,19 +2603,22 @@
       "descripcion": "Año 2046, los Neuro-Linker permite a las personas tener sus cinco sentidos en un mundo virtual donde interactúan y se comunican a través de internet. Haruyuki, un estudiante normal y corriente de aspecto bajito y fuerte se sumerge en este mundo de realidad aumentada para evadirse de sus problemas.",
       "episodios": 24,
       "genero1": ["Accion", "Fantasia"],
-      "textoSecuela": "Secuela",
       "textoSecuela2": "Historia Paralela",
       "textoSecuela3": "Historia Paralela",
-      "nombreSecuela": "Accel World Ex",
       "nombreSecuela2": "Accel World: Acchel World",
       "nombreSecuela3": "Accel World: Infinite Burst",
-      "linksec1": "/accel-world-acchel-world",
       "linksec2": "/accel-world-acchel-world",
       "linksec3": "/accel-world-infinite-burst",
+      "secuelas": [
+        {"secuela": "Accel World Ex", "link": "/accel-world-acchel-world"}
+      ],
+      "precuelas": [],
+      "historiasParalelas": [],
+      "banner": "https://wallpapercave.com/wp/wp1896958.jpg",
+      "trailer": "https://www.youtube.com/embed/qjXJiypzXyQ",
       "year": 2012,
       "tipo": "Anime",
-      "classEstado": "tag is-success end",
-      "al": 4
+      "classEstado": "tag is-success end"
     },
     {
       "id": "Utawarerumono",
