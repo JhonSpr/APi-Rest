@@ -45,7 +45,7 @@ const getAllAnime = (filterParams) => {
     let animes = DB.animes;
     if (filterParams.name) {
       return DB.animes.filter((workout) =>
-        workout.name.includes(filterParams.name.toLowerCase()),
+        workout.name.includes(filterParams.name),
       );
     }
 
