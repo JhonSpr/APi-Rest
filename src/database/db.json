@@ -16,6 +16,20 @@
       "banner": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3da25e280dabf502b497a26bf7f803c7.jpe",
       "genero1": "Accion",
       "genero2": "Ciencia Ficcion",
+      "capitulos": [
+        {"capitulo": "1", "link": "/ver/akudama-drive-1"},
+        {"capitulo": "2", "link": "/ver/akudama-drive-2"},
+        {"capitulo": "3", "link": "/ver/akudama-drive-3"},
+        {"capitulo": "4", "link": "/ver/akudama-drive-4"},
+        {"capitulo": "5", "link": "/ver/akudama-drive-5"},
+        {"capitulo": "6", "link": "/ver/akudama-drive-6"},
+        {"capitulo": "7", "link": "/ver/akudama-drive-7"},
+        {"capitulo": "8", "link": "/ver/akudama-drive-8"},
+        {"capitulo": "9", "link": "/ver/akudama-drive-9"},
+        {"capitulo": "10", "link": "/ver/akudama-drive-10"},
+        {"capitulo": "11", "link": "/ver/akudama-drive-11"},
+        {"capitulo": "12", "link": "/ver/akudama-drive-12"}
+      ],
       "generos": [
         {
           "genero": "Accion",
