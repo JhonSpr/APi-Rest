@@ -17,6 +17,9 @@
       "precuelas": [],
       "duration": "24 min",
       "trailer": "https://www.youtube.com/embed/OXQvk5-KVTw",
+      "genero1": "Accion",
+      "genero2": "Comedia",
+      "genero3": "Shoujo",
       "generos": [
         {"genero": "Accion ", "link": "/generos/Accion"},
         {"genero": "Comedia", "link": "/generos/Comedia"},
