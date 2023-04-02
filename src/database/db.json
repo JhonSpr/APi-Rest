@@ -35,6 +35,7 @@
       "descripcion": "Hace muchos años, una Gran Guerra Civil devastó Japón, dejando al país fragmentado en dos regiones: Kansai y Kanto. En Kansai, un grupo de seis Akudama llevan a cabo las misiones que les encomienda un misterioso gato negro, mientras evaden a la policía. Pero un viaje peligroso está a punto de desarrollarse cuando una niña civil se retuerce en el estilo de vida de los Akudama y es testigo de sus impulsos criminales.",
       "image": "https://i.postimg.cc/Dz96B0dq/akudama-drive.jpg",
       "estado": "Finalizado",
+      "proximo": false,
       "year": 2020,
       "classEstado": "tag is-success end",
       "episodios": 12,
@@ -82,6 +83,7 @@
       "descripcion": "Ichigo Kurosaki siempre ha sido capaz de ver fantasmas, pero esta habilidad no cambia su vida tanto como su encuentro cercano con Rukia Kuchiki, una Segadora de Almas y miembro de la misteriosa Sociedad de Almas. Mientras lucha contra un Hollow, un espíritu maligno que se aprovecha de los humanos que muestran energía psíquica, Rukia intenta prestar a Ichigo algunos de sus poderes para que pueda salvar a su familia; pero para su sorpresa, Ichigo absorbe hasta la última gota de su energía. Ahora, convertido en un segador de almas, Ichigo aprende rápidamente que el mundo en el que vive está lleno de espíritus peligrosos y, junto con Rukia -que poco a poco va recuperando sus poderes-, su trabajo es proteger a los inocentes de los Hollows y ayudar a los propios espíritus a encontrar la paz.",
       "episodios": 13,
       "secuelas": [],
+      "proximo": false,
       "precuelas": [{"precuela": "Bleach", "link": "/bleach"}],
       "banner": "https://rare-gallery.com/uploads/posts/348277-4k-wallpaper.jpg",
       "trailer": "https://www.youtube.com/embed/1sygUhb8Q2Y",
@@ -122,6 +124,7 @@
       "name": "hoshi no samidare",
       "descripcion": "Un día, el estudiante universitario ordinario Yuuhi Amamiya conoce a un lagarto parlante que le pide ayuda para salvar a la Tierra de una crisis. Antes de que pueda negarse, Yuuhi se convierte en miembro de los Caballeros Bestia y se le da un anillo que le otorga el poder psíquico control de dominio. ¡Entonces es inmediatamente atacado por un enemigo! Pero justo cuando todo parece perdido, es salvado por la chica de al lado, Samidare. Pero resulta que Samidare no es realmente un salvador de ningún tipo... ¡en realidad es un señor de los demonios que quiere conquistar la Tierra! Atraída por su fuerza absurda y sus encantos malvados, Yuuhi se convierte en su devota sirvienta y actúa para apoyar sus malvados planes.",
       "episodios": 25,
+      "proximo": false,
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -2644,12 +2647,7 @@
       "descripcion": "Año 2046, los Neuro-Linker permite a las personas tener sus cinco sentidos en un mundo virtual donde interactúan y se comunican a través de internet. Haruyuki, un estudiante normal y corriente de aspecto bajito y fuerte se sumerge en este mundo de realidad aumentada para evadirse de sus problemas.",
       "episodios": 24,
       "genero1": ["Accion", "Fantasia"],
-      "textoSecuela2": "Historia Paralela",
-      "textoSecuela3": "Historia Paralela",
-      "nombreSecuela2": "Accel World: Acchel World",
-      "nombreSecuela3": "Accel World: Infinite Burst",
-      "linksec2": "/accel-world-acchel-world",
-      "linksec3": "/accel-world-infinite-burst",
+      "proximo": false,
       "generos": [
         {"genero": "Accion", "link": "/generos/Accion"},
         {"genero": "Fantasia", "link": "/generos/Fantasia"}
@@ -2657,8 +2655,16 @@
       "secuelas": [
         {"secuela": "Accel World Ex", "link": "/accel-world-acchel-world"}
       ],
-      "precuelas": [],
-      "historiasParalelas": [],
+      "precuelas": [
+        {
+          "precuela": "Accel World: Acchel World",
+          "link": "/accel-world-acchel-world"
+        },
+        {
+          "precuela": "Accel World: Infinite Burst",
+          "link": "/accel-world-infinite-burst"
+        }
+      ],
       "banner": "https://wallpapercave.com/wp/wp1896958.jpg",
       "trailer": "https://www.youtube.com/embed/qjXJiypzXyQ",
       "year": 2012,
