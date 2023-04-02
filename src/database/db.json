@@ -15,6 +15,7 @@
       "secuelas": [],
       "precuelas": [],
       "duration": "24 min",
+      "trailer": "https://www.youtube.com/embed/OXQvk5-KVTw",
       "generos": [
         {"genero": "Accion ", "link": "/generos/Accion"},
         {"genero": "Comedia", "link": "/generos/Comedia"},
