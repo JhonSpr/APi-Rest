@@ -1,0 +1,7 @@
+{
+  "generos": [
+    {"id": 1, "nombre": "Acción"},
+    {"id": 2, "nombre": "Comedia"},
+    {"id": 3, "nombre": "Drama"}
+  ]
+}

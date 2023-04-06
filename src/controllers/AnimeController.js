@@ -22,10 +22,10 @@ const getAllAnimes = (req, res) => {
 
     const paginatedData = animes.slice(startIndex, endIndex);
     const datos = animes.slice(startIndex, endIndex);
-    res.send({datos, item: datos.length});
+    res.send({datos, items: datos.lenght});
   } catch (error) {
     res.status(error?.status || 500).send({
-      status: "Cantidad de items",
+      status: "Algo salio mal",
       data: {error: error?.message || error},
     });
   }
