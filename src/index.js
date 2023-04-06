@@ -57,13 +57,13 @@ app.get("/generos", (req, res) => {
       },
       {
         id: 9,
-        nombre: "Supernatural",
-        link: "/generos/supernatural",
+        nombre: "Sobrenatural",
+        link: "/generos/sobrenatural",
       },
       {
         id: 10,
-        nombre: "Suspenso",
-        link: "/generos/suspenso",
+        nombre: "Terror",
+        link: "/generos/terror",
       },
       {
         id: 11,
@@ -87,13 +87,8 @@ app.get("/generos", (req, res) => {
       },
       {
         id: 15,
-        nombre: "Música",
-        link: "/generos/musica",
-      },
-      {
-        id: 16,
-        nombre: "Slice of Life",
-        link: "/generos/slice-of-life",
+        nombre: "Isekai",
+        link: "/generos/isekai",
       },
       {
         id: 17,
@@ -106,11 +101,6 @@ app.get("/generos", (req, res) => {
         link: "/generos/historico",
       },
       {
-        id: 19,
-        nombre: "Recuentos de vida",
-        link: "/generos/recuentos-de-vida",
-      },
-      {
         id: 20,
         nombre: "Shoujo",
         link: "/generos/shoujo",
@@ -119,16 +109,6 @@ app.get("/generos", (req, res) => {
         id: 21,
         nombre: "Shounen",
         link: "/generos/shounen",
-      },
-      {
-        id: 22,
-        nombre: "Sobrenatural",
-        link: "/generos/sobrenatural",
-      },
-      {
-        id: 23,
-        nombre: "Vampiros",
-        link: "/generos/vampiros",
       },
       {
         id: 23,
@@ -141,39 +121,14 @@ app.get("/generos", (req, res) => {
         link: "/generos/magia",
       },
       {
-        id: 25,
-        nombre: "Superpoderes",
-        link: "/generos/superpoderes",
-      },
-      {
         id: 26,
         nombre: "Gore",
         link: "/generos/gore",
       },
       {
-        id: 27,
-        nombre: "Psychological",
-        link: "/generos/psychological",
-      },
-      {
-        id: 28,
-        nombre: "Thriller",
-        link: "/generos/thriller",
-      },
-      {
-        id: 29,
-        nombre: "Space",
-        link: "/generos/space",
-      },
-      {
         id: 30,
         nombre: "Militar",
         link: "/generos/militar",
-      },
-      {
-        id: 31,
-        nombre: "Policial",
-        link: "/generos/policial",
       },
       {
         id: 32,
