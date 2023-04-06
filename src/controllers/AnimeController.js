@@ -9,7 +9,7 @@ const getAllAnimes = (req, res) => {
     const endIndex = startIndex + limit;
     const year = req.query.year;
     const episodes = req.query.episodes;
-    const genero = req.query.genero;
+    const genero = req.query.genero.toLowerCase();
     const tipo = req.query.tipo;
     const animes = animeService.getAllAnime({
       name,
