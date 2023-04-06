@@ -72,13 +72,13 @@ const getAllAnime = (filterParams) => {
     if (filterParams.genero) {
       return DB.animes.filter(
         (anime) =>
-          anime.genero1 == String(filterParams.genero) ||
-          anime.genero2 == String(filterParams.genero) ||
-          anime.genero3 == String(filterParams.genero) ||
-          anime.genero4 == String(filterParams.genero) ||
-          anime.genero5 == String(filterParams.genero) ||
-          anime.genero6 == String(filterParams.genero) ||
-          anime.genero7 == String(filterParams.genero),
+          anime.genero1 == String(filterParams.genero.toLowerCase()) ||
+          anime.genero2 == String(filterParams.genero.toLowerCase()) ||
+          anime.genero3 == String(filterParams.genero.toLowerCase()) ||
+          anime.genero4 == String(filterParams.genero.toLowerCase()) ||
+          anime.genero5 == String(filterParams.genero.toLowerCase()) ||
+          anime.genero6 == String(filterParams.genero.toLowerCase()) ||
+          anime.genero7 == String(filterParams.genero.toLowerCase()),
       );
     }
 

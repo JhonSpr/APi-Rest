@@ -9,7 +9,7 @@ const getAllAnimes = (req, res) => {
     const endIndex = startIndex + limit;
     const year = req.query.year;
     const episodes = req.query.episodes;
-    const genero = req.query.genero.toLowerCase();
+    const genero = req.query.genero;
     const tipo = req.query.tipo;
     const animes = animeService.getAllAnime({
       name,
@@ -22,10 +22,7 @@ const getAllAnimes = (req, res) => {
 
     const paginatedData = animes.slice(startIndex, endIndex);
     const datos = animes.slice(startIndex, endIndex);
-    res.send({
-      datos,
-      item: datos.length,
-    });
+    res.send({datos, item: datos.length});
   } catch (error) {
     res.status(error?.status || 500).send({
       status: "Cantidad de items",
