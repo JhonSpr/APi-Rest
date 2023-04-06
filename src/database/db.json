@@ -28,7 +28,7 @@
       "proximo": "Viernes 7 de abril 2023"
     },
     {
-      "id": "1",
+      "id": "akudama drive",
       "name": "akudama drive",
       "anime": "Akudama Drive",
       "mode": "TV",
@@ -43,7 +43,7 @@
       "trailer": "https://www.youtube.com/embed/64r4rlA3NgE",
       "banner": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/3da25e280dabf502b497a26bf7f803c7.jpe",
       "genero1": "accion",
-      "genero2": "Ciencia Ficcion",
+      "genero2": "ciencia ficcion",
       "capitulos": [
         {"capitulo": "1", "link": "/ver/akudama-drive-1"},
         {"capitulo": "2", "link": "/ver/akudama-drive-2"},
@@ -65,7 +65,7 @@
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/Ciencia Ficcion"
+          "link": "/generos/ciencia ficcion"
         }
       ],
       "secuelas": [],
@@ -721,7 +721,7 @@
       "year": 2022,
       "episodios": 1,
       "genero1": "aventuras",
-      "genero2": "Ciencia Ficcion",
+      "genero2": "ciencia ficcion",
       "genero3": "Shoune",
       "generos": [
         {
@@ -730,7 +730,7 @@
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/Ciencia Ficcion"
+          "link": "/generos/ciencia ficcion"
         },
         {
           "genero": "shounen",
@@ -946,7 +946,7 @@
       "linksec1": "/date-a-live-iii",
       "image": "https://i.postimg.cc/1XJYCPzs/date-a-live-iv.jpg",
       "estado": "Finalizado",
-      "genero1": "Ciencia Ficcion",
+      "genero1": "ciencia ficcion",
       "genero2": "comedia",
       "tipo": "Anime",
       "genero3": "escolares",
@@ -955,7 +955,7 @@
       "generos": [
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/Ciencia Ficcion"
+          "link": "/generos/ciencia ficcion"
         },
         {
           "genero": "comedia",
@@ -1400,7 +1400,7 @@
       "image": "https://i.postimg.cc/8zjCNBxm/toaru-majutsu-no-index.jpg",
       "estado": "Finalizado",
       "genero1": "accion",
-      "genero2": "Ciencia Ficcion",
+      "genero2": "ciencia ficcion",
       "genero3": "magia",
       "genero4": "Superpoderes",
       "generos": [
@@ -1410,7 +1410,7 @@
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/Ciencia Ficcion"
+          "link": "/generos/ciencia ficcion"
         },
         {
           "genero": "magia",
@@ -1490,7 +1490,7 @@
       "sec1": "disable",
       "sec2": "disable",
       "genero1": "accion",
-      "genero2": "Ciencia Ficcion",
+      "genero2": "ciencia ficcion",
       "genero3": "drama",
       "genero4": "Militar",
       "generos": [
@@ -1500,7 +1500,7 @@
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/Ciencia Ficcion"
+          "link": "/generos/ciencia ficcion"
         },
         {
           "genero": "drama",
@@ -3404,7 +3404,7 @@
       "descripcion": "En un futuro distante, la humanidad ha creado ciudades fortificadas llamadas Plantaciones, que funcionan como refugio para las personas, pues el suelo de la Tierra está arruinado. Dentro de estas ciudades futuristas, niños y niñas son entrenados para pilotar robots gigantes llamados Franxx, sin saber nada del mundo exterior. Estos jóvenes pilotos son conocidos como parásitos y son enviados a misiones a bordo de los Franxx para combatir a misteriosos enemigos llamados Klaxosaurios. Sin embargo, esta lucha oculta un problema aún mayor.",
       "episodios": 26,
       "genero1": "accion",
-      "genero2": "Ciencia Ficcion",
+      "genero2": "ciencia ficcion",
       "tipo": "Anime",
       "genero3": "drama",
       "generos": [
@@ -3414,7 +3414,7 @@
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/Ciencia Ficcion"
+          "link": "/generos/ciencia ficcion"
         },
         {
           "genero": "drama",
@@ -3619,7 +3619,7 @@
       "genero1": "accion",
       "genero2": "drama",
       "genero3": "Misterio",
-      "genero4": "Ciencia Ficcion",
+      "genero4": "ciencia ficcion",
       "generos": [
         {
           "genero": "accion",
@@ -3635,7 +3635,7 @@
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/Ciencia Ficcion"
+          "link": "/generos/ciencia ficcion"
         }
       ],
       "sec1": "disable",
@@ -3658,7 +3658,7 @@
       "genero1": "accion",
       "genero2": "Arte Marciales",
       "tipo": "Anime",
-      "genero3": "Ciencia Ficcion",
+      "genero3": "ciencia ficcion",
       "genero4": "seinen",
       "generos": [
         {
@@ -3671,7 +3671,7 @@
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/Ciencia Ficcion"
+          "link": "/generos/ciencia ficcion"
         },
         {
           "genero": "seinen",
