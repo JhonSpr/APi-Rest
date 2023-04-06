@@ -9,7 +9,7 @@ const getAllAnimes = (req, res) => {
     const endIndex = startIndex + limit;
     const year = req.query.year;
     const episodes = req.query.episodes;
-    const genero = req.query.genero;
+    const genero = req.query.genero.toLowerCase();
     const tipo = req.query.tipo;
     const animes = animeService.getAllAnime({
       name,
@@ -22,11 +22,32 @@ const getAllAnimes = (req, res) => {
 
     const paginatedData = animes.slice(startIndex, endIndex);
     const datos = animes.slice(startIndex, endIndex);
-    res.send(datos.length == 0 ? paginatedData : datos.slice(0, 2000));
+    res.send(datos.length == 0 ? paginatedData : datos.length);
   } catch (error) {
-    res
-      .status(error?.status || 500)
-      .send({status: "FAILED", data: {error: error?.message || error}});
+    const limit = parseInt(req.query.limit) || 2000;
+    const page = parseInt(req.query.page) || 1;
+    const startIndex = (page - 1) * limit;
+    const endIndex = startIndex + limit;
+    const year = req.query.year;
+    const episodes = req.query.episodes;
+    const genero = req.query.genero.toLowerCase();
+    const tipo = req.query.tipo;
+    const animes = animeService.getAllAnime({
+      name,
+      year,
+      estado,
+      episodes,
+      genero,
+      tipo,
+    });
+
+    const paginatedData = animes.slice(startIndex, endIndex);
+    const datos = animes.slice(startIndex, endIndex);
+    res.status(error?.status || 500).send({
+      status: "Cantidad de items",
+      data: {error: error?.message || error},
+      items: datos.length,
+    });
   }
 };
 
