@@ -3,7 +3,6 @@ const apicache = require("apicache");
 const cors = require("cors");
 const v1animeRouter = require("./v1/routes/animeRoutes");
 const {swaggerDocs: V1SwaggerDocs} = require("./v1/swagger");
-const data = require("./database/db.json");
 
 const app = express();
 const PORT = process.env.PORT || 3001;
