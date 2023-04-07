@@ -18,7 +18,7 @@
       "duration": "24 min",
       "trailer": "https://www.youtube.com/embed/OXQvk5-KVTw",
       "genero1": "accion",
-      "capitulos": [],
+      "capitulos": [{"capitulo": "1", "link": "/ver/mashle-1"}],
       "genero2": "comedia",
       "genero3": "shoujo",
       "generos": [
@@ -89,8 +89,6 @@
       "banner": "https://rare-gallery.com/uploads/posts/348277-4k-wallpaper.jpg",
       "trailer": "https://www.youtube.com/embed/1sygUhb8Q2Y",
       "estado": "Finalizado",
-      "tipo": "Anime",
-      "classEstado": "tag is-success end",
       "genero1": "accion",
       "genero2": "fantasia",
       "genero3": "Shoune",
@@ -113,7 +111,6 @@
           "link": "/generos/fantasia"
         }
       ],
-
       "studio": "Studio Pierrot",
       "duration": "24 min"
     },
@@ -126,13 +123,12 @@
       "descripcion": "Un día, el estudiante universitario ordinario Yuuhi Amamiya conoce a un lagarto parlante que le pide ayuda para salvar a la Tierra de una crisis. Antes de que pueda negarse, Yuuhi se convierte en miembro de los Caballeros Bestia y se le da un anillo que le otorga el poder psíquico control de dominio. ¡Entonces es inmediatamente atacado por un enemigo! Pero justo cuando todo parece perdido, es salvado por la chica de al lado, Samidare. Pero resulta que Samidare no es realmente un salvador de ningún tipo... ¡en realidad es un señor de los demonios que quiere conquistar la Tierra! Atraída por su fuerza absurda y sus encantos malvados, Yuuhi se convierte en su devota sirvienta y actúa para apoyar sus malvados planes.",
       "episodios": 25,
       "proximo": false,
-      "sec1": "disable",
-      "sec2": "disable",
-      "sec3": "disable",
+      "secuelas": [],
+      "precuelas": [],
       "year": 2022,
-      "tipo": "Anime",
+      "banner": "https://www.animeclick.it/immagini/anime/Hoshi_no_Samidare/gallery_original/Hoshi_no_Samidare-62cca582966b1.jpg",
+      "trailer": "https://www.youtube.com/embed/020G0qlCxhI",
       "estado": "Finalizado",
-      "classEstado": "tag is-success end",
       "genero1": "accion",
       "genero2": "aventuras",
       "genero3": "comedia",
