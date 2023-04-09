@@ -1538,6 +1538,7 @@
       "descripcion": "Segunda temporada de Shadows House",
       "genero1": "sobrenatural",
       "genero2": "ciencia ficcion",
+      "genero3": "seinen",
       "precuelas": [{"precuela": "shadows house", "link": "/shadows-house"}],
       "secuelas": [],
       "proximo": false,
