@@ -180,7 +180,8 @@
         }
       ],
       "duration": "23 min",
-      "studio": "CloverWorks"
+      "studio": "CloverWorks",
+      "trailer": "https://www.youtube.com/embed/l4CNebBw3hI"
     },
     {
       "id": "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2",
@@ -229,8 +230,7 @@
           "genero": "magia",
           "link": "/generos/magia"
         }
-      ],
-      "classEstado": "tag is-success end"
+      ]
     },
     {
       "id": "Kuro no Shoukanshi",
