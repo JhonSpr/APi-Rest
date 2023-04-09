@@ -3,9 +3,6 @@ const apicache = require("apicache");
 const cors = require("cors");
 const v1animeRouter = require("./v1/routes/animeRoutes");
 const {swaggerDocs: V1SwaggerDocs} = require("./v1/swagger");
-const authRoutes = require("./routes/auth");
-const fs = require("fs");
-const usersData = require("./db/db.json");
 const app = express();
 const PORT = process.env.PORT || 3001;
 const cache = apicache.middleware;
@@ -138,38 +135,6 @@ app.get("/generos", (req, res) => {
       },
     ],
   });
-});
-
-app.use("/auth", authRoutes);
-const verifyToken = (req, res, next) => {
-  const token = req.header("Authorization"); // Obtiene el token del encabezado de autorización
-
-  if (!token) {
-    return res.status(403).json({message: "Acceso denegado"}); // Si no hay token, se niega el acceso
-  }
-
-  jwt.verify(token, secretKey, (err, decoded) => {
-    if (err) {
-      return res.status(401).json({message: "Token inválido"}); // Si el token es inválido, se devuelve un error
-    }
-
-    req.user = decoded.user; // Decodifica el token y agrega los datos del usuario en el objeto de solicitud
-    next(); // Continúa con el siguiente middleware o ruta
-  });
-};
-
-app.get("/users", (req, res) => {
-  const db = JSON.parse(fs.readFileSync("./src/db/db.json", "utf-8"));
-  res.send(db);
-});
-app.get("/users/:id", (req, res) => {
-  const userId = req.params.id;
-  const user = usersData.users.find((user) => user.id === userId);
-  if (user) {
-    res.json(user);
-  } else {
-    res.status(404).json({message: "Usuario no encontrado"});
-  }
 });
 app.listen(PORT, () => {
   console.log(`🚀 Server listening on port ${PORT}`);
