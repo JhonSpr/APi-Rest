@@ -755,7 +755,7 @@
       "genero4": "magia",
       "proximo": false,
       "secuelas": [],
-      "precuelas": [{"secuela": "Fairy gone", "link": "/fairy-gone-tv"}],
+      "precuelas": [{"precuela": "Fairy gone", "link": "/fairy-gone-tv"}],
       "generos": [
         {
           "genero": "accion",
