@@ -777,7 +777,7 @@
       "episodios": 12,
       "studio": "P.A. Works",
       "duration": "20 min",
-      "banner": "../assest/fairy_gone_2.jpg",
+      "banner": "./src/assest/fairy_gone_2.jpg",
       "trailer": "https://www.youtube.com/embed/N_yLeT4-IbA"
     },
     {
