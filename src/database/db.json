@@ -164,7 +164,7 @@
           "link": "/shadows-house-2nd-temporada"
         }
       ],
-      "precuelas": false,
+      "precuelas": [{"secuela": false, "link": false}],
       "year": 2021,
       "estado": "Finalizado",
       "genero1": "seinen",
