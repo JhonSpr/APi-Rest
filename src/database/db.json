@@ -1524,9 +1524,7 @@
       "image": "https://i.postimg.cc/1R7hshSb/violet-evergarden.jpg",
       "estado": "Finalizado",
       "episodios": 14,
-      "year": 2018,
-      "classEstado": "tag is-success end",
-      "al": 2
+      "year": 2018
     },
     {
       "id": "Shadows House Temporada 2",
@@ -1534,19 +1532,19 @@
       "anime": "Shadows House 2nd Temporada",
       "mode": "TV",
       "descripcion": "Segunda temporada de Shadows House",
-      "sec2": "disable",
-      "sec3": "disable",
-      "genero1": ["accion", "fantasia"],
-      "textoSecuela": "Precuela",
-      "nombreSecuela": "Shadows House",
-      "linksec1": "/shadows-house",
+      "genero1": "sobrenatural",
+      "genero2": "ciencia ficcion",
+      "precuelas": [{"precuela": "shadows house", "link": "/shadows-house"}],
+      "secuelas": [],
+      "proximo": false,
       "image": "https://i.postimg.cc/xd2Bt9GN/shadows-house-2nd-season.jpg",
       "estado": "Finalizado",
       "year": 2022,
-      "tipo": "Anime",
       "episodios": 12,
-      "classEstado": "tag is-success end",
-      "al": 2
+      "banner": "https://m.media-amazon.com/images/M/MV5BOTg3MTIyYWQtNTcwYy00MTgzLWI3OWQtMzM2NGRmZjQ4MjQzXkEyXkFqcGdeQXVyNjI2ODQwOTM@._V1_FMjpg_UX1000_.jpg",
+      "trailer": "https://www.youtube.com/embed/FnrInJHB2l4",
+      "studio": "CloverWorks",
+      "duration": "24 min"
     },
     {
       "id": "Orient 2nd Temporada",
