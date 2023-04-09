@@ -1520,6 +1520,10 @@
       "genero2": "drama",
       "precuelas": [],
       "secuelas": [],
+      "generos": [
+        {"genero": "fantasia", "link": "/generos/fantasia"},
+        {"genero": "drama", "link": "/generos/drama"}
+      ],
       "proximo": false,
       "image": "https://i.postimg.cc/1R7hshSb/violet-evergarden.jpg",
       "estado": "Finalizado",
