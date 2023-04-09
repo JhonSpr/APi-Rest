@@ -1540,6 +1540,11 @@
       "genero2": "ciencia ficcion",
       "genero3": "seinen",
       "precuelas": [{"precuela": "shadows house", "link": "/shadows-house-tv"}],
+      "generos": [
+        {"genero": "sobrenatural", "link": "/generos/sobrenatural"},
+        {"genero": "ciencia ficcion", "link": "/generos/ciencia-ficcion"},
+        {"genero": "seinen", "link": "/generos/seinen"}
+      ],
       "secuelas": [],
       "proximo": false,
       "image": "https://i.postimg.cc/xd2Bt9GN/shadows-house-2nd-season.jpg",
