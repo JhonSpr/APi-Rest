@@ -240,15 +240,13 @@
       "anime": "kuro no shoukanshi",
       "year": 2022,
       "descripcion": "Cuando Kelvin se despierta, se encuentra en un lugar desconocido sin ningún recuerdo de su vida anterior. Resulta que se había reencarnado en otro mundo pero había cambiado sus recuerdos del pasado por poderosas habilidades. Ahora que es un invocador, emprende un viaje con la diosa que lo trajo al nuevo mundo, quien también es su primera seguidora",
-      "sec1": "disable",
-      "sec2": "disable",
-      "sec3": "disable",
+      "secuelas": [],
+      "precuelas": [],
+      "proximo": false,
       "episodios": 12,
       "estado": "Finalizado",
-      "classEstado": "tag is-success end",
       "genero1": "accion",
       "genero2": "fantasia",
-      "tipo": "Anime",
       "generos": [
         {
           "genero": "accion",
@@ -258,7 +256,11 @@
           "genero": "fantasia",
           "link": "/generos/fantasia"
         }
-      ]
+      ],
+      "studio": "Satelight",
+      "banner": "https://i.pinimg.com/736x/99/1a/d4/991ad49cf4bfe654c285db7fc4297003.jpg",
+      "trailer": "https://www.youtube.com/embed/XCpNNq62Zko",
+      "duration": "24 min"
     },
     {
       "id": "Hanyo no Yashahime ni no Shou",
