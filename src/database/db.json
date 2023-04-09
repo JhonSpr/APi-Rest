@@ -1837,14 +1837,33 @@
       "estado": "Finalizado",
       "descripcion": "Los hermanos Elric emprenden un viaje tras haber perdido parte de su cuerpo mientras intentaban resucitar a su madre. Siendo ambos huérfanos de madre y con su padre en paradero desconocido, cuyo oscuro pasado es tan misterioso como él mismo, el hermano mayor, Edward Elric, decide convertirse en alquimista nacional para poder remediar el pecado que cometieron; pues la transmutación humana está vedada para los humanos y no hay perdón por aquellos que han visto la puerta, Si quieres obtener algo, debes sacrificar otra cosa que posea el mismo valor a cambio; esta es la ley de los estados equivalentes, nada se gana sin ningún sacrificio.",
       "episodios": 64,
-      "sec1": "disable",
-      "sec2": "disable",
-      "genero1": ["accion", "fantasia"],
-      "sec3": "disable",
+      "generos": [
+        {"genero": "accion", "link": "/generos/accion"},
+        {"genero": "militar", "link": "/generos/militar"},
+        {"genero": "shounen", "link": "/generos/shounen"},
+        {"genero": "magia", "link": "/generos/magia"},
+        {"genero": "drama", "link": "/generos/drama"},
+        {
+          "genero": "fantasia",
+          "link": "/generos/fantasia"
+        },
+        {"genero": "fantasia", "link": "/generos/fantasia"}
+      ],
+      "genero1": "accion",
+      "genero2": "militar",
+      "genero3": "shounen",
+      "genero4": "magia",
+      "genero5": "drama",
+      "genero6": "fantasia",
+      "genero7": "aventuras",
       "year": 2009,
-      "tipo": "Anime",
-      "classEstado": "tag is-success end",
-      "al": 3
+      "secuelas": [],
+      "precuelas": [],
+      "proximo": false,
+      "trailer": "https://www.youtube-nocookie.com/embed/kx0nBaS_q50",
+      "banner": "https://kineticscribe.files.wordpress.com/2013/08/fmab-banner.jpg",
+      "studio": "Bones",
+      "duration": "24 min"
     },
     {
       "id": "Overlord",
