@@ -745,12 +745,7 @@
       "name": "fairy gone 2nd temporada",
       "anime": "Fairy Gone 2nd Temporada",
       "mode": "TV",
-      "descripcion": "Segunda temporada de Fairy Gone.",
-      "sec2": "disable",
-      "sec3": "disable",
-      "textoSecuela": "Precuela",
-      "nombreSecuela": "Fairy Gone",
-      "linksec1": "/fairy-gone",
+      "descripcion": "Segunda temporada del mundo donde las adas son realidad y terribles.",
       "image": "https://i.postimg.cc/ZqXmH8MV/fairy-gone-2nd-season.jpg",
       "estado": "Finalizado",
       "year": 2019,
@@ -758,6 +753,9 @@
       "genero2": "demonios",
       "genero3": "fantasia",
       "genero4": "magia",
+      "proximo": false,
+      "secuelas": [],
+      "precuelas": [{"secuela": "Fairy gone", "link": "/fairy-gone-tv"}],
       "generos": [
         {
           "genero": "accion",
@@ -777,9 +775,10 @@
         }
       ],
       "episodios": 12,
-      "classEstado": "tag is-success end",
-      "tipo": "Anime",
-      "al": 1
+      "studio": "P.A. Works",
+      "duration": "20 min",
+      "banner": "../assest/fairy_gone_2.jpg",
+      "trailer": "https://www.youtube.com/embed/N_yLeT4-IbA"
     },
     {
       "id": "isekai Meikyuu de Harem wo",
