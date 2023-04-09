@@ -537,11 +537,8 @@
       "estado": "Finalizado",
       "episodios": 13,
       "year": 2018,
+      "proximo": false,
       "descripcion": "Tercera temporada de Overlord.",
-      "linksec1": "/overlord-ii",
-      "linksec2": "/overlord-iv",
-      "nombreSecuela": "Overlord II",
-      "nombreSecuela2": "Overlord IV",
       "secuelas": [{"secuela": "Overlord IV", "link": "/overlord-iv"}],
       "precuelas": [{"precuela": "Overlord II", "link": "/overlord-ii"}],
       "trailer": "https://www.youtube.com/embed/vci9YwpFFcA",
@@ -577,10 +574,7 @@
           "genero": "sobrenatural",
           "link": "/generos/sobrenatural"
         }
-      ],
-      "classEstado": "tag is-success end",
-      "tipo": "Anime",
-      "al": 1
+      ]
     },
     {
       "id": "Ao no Exorcist Kyoto Fujouou Hen",
@@ -640,11 +634,14 @@
       "estado": "Finalizado",
       "year": 2019,
       "episodios": 12,
-      "textoSecuela": "Secuela",
-      "nombreSecuela": "Fairy Gone 2nd Temporada",
-      "linksec1": "/fairy-gone-2nd-temporada",
-      "sec2": "disable",
-      "sec3": "disable",
+      "secuelas": [
+        {
+          "secuela": "Fairy Gone 2nd Temporada",
+          "link": "/fairy-gone-2nd-temporada"
+        }
+      ],
+      "precuelas": [],
+      "proximo": false,
       "genero1": "accion",
       "genero2": "demonios",
       "genero3": "fantasia",
@@ -672,9 +669,10 @@
           "link": "/generos/sobrenatural"
         }
       ],
-      "classEstado": "tag is-success end",
-      "tipo": "Anime",
-      "al": 1
+      "trailer": "https://www.youtube.com/embed/-liIbmCoMRc",
+      "banner": "https://wallpapercave.com/wp/wp4419658.jpg",
+      "studio": "P.A. Works",
+      "duration": "23 min"
     },
     {
       "id": "Dr Stone Ryusui",
