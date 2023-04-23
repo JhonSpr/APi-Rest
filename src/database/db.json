@@ -1,6 +1,37 @@
 {
   "animes": [
     {
+      "id": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+      "name": "kimetsu no yaiba: katanakaji no sato hen",
+      "anime": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+      "mode": "TV",
+      "descripcion": "nicia el arco de los herreros en Kimetsu No Yaiba. Continuación de la segunda temporada, Arco del distrito rojo. Tanjiro y compañía tendrán que cumplir una nueva misión, acompañados de dos pilares.",
+      "image": "https://i.postimg.cc/HWP1Ktsj/Kimetsu-no-Yaiba-Katanakaji-no-Sato-hen-Serie-de-TV-234343485-large.jpg",
+      "episodios": 3,
+      "year": 2023,
+      "estado": "En Emision",
+      "duration": "24 min",
+      "studio": "ufotable",
+      "genero1": "shounen",
+      "genero2": "historico",
+      "genero3": "fantasia",
+      "genero4": "accion",
+      "proximo": "Domingo 30 de abril 2023",
+      "generos": [
+        {"genero": "accion", "link": "/generos/accion"},
+        {"genero": "fantasia", "link": "/generos/fantasia"},
+        {"genero": "shounen", "link": "/generos/shounen"},
+        {"genero": "historico", "link": "/generos/historico"}
+      ],
+      "precuelas": [
+        {
+          "precuela": "kimetsu no yaiba: yuukaku-hen",
+          "link": "/kimetsu-no-yaiba-yuukaku-hen"
+        }
+      ]
+    },
+
+    {
       "id": "mashle",
       "name": "mashle",
       "anime": "Mashle",
