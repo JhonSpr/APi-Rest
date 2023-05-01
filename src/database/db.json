@@ -49,12 +49,6 @@
       "duration": "24 min",
       "trailer": "https://www.youtube.com/embed/OXQvk5-KVTw",
       "genero1": "accion",
-      "capitulos": [
-        {"capitulo": "1", "link": "/ver/mashle-1"},
-        {"capitulo": "2", "link": "/ver/mashle-2"},
-        {"capitulo": "3", "link": "/ver/mashle-3"},
-        {"capitulo": "4", "link": "/ver/mashle-4"}
-      ],
       "genero2": "comedia",
       "genero3": "shoujo",
       "generos": [
@@ -82,12 +76,12 @@
       "genero2": "ciencia ficcion",
       "generos": [
         {
-          "genero": "accion",
+          "genero": "Acción",
           "link": "/generos/accion"
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/ciencia ficcion"
+          "link": "/generos/ciencia-ficcion"
         }
       ],
       "secuelas": [],
@@ -107,8 +101,6 @@
       "secuelas": [],
       "proximo": false,
       "precuelas": [{"precuela": "Bleach tv", "link": "/bleach-tv"}],
-      "banner": "https://rare-gallery.com/uploads/posts/348277-4k-wallpaper.jpg",
-      "trailer": "https://www.youtube.com/embed/1sygUhb8Q2Y",
       "estado": "Finalizado",
       "genero1": "accion",
       "genero2": "fantasia",
@@ -147,8 +139,6 @@
       "secuelas": [],
       "precuelas": [],
       "year": 2022,
-      "banner": "https://www.animeclick.it/immagini/anime/Hoshi_no_Samidare/gallery_original/Hoshi_no_Samidare-62cca582966b1.jpg",
-      "trailer": "https://www.youtube.com/embed/020G0qlCxhI",
       "estado": "Finalizado",
       "genero1": "accion",
       "genero2": "aventuras",

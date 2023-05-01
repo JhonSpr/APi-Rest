@@ -20,7 +20,6 @@ const getAllAnimes = (req, res) => {
       tipo,
     });
 
-    const paginatedData = animes.slice(startIndex, endIndex);
     const datos = animes.slice(startIndex, endIndex);
     res.send({datos, item: datos.length});
   } catch (error) {
