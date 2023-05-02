@@ -1235,7 +1235,6 @@
       "generos": [
         {
           "genero": "Deportes",
-          "tipo": "anime",
           "link": "/generos/Deportes"
         },
         {
@@ -1243,7 +1242,6 @@
           "link": "/generos/Musica"
         }
       ],
-      "classEstado": "tag is-success end",
       "tipo": "anime"
     },
     {
@@ -1271,9 +1269,7 @@
         }
       ],
       "year": 2022,
-      "tipo": "anime",
-      "classEstado": "tag is-success end",
-      "al": 2
+      "tipo": "anime"
     },
     {
       "id": "Tribe nine",
@@ -1286,8 +1282,8 @@
       "genero1": "Deportes",
       "generos": [
         {
-          "genero": "Deportes",
-          "link": "/generos/Deportes"
+          "genero": "deportes",
+          "link": "/generos/deportes"
         }
       ],
       "sec3": "disable",
@@ -1295,9 +1291,7 @@
       "estado": "finalizado",
       "year": 2022,
       "episodios": 12,
-      "tipo": "anime",
-      "classEstado": "tag is-success end",
-      "al": 2
+      "tipo": "anime"
     },
     {
       "id": "Koroshi Ai",
@@ -1324,9 +1318,7 @@
       "image": "https://i.postimg.cc/DyhsvDcd/koroshi-ai.jpg",
       "estado": "finalizado",
       "year": 2022,
-      "episodios": 12,
-      "classEstado": "tag is-success end",
-      "al": 2
+      "episodios": 12
     },
     {
       "id": "Sabikui Bisco",
@@ -1358,9 +1350,7 @@
       "episodios": 12,
       "image": "https://i.postimg.cc/YCshWyQP/sabikui-bisco.jpg",
       "estado": "finalizado",
-      "year": 2022,
-      "classEstado": "tag is-success end",
-      "al": 2
+      "year": 2022
     },
     {
       "id": "Sasaki to Miyano",
@@ -1571,7 +1561,8 @@
       "duration": "25 min",
       "studio": "Kyoto Animation",
       "trailer": "https://www.youtube.com/embed/0hpN3bGeX2U",
-      "banner": "https://images3.alphacoders.com/905/905838.jpg"
+      "banner": "https://images3.alphacoders.com/905/905838.jpg",
+      "tipo": "anime"
     },
     {
       "id": "Shadows House Temporada 2",
@@ -1597,7 +1588,8 @@
       "banner": "https://rare-gallery.com/mocahbig/421214-anime-boys-anime-girls-Shadows-House.png",
       "trailer": "https://www.youtube.com/embed/FnrInJHB2l4",
       "studio": "CloverWorks",
-      "duration": "24 min"
+      "duration": "24 min",
+      "tipo": "anime"
     },
     {
       "id": "Orient 2nd Temporada",
@@ -1664,7 +1656,8 @@
       "year": 2022,
       "studio": " Madhouse",
       "duration": "24 min",
-      "temporadas": 4
+      "temporadas": 4,
+      "tipo": "anime"
     },
     {
       "id": "Tensei kenja no isekai life dai 2 no shokugyou wo ete sekai saikyou ni narimashita",
@@ -1909,7 +1902,8 @@
       "trailer": "https://www.youtube-nocookie.com/embed/kx0nBaS_q50",
       "banner": "https://kineticscribe.files.wordpress.com/2013/08/fmab-banner.jpg",
       "studio": "Bones",
-      "duration": "24 min"
+      "duration": "24 min",
+      "tipo": "anime"
     },
     {
       "id": "Overlord",
@@ -3652,9 +3646,7 @@
       "linksec1": "/tokyo-ghoul-√a",
       "sec2": "disable",
       "sec3": "disable",
-      "year": 2014,
-      "classEstado": "tag is-success end",
-      "al": 5
+      "year": 2014
     },
     {
       "id": "ID:INVADED",
