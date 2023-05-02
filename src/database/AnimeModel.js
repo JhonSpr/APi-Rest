@@ -21,9 +21,9 @@ const getAllAnime = (filterParams) => {
         (anime) => anime.estado == String(filterParams.estado),
       );
     }
-    if (filterParams.tipo) {
+    if (filterParams.type) {
       return DB.animes.filter(
-        (anime) => anime.mode == String(filterParams.tipo),
+        (anime) => anime.tipo == String(filterParams.type),
       );
     }
     if (filterParams.episodes) {

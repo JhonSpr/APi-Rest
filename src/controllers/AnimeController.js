@@ -10,14 +10,14 @@ const getAllAnimes = (req, res) => {
     const year = req.query.year;
     const episodes = req.query.episodes;
     const genero = req.query.genero;
-    const tipo = req.query.tipo;
+    const type = req.query.type;
     const animes = animeService.getAllAnime({
       name,
       year,
       estado,
       episodes,
       genero,
-      tipo,
+      type,
     });
 
     const datos = animes.slice(startIndex, endIndex);
