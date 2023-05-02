@@ -677,6 +677,7 @@
       "estado": "finalizado",
       "year": 2019,
       "episodios": 12,
+      "tipo": "anime",
       "secuelas": [
         {
           "secuela": "Fairy Gone 2nd Temporada",
@@ -779,8 +780,7 @@
         }
       ],
       "classEstado": "tag is-success end",
-      "tipo": "anime",
-      "al": 1
+      "tipo": "anime"
     },
     {
       "id": "Fairy Gone 2nd Temporada",
@@ -819,8 +819,7 @@
       "episodios": 12,
       "studio": "P.A. Works",
       "duration": "20 min",
-      "banner": "https://i.postimg.cc/63kDNs5c/fairy-gone-2.jpg",
-      "trailer": "https://www.youtube.com/embed/N_yLeT4-IbA"
+      "tipo": "anime"
     },
     {
       "id": "isekai Meikyuu de Harem wo",
