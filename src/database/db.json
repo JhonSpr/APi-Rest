@@ -1,6 +1,35 @@
 {
   "animes": [
     {
+      "id": "Hellsing Ultimate",
+      "name": "hellsing ultimate",
+      "anime": "hellsing ultimate",
+      "mode": "TV",
+      "tipo": "OVA",
+      "descripcion": "Hellsing es una organización que se dedica a detener a los malvados que acechan en la oscuridad, los vampiros. También se encargan de otros monstruos de la noche y los matan. La organización existe hace mucho tiempo y su liderazgo ha ido pasando de padres a hijos durante siglos. Sin embargo, hoy en día, la jefa actual de la organización encontró algo muy importante, su arma mas mortal y poderosa, el inmortal vampiro, Alucard, que esta sometido a la organización por sellos restrictivos y obedece las ordenes de cada uno de los lideres de la familia a lo largo de los siglos.",
+      "genero1": "seinen",
+      "genero2": "militar",
+      "genero3": "sobrenatural",
+      "genero4": "terror",
+      "genero5": "accion",
+      "generos": [
+        {"genero": "accion", "link": "/generos/accion"},
+        {"genero": "seinen", "link": "/generos/seinen"},
+        {"genero": "militar", "link": "/generos/militar"},
+        {"genero": "sobrenatural", "link": "/generos/sobrenatural"},
+        {"genero": "terror", "link": "/generos/terror"}
+      ],
+      "episodios": 10,
+      "duration": "50 min",
+      "estado": "finalizado",
+      "year": 2006,
+      "studio": "Madhouse, Satelight, Graphinica",
+      "precuelas": [],
+      "secuelas": [],
+      "proximo": false,
+      "image": "https://i.postimg.cc/XvCHym5H/hellsing-ultimate.jpg"
+    },
+    {
       "id": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
       "name": "kimetsu no yaiba: katanakaji no sato hen",
       "anime": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
