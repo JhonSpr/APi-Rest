@@ -145,11 +145,12 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         link: "/ver/mashle-5",
         image: "https://cloudfront-cdn-images.com/albbudret7ua.jpg",
       },
-      // {
-      //   id: 2,
-      //   nombre: "Aventura",
-      //   link: "/generos/aventura",
-      // },
+      {
+        id: 2,
+        nombre: "Kimetsu no yaiba katanakaji no sato-hen capitulo 5",
+        link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-5",
+        image: "https://cloudfront-cdn-images.com/98e09zkkdsnt.jpg",
+      },
       // {
       //   id: 3,
       //   nombre: "Comedia",
