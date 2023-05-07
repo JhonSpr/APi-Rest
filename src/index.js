@@ -156,7 +156,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
       {
         id: 3,
         nombre: "Fairy gone",
-        link: "/ver/fairy-gone-12",
+        link: "/ver/fairy-gone-tv-12",
         image: "https://cloudfront-cdn-images.com/0tknl8stst17_t.jpg",
         episode: "Episodio 12",
       },
