@@ -141,15 +141,17 @@ app.get("/api/v1/recien-agregados", (req, res) => {
     recientes: [
       {
         id: 1,
-        nombre: "Mashle capitulo 5",
+        nombre: "Mashle Episodio 5",
         link: "/ver/mashle-5",
         image: "https://cloudfront-cdn-images.com/albbudret7ua.jpg",
+        episode: "Episodio 5",
       },
       {
         id: 2,
-        nombre: "Kimetsu no yaiba katanakaji no sato-hen capitulo 5",
+        nombre: "Kimetsu no yaiba katanakaji no sato-hen Episodio 5",
         link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-5",
         image: "https://cloudfront-cdn-images.com/98e09zkkdsnt.jpg",
+        episode: "Episodio 5",
       },
       // {
       //   id: 3,
