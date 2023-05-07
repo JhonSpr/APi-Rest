@@ -153,11 +153,13 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         image: "https://cloudfront-cdn-images.com/98e09zkkdsnt.jpg",
         episode: "Episodio 5",
       },
-      // {
-      //   id: 3,
-      //   nombre: "Comedia",
-      //   link: "/generos/comedia",
-      // },
+      {
+        id: 3,
+        nombre: "Fairy gone",
+        link: "/ver/fairy-gone-12",
+        image: "https://cloudfront-cdn-images.com/0tknl8stst17_t.jpg",
+        episode: "Episodio 12",
+      },
       // {
       //   id: 4,
       //   nombre: "Drama",
