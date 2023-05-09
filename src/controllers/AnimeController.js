@@ -20,7 +20,14 @@ const getAllAnimes = (req, res) => {
       type,
     });
 
-    const datos = animes.slice(startIndex, endIndex);
+    let datos = animes;
+    // if (genero) {
+    //   datos = datos.filter((anime) => {
+    //     return anime.generos.some((g) => g.genero == genero);
+    //   });
+    // }
+
+    datos = datos.slice(startIndex, endIndex);
     res.send({datos, item: datos.length});
   } catch (error) {
     res.status(error?.status || 500).send({
