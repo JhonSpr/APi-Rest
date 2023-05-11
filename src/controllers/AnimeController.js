@@ -11,6 +11,7 @@ const getAllAnimes = (req, res) => {
     const episodes = req.query.episodes;
     const genero = req.query.genero;
     const type = req.query.type;
+    const orderBy = req.query.orderBy;
     const animes = animeService.getAllAnime({
       name,
       year,
@@ -21,17 +22,18 @@ const getAllAnimes = (req, res) => {
     });
 
     let datos = animes;
-    // if (genero) {
-    //   datos = datos.filter((anime) => {
-    //     return anime.generos.some((g) => g.genero == genero);
-    //   });
-    // }
-
+    datos.sort((a, b) => {
+      if (orderBy === "asc") {
+        return a.name.localeCompare(b.name);
+      } else {
+        return b.name.localeCompare(a.name);
+      }
+    });
     datos = datos.slice(startIndex, endIndex);
     res.send({datos, item: datos.length});
   } catch (error) {
     res.status(error?.status || 500).send({
-      status: "Algo salio mal",
+      status: "Algo salió mal",
       data: {error: error?.message || error},
     });
   }
