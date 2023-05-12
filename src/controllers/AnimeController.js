@@ -25,6 +25,8 @@ const getAllAnimes = (req, res) => {
     datos.sort((a, b) => {
       if (orderBy === "asc") {
         return a.name.localeCompare(b.name);
+      } else if (orderBy === "normal") {
+        datos.slice(startIndex, endIndex);
       } else if (orderBy === "desc") {
         return b.name.localeCompare(a.name);
       } else {
