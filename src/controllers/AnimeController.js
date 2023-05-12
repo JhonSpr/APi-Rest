@@ -26,11 +26,11 @@ const getAllAnimes = (req, res) => {
       if (orderBy === "asc") {
         return a.name.localeCompare(b.name);
       } else if (orderBy === "normal") {
-        return animes.slice(startIndex, endIndex);
+        animes.slice(startIndex, endIndex);
       } else if (orderBy === "desc") {
         return b.name.localeCompare(a.name);
       } else {
-        return animes.slice(startIndex, endIndex);
+        animes.slice(startIndex, endIndex);
       }
     });
     datos = datos.slice(startIndex, endIndex);
