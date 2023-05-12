@@ -28,7 +28,7 @@ const getAllAnimes = (req, res) => {
       } else if (orderBy === "desc") {
         return b.name.localeCompare(a.name);
       } else {
-        animes.slice(startIndex, endIndex);
+        datos.slice(startIndex, endIndex);
       }
     });
     datos = datos.slice(startIndex, endIndex);
