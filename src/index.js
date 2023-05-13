@@ -160,11 +160,13 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         image: "https://cloudfront-cdn-images.com/0tknl8stst17_t.jpg",
         episode: "Episodio 12",
       },
-      // {
-      //   id: 4,
-      //   nombre: "Drama",
-      //   link: "/generos/drama",
-      // },
+      {
+        id: 4,
+        nombre: "Mashle",
+        link: "/ver/mashle-6",
+        image: "https://cloudfront-cdn-images.com/dt2ybugsxi93.jpg",
+        episode: "Episodio 6",
+      },
       // {
       //   id: 5,
       //   nombre: "Fantasía",
