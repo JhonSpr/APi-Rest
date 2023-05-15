@@ -167,11 +167,13 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         image: "https://cloudfront-cdn-images.com/dt2ybugsxi93.jpg",
         episode: "Episodio 6",
       },
-      // {
-      //   id: 5,
-      //   nombre: "Fantasía",
-      //   link: "/generos/fantasia",
-      // },
+      {
+        id: 5,
+        nombre: "Kimetsu no yaiba katanakaji no sato-hen",
+        link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-5",
+        image: "https://cloudfront-cdn-images.com/wp5i4rq31jcz.jpg",
+        episode: "Episodio 6",
+      },
       // {
       //   id: 6,
       //   nombre: "Mecha",
