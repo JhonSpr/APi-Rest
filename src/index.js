@@ -188,11 +188,14 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         image: "https://cloudfront-cdn-images.com/q546idbtkmj2.jpg",
         episode: "Episodio 7",
       },
-      // {
-      //   id: 8,
-      //   nombre: "Ciencia ficción",
-      //   link: "/generos/ciencia-ficcion",
-      // },
+      {
+        id: 8,
+        nombre: "Kimetsu no yaiba katanakaji no sato-hen",
+        link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-8",
+        image:
+          "https://image.tmdb.org/t/p/w300/twKgIalhN0PeahBx8mwk8UaMhvh.jpg",
+        episode: "Episodio 8",
+      },
       // {
       //   id: 9,
       //   nombre: "Sobrenatural",
