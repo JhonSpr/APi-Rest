@@ -181,11 +181,13 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         image: "https://cloudfront-cdn-images.com/9fna1n946am8.jpg",
         episode: "Episodio 7",
       },
-      // {
-      //   id: 7,
-      //   nombre: "Romance",
-      //   link: "/generos/romance",
-      // },
+      {
+        id: 7,
+        nombre: "Mashle",
+        link: "/ver/mashle-7",
+        image: "https://cloudfront-cdn-images.com/q546idbtkmj2.jpg",
+        episode: "Episodio 7",
+      },
       // {
       //   id: 8,
       //   nombre: "Ciencia ficción",
