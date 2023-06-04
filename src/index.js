@@ -209,11 +209,14 @@ app.get("/api/v1/recien-agregados", (req, res) => {
           "https://image.tmdb.org/t/p/w300/94Jx029j907EIqxZXbslIDcW07X.jpg",
         episode: "Episodio 8",
       },
-      // {
-      //   id: 10,
-      //   nombre: "Terror",
-      //   link: "/generos/terror",
-      // },
+      {
+        id: 10,
+        nombre: "Kimetsu no yaiba katanakaji no sato-hen",
+        link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-9",
+        image:
+          "https://image.tmdb.org/t/p/w300/6EgVImJC0fn0jshgw12NHRf5Rzd.jpg",
+        episode: "Episodio 9",
+      },
       // {
       //   id: 11,
       //   nombre: "Horror",
