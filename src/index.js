@@ -143,14 +143,16 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         id: 1,
         nombre: "Mashle",
         link: "/ver/mashle-5",
-        image: "https://cloudfront-cdn-images.com/albbudret7ua.jpg",
+        image:
+          "https://image.tmdb.org/t/p/w300/kGWzULYc0GgdQaKFIMFNmM7COFq.jpg",
         episode: "Episodio 5",
       },
       {
         id: 2,
         nombre: "Kimetsu no yaiba katanakaji no sato-hen",
         link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-5",
-        image: "https://cloudfront-cdn-images.com/98e09zkkdsnt.jpg",
+        image:
+          "https://image.tmdb.org/t/p/w300/7DvvdeA0bY3VIhicNYRuD19W28N.jpg",
         episode: "Episodio 5",
       },
       {
@@ -165,14 +167,16 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         id: 4,
         nombre: "Mashle",
         link: "/ver/mashle-6",
-        image: "https://cloudfront-cdn-images.com/dt2ybugsxi93.jpg",
+        image:
+          "https://image.tmdb.org/t/p/w300/lDvllafdpBKHxsyPKUsfLlEI2vn.jpg",
         episode: "Episodio 6",
       },
       {
         id: 5,
         nombre: "Kimetsu no yaiba katanakaji no sato-hen",
         link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-6",
-        image: "https://cloudfront-cdn-images.com/wp5i4rq31jcz.jpg",
+        image:
+          "https://image.tmdb.org/t/p/w300/o0HAhA3zeNsPQPtAnoigJlpCCuk.jpg",
         episode: "Episodio 6",
       },
       {
