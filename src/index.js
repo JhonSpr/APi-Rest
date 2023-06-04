@@ -196,11 +196,14 @@ app.get("/api/v1/recien-agregados", (req, res) => {
           "https://image.tmdb.org/t/p/w300/twKgIalhN0PeahBx8mwk8UaMhvh.jpg",
         episode: "Episodio 8",
       },
-      // {
-      //   id: 9,
-      //   nombre: "Sobrenatural",
-      //   link: "/generos/sobrenatural",
-      // },
+      {
+        id: 9,
+        nombre: "Mashle",
+        link: "/ver/mashle-8",
+        image:
+          "https://image.tmdb.org/t/p/w300/94Jx029j907EIqxZXbslIDcW07X.jpg",
+        episode: "Episodio 8",
+      },
       // {
       //   id: 10,
       //   nombre: "Terror",
