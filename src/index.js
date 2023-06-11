@@ -217,11 +217,13 @@ app.get("/api/v1/recien-agregados", (req, res) => {
           "https://image.tmdb.org/t/p/w300/6EgVImJC0fn0jshgw12NHRf5Rzd.jpg",
         episode: "Episodio 9",
       },
-      // {
-      //   id: 11,
-      //   nombre: "Horror",
-      //   link: "/generos/horror",
-      // },
+      {
+        id: 11,
+        nombre: "Mashle",
+        link: "/ver/mashle-9",
+        image: "https://cloudfront-cdn-images.com/yd48nalhhn0k.jpg",
+        episode: "Episodio 9",
+      },
       // {
       //   id: 12,
       //   nombre: "Misterio",
