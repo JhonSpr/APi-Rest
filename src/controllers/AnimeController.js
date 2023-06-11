@@ -22,18 +22,21 @@ const getAllAnimes = (req, res) => {
     });
 
     let datos = animes;
-    datos.sort((a, b) => {
-      if (orderBy === "asc") {
-        return a.name.localeCompare(b.name);
-      } else if (orderBy === "normal") {
-        return a.name.localeCompare(b.name);
-      } else if (orderBy === "desc") {
-        return b.name.localeCompare(a.name);
-      } else {
-        datos.slice(startIndex, endIndex);
-      }
-    });
-    datos = datos.slice(startIndex, endIndex);
+    if (orderBy) {
+      datos.sort((a, b) => {
+        if (orderBy === "asc") {
+          return a.name.localeCompare(b.name);
+        } else if (orderBy === "normal") {
+          return a.name.localeCompare(b.name);
+        } else if (orderBy === "desc") {
+          return b.name.localeCompare(a.name);
+        } else {
+          datos.slice(startIndex, endIndex);
+        }
+      });
+    } else {
+      datos = datos.slice(startIndex, endIndex);
+    }
     res.send({datos, item: datos.length});
   } catch (error) {
     res.status(error?.status || 500).send({
