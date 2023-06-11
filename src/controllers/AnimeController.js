@@ -22,6 +22,7 @@ const getAllAnimes = (req, res) => {
     });
 
     let datos = animes;
+
     if (orderBy) {
       datos.sort((a, b) => {
         if (orderBy === "asc") {
@@ -35,6 +36,7 @@ const getAllAnimes = (req, res) => {
     } else {
       datos = datos.slice(startIndex, endIndex);
     }
+
     res.send({datos, item: datos.length});
   } catch (error) {
     res.status(error?.status || 500).send({
