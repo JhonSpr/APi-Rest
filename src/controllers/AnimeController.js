@@ -23,7 +23,7 @@ const getAllAnimes = (req, res) => {
 
     let datos = animes;
 
-    if (orderBy) {
+    if (orderBy == "asc" || orderBy == "desc") {
       datos.sort((a, b) => {
         if (orderBy === "asc") {
           return a.name.localeCompare(b.name);
