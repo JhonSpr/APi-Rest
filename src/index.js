@@ -224,11 +224,14 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         image: "https://cloudfront-cdn-images.com/yd48nalhhn0k.jpg",
         episode: "Episodio 9",
       },
-      // {
-      //   id: 12,
-      //   nombre: "Misterio",
-      //   link: "/generos/misterio",
-      // },
+      {
+        id: 12,
+        nombre: "Kimetsu no yaiba katanakaji no sato-hen",
+        link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-10",
+        image:
+          "https://image.tmdb.org/t/p/w300/iKD90AUxGHcLHGvbuSKfqq76rbE.jpg",
+        episode: "Episodio 10",
+      },
       // {
       //   id: 13,
       //   nombre: "Psicológico",
