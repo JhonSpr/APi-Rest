@@ -22,17 +22,6 @@ const getAllAnimes = (req, res) => {
     });
 
     let datos = animes;
-    if (orderBy == "asc" || orderBy == "desc") {
-      datos = datos.sort((a, b) => {
-        if (orderBy === "asc") {
-          return a.name.localeCompare(b.name);
-        } else if (orderBy === "desc") {
-          return b.name.localeCompare(a.name);
-        } else {
-          datos.slice(startIndex, endIndex);
-        }
-      });
-    }
 
     res.send({datos: datos.slice(startIndex, endIndex), item: datos.length});
   } catch (error) {
