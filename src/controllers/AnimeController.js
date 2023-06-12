@@ -22,8 +22,7 @@ const getAllAnimes = (req, res) => {
     });
 
     let datos = animes;
-
-    if (orderBy) {
+    if (orderBy == "asc" || orderBy == "desc") {
       datos.sort((a, b) => {
         if (orderBy === "asc") {
           return a.name.localeCompare(b.name);
@@ -34,9 +33,8 @@ const getAllAnimes = (req, res) => {
         }
       });
     }
-    datos.slice(startIndex, endIndex);
 
-    res.send({datos, item: datos.length});
+    res.send({datos: datos.slice(startIndex, endIndex), item: datos.length});
   } catch (error) {
     res.status(error?.status || 500).send({
       status: "Algo salió mal",
