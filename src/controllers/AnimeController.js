@@ -11,7 +11,6 @@ const getAllAnimes = (req, res) => {
     const episodes = req.query.episodes;
     const genero = req.query.genero;
     const type = req.query.type;
-    const orderBy = req.query.orderBy;
     const animes = animeService.getAllAnime({
       name,
       year,
