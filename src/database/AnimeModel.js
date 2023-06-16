@@ -5,12 +5,14 @@ const {saveToDatabase} = require("./utils");
 const getAllAnime = (filterParams) => {
   try {
     let animes = DB.animes;
+    if (filterParams.info) {
+      return DB.animes.filter((anime) => anime.name === filterParams.info);
+    }
     if (filterParams.name) {
       return DB.animes.filter((anime) =>
         anime.name.includes(filterParams.name.toLowerCase()),
       );
     }
-
     if (filterParams.year) {
       return DB.animes.filter(
         (anime) => anime.year === Number(filterParams.year),

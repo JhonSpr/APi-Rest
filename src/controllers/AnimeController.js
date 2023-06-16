@@ -1,7 +1,7 @@
 const animeService = require("../services/AnimeService");
 
 const getAllAnimes = (req, res) => {
-  const {name, estado} = req.query;
+  const {name, estado, info} = req.query;
   try {
     const limit = parseInt(req.query.limit) || 24;
     const page = parseInt(req.query.page) || 1;
@@ -18,6 +18,7 @@ const getAllAnimes = (req, res) => {
       episodes,
       genero,
       type,
+      info,
     });
 
     let datos = animes;
