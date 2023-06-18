@@ -232,11 +232,13 @@ app.get("/api/v1/recien-agregados", (req, res) => {
           "https://image.tmdb.org/t/p/w300/iKD90AUxGHcLHGvbuSKfqq76rbE.jpg",
         episode: "Episodio 10",
       },
-      // {
-      //   id: 13,
-      //   nombre: "Psicológico",
-      //   link: "/generos/psicologico",
-      // },
+      {
+        id: 13,
+        nombre: "Kimetsu no yaiba katanakaji no sato-hen",
+        link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-11",
+        image: "https://cloudfront-cdn-images.com/eqga6jxi9ke2.jpg",
+        episode: "Episodio 11",
+      },
       // {
       //   id: 14,
       //   nombre: "Deportes",

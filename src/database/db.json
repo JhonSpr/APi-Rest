@@ -36,9 +36,9 @@
       "mode": "TV",
       "descripcion": "inicia el arco de los herreros en Kimetsu No Yaiba. Continuación de la segunda temporada, Arco del distrito rojo. Tanjiro y compañía tendrán que cumplir una nueva misión, acompañados de dos pilares.",
       "image": "https://i.postimg.cc/HWP1Ktsj/Kimetsu-no-Yaiba-Katanakaji-no-Sato-hen-Serie-de-TV-234343485-large.jpg",
-      "episodios": 10,
+      "episodios": 11,
       "year": 2023,
-      "estado": "en emision",
+      "estado": "finalizado",
       "duration": "24 min",
       "studio": "ufotable",
       "tipo": "anime",
@@ -46,7 +46,7 @@
       "genero2": "historico",
       "genero3": "fantasia",
       "genero4": "accion",
-      "proximo": "Domingo 18 de junio 2023",
+      "proximo": false,
       "generos": [
         {"genero": "accion", "link": "/generos/accion"},
         {"genero": "fantasia", "link": "/generos/fantasia"},
@@ -68,7 +68,7 @@
       "mode": "TV",
       "descripcion": "En un mundo donde la magia lo es todo, donde los magos más poderosos son los más prestigiosos, y los que no pueden utilizar magia son sacrificados, Mash Vandead es un joven que vive con su abuelo en una cabaña en medio de un bosque, donde ejercita su cuerpo de manera rutinaria, desarrollando así, una fuerza monstruosa.",
       "image": "https://i.postimg.cc/pTy8gwfK/mashle.jpg",
-      "episodios": 9,
+      "episodios": 10,
       "year": 2023,
       "estado": "en emision",
       "studio": "A-1 Pictures",
@@ -85,7 +85,7 @@
         {"genero": "comedia", "link": "/generos/comedia"},
         {"genero": "shoujo", "link": "/generos/shoujo"}
       ],
-      "proximo": "Viernes 16 de junio 2023"
+      "proximo": "Viernes 23 de junio 2023"
     },
     {
       "id": "akudama drive",
