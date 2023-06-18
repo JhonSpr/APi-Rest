@@ -239,11 +239,14 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         image: "https://cloudfront-cdn-images.com/eqga6jxi9ke2.jpg",
         episode: "Episodio 11",
       },
-      // {
-      //   id: 14,
-      //   nombre: "Deportes",
-      //   link: "/generos/deportes",
-      // },
+      {
+        id: 14,
+        nombre: "Black Clover Mahou Tei no Ken",
+        link: "/ver/black-clover-mahou-tei-no-ken",
+        image:
+          "https://i.postimg.cc/MKJ5GbBF/black-clover-mahou-tei-no-ken.jpg",
+        episode: "Pelicula",
+      },
       // {
       //   id: 15,
       //   nombre: "Isekai",
