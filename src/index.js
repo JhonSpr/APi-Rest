@@ -236,7 +236,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         id: 13,
         nombre: "Kimetsu no yaiba katanakaji no sato-hen",
         link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-11",
-        image: "https://cloudfront-cdn-images.com/eqga6jxi9ke2.jpg",
+        image: "https://cloudfront-cdn-images.com/5ac2z0vw3eyc.jpg",
         episode: "Episodio 11",
       },
       {
