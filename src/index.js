@@ -247,11 +247,15 @@ app.get("/api/v1/recien-agregados", (req, res) => {
           "https://i.postimg.cc/MKJ5GbBF/black-clover-mahou-tei-no-ken.jpg",
         episode: "Pelicula",
       },
-      // {
-      //   id: 15,
-      //   nombre: "Isekai",
-      //   link: "/generos/isekai",
-      // },
+      {
+        id: 15,
+        nombre: "Mashle",
+        link: "/ver/mashle-10",
+        image: "https://cloudfront-cdn-images.com/yd48nalhhn0k.jpg",
+        episode: "Episodio 10",
+        image:
+          "https://image.tmdb.org/t/p/w300/8kxD7JcC2Re1u4TNQ67s9IjGHLg.jpg",
+      },
       // {
       //   id: 17,
       //   nombre: "Harem",
