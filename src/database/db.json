@@ -1,6 +1,35 @@
 {
   "animes": [
     {
+      "id": "Black clover pelicula",
+      "name": "black clover mahou tei no ken",
+      "anime": "black clover mahou tei no ken",
+      "mode": "TV",
+      "tipo": "Pelicula",
+      "descripcion": "Mientras un niño de corazón de león que no puede ejercer la magia lucha por el título de Rey Mago, cuatro Reyes Magos desterrados de antaño regresan para aplastar el Reino del Trebol.",
+      "genero1": "accion",
+      "genero2": "demonios",
+      "genero3": "fantasia",
+      "genero4": "magia",
+      "genero5": "shounen",
+      "generos": [
+        {"genero": "accion", "link": "/generos/accion"},
+        {"genero": "demonios", "link": "/generos/demonios"},
+        {"genero": "fantasia ", "link": "/generos/fantasia"},
+        {"genero": "magia", "link": "/generos/magia"},
+        {"genero": "shounen ", "link": "/generos/shounen"}
+      ],
+      "emitido": "junio 16 de 2023",
+      "duration": "1 hr 53 min",
+      "estado": "finalizado",
+      "year": 2023,
+      "studio": "Pierrot",
+      "precuelas": [],
+      "secuelas": [],
+      "proximo": false,
+      "image": "https://i.postimg.cc/MKJ5GbBF/black-clover-mahou-tei-no-ken.jpg"
+    },
+    {
       "id": "Hellsing Ultimate",
       "name": "hellsing ultimate",
       "anime": "hellsing ultimate",
