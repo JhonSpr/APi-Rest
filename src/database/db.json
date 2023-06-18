@@ -24,7 +24,7 @@
       "estado": "finalizado",
       "year": 2023,
       "studio": "Pierrot",
-      "Serie": [{"anime": "Black Clover", "link": "/anime/black-clover"}],
+      "serie": [{"anime": "Black Clover", "link": "/anime/black-clover"}],
       "proximo": false,
       "image": "https://i.postimg.cc/MKJ5GbBF/black-clover-mahou-tei-no-ken.jpg"
     },
