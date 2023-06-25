@@ -253,14 +253,15 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         link: "/ver/mashle-10",
         image: "https://cloudfront-cdn-images.com/yd48nalhhn0k.jpg",
         episode: "Episodio 10",
-        image:
-          "https://image.tmdb.org/t/p/w300/8kxD7JcC2Re1u4TNQ67s9IjGHLg.jpg",
       },
-      // {
-      //   id: 17,
-      //   nombre: "Harem",
-      //   link: "/generos/harem",
-      // },
+      {
+        id: 17,
+        nombre: "Mashle",
+        link: "/ver/mashle-11",
+        image:
+          "https://image.tmdb.org/t/p/w300/6bL1AUjhnUJjLhAoWkJ4SksPW3L.jpg",
+        episode: "Episodio 11",
+      },
       // {
       //   id: 18,
       //   nombre: "Histórico",
