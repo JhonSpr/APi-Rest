@@ -12,11 +12,11 @@
       "genero2": "misterio",
       "genero3": "sobrenatural",
       "generos": [
-        {"genero": "accion", "link": "/generos/accion"},
-        {"genero": "misterio", "link": "/generos/misterio"},
-        {"genero": "fantasia ", "link": "/generos/fantasia"},
-        {"genero": "magia", "link": "/generos/magia"},
-        {"genero": "shounen ", "link": "/generos/shounen"}
+        {"genero": "accion", "link": "/directorio?genre=accion"},
+        {"genero": "misterio", "link": "/directorio?genre=misterio"},
+        {"genero": "fantasia ", "link": "/directorio?genre=fantasia"},
+        {"genero": "magia", "link": "/directorio?genre=magia"},
+        {"genero": "shounen ", "link": "/directorio?genre=shounen"}
       ],
       "emitido": "julio 8 de 2023",
       "duration": "24 min",
@@ -46,11 +46,11 @@
       "genero4": "magia",
       "genero5": "shounen",
       "generos": [
-        {"genero": "accion", "link": "/generos/accion"},
-        {"genero": "demonios", "link": "/generos/demonios"},
-        {"genero": "fantasia ", "link": "/generos/fantasia"},
-        {"genero": "magia", "link": "/generos/magia"},
-        {"genero": "shounen ", "link": "/generos/shounen"}
+        {"genero": "accion", "link": "/directorio?genre=accion"},
+        {"genero": "demonios", "link": "/directorio?genre=demonios"},
+        {"genero": "fantasia ", "link": "/directorio?genre=fantasia"},
+        {"genero": "magia", "link": "/directorio?genre=magia"},
+        {"genero": "shounen ", "link": "/directorio?genre=shounen"}
       ],
       "emitido": "junio 16 de 2023",
       "duration": "1 hr 53 min",
@@ -74,11 +74,11 @@
       "genero4": "terror",
       "genero5": "accion",
       "generos": [
-        {"genero": "accion", "link": "/generos/accion"},
-        {"genero": "seinen", "link": "/generos/seinen"},
-        {"genero": "militar", "link": "/generos/militar"},
-        {"genero": "sobrenatural", "link": "/generos/sobrenatural"},
-        {"genero": "terror", "link": "/generos/terror"}
+        {"genero": "accion", "link": "/directorio?genre=accion"},
+        {"genero": "seinen", "link": "/directorio?genre=seinen"},
+        {"genero": "militar", "link": "/directorio?genre=militar"},
+        {"genero": "sobrenatural", "link": "/directorio?genre=sobrenatural"},
+        {"genero": "terror", "link": "/directorio?genre=terror"}
       ],
       "episodios": 10,
       "duration": "50 min",
@@ -109,10 +109,10 @@
       "genero4": "accion",
       "proximo": false,
       "generos": [
-        {"genero": "accion", "link": "/generos/accion"},
-        {"genero": "fantasia", "link": "/generos/fantasia"},
-        {"genero": "shounen", "link": "/generos/shounen"},
-        {"genero": "historico", "link": "/generos/historico"}
+        {"genero": "accion", "link": "/directorio?genre=accion"},
+        {"genero": "fantasia", "link": "/directorio?genre=fantasia"},
+        {"genero": "shounen", "link": "/directorio?genre=shounen"},
+        {"genero": "historico", "link": "/directorio?genre=historico"}
       ],
       "precuelas": [
         {
@@ -142,9 +142,9 @@
       "genero2": "comedia",
       "genero3": "shoujo",
       "generos": [
-        {"genero": "accion ", "link": "/generos/accion"},
-        {"genero": "comedia", "link": "/generos/comedia"},
-        {"genero": "shoujo", "link": "/generos/shoujo"}
+        {"genero": "accion ", "link": "/directorio?genre=accion"},
+        {"genero": "comedia", "link": "/directorio?genre=comedia"},
+        {"genero": "shoujo", "link": "/directorio?genre=shoujo"}
       ],
       "proximo": "Viernes 30 de junio 2023"
     },
@@ -165,11 +165,11 @@
       "generos": [
         {
           "genero": "Acción",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/ciencia-ficcion"
+          "link": "/directorio?genre=ciencia-ficcion"
         }
       ],
       "secuelas": [],
@@ -198,19 +198,19 @@
       "generos": [
         {
           "genero": "accion ",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras ",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "shounen ",
-          "link": "/generos/shounen"
+          "link": "/directorio?genre=shounen"
         },
         {
           "genero": "fantasia ",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         }
       ],
       "studio": "Studio Pierrot",
@@ -239,27 +239,27 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         },
         {
           "genero": "psicologico",
-          "link": "/generos/psicologico"
+          "link": "/directorio?genre=psicologico"
         },
         {
           "genero": "seinen",
-          "link": "/generos/seinen"
+          "link": "/directorio?genre=seinen"
         }
       ],
       "duration": "24 min",
@@ -288,11 +288,11 @@
       "generos": [
         {
           "genero": "seinen",
-          "link": "/generos/seinen"
+          "link": "/directorio?genre=seinen"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         }
       ],
       "duration": "23 min",
@@ -324,27 +324,27 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "demonios",
-          "link": "/generos/demonios"
+          "link": "/directorio?genre=demonios"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "magia",
-          "link": "/generos/magia"
+          "link": "/directorio?genre=magia"
         }
       ]
     },
@@ -366,11 +366,11 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         }
       ],
       "studio": "Satelight",
@@ -396,19 +396,19 @@
       "generos": [
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         }
       ]
     },
@@ -434,23 +434,23 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "demonios",
-          "link": "/generos/demonios"
+          "link": "/directorio?genre=demonios"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "seinen",
-          "link": "/generos/seinen"
+          "link": "/directorio?genre=seinen"
         }
       ]
     },
@@ -475,11 +475,11 @@
       "generos": [
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "shounen",
-          "link": "/generos/shounen"
+          "link": "/directorio?genre=shounen"
         }
       ]
     },
@@ -503,27 +503,27 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "demonios",
-          "link": "/generos/demonios"
+          "link": "/directorio?genre=demonios"
         },
         {
           "genero": "escolares",
-          "link": "/generos/escolares"
+          "link": "/directorio?genre=escolares"
         },
         {
           "genero": "shounen",
-          "link": "/generos/shounen"
+          "link": "/directorio?genre=shounen"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         },
         {
           "genero": "terror",
-          "link": "/generos/terror"
+          "link": "/directorio?genre=terror"
         }
       ]
     },
@@ -551,27 +551,27 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "demonios",
-          "link": "/generos/demonios"
+          "link": "/directorio?genre=demonios"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "magia",
-          "link": "/generos/magia"
+          "link": "/directorio?genre=magia"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         }
       ],
       "al": 1
@@ -603,27 +603,27 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "demonios",
-          "link": "/generos/demonios"
+          "link": "/directorio?genre=demonios"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "Gore",
-          "link": "/generos/Gore"
+          "link": "/directorio?genre=Gore"
         },
         {
           "genero": "Horror",
-          "link": "/generos/Horror"
+          "link": "/directorio?genre=Horror"
         },
         {
           "genero": "Vampiros",
-          "link": "/generos/Vampiros"
+          "link": "/directorio?genre=Vampiros"
         }
       ],
       "classEstado": "tag is-success end",
@@ -656,27 +656,27 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "demonios",
-          "link": "/generos/demonios"
+          "link": "/directorio?genre=demonios"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "magia",
-          "link": "/generos/magia"
+          "link": "/directorio?genre=magia"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         }
       ]
     },
@@ -704,23 +704,23 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "demonios",
-          "link": "/generos/demonios"
+          "link": "/directorio?genre=demonios"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "shounen",
-          "link": "/generos/shounen"
+          "link": "/directorio?genre=shounen"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         }
       ],
       "year": 2017,
@@ -755,23 +755,23 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "demonios",
-          "link": "/generos/demonios"
+          "link": "/directorio?genre=demonios"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "magia",
-          "link": "/generos/magia"
+          "link": "/directorio?genre=magia"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         }
       ],
       "studio": "P.A. Works",
@@ -798,15 +798,15 @@
       "generos": [
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/ciencia ficcion"
+          "link": "/directorio?genre=ciencia ficcion"
         },
         {
           "genero": "shounen",
-          "link": "/generos/shounen"
+          "link": "/directorio?genre=shounen"
         }
       ],
       "classEstado": "tag is-success end",
@@ -831,11 +831,11 @@
       "generos": [
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "isekai",
-          "link": "/generos/isekai"
+          "link": "/directorio?genre=isekai"
         }
       ],
       "classEstado": "tag is-success end",
@@ -860,19 +860,19 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "demonios",
-          "link": "/generos/demonios"
+          "link": "/directorio?genre=demonios"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "magia",
-          "link": "/generos/magia"
+          "link": "/directorio?genre=magia"
         }
       ],
       "episodios": 12,
@@ -902,27 +902,27 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "Ecchi",
-          "link": "/generos/Ecchi"
+          "link": "/directorio?genre=Ecchi"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "Harem",
-          "link": "/generos/Harem"
+          "link": "/directorio?genre=Harem"
         },
         {
           "genero": "Romance",
-          "link": "/generos/Romance"
+          "link": "/directorio?genre=Romance"
         }
       ],
       "descripcion": "Luchando con la vida y la sociedad, el estudiante de secundaria Michio Kaga deambula por Internet y aterriza en un sitio web extraño. El sitio web, que presenta una serie de preguntas y un sistema basado en puntos, permite crear habilidades y destrezas para un personaje. Al completar su personaje, Kaga fue transportado a un mundo de fantasía similar a un juego y renació como un hombre fuerte que puede reclamar chicas de nivel ídolo. ¡Así comienza la leyenda del engaño y el harem de un hombre renacido!",
@@ -945,15 +945,15 @@
       "generos": [
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         },
         {
           "genero": "escolares",
-          "link": "/generos/escolares"
+          "link": "/directorio?genre=escolares"
         },
         {
           "genero": "psicologico",
-          "link": "/generos/psicologico"
+          "link": "/directorio?genre=psicologico"
         }
       ],
       "nombreSecuela": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
@@ -986,15 +986,15 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "shounen",
-          "link": "/generos/shounen"
+          "link": "/directorio?genre=shounen"
         }
       ],
       "episodios": 12,
@@ -1024,23 +1024,23 @@
       "generos": [
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/ciencia ficcion"
+          "link": "/directorio?genre=ciencia ficcion"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "escolares",
-          "link": "/generos/escolares"
+          "link": "/directorio?genre=escolares"
         },
         {
           "genero": "Harem",
-          "link": "/generos/Harem"
+          "link": "/directorio?genre=Harem"
         },
         {
           "genero": "Romance",
-          "link": "/generos/Romance"
+          "link": "/directorio?genre=Romance"
         }
       ],
       "year": 2022,
@@ -1074,27 +1074,27 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "seinen",
-          "link": "/generos/seinen"
+          "link": "/directorio?genre=seinen"
         }
       ],
       "classEstado": "tag is-success end",
@@ -1124,19 +1124,19 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         }
       ],
       "al": 1
@@ -1175,11 +1175,11 @@
       "generos": [
         {
           "genero": "psicologico",
-          "link": "/generos/psicologico"
+          "link": "/directorio?genre=psicologico"
         },
         {
           "genero": "shounen",
-          "link": "/generos/shounen"
+          "link": "/directorio?genre=shounen"
         }
       ],
       "year": 2022,
@@ -1208,23 +1208,23 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         },
         {
           "genero": "Historico",
-          "link": "/generos/Historico"
+          "link": "/directorio?genre=Historico"
         },
         {
           "genero": "shoujo",
-          "link": "/generos/shoujo"
+          "link": "/directorio?genre=shoujo"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         }
       ],
       "classEstado": "tag is-success end",
@@ -1253,23 +1253,23 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         },
         {
           "genero": "Misterio",
-          "link": "/generos/Misterio"
+          "link": "/directorio?genre=Misterio"
         },
         {
           "genero": "shounen",
-          "link": "/generos/shounen"
+          "link": "/directorio?genre=shounen"
         }
       ],
       "year": 2022,
@@ -1294,11 +1294,11 @@
       "generos": [
         {
           "genero": "Deportes",
-          "link": "/generos/Deportes"
+          "link": "/directorio?genre=Deportes"
         },
         {
           "genero": "Musica",
-          "link": "/generos/Musica"
+          "link": "/directorio?genre=Musica"
         }
       ],
       "tipo": "anime"
@@ -1320,11 +1320,11 @@
       "generos": [
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "Historico",
-          "link": "/generos/Historico"
+          "link": "/directorio?genre=Historico"
         }
       ],
       "year": 2022,
@@ -1342,7 +1342,7 @@
       "generos": [
         {
           "genero": "deportes",
-          "link": "/generos/deportes"
+          "link": "/directorio?genre=deportes"
         }
       ],
       "sec3": "disable",
@@ -1366,11 +1366,11 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "Romance",
-          "link": "/generos/Romance"
+          "link": "/directorio?genre=Romance"
         }
       ],
       "sec3": "disable",
@@ -1394,15 +1394,15 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         }
       ],
       "sec3": "disable",
@@ -1424,11 +1424,11 @@
       "generos": [
         {
           "genero": "escolares",
-          "link": "/generos/escolares"
+          "link": "/directorio?genre=escolares"
         },
         {
           "genero": "yaoi",
-          "link": "/generos/yaoi"
+          "link": "/directorio?genre=yaoi"
         }
       ],
       "sec3": "disable",
@@ -1465,19 +1465,19 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/ciencia ficcion"
+          "link": "/directorio?genre=ciencia ficcion"
         },
         {
           "genero": "magia",
-          "link": "/generos/magia"
+          "link": "/directorio?genre=magia"
         },
         {
           "genero": "Superpoderes",
-          "link": "/generos/Superpoderes"
+          "link": "/directorio?genre=Superpoderes"
         }
       ],
       "year": 2008,
@@ -1507,31 +1507,31 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "Militar",
-          "link": "/generos/Militar"
+          "link": "/directorio?genre=Militar"
         },
         {
           "genero": "seinen",
-          "link": "/generos/seinen"
+          "link": "/directorio?genre=seinen"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         },
         {
           "genero": "terror",
-          "link": "/generos/terror"
+          "link": "/directorio?genre=terror"
         }
       ],
       "sec3": "disable",
@@ -1555,19 +1555,19 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/ciencia ficcion"
+          "link": "/directorio?genre=ciencia ficcion"
         },
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         },
         {
           "genero": "Militar",
-          "link": "/generos/Militar"
+          "link": "/directorio?genre=Militar"
         }
       ],
       "sec3": "disable",
@@ -1609,8 +1609,8 @@
       "precuelas": [],
       "secuelas": [],
       "generos": [
-        {"genero": "fantasia", "link": "/generos/fantasia"},
-        {"genero": "drama", "link": "/generos/drama"}
+        {"genero": "fantasia", "link": "/directorio?genre=fantasia"},
+        {"genero": "drama", "link": "/directorio?genre=drama"}
       ],
       "proximo": false,
       "image": "https://i.postimg.cc/1R7hshSb/violet-evergarden.jpg",
@@ -1634,9 +1634,12 @@
       "genero3": "seinen",
       "precuelas": [{"precuela": "shadows house", "link": "/shadows-house-tv"}],
       "generos": [
-        {"genero": "sobrenatural", "link": "/generos/sobrenatural"},
-        {"genero": "ciencia ficcion", "link": "/generos/ciencia-ficcion"},
-        {"genero": "seinen", "link": "/generos/seinen"}
+        {"genero": "sobrenatural", "link": "/directorio?genre=sobrenatural"},
+        {
+          "genero": "ciencia ficcion",
+          "link": "/directorio?genre=ciencia-ficcion"
+        },
+        {"genero": "seinen", "link": "/directorio?genre=seinen"}
       ],
       "secuelas": [],
       "proximo": false,
@@ -1701,10 +1704,10 @@
       "genero3": "juegos",
       "genero4": "magia",
       "generos": [
-        {"genero": "accion", "link": "/generos/accion"},
-        {"genero": "fantasia", "link": "/generos/fantasia"},
-        {"genero": "juegos", "link": "/generos/juegos"},
-        {"genero": "magia", "link": "/generos/magia"}
+        {"genero": "accion", "link": "/directorio?genre=accion"},
+        {"genero": "fantasia", "link": "/directorio?genre=fantasia"},
+        {"genero": "juegos", "link": "/directorio?genre=juegos"},
+        {"genero": "magia", "link": "/directorio?genre=magia"}
       ],
       "secuelas": [],
       "precuelas": [{"precuela": "Overlord III", "link": "/overlord-iii"}],
@@ -1936,16 +1939,16 @@
       "descripcion": "Los hermanos Elric emprenden un viaje tras haber perdido parte de su cuerpo mientras intentaban resucitar a su madre. Siendo ambos huérfanos de madre y con su padre en paradero desconocido, cuyo oscuro pasado es tan misterioso como él mismo, el hermano mayor, Edward Elric, decide convertirse en alquimista nacional para poder remediar el pecado que cometieron; pues la transmutación humana está vedada para los humanos y no hay perdón por aquellos que han visto la puerta, Si quieres obtener algo, debes sacrificar otra cosa que posea el mismo valor a cambio; esta es la ley de los estados equivalentes, nada se gana sin ningún sacrificio.",
       "episodios": 64,
       "generos": [
-        {"genero": "accion", "link": "/generos/accion"},
-        {"genero": "militar", "link": "/generos/militar"},
-        {"genero": "shounen", "link": "/generos/shounen"},
-        {"genero": "magia", "link": "/generos/magia"},
-        {"genero": "drama", "link": "/generos/drama"},
+        {"genero": "accion", "link": "/directorio?genre=accion"},
+        {"genero": "militar", "link": "/directorio?genre=militar"},
+        {"genero": "shounen", "link": "/directorio?genre=shounen"},
+        {"genero": "magia", "link": "/directorio?genre=magia"},
+        {"genero": "drama", "link": "/directorio?genre=drama"},
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
-        {"genero": "fantasia", "link": "/generos/fantasia"}
+        {"genero": "fantasia", "link": "/directorio?genre=fantasia"}
       ],
       "genero1": "accion",
       "genero2": "militar",
@@ -2091,19 +2094,19 @@
       "generos": [
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         },
         {
           "genero": "shounen",
-          "link": "/generos/shounen"
+          "link": "/directorio?genre=shounen"
         },
         {
           "genero": "demonios",
-          "link": "/generos/demonios"
+          "link": "/directorio?genre=demonios"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         }
       ],
       "image": "https://i.postimg.cc/657d1RzF/ushio-to-tora.jpg",
@@ -2750,8 +2753,8 @@
       "genero1": ["accion", "fantasia"],
       "proximo": false,
       "generos": [
-        {"genero": "accion", "link": "/generos/accion"},
-        {"genero": "fantasia", "link": "/generos/fantasia"}
+        {"genero": "accion", "link": "/directorio?genre=accion"},
+        {"genero": "fantasia", "link": "/directorio?genre=fantasia"}
       ],
       "secuelas": [
         {"secuela": "Accel World Ex", "link": "/accel-world-acchel-world"}
@@ -2984,19 +2987,19 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         }
       ],
       "textoSecuela": "Precuela",
@@ -3027,19 +3030,19 @@
       "generos": [
         {
           "genero": "escolares",
-          "link": "/generos/escolares"
+          "link": "/directorio?genre=escolares"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "Harem",
-          "link": "/generos/Harem"
+          "link": "/directorio?genre=Harem"
         },
         {
           "genero": "Romance",
-          "link": "/generos/Romance"
+          "link": "/directorio?genre=Romance"
         }
       ],
       "sec1": "disable",
@@ -3064,11 +3067,11 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         }
       ],
       "sec1": "disable",
@@ -3096,19 +3099,19 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "magia",
-          "link": "/generos/magia"
+          "link": "/directorio?genre=magia"
         }
       ],
       "sec1": "disable",
@@ -3132,23 +3135,23 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "Romance",
-          "link": "/generos/Romance"
+          "link": "/directorio?genre=Romance"
         }
       ],
       "textoSecuela": "Precuela",
@@ -3182,19 +3185,19 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "Romance",
-          "link": "/generos/Romance"
+          "link": "/directorio?genre=Romance"
         },
         {
           "genero": "shounen",
-          "link": "/generos/shounen"
+          "link": "/directorio?genre=shounen"
         }
       ],
       "textoSecuela": "Precuela",
@@ -3225,19 +3228,19 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "Romance",
-          "link": "/generos/Romance"
+          "link": "/directorio?genre=Romance"
         }
       ],
       "textoSecuela": "Precuela",
@@ -3264,15 +3267,15 @@
       "generos": [
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "psicologico",
-          "link": "/generos/psicologico"
+          "link": "/directorio?genre=psicologico"
         }
       ],
       "textoSecuela": "Precuela",
@@ -3303,19 +3306,19 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         }
       ],
       "descripcion": "Segunda Temporada de noragami",
@@ -3344,19 +3347,19 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         }
       ],
       "descripcion": "Yato es un dios menor que sueña con tener una gran cantidad de seguidores que lo adoren y recen plegarias por él. Desafortunadamente, su sueño está lejos de hacerse realidad, debido a que no tiene ni siquiera un solo santuario dedicado a su persona. Para empeorar las cosas, la única socia que tenía para ayudar a resolver los problemas de la gente acaba de renunciar. Su divina suerte sólo podría cambiar cuando conoce a Hiyori Iki, una estudiante de secundaria. Tras verse involucrada en un accidente, Hiyori se convierte en una han'yō o semi-fantasma. Metida en un lío bastante grande, la joven decide quedarse con Yato hasta que consiga recuperar su antiguo estado como humana. Junto a Hiyori y su nuevo shinki (tesoro sagrado o regalía) Yukine, Yato hará todo lo que pueda para ganar fama, reconocimiento y sólo tal vez, una capilla dedicada a él también.",
@@ -3398,15 +3401,15 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "escolares",
-          "link": "/generos/escolares"
+          "link": "/directorio?genre=escolares"
         }
       ],
       "name": "spy x family 2nd temporada",
@@ -3437,15 +3440,15 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "Horror",
-          "link": "/generos/Horror"
+          "link": "/directorio?genre=Horror"
         },
         {
           "genero": "Romance",
-          "link": "/generos/Romance"
+          "link": "/directorio?genre=Romance"
         }
       ],
       "textoSecuela": "Precuela",
@@ -3473,15 +3476,15 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "Horror",
-          "link": "/generos/Horror"
+          "link": "/directorio?genre=Horror"
         },
         {
           "genero": "Romance",
-          "link": "/generos/Romance"
+          "link": "/directorio?genre=Romance"
         }
       ],
       "textoSecuela": "Precuela",
@@ -3511,15 +3514,15 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/ciencia ficcion"
+          "link": "/directorio?genre=ciencia ficcion"
         },
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         }
       ],
       "sec1": "disable",
@@ -3545,19 +3548,19 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "Horror",
-          "link": "/generos/Horror"
+          "link": "/directorio?genre=Horror"
         },
         {
           "genero": "magia",
-          "link": "/generos/magia"
+          "link": "/directorio?genre=magia"
         }
       ],
       "textoSecuela": "Secuela",
@@ -3600,15 +3603,15 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "escolares",
-          "link": "/generos/escolares"
+          "link": "/directorio?genre=escolares"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         }
       ],
       "sec1": "disable",
@@ -3636,23 +3639,23 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "Horror",
-          "link": "/generos/Horror"
+          "link": "/directorio?genre=Horror"
         },
         {
           "genero": "Romance",
-          "link": "/generos/Romance"
+          "link": "/directorio?genre=Romance"
         }
       ],
       "sec1": "disable",
@@ -3678,23 +3681,23 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "Horror",
-          "link": "/generos/Horror"
+          "link": "/directorio?genre=Horror"
         },
         {
           "genero": "Romance",
-          "link": "/generos/Romance"
+          "link": "/directorio?genre=Romance"
         }
       ],
       "estado": "finalizado",
@@ -3722,19 +3725,19 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         },
         {
           "genero": "Misterio",
-          "link": "/generos/Misterio"
+          "link": "/directorio?genre=Misterio"
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/ciencia ficcion"
+          "link": "/directorio?genre=ciencia ficcion"
         }
       ],
       "sec1": "disable",
@@ -3762,19 +3765,19 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "Arte Marciales",
-          "link": "/generos/Arte Marciales"
+          "link": "/directorio?genre=Arte Marciales"
         },
         {
           "genero": "Ciencia Ficción",
-          "link": "/generos/ciencia ficcion"
+          "link": "/directorio?genre=ciencia ficcion"
         },
         {
           "genero": "seinen",
-          "link": "/generos/seinen"
+          "link": "/directorio?genre=seinen"
         }
       ],
       "estado": "finalizado",
@@ -3797,11 +3800,11 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         }
       ],
       "sec1": "disable",
@@ -3831,19 +3834,19 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         },
         {
           "genero": "Superpoderes",
-          "link": "/generos/Superpoderes"
+          "link": "/directorio?genre=Superpoderes"
         }
       ],
       "sec3": "disable",
@@ -3868,23 +3871,23 @@
       "generos": [
         {
           "genero": "accion",
-          "link": "/generos/accion"
+          "link": "/directorio?genre=accion"
         },
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "Romance",
-          "link": "/generos/Romance"
+          "link": "/directorio?genre=Romance"
         }
       ],
       "textoSecuela": "Precuela",
@@ -3910,19 +3913,19 @@
       "genero": [
         {
           "genero": "comedia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         },
         {
           "genero": "escolares",
-          "link": "/generos/escolares"
+          "link": "/directorio?genre=escolares"
         },
         {
           "genero": "Romance",
-          "link": "/generos/Romance"
+          "link": "/directorio?genre=Romance"
         }
       ],
       "descripcion": "La historia se desarrolla en una escuela secundaria donde los estudiantes se ven obligados a vivir como una pseudo pareja como parte de un plan de estudios. Jiro Yakuin está emparejado con Akari Watanabe, que es todo lo contrario a él, en la clase tradicional de entrenamiento marital. A sugerencia de Akari, comienzan a vivir como una pseudo pareja para obtener el derecho a intercambiar pares, que se otorga a los mejores. Practican varias actividades, como el primer beso, para ganar puntos, pero a medida que llegan a comprender las personalidades y pensamientos de los demás, sin querer se vuelven más cercanos y llegan a gustarse.",
@@ -3955,19 +3958,19 @@
       "generos": [
         {
           "genero": "comedia",
-          "link": "/generos/comedia"
+          "link": "/directorio?genre=comedia"
         },
         {
           "genero": "Ecchi",
-          "link": "/generos/Ecchi"
+          "link": "/directorio?genre=Ecchi"
         },
         {
           "genero": "fantasia",
-          "link": "/generos/fantasia"
+          "link": "/directorio?genre=fantasia"
         },
         {
           "genero": "Harem",
-          "link": "/generos/Harem"
+          "link": "/directorio?genre=Harem"
         }
       ],
       "estado": "finalizado",
@@ -3987,7 +3990,7 @@
       "generos": [
         {
           "genero": "Deportes",
-          "link": "/generos/Deportes"
+          "link": "/directorio?genre=Deportes"
         }
       ],
       "textoSecuela": "Precuela",
@@ -4010,7 +4013,7 @@
       "generos": [
         {
           "genero": "Deportes",
-          "link": "/generos/Deportes"
+          "link": "/directorio?genre=Deportes"
         }
       ],
       "descripcion": "Después de una derrota desastrosa en la Copa del Mundo de 2018, el equipo de Japón lucha por reagruparse. Pero, ¿qué falta? Un Ace Striker absoluto, que puede guiarlos hacia la victoria. La Unión de Fútbol de Japón está empeñada en crear un delantero que tenga hambre de goles y sed de victoria, y que pueda ser el instrumento decisivo para darle la vuelta a un partido perdido... y para hacerlo, ha reunido a 300 de los mejores de Japón. y jugadores juveniles más brillantes. ¿Quién surgirá para liderar el equipo... y será capaz de superar en fuerza y ego a todos los que se interpongan en su camino?",
@@ -4040,19 +4043,19 @@
       "generos": [
         {
           "genero": "aventuras",
-          "link": "/generos/aventuras"
+          "link": "/directorio?genre=aventuras"
         },
         {
           "genero": "drama",
-          "link": "/generos/drama"
+          "link": "/directorio?genre=drama"
         },
         {
           "genero": "shounen",
-          "link": "/generos/shounen"
+          "link": "/directorio?genre=shounen"
         },
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         }
       ],
       "episodios": 12,
@@ -4077,11 +4080,11 @@
       "genero2": "misterio",
       "genero3": "sobrenatural",
       "generos": [
-        {"genero": "accion", "link": "/generos/accion"},
-        {"genero": "misterio", "link": "/generos/misterio"},
+        {"genero": "accion", "link": "/directorio?genre=accion"},
+        {"genero": "misterio", "link": "/directorio?genre=misterio"},
         {
           "genero": "sobrenatural",
-          "link": "/generos/sobrenatural"
+          "link": "/directorio?genre=sobrenatural"
         }
       ],
       "tipo": "anime",
