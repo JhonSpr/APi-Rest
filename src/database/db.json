@@ -4074,15 +4074,23 @@
       "anime": "Bungou Stray Dogs 4",
       "year": 2023,
       "genero1": "accion",
+      "genero2": "misterio",
+      "genero3": "sobrenatural",
+      "generos": [
+        {"genero": "accion", "link": "/generos/accion"},
+        {"genero": "misterio", "link": "/generos/misterio"},
+        {
+          "genero": "sobrenatural",
+          "link": "/generos/sobrenatural"
+        }
+      ],
       "tipo": "anime",
-      "episodios": 2,
-      "textoSecuela": "Precuela",
-      "nombreSecuela": "Bungou Stray Dogs 3",
-      "linksec1": "/bungou-stray-dogs-3",
-      "sec2": "disable",
-      "sec3": "disable",
+      "episodios": 12,
+      "precuelas": [
+        {"precuela": "bungou stray dogs 3", "link": "/bungou-stray-dogs-3"}
+      ],
       "descripcion": "“Su agencia de detectives es un orgullo del país”. Ha pasado aproximadamente un mes desde que la Agencia Armada de Detectives, en colaboración con Port Mafia, ganó la operación de canibalismo ideada por las Ratas en la Casa de los Muertos. La Agencia de Detectives Armados recibió la medalla más alta por su contribución a la seguridad, la Orden del Arco de Exorcismo de Azusa, y fue elogiada por todo el país. Entonces llega una solicitud urgente del gobierno. Los cuatro asesinatos de los jóvenes senadores se compararon con los cinco signos de la mortalidad del ser celestial más alto de Rokudo Rinne, los Seis Reinos de la Reencarnación. La Agencia de Detectives Armados se propone evitar que ocurra el asesinato restante. “Todas las fuerzas deben trabajar juntas para prevenir los intentos del mal”. ¡Pero resulta ser una trampa tendida por el astuto Demonio Fyodor, que se suponía que había sido capturado...! Los funcionarios del gobierno sospechan de la justicia que defienden. Una unidad especial de la policía militar, los Perros de Caza, está lista para entrar en acción. La Descomposición del Ángel está vagando por las calles para provocar la destrucción del mundo. La Agencia de Detectives Armados, que ha sido calumniada por el público desde su gloria, se enfrenta uno tras otro a nuevos enemigos y su desesperación sin fondo. Con su amistad desmoronándose, ¿será Atsushi Nakajima capaz de superar esta crisis sin precedentes? Sin un rayo de esperanza a la vista, la batalla está a punto de comenzar...",
-      "estado": "en emision"
+      "estado": "finalizado"
     }
   ]
 }
