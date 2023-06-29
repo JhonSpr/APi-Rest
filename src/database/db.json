@@ -14,9 +14,7 @@
       "generos": [
         {"genero": "accion", "link": "/directorio?genre=accion"},
         {"genero": "misterio", "link": "/directorio?genre=misterio"},
-        {"genero": "fantasia ", "link": "/directorio?genre=fantasia"},
-        {"genero": "magia", "link": "/directorio?genre=magia"},
-        {"genero": "shounen ", "link": "/directorio?genre=shounen"}
+        {"genero": "sobrenatural", "link": "/directorio?genre=sobrenatural"}
       ],
       "emitido": "julio 8 de 2023",
       "duration": "24 min",
