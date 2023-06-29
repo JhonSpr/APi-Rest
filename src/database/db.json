@@ -1,6 +1,38 @@
 {
   "animes": [
     {
+      "id": "Bungou Stray Dogs: temporada 5",
+      "name": "bungou stray dogs temporada 5",
+      "anime": "Bungou Stray Dogs: temporada 5",
+      "mode": "TV",
+      "tipo": "anime",
+      "descripcion": "Quinta temporada de Bungou Stray Dogs",
+      "genero1": "accion",
+      "genero2": "misterio",
+      "genero3": "sobrenatural",
+      "generos": [
+        {"genero": "accion", "link": "/generos/accion"},
+        {"genero": "misterio", "link": "/generos/misterio"},
+        {"genero": "fantasia ", "link": "/generos/fantasia"},
+        {"genero": "magia", "link": "/generos/magia"},
+        {"genero": "shounen ", "link": "/generos/shounen"}
+      ],
+      "emitido": "julio 8 de 2023",
+      "duration": "24 min",
+      "estado": "en emision",
+      "year": 2023,
+      "studio": null,
+      "precuelas": [
+        {
+          "precuela": "Bungou Stray Dogs: temporada 4",
+          "link": "/bungou-stray-dogs-4"
+        }
+      ],
+      "secuelas": [],
+      "proximo": false,
+      "image": "https://i.postimg.cc/J7dfqsWL/Fs-T4g-PXa-MAw-Pbmh.jpg"
+    },
+    {
       "id": "Black clover pelicula",
       "name": "black clover mahou tei no ken",
       "anime": "black clover mahou tei no ken",
