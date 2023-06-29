@@ -7,14 +7,14 @@
       "mode": "TV",
       "tipo": "anime",
       "episodios": 1,
-      "descripcion": "Quinta temporada de Bungou Stray Dogs",
+      "descripcion": "segunda parte de BLEACH Sennen Kessen-hen",
       "genero1": "accion",
-      "genero2": "misterio",
-      "genero3": "sobrenatural",
+      "genero2": "aventuras",
+      "genero3": "fantasia",
       "generos": [
         {"genero": "accion", "link": "/directorio?genre=accion"},
-        {"genero": "misterio", "link": "/directorio?genre=misterio"},
-        {"genero": "sobrenatural", "link": "/directorio?genre=sobrenatural"}
+        {"genero": "aventuras", "link": "/directorio?genre=aventuras"},
+        {"genero": "fantasia", "link": "/directorio?genre=fantasia"}
       ],
       "emitido": "julio 8 de 2023",
       "duration": "24 min",
