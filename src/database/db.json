@@ -1,6 +1,37 @@
 {
   "animes": [
     {
+      "id": "Bleach: Sennen Kessen-hen – Ketsubetsu-tan",
+      "name": "bleach sennen kessen hen - Ketsubetsu-tan",
+      "anime": "bleach sennen kessen hen Ketsubetsu tan",
+      "mode": "TV",
+      "tipo": "anime",
+      "episodios": 1,
+      "descripcion": "Quinta temporada de Bungou Stray Dogs",
+      "genero1": "accion",
+      "genero2": "misterio",
+      "genero3": "sobrenatural",
+      "generos": [
+        {"genero": "accion", "link": "/directorio?genre=accion"},
+        {"genero": "misterio", "link": "/directorio?genre=misterio"},
+        {"genero": "sobrenatural", "link": "/directorio?genre=sobrenatural"}
+      ],
+      "emitido": "julio 8 de 2023",
+      "duration": "24 min",
+      "estado": "en emision",
+      "year": 2023,
+      "studio": "Studio Pierrot",
+      "precuelas": [
+        {
+          "precuela": "bleach sennen kessen hen",
+          "link": "/bleach-sennen-kessen-hen"
+        }
+      ],
+      "secuelas": [],
+      "proximo": false,
+      "image": "https://i.postimg.cc/4ySm5VzM/bleach-sennen-kessen-hen-ketsubetsu-tan-11613.webp"
+    },
+    {
       "id": "Bungou Stray Dogs 5",
       "name": "bungou stray dogs 5",
       "anime": "bungou stray dogs 5",
@@ -16,7 +47,7 @@
         {"genero": "misterio", "link": "/directorio?genre=misterio"},
         {"genero": "sobrenatural", "link": "/directorio?genre=sobrenatural"}
       ],
-      "emitido": "julio 8 de 2023",
+      "emitido": "julio 12 de 2023",
       "duration": "24 min",
       "estado": "en emision",
       "year": 2023,
