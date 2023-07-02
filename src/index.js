@@ -251,7 +251,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         id: 15,
         nombre: "Mashle",
         link: "/ver/mashle-10",
-        image: "https://cloudfront-cdn-images.com/yd48nalhhn0k.jpg",
+        image: "https://cloudfront-cdn-images.com/je6du5xf98kq_t.jpg",
         episode: "Episodio 10",
       },
       {
