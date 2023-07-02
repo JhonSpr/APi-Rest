@@ -262,11 +262,13 @@ app.get("/api/v1/recien-agregados", (req, res) => {
           "https://image.tmdb.org/t/p/w300/6bL1AUjhnUJjLhAoWkJ4SksPW3L.jpg",
         episode: "Episodio 11",
       },
-      // {
-      //   id: 18,
-      //   nombre: "Histórico",
-      //   link: "/generos/historico",
-      // },
+      {
+        id: 18,
+        nombre: "Mashle",
+        link: "/ver/mashle-12",
+        image: "https://cloudfront-cdn-images.com/855j8x3qp9y2.jpg",
+        episode: "Final",
+      },
       // {
       //   id: 20,
       //   nombre: "Shoujo",
