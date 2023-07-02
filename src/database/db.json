@@ -158,9 +158,9 @@
       "mode": "TV",
       "descripcion": "En un mundo donde la magia lo es todo, donde los magos más poderosos son los más prestigiosos, y los que no pueden utilizar magia son sacrificados, Mash Vandead es un joven que vive con su abuelo en una cabaña en medio de un bosque, donde ejercita su cuerpo de manera rutinaria, desarrollando así, una fuerza monstruosa.",
       "image": "https://i.postimg.cc/pTy8gwfK/mashle.jpg",
-      "episodios": 11,
+      "episodios": 12,
       "year": 2023,
-      "estado": "en emision",
+      "estado": "finalizado",
       "studio": "A-1 Pictures",
       "banner": "https://staticg.sportskeeda.com/editor/2022/11/52a29-16680280293550.png",
       "secuelas": [],
@@ -175,7 +175,7 @@
         {"genero": "comedia", "link": "/directorio?genre=comedia"},
         {"genero": "shoujo", "link": "/directorio?genre=shoujo"}
       ],
-      "proximo": "Viernes 30 de junio 2023"
+      "proximo": false
     },
     {
       "id": "akudama drive",
