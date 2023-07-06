@@ -273,8 +273,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         id: 19,
         nombre: "jujutsu kaisen 2nd temporada",
         link: "/ver/jujutsu-kaisen-2nd-temporada-1",
-        image:
-          "https://i.postimg.cc/PrpP1rpk/Jujutusu-kaisen-2nd-temporada.jpg",
+        image: "https://cloudfront-cdn-images.com/m9p52nd0wtxm.jpg",
         episode: "Episodio 1",
       },
       // {
