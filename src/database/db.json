@@ -1,6 +1,37 @@
 {
   "animes": [
     {
+      "id": "jujutsu kaisen 2nd temporada",
+      "name": "jujutsu kaisen 2nd temporada",
+      "anime": "jujutsu kaisen 2nd temporada",
+      "mode": "TV",
+      "tipo": "anime",
+      "episodios": 1,
+      "descripcion": "El pasado sale a la luz cuando los estudiantes de segundo año Satoru Gojou y Suguru Getou tienen la tarea de acompañar a la joven Riko Amanai al Maestro Tengen. Pero cuando un usuario que no es hechicero intenta matarlos, su misión de proteger el Star Plasma Vessel amenaza con convertirlos en enemigos acérrimos y cimentar sus destinos: ¡uno como el hechicero más fuerte del mundo y el otro como el hechicero más retorcido!",
+      "genero1": "accion",
+      "genero2": "drama",
+      "genero3": "sobrenatural",
+      "generos": [
+        {"genero": "accion", "link": "/directorio?genre=accion"},
+        {"genero": "drama", "link": "/directorio?genre=drama"},
+        {"genero": "sobrenatural", "link": "/directorio?genre=sobrenatural"}
+      ],
+      "emitido": "julio 6 de 2023",
+      "duration": "24 min",
+      "estado": "en emision",
+      "year": 2023,
+      "studio": "MAPPA",
+      "precuelas": [
+        {
+          "precuela": "jujutsu kaisen",
+          "link": "/jujutsu-kaisen"
+        }
+      ],
+      "secuelas": [],
+      "proximo": "Jueves 6 de julio 2023",
+      "image": "https://i.postimg.cc/PrpP1rpk/Jujutusu-kaisen-2nd-temporada.jpg"
+    },
+    {
       "id": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
       "name": "bleach sennen kessen hen ketsubetsu tan",
       "anime": "bleach sennen kessen hen ketsubetsu tan",
