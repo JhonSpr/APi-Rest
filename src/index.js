@@ -269,11 +269,14 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         image: "https://cloudfront-cdn-images.com/855j8x3qp9y2.jpg",
         episode: "Final",
       },
-      // {
-      //   id: 20,
-      //   nombre: "Shoujo",
-      //   link: "/generos/shoujo",
-      // },
+      {
+        id: 19,
+        nombre: "jujutsu kaisen 2nd temporada",
+        link: "/ver/jujutsu-kaisen-2nd-temporada-1",
+        image:
+          "https://i.postimg.cc/PrpP1rpk/Jujutusu-kaisen-2nd-temporada.jpg",
+        episode: "Episodio 1",
+      },
       // {
       //   id: 21,
       //   nombre: "Shounen",
