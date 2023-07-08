@@ -278,7 +278,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
       },
       {
         id: 21,
-        nombre: "Shounen",
+        nombre: "bleach sennen kessen hen ketsubetsu tan",
         link: "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-1",
         image:
           "https://image.tmdb.org/t/p/original/aqJwqIHatEW7PUiJLTmNr1b2Ars.jpg",
