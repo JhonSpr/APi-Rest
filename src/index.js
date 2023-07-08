@@ -276,11 +276,14 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         image: "https://cloudfront-cdn-images.com/m9p52nd0wtxm.jpg",
         episode: "Episodio 1",
       },
-      // {
-      //   id: 21,
-      //   nombre: "Shounen",
-      //   link: "/generos/shounen",
-      // },
+      {
+        id: 21,
+        nombre: "Shounen",
+        link: "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-1",
+        image:
+          "https://image.tmdb.org/t/p/original/aqJwqIHatEW7PUiJLTmNr1b2Ars.jpg",
+        episode: "Episodio 1",
+      },
       // {
       //   id: 23,
       //   nombre: "Vampiros",
