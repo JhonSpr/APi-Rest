@@ -218,7 +218,7 @@
       "anime": "Akudama Drive",
       "mode": "TV",
       "descripcion": "Hace muchos años, una Gran Guerra Civil devastó Japón, dejando al país fragmentado en dos regiones: Kansai y Kanto. En Kansai, un grupo de seis Akudama llevan a cabo las misiones que les encomienda un misterioso gato negro, mientras evaden a la policía. Pero un viaje peligroso está a punto de desarrollarse cuando una niña civil se retuerce en el estilo de vida de los Akudama y es testigo de sus impulsos criminales.",
-      "image": "https://i.postimg.cc/Dz96B0dq/akudama-drive.jpg",
+
       "estado": "finalizado",
       "proximo": false,
       "year": 2020,
@@ -239,7 +239,9 @@
       "secuelas": [],
       "precuelas": [],
       "duration": "24 min",
-      "studio": "Studio Pierrot"
+      "studio": "Studio Pierrot",
+      "image": "https://i.postimg.cc/Dz96B0dq/akudama-drive.jpg",
+      "banner__anime": "https://i.postimg.cc/Bv2FVWLB/Banner-Akudama-Drive.jpg"
     },
     {
       "id": "BLEACH: Sennen Kessen-hen",
