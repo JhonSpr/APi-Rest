@@ -34,7 +34,7 @@
       "anime": "jujutsu kaisen 2nd temporada",
       "mode": "TV",
       "tipo": "anime",
-      "episodios": 1,
+      "episodios": 2,
       "descripcion": "El pasado sale a la luz cuando los estudiantes de segundo año Satoru Gojou y Suguru Getou tienen la tarea de acompañar a la joven Riko Amanai al Maestro Tengen. Pero cuando un usuario que no es hechicero intenta matarlos, su misión de proteger el Star Plasma Vessel amenaza con convertirlos en enemigos acérrimos y cimentar sus destinos: ¡uno como el hechicero más fuerte del mundo y el otro como el hechicero más retorcido!",
       "genero1": "accion",
       "genero2": "drama",
@@ -57,7 +57,7 @@
       ],
       "temporadas": 2,
       "secuelas": [],
-      "proximo": "Jueves 13 de julio 2023",
+      "proximo": "Jueves 20 de julio 2023",
       "image": "https://i.postimg.cc/PrpP1rpk/Jujutusu-kaisen-2nd-temporada.jpg",
       "banner__anime": "https://i.postimg.cc/TPJ9WX34/Banner-Jujutsu-kaisen-2nd-temporada.jpg"
     },
@@ -237,7 +237,8 @@
         {"genero": "comedia", "link": "/directorio?genre=comedia"},
         {"genero": "shoujo", "link": "/directorio?genre=shoujo"}
       ],
-      "proximo": false
+      "proximo": false,
+      "banner__anime": "https://i.postimg.cc/ZKVvST2x/Banner-mashle.jpg"
     },
     {
       "id": "akudama drive",
