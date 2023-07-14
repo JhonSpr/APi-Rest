@@ -284,11 +284,14 @@ app.get("/api/v1/recien-agregados", (req, res) => {
           "https://image.tmdb.org/t/p/original/aqJwqIHatEW7PUiJLTmNr1b2Ars.jpg",
         episode: "Episodio 1",
       },
-      // {
-      //   id: 23,
-      //   nombre: "Vampiros",
-      //   link: "/generos/vampiros",
-      // },
+      {
+        id: 23,
+        nombre: "jujutsu kaisen 2nd temporada",
+        link: "/ver/jujutsu-kaisen-2nd-temporada-2",
+        image:
+          "https://i.postimg.cc/HsdHtXS6/jujutsu-kaisen-2nd-season-cap-2-300x170.jpg",
+        episode: "Episodio 2",
+      },
       // {
       //   id: 24,
       //   nombre: "Magia",
