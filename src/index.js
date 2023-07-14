@@ -292,11 +292,14 @@ app.get("/api/v1/recien-agregados", (req, res) => {
           "https://i.postimg.cc/HsdHtXS6/jujutsu-kaisen-2nd-season-cap-2-300x170.jpg",
         episode: "Episodio 2",
       },
-      // {
-      //   id: 24,
-      //   nombre: "Magia",
-      //   link: "/generos/magia",
-      // },
+      {
+        id: 24,
+        nombre: "zom 100 zombie ni naru made ni shitai 100 no koto",
+        link: "/ver/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-1",
+        image:
+          "https://image.tmdb.org/t/p/w300/zME0h04UnDR2Gea5n3iK1dxaNeS.jpg",
+        episode: "Episodio 1",
+      },
       // {
       //   id: 26,
       //   nombre: "Gore",
