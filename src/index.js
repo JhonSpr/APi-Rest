@@ -300,11 +300,14 @@ app.get("/api/v1/recien-agregados", (req, res) => {
           "https://image.tmdb.org/t/p/w300/zME0h04UnDR2Gea5n3iK1dxaNeS.jpg",
         episode: "Episodio 1",
       },
-      // {
-      //   id: 26,
-      //   nombre: "Gore",
-      //   link: "/generos/gore",
-      // },
+      {
+        id: 26,
+        nombre: "bleach sennen kessen hen ketsubetsu tan",
+        link: "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-1",
+        image:
+          "https://image.tmdb.org/t/p/w300/aONdt2mDZxUJR9swBkVjhDb1sXu.jpg",
+        episode: "Episodio 2",
+      },
       // {
       //   id: 30,
       //   nombre: "Militar",
