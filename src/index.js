@@ -308,11 +308,13 @@ app.get("/api/v1/recien-agregados", (req, res) => {
           "https://image.tmdb.org/t/p/w300/aONdt2mDZxUJR9swBkVjhDb1sXu.jpg",
         episode: "Episodio 2",
       },
-      // {
-      //   id: 30,
-      //   nombre: "Militar",
-      //   link: "/generos/militar",
-      // },
+      {
+        id: 30,
+        nombre: "zom 100 zombie ni naru made ni shitai 100 no koto",
+        link: "/ver/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-2",
+        image: "",
+        episode: "Episodio 2",
+      },
       // {
       //   id: 32,
       //   nombre: "Enigma",
