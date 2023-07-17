@@ -312,7 +312,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         id: 30,
         nombre: "zom 100 zombie ni naru made ni shitai 100 no koto",
         link: "/ver/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-2",
-        image: "",
+        image: "https://image.tmdb.org/t/p/w300/otuPRIdx8C4Ex1Y20dpdYzmdv42.jpg",
         episode: "Episodio 2",
       },
       // {
