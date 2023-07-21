@@ -55,6 +55,17 @@
           "link": "/jujutsu-kaisen"
         }
       ],
+      "episodes__overlay": [
+        {"episode": 1, "image": ""},
+        {
+          "episode": 2,
+          "image": ""
+        },
+        {
+          "episode": 3,
+          "image": "https://cloudfront-cdn-images.com/65anw4wt1lod.jpg"
+        }
+      ],
       "temporadas": 2,
       "secuelas": [],
       "proximo": "Jueves 27 de julio 2023",
