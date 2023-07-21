@@ -320,7 +320,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         id: 32,
         nombre: "jujutsu kaisen 2nd temporada",
         link: "/ver/jujutsu-kaisen-2nd-temporada-3",
-        image: "",
+        image: "https://cloudfront-cdn-images.com/65anw4wt1lod.jpg",
         episode: "Episodio 3",
       },
     ],
