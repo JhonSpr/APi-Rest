@@ -116,6 +116,10 @@
       "episodes__overlay": [
         {
           "episode": 1,
+          "image": "https://image.tmdb.org/t/p/original/aqJwqIHatEW7PUiJLTmNr1b2Ars.jpg"
+        },
+        {
+          "episode": 2,
           "image": "https://image.tmdb.org/t/p/w300/aONdt2mDZxUJR9swBkVjhDb1sXu.jpg"
         }
       ],
