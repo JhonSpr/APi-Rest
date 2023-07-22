@@ -56,10 +56,13 @@
         }
       ],
       "episodes__overlay": [
-        {"episode": 1, "image": ""},
+        {
+          "episode": 1,
+          "image": "https://cloudfront-cdn-images.com/m9p52nd0wtxm.jpg"
+        },
         {
           "episode": 2,
-          "image": ""
+          "image": "https://i.postimg.cc/HsdHtXS6/jujutsu-kaisen-2nd-season-cap-2-300x170.jpg"
         },
         {
           "episode": 3,
