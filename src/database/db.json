@@ -22,6 +22,16 @@
       "year": 2023,
       "studio": "BUG FILMS",
       "precuelas": [],
+      "episodes__overlay": [
+        {
+          "episode": 1,
+          "image": "https://image.tmdb.org/t/p/w300/zME0h04UnDR2Gea5n3iK1dxaNeS.jpg"
+        },
+        {
+          "episode": 2,
+          "image": "https://image.tmdb.org/t/p/w300/otuPRIdx8C4Ex1Y20dpdYzmdv42.jpg"
+        }
+      ],
       "temporadas": 1,
       "secuelas": [],
       "proximo": "Domingo 23 de julio 2023",
@@ -101,6 +111,12 @@
         {
           "precuela": "bleach sennen kessen hen",
           "link": "/bleach-sennen-kessen-hen"
+        }
+      ],
+      "episodes__overlay": [
+        {
+          "episode": 1,
+          "image": "https://image.tmdb.org/t/p/w300/aONdt2mDZxUJR9swBkVjhDb1sXu.jpg"
         }
       ],
       "secuelas": [],

@@ -303,7 +303,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
       {
         id: 26,
         nombre: "bleach sennen kessen hen ketsubetsu tan",
-        link: "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-1",
+        link: "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-2",
         image:
           "https://image.tmdb.org/t/p/w300/aONdt2mDZxUJR9swBkVjhDb1sXu.jpg",
         episode: "Episodio 2",
