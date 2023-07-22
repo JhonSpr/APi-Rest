@@ -323,6 +323,14 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         image: "https://cloudfront-cdn-images.com/65anw4wt1lod.jpg",
         episode: "Episodio 3",
       },
+      {
+        id: 33,
+        nombre: "bleach sennen kessen hen ketsubetsu tan",
+        link: "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-3",
+        image:
+          "https://image.tmdb.org/t/p/w300/4p3a1Q0TbZ51sCf5OndRv9DETzt.jpg",
+        episode: "Episodio 3",
+      },
     ],
   });
 });
