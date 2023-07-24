@@ -226,8 +226,8 @@
     },
     {
       "id": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-      "name": "kimetsu no yaiba: katanakaji no sato hen",
-      "anime": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+      "name": "kimetsu no yaiba katanakaji no sato hen",
+      "anime": "Kimetsu no Yaiba Katanakaji no Sato-hen",
       "mode": "TV",
       "descripcion": "inicia el arco de los herreros en Kimetsu No Yaiba. Continuación de la segunda temporada, Arco del distrito rojo. Tanjiro y compañía tendrán que cumplir una nueva misión, acompañados de dos pilares.",
       "image": "https://i.postimg.cc/HWP1Ktsj/Kimetsu-no-Yaiba-Katanakaji-no-Sato-hen-Serie-de-TV-234343485-large.jpg",
@@ -326,7 +326,7 @@
       "episodios": 13,
       "secuelas": [],
       "proximo": false,
-      "precuelas": [{ "precuela": "Bleach tv", "link": "/bleach-tv" }],
+      "precuelas": [{ "precuela": "Bleach", "link": "/bleach" }],
       "estado": "finalizado",
       "tipo": "anime",
       "genero1": "accion",
@@ -407,8 +407,8 @@
       "id": "Shadows House",
       "mode": "TV",
       "image": "https://i.postimg.cc/sD11ZwKQ/shadows-house.jpg",
-      "anime": "Shadows House tv",
-      "name": "shadows house tv",
+      "anime": "Shadows House",
+      "name": "shadows house",
       "descripcion": "Un clan sin rostro vive en una gran mansión, disfrazado de nobles. Sus cuidadores son muñecos vivientes que se pasan el día limpiando la suciedad que dejan los inquilinos. Pero hay un misterio más profundo en juego ... y se revelará el secreto de la casa.",
       "episodios": 13,
       "proximo": false,
@@ -868,8 +868,8 @@
     },
     {
       "id": "Fairy Gone",
-      "name": "fairy gone tv",
-      "anime": "Fairy Gone tv",
+      "name": "fairy gone",
+      "anime": "fairy gone",
       "mode": "TV",
       "descripcion": "La historia nos trasladará a un mundo en el que las hadas poseen y residen en animales, proporcionándoles poderes especiales. Extrayendo quirúrgicamente los órganos a uno de estos animales e implantándoselos a un humano, los humanos pueden invocar parcialmente a las hadas y usarlas como armas. Estos humanos participarán en las guerras y serán conocidos como 'Soldados Hada'. Tras el fin de una larga guerra, estos Soldados Hada pierden su propósito y deben reintegrarse en la sociedad, aunque no todos tomarán el camino de la justicia. Nueve años después del fin de la guerra conocemos a Marlya, una nueva recluta en Dorothea, una organización dedicada a investigar y contrarrestar crímenes relacionados con hadas. Aun en tiempo de paz, la inestabilidad de la guerra todavía afecta al gobierno. Muchos criminales cargan con heridas de la guerra y los grupos terroristas buscan venganza por los actos de entonces. Una historia de soldados hada persiguiendo su propia justicia en un mundo caótico que intenta dejar atrás un conflicto.",
       "image": "https://i.postimg.cc/j5CTQ8cW/fairy-gone.jpg",
@@ -994,7 +994,7 @@
       "genero4": "magia",
       "proximo": false,
       "secuelas": [],
-      "precuelas": [{ "precuela": "Fairy gone", "link": "/fairy-gone-tv" }],
+      "precuelas": [{ "precuela": "Fairy gone", "link": "/fairy-gone" }],
       "generos": [
         {
           "genero": "accion",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": "Tate no Yuusha no Naraigari",
-      "name": "tate no yuusha no naraigari tv",
+      "name": "tate no yuusha no naraigari",
       "anime": "Tate no Yuusha no Naraigari",
       "mode": "TV",
       "descripcion": "Iwatani Naofumi es el típico otaku, al menos hasta que un día encuentra en la biblioteca un libro que lo transporta a otro mundo. Allí se convertirá en el Héroe del Escudo, uno de los Cuatro Héroes Cardinales, y tendrá que luchar contra las Olas de la Catástrofe junto a los héroes de la espada, la lanza y el arco. Emocionado ante la perspectiva de vivir una gran aventura, Naofumi parte de viaje con su grupo. No obstante, al cabo de unos pocos días lo traicionan y pierde su dinero, su dignidad y el respeto de los que le rodean.",
@@ -1294,22 +1294,8 @@
       "genero1": "psicologico",
       "genero2": "shounen",
       "studio": "Okuruto Noboru",
-      "visitas": 0,
       "duration": "24 min",
-      "options": [
-        {
-          "pagina": "Animefenix",
-          "link": "https://animefenix.tv/tomodachi-game"
-        },
-        {
-          "pagina": "Animeflv",
-          "link": "https://www3.animeflv.net/anime/tomodachi-game"
-        },
-        {
-          "pagina": "Jkanime",
-          "link": "https://jkanime.net/tomodachi-game/"
-        }
-      ],
+
       "generos": [
         {
           "genero": "psicologico",
@@ -1320,10 +1306,7 @@
           "link": "/directorio?genre=shounen"
         }
       ],
-      "year": 2022,
-      "classEstado": "tag is-success end",
-      "tipo": "anime",
-      "al": 1
+      "year": 2022
     },
     {
       "id": "Baraou no Souretsu",
@@ -1770,9 +1753,7 @@
       "genero1": "sobrenatural",
       "genero2": "ciencia ficcion",
       "genero3": "seinen",
-      "precuelas": [
-        { "precuela": "shadows house", "link": "/shadows-house-tv" }
-      ],
+      "precuelas": [{ "precuela": "shadows house", "link": "/shadows-house" }],
       "generos": [
         { "genero": "sobrenatural", "link": "/directorio?genre=sobrenatural" },
         {
@@ -2194,8 +2175,8 @@
     },
     {
       "id": "Kimetsu no Yaiba: Mugen Ressha-hen",
-      "name": "kimetsu no yaiba mugen ressha hen tv",
-      "anime": "Kimetsu no Yaiba Mugen Ressha Hen tv",
+      "name": "kimetsu no yaiba mugen ressha hen",
+      "anime": "Kimetsu no Yaiba Mugen Ressha Hen",
       "mode": "TV",
       "descripcion": "Resumen de la Película, Kimetsu no Yaiba Movie: Mugen Ressha-hen, con algunas escenas extras y sonidos de fondo nuevos.",
       "episodios": 7,
@@ -2225,7 +2206,7 @@
       "sec3": "disable",
       "textoSecuela": "Historia Completa",
       "nombreSecuela": "Ushio to Tora (TV)",
-      "linksec1": "/ushio-to-tora-tv",
+      "linksec1": "/ushio-to-tora",
       "episodios": 26,
       "genero1": "sobrenatural",
       "genero2": "shounen",
@@ -2253,23 +2234,8 @@
       "estado": "finalizado",
       "duration": "24 min",
       "studio": "MAPPA, Studio VOLN",
-      "options": [
-        {
-          "link": "https://animefenix.tv/ushio-to-tora",
-          "pagina": "Animefenix"
-        },
-        {
-          "link": "https://www3.animeflv.net/anime/ushio-to-tora-tv",
-          "pagina": "Animeflv"
-        },
-        {
-          "link": "https://jkanime.net/ushio-to-tora-tv/",
-          "pagina": "Jkanime"
-        }
-      ],
-      "year": 2015,
-      "classEstado": "tag is-success end",
-      "al": 3
+
+      "year": 2015
     },
     {
       "id": "Shingeki no Bahamut Genesis",
@@ -3510,23 +3476,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "duration": "24 min",
-      "studio": "Bones",
-      "options": [
-        {
-          "link": "https://animefenix.tv/noragami",
-          "pagina": "Animefenix"
-        },
-        {
-          "link": "https://www3.animeflv.net/anime/noragami",
-          "pagina": "Animeflv"
-        },
-        {
-          "link": "https://jkanime.net/noragami/",
-          "pagina": "Jkanime"
-        }
-      ],
-      "classEstado": "tag is-success end",
-      "al": 5
+      "studio": "Bones"
     },
     {
       "id": "SPY x FAMILY 2nd Temporada",
@@ -3710,24 +3660,8 @@
       "sec3": "disable",
       "estado": "finalizado",
       "year": 2018,
-      "classEstado": "tag is-success end",
-      "options": [
-        {
-          "link": "https://animefenix.tv/goblin-slayer",
-          "pagina": "Animefenix"
-        },
-        {
-          "link": "https://www3.animeflv.net/anime/goblin-slayer",
-          "pagina": "Animeflv"
-        },
-        {
-          "link": "https://jkanime.net/goblin-slayer/",
-          "pagina": "Jkanime"
-        }
-      ],
       "duration": "24 min",
-      "studio": "White Fox",
-      "al": 5
+      "studio": "White Fox"
     },
     {
       "id": "Knight's & Magic",
