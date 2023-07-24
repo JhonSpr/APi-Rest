@@ -141,11 +141,11 @@ app.get("/api/v1/recien-agregados", (req, res) => {
     recientes: [
       {
         id: 1,
-        nombre: "zom 100 zombie ni naru made ni shitai 100 no koto",
-        link: "/ver/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-3",
+        nombre: "Mashle",
+        link: "/ver/mashle-5",
         image:
-          "https://image.tmdb.org/t/p/w300/mBbmqYq4fHmNhdeMJOA8K569Qr7.jpg",
-        episode: "Episodio 3",
+          "https://image.tmdb.org/t/p/w300/kGWzULYc0GgdQaKFIMFNmM7COFq.jpg",
+        episode: "Episodio 5",
       },
       {
         id: 2,
@@ -329,6 +329,14 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         link: "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-3",
         image:
           "https://image.tmdb.org/t/p/w300/4p3a1Q0TbZ51sCf5OndRv9DETzt.jpg",
+        episode: "Episodio 3",
+      },
+      {
+        id: 34,
+        nombre: "zom 100 zombie ni naru made ni shitai 100 no koto",
+        link: "/ver/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-3",
+        image:
+          "https://image.tmdb.org/t/p/w300/mBbmqYq4fHmNhdeMJOA8K569Qr7.jpg",
         episode: "Episodio 3",
       },
     ],
