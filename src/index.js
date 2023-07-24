@@ -150,7 +150,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
       {
         id: 2,
         nombre: "kimetsu no yaiba katanakaji no sato hen",
-        link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-5",
+        link: "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-5",
         image:
           "https://image.tmdb.org/t/p/w300/7DvvdeA0bY3VIhicNYRuD19W28N.jpg",
         episode: "Episodio 5",
@@ -174,7 +174,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
       {
         id: 5,
         nombre: "kimetsu no yaiba katanakaji no sato hen",
-        link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-6",
+        link: "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-6",
         image:
           "https://image.tmdb.org/t/p/w300/o0HAhA3zeNsPQPtAnoigJlpCCuk.jpg",
         episode: "Episodio 6",
@@ -182,7 +182,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
       {
         id: 6,
         nombre: "kimetsu no yaiba katanakaji no sato hen",
-        link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-7",
+        link: "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-7",
         image: "https://cloudfront-cdn-images.com/9fna1n946am8.jpg",
         episode: "Episodio 7",
       },
@@ -196,7 +196,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
       {
         id: 8,
         nombre: "kimetsu no yaiba katanakaji no sato hen",
-        link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-8",
+        link: "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-8",
         image:
           "https://image.tmdb.org/t/p/w300/twKgIalhN0PeahBx8mwk8UaMhvh.jpg",
         episode: "Episodio 8",
@@ -212,7 +212,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
       {
         id: 10,
         nombre: "kimetsu no yaiba katanakaji no sato hen",
-        link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-9",
+        link: "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-9",
         image:
           "https://image.tmdb.org/t/p/w300/6EgVImJC0fn0jshgw12NHRf5Rzd.jpg",
         episode: "Episodio 9",
@@ -227,7 +227,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
       {
         id: 12,
         nombre: "kimetsu no yaiba katanakaji no sato hen",
-        link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-10",
+        link: "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-10",
         image:
           "https://image.tmdb.org/t/p/w300/iKD90AUxGHcLHGvbuSKfqq76rbE.jpg",
         episode: "Episodio 10",
@@ -235,7 +235,7 @@ app.get("/api/v1/recien-agregados", (req, res) => {
       {
         id: 13,
         nombre: "kimetsu no yaiba katanakaji no sato hen",
-        link: "/ver/kimetsu-no-yaiba:-katanakaji-no-sato-hen-11",
+        link: "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-11",
         image: "https://cloudfront-cdn-images.com/5ac2z0vw3eyc.jpg",
         episode: "Final",
       },
