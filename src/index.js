@@ -2,7 +2,7 @@ const express = require("express");
 const apicache = require("apicache");
 const cors = require("cors");
 const v1animeRouter = require("./v1/routes/animeRoutes");
-const {swaggerDocs: V1SwaggerDocs} = require("./v1/swagger");
+const { swaggerDocs: V1SwaggerDocs } = require("./v1/swagger");
 const app = express();
 const PORT = process.env.PORT || 3001;
 const cache = apicache.middleware;
@@ -329,6 +329,14 @@ app.get("/api/v1/recien-agregados", (req, res) => {
         link: "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-3",
         image:
           "https://image.tmdb.org/t/p/w300/4p3a1Q0TbZ51sCf5OndRv9DETzt.jpg",
+        episode: "Episodio 3",
+      },
+      {
+        id: 34,
+        nombre: "zom 100 zombie ni naru made ni shitai 100 no koto",
+        link: "/ver/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-3",
+        image:
+          "https://image.tmdb.org/t/p/w300/mBbmqYq4fHmNhdeMJOA8K569Qr7.jpg",
         episode: "Episodio 3",
       },
     ],

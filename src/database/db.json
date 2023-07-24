@@ -6,15 +6,15 @@
       "anime": "zom 100 zombie ni naru made ni shitai 100 no koto",
       "mode": "TV",
       "tipo": "anime",
-      "episodios": 2,
+      "episodios": 3,
       "descripcion": "¡Sobrevivir a un apocalipsis zombi es mejor que ser un esclavo asalariado cualquier día! Después de pasar años trabajando como esclavo para una empresa que aplasta el alma, la vida de Akira ha perdido su brillo. Vive en un departamento lleno de basura, su salario es abismal y ni siquiera puede reunir el valor para confesar su amor a su hermosa compañera de trabajo. Pero cuando un apocalipsis zombi asola su ciudad, le da el empujón que necesita para vivir por sí mismo. Ahora Akira tiene la misión de completar los 100 elementos de su lista de deseos antes de... bueno, patear el balde.",
       "genero1": "accion",
       "genero2": "comedia",
       "genero3": "horror",
       "generos": [
-        {"genero": "accion", "link": "/directorio?genre=accion"},
-        {"genero": "comedia", "link": "/directorio?genre=comedia"},
-        {"genero": "horror", "link": "/directorio?genre=horror"}
+        { "genero": "accion", "link": "/directorio?genre=accion" },
+        { "genero": "comedia", "link": "/directorio?genre=comedia" },
+        { "genero": "horror", "link": "/directorio?genre=horror" }
       ],
       "emitido": "julio 9 de 2023",
       "duration": "24 min",
@@ -30,6 +30,10 @@
         {
           "episode": 2,
           "image": "https://image.tmdb.org/t/p/w300/otuPRIdx8C4Ex1Y20dpdYzmdv42.jpg"
+        },
+        {
+          "episode": 3,
+          "image": "https://image.tmdb.org/t/p/w300/mBbmqYq4fHmNhdeMJOA8K569Qr7.jpg"
         }
       ],
       "temporadas": 1,
@@ -50,9 +54,9 @@
       "genero2": "drama",
       "genero3": "sobrenatural",
       "generos": [
-        {"genero": "accion", "link": "/directorio?genre=accion"},
-        {"genero": "drama", "link": "/directorio?genre=drama"},
-        {"genero": "sobrenatural", "link": "/directorio?genre=sobrenatural"}
+        { "genero": "accion", "link": "/directorio?genre=accion" },
+        { "genero": "drama", "link": "/directorio?genre=drama" },
+        { "genero": "sobrenatural", "link": "/directorio?genre=sobrenatural" }
       ],
       "emitido": "julio 6 de 2023",
       "duration": "24 min",
@@ -98,9 +102,9 @@
       "genero2": "aventuras",
       "genero3": "fantasia",
       "generos": [
-        {"genero": "accion", "link": "/directorio?genre=accion"},
-        {"genero": "aventuras", "link": "/directorio?genre=aventuras"},
-        {"genero": "fantasia", "link": "/directorio?genre=fantasia"}
+        { "genero": "accion", "link": "/directorio?genre=accion" },
+        { "genero": "aventuras", "link": "/directorio?genre=aventuras" },
+        { "genero": "fantasia", "link": "/directorio?genre=fantasia" }
       ],
       "emitido": "julio 8 de 2023",
       "duration": "24 min",
@@ -144,9 +148,9 @@
       "genero2": "misterio",
       "genero3": "sobrenatural",
       "generos": [
-        {"genero": "accion", "link": "/directorio?genre=accion"},
-        {"genero": "misterio", "link": "/directorio?genre=misterio"},
-        {"genero": "sobrenatural", "link": "/directorio?genre=sobrenatural"}
+        { "genero": "accion", "link": "/directorio?genre=accion" },
+        { "genero": "misterio", "link": "/directorio?genre=misterio" },
+        { "genero": "sobrenatural", "link": "/directorio?genre=sobrenatural" }
       ],
       "emitido": "julio 12 de 2023",
       "duration": "24 min",
@@ -176,18 +180,18 @@
       "genero4": "magia",
       "genero5": "shounen",
       "generos": [
-        {"genero": "accion", "link": "/directorio?genre=accion"},
-        {"genero": "demonios", "link": "/directorio?genre=demonios"},
-        {"genero": "fantasia ", "link": "/directorio?genre=fantasia"},
-        {"genero": "magia", "link": "/directorio?genre=magia"},
-        {"genero": "shounen ", "link": "/directorio?genre=shounen"}
+        { "genero": "accion", "link": "/directorio?genre=accion" },
+        { "genero": "demonios", "link": "/directorio?genre=demonios" },
+        { "genero": "fantasia ", "link": "/directorio?genre=fantasia" },
+        { "genero": "magia", "link": "/directorio?genre=magia" },
+        { "genero": "shounen ", "link": "/directorio?genre=shounen" }
       ],
       "emitido": "junio 16 de 2023",
       "duration": "1 hr 53 min",
       "estado": "finalizado",
       "year": 2023,
       "studio": "Pierrot",
-      "serie": [{"anime": "Black Clover", "link": "/anime/black-clover"}],
+      "serie": [{ "anime": "Black Clover", "link": "/anime/black-clover" }],
       "proximo": false,
       "image": "https://i.postimg.cc/MKJ5GbBF/black-clover-mahou-tei-no-ken.jpg"
     },
@@ -204,11 +208,11 @@
       "genero4": "terror",
       "genero5": "accion",
       "generos": [
-        {"genero": "accion", "link": "/directorio?genre=accion"},
-        {"genero": "seinen", "link": "/directorio?genre=seinen"},
-        {"genero": "militar", "link": "/directorio?genre=militar"},
-        {"genero": "sobrenatural", "link": "/directorio?genre=sobrenatural"},
-        {"genero": "terror", "link": "/directorio?genre=terror"}
+        { "genero": "accion", "link": "/directorio?genre=accion" },
+        { "genero": "seinen", "link": "/directorio?genre=seinen" },
+        { "genero": "militar", "link": "/directorio?genre=militar" },
+        { "genero": "sobrenatural", "link": "/directorio?genre=sobrenatural" },
+        { "genero": "terror", "link": "/directorio?genre=terror" }
       ],
       "episodios": 10,
       "duration": "50 min",
@@ -239,10 +243,10 @@
       "genero4": "accion",
       "proximo": false,
       "generos": [
-        {"genero": "accion", "link": "/directorio?genre=accion"},
-        {"genero": "fantasia", "link": "/directorio?genre=fantasia"},
-        {"genero": "shounen", "link": "/directorio?genre=shounen"},
-        {"genero": "historico", "link": "/directorio?genre=historico"}
+        { "genero": "accion", "link": "/directorio?genre=accion" },
+        { "genero": "fantasia", "link": "/directorio?genre=fantasia" },
+        { "genero": "shounen", "link": "/directorio?genre=shounen" },
+        { "genero": "historico", "link": "/directorio?genre=historico" }
       ],
       "precuelas": [
         {
@@ -272,9 +276,9 @@
       "genero2": "comedia",
       "genero3": "shoujo",
       "generos": [
-        {"genero": "accion ", "link": "/directorio?genre=accion"},
-        {"genero": "comedia", "link": "/directorio?genre=comedia"},
-        {"genero": "shoujo", "link": "/directorio?genre=shoujo"}
+        { "genero": "accion ", "link": "/directorio?genre=accion" },
+        { "genero": "comedia", "link": "/directorio?genre=comedia" },
+        { "genero": "shoujo", "link": "/directorio?genre=shoujo" }
       ],
       "proximo": false,
       "banner__anime": "https://i.postimg.cc/ZKVvST2x/Banner-mashle.jpg"
@@ -322,7 +326,7 @@
       "episodios": 13,
       "secuelas": [],
       "proximo": false,
-      "precuelas": [{"precuela": "Bleach tv", "link": "/bleach-tv"}],
+      "precuelas": [{ "precuela": "Bleach tv", "link": "/bleach-tv" }],
       "estado": "finalizado",
       "tipo": "anime",
       "genero1": "accion",
@@ -776,8 +780,8 @@
       "year": 2018,
       "proximo": false,
       "descripcion": "Tercera temporada de Overlord.",
-      "secuelas": [{"secuela": "Overlord IV", "link": "/overlord-iv"}],
-      "precuelas": [{"precuela": "Overlord II", "link": "/overlord-ii"}],
+      "secuelas": [{ "secuela": "Overlord IV", "link": "/overlord-iv" }],
+      "precuelas": [{ "precuela": "Overlord II", "link": "/overlord-ii" }],
       "temporadas": 4,
       "studio": "Madhouse",
       "tipo": "anime",
@@ -990,7 +994,7 @@
       "genero4": "magia",
       "proximo": false,
       "secuelas": [],
-      "precuelas": [{"precuela": "Fairy gone", "link": "/fairy-gone-tv"}],
+      "precuelas": [{ "precuela": "Fairy gone", "link": "/fairy-gone-tv" }],
       "generos": [
         {
           "genero": "accion",
@@ -1743,8 +1747,8 @@
       "precuelas": [],
       "secuelas": [],
       "generos": [
-        {"genero": "fantasia", "link": "/directorio?genre=fantasia"},
-        {"genero": "drama", "link": "/directorio?genre=drama"}
+        { "genero": "fantasia", "link": "/directorio?genre=fantasia" },
+        { "genero": "drama", "link": "/directorio?genre=drama" }
       ],
       "proximo": false,
       "image": "https://i.postimg.cc/1R7hshSb/violet-evergarden.jpg",
@@ -1766,14 +1770,16 @@
       "genero1": "sobrenatural",
       "genero2": "ciencia ficcion",
       "genero3": "seinen",
-      "precuelas": [{"precuela": "shadows house", "link": "/shadows-house-tv"}],
+      "precuelas": [
+        { "precuela": "shadows house", "link": "/shadows-house-tv" }
+      ],
       "generos": [
-        {"genero": "sobrenatural", "link": "/directorio?genre=sobrenatural"},
+        { "genero": "sobrenatural", "link": "/directorio?genre=sobrenatural" },
         {
           "genero": "ciencia ficcion",
           "link": "/directorio?genre=ciencia-ficcion"
         },
-        {"genero": "seinen", "link": "/directorio?genre=seinen"}
+        { "genero": "seinen", "link": "/directorio?genre=seinen" }
       ],
       "secuelas": [],
       "proximo": false,
@@ -1838,13 +1844,13 @@
       "genero3": "juegos",
       "genero4": "magia",
       "generos": [
-        {"genero": "accion", "link": "/directorio?genre=accion"},
-        {"genero": "fantasia", "link": "/directorio?genre=fantasia"},
-        {"genero": "juegos", "link": "/directorio?genre=juegos"},
-        {"genero": "magia", "link": "/directorio?genre=magia"}
+        { "genero": "accion", "link": "/directorio?genre=accion" },
+        { "genero": "fantasia", "link": "/directorio?genre=fantasia" },
+        { "genero": "juegos", "link": "/directorio?genre=juegos" },
+        { "genero": "magia", "link": "/directorio?genre=magia" }
       ],
       "secuelas": [],
-      "precuelas": [{"precuela": "Overlord III", "link": "/overlord-iii"}],
+      "precuelas": [{ "precuela": "Overlord III", "link": "/overlord-iii" }],
       "proximo": false,
       "descripcion": "Cuarta temporada de Overlord",
       "episodios": 13,
@@ -2073,16 +2079,16 @@
       "descripcion": "Los hermanos Elric emprenden un viaje tras haber perdido parte de su cuerpo mientras intentaban resucitar a su madre. Siendo ambos huérfanos de madre y con su padre en paradero desconocido, cuyo oscuro pasado es tan misterioso como él mismo, el hermano mayor, Edward Elric, decide convertirse en alquimista nacional para poder remediar el pecado que cometieron; pues la transmutación humana está vedada para los humanos y no hay perdón por aquellos que han visto la puerta, Si quieres obtener algo, debes sacrificar otra cosa que posea el mismo valor a cambio; esta es la ley de los estados equivalentes, nada se gana sin ningún sacrificio.",
       "episodios": 64,
       "generos": [
-        {"genero": "accion", "link": "/directorio?genre=accion"},
-        {"genero": "militar", "link": "/directorio?genre=militar"},
-        {"genero": "shounen", "link": "/directorio?genre=shounen"},
-        {"genero": "magia", "link": "/directorio?genre=magia"},
-        {"genero": "drama", "link": "/directorio?genre=drama"},
+        { "genero": "accion", "link": "/directorio?genre=accion" },
+        { "genero": "militar", "link": "/directorio?genre=militar" },
+        { "genero": "shounen", "link": "/directorio?genre=shounen" },
+        { "genero": "magia", "link": "/directorio?genre=magia" },
+        { "genero": "drama", "link": "/directorio?genre=drama" },
         {
           "genero": "fantasia",
           "link": "/directorio?genre=fantasia"
         },
-        {"genero": "fantasia", "link": "/directorio?genre=fantasia"}
+        { "genero": "fantasia", "link": "/directorio?genre=fantasia" }
       ],
       "genero1": "accion",
       "genero2": "militar",
@@ -2887,11 +2893,11 @@
       "genero1": ["accion", "fantasia"],
       "proximo": false,
       "generos": [
-        {"genero": "accion", "link": "/directorio?genre=accion"},
-        {"genero": "fantasia", "link": "/directorio?genre=fantasia"}
+        { "genero": "accion", "link": "/directorio?genre=accion" },
+        { "genero": "fantasia", "link": "/directorio?genre=fantasia" }
       ],
       "secuelas": [
-        {"secuela": "Accel World Ex", "link": "/accel-world-acchel-world"}
+        { "secuela": "Accel World Ex", "link": "/accel-world-acchel-world" }
       ],
       "precuelas": [
         {
@@ -4214,8 +4220,8 @@
       "genero2": "misterio",
       "genero3": "sobrenatural",
       "generos": [
-        {"genero": "accion", "link": "/directorio?genre=accion"},
-        {"genero": "misterio", "link": "/directorio?genre=misterio"},
+        { "genero": "accion", "link": "/directorio?genre=accion" },
+        { "genero": "misterio", "link": "/directorio?genre=misterio" },
         {
           "genero": "sobrenatural",
           "link": "/directorio?genre=sobrenatural"
@@ -4224,7 +4230,7 @@
       "tipo": "anime",
       "episodios": 12,
       "precuelas": [
-        {"precuela": "bungou stray dogs 3", "link": "/bungou-stray-dogs-3"}
+        { "precuela": "bungou stray dogs 3", "link": "/bungou-stray-dogs-3" }
       ],
       "descripcion": "“Su agencia de detectives es un orgullo del país”. Ha pasado aproximadamente un mes desde que la Agencia Armada de Detectives, en colaboración con Port Mafia, ganó la operación de canibalismo ideada por las Ratas en la Casa de los Muertos. La Agencia de Detectives Armados recibió la medalla más alta por su contribución a la seguridad, la Orden del Arco de Exorcismo de Azusa, y fue elogiada por todo el país. Entonces llega una solicitud urgente del gobierno. Los cuatro asesinatos de los jóvenes senadores se compararon con los cinco signos de la mortalidad del ser celestial más alto de Rokudo Rinne, los Seis Reinos de la Reencarnación. La Agencia de Detectives Armados se propone evitar que ocurra el asesinato restante. “Todas las fuerzas deben trabajar juntas para prevenir los intentos del mal”. ¡Pero resulta ser una trampa tendida por el astuto Demonio Fyodor, que se suponía que había sido capturado...! Los funcionarios del gobierno sospechan de la justicia que defienden. Una unidad especial de la policía militar, los Perros de Caza, está lista para entrar en acción. La Descomposición del Ángel está vagando por las calles para provocar la destrucción del mundo. La Agencia de Detectives Armados, que ha sido calumniada por el público desde su gloria, se enfrenta uno tras otro a nuevos enemigos y su desesperación sin fondo. Con su amistad desmoronándose, ¿será Atsushi Nakajima capaz de superar esta crisis sin precedentes? Sin un rayo de esperanza a la vista, la batalla está a punto de comenzar...",
       "estado": "finalizado"
