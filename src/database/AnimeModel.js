@@ -1,6 +1,4 @@
-const e = require("express");
 const DB = require("./db.json");
-const {saveToDatabase} = require("./utils");
 
 const getAllAnime = (filterParams) => {
   try {
@@ -48,7 +46,7 @@ const getAllAnime = (filterParams) => {
 
     return animes;
   } catch (error) {
-    throw {status: 500, message: error};
+    throw { status: 500, message: error };
   }
 };
 
