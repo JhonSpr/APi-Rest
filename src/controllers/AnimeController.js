@@ -1,19 +1,19 @@
 const animeService = require("../services/AnimeService");
 
 const getAllAnimes = (req, res) => {
-  const {name, estado, info} = req.query;
+  const { name, estado, info } = req.query;
   try {
     const limit = parseInt(req.query.limit) || 24;
     const page = parseInt(req.query.page) || 1;
     const startIndex = (page - 1) * limit;
     const endIndex = startIndex + limit;
-    const year = req.query.year;
+    const años = req.query.year;
     const episodes = req.query.episodes;
     const genero = req.query.genero;
     const type = req.query.type;
     const animes = animeService.getAllAnime({
       name,
-      year,
+      años,
       estado,
       episodes,
       genero,
@@ -23,11 +23,11 @@ const getAllAnimes = (req, res) => {
 
     let datos = animes;
 
-    res.send({datos: datos.slice(startIndex, endIndex), item: datos.length});
+    res.send({ datos: datos.slice(startIndex, endIndex), item: datos.length });
   } catch (error) {
     res.status(error?.status || 500).send({
       status: "Algo salió mal",
-      data: {error: error?.message || error},
+      data: { error: error?.message || error },
     });
   }
 };

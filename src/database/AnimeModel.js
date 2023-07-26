@@ -11,9 +11,9 @@ const getAllAnime = (filterParams) => {
         anime.name.includes(filterParams.name.toLowerCase()),
       );
     }
-    if (filterParams.year) {
+    if (filterParams.años) {
       return DB.animes.filter(
-        (anime) => anime.year === Number(filterParams.year),
+        (anime) => anime.year === Number(filterParams.años),
       );
     }
     if (filterParams.estado) {
