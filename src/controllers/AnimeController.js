@@ -7,7 +7,7 @@ const getAllAnimes = (req, res) => {
     const page = parseInt(req.query.page) || 1;
     const startIndex = (page - 1) * limit;
     const endIndex = startIndex + limit;
-    const años = req.query.year;
+    const años = req.query.años;
     const episodes = req.query.episodes;
     const genero = req.query.genero;
     const type = req.query.type;
