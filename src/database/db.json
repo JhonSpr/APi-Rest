@@ -1291,11 +1291,9 @@
       "id": "Tomodachi Game",
       "name": "tomodachi game",
       "anime": "Tomodachi Game",
+      "tipo": "anime",
       "mode": "TV",
       "descripcion": "Katagiri Yuuichi cree que los amigos son más importantes que el dinero, pero también conoce las dificultades de no tener suficientes fondos. Se esfuerza por ahorrar para poder ir al viaje del instituto, porque ha prometido a sus cuatro mejores amigos que irán todos juntos. Sin embargo, después de reunir todo el dinero de la clase, ¡se lo roban! Las sospechas recaen sobre dos amigos de Yuuichi, Sawaragi Shiho y Shibe Makoto. Poco después, los cinco son secuestrados y se despiertan en una extraña habitación con un personaje de un anime antiguo. Al parecer, uno de ellos los ha introducido en un “juego de amistad” para hacerse cargo de su enorme deuda. Pero, ¿quién era y por qué tenían semejante deuda? ¿Podrían haber robado el dinero de la clase para pagar la entrada en el juego? Yuuichi y sus mejores amigos tendrán que triunfar en juegos psicológicos que pondrán a prueba o destruirán su fe en los demás.",
-      "sec1": "disable",
-      "sec2": "disable",
-      "sec3": "disable",
       "episodios": 12,
       "image": "https://i.postimg.cc/JhNxYmTv/tomodachi-game.jpg",
       "estado": "finalizado",
@@ -1303,7 +1301,8 @@
       "genero2": "shounen",
       "studio": "Okuruto Noboru",
       "duration": "24 min",
-
+      "secuelas": [],
+      "precuelas": [],
       "generos": [
         {
           "genero": "psicologico",
