@@ -22,6 +22,7 @@
       "year": 2023,
       "studio": "BUG FILMS",
       "precuelas": [],
+      "rating": 6.4,
       "episodes__overlay": [
         {
           "episode": 1,
@@ -69,6 +70,7 @@
           "link": "/jujutsu-kaisen"
         }
       ],
+      "rating": 7.5,
       "episodes__overlay": [
         {
           "episode": 1,
@@ -139,6 +141,7 @@
           "image": "https://image.tmdb.org/t/p/original/jIxlbSf0Z4BWqWLTjHM7pfc7I1s.jpg"
         }
       ],
+      "rating": 8.3,
       "secuelas": [],
       "proximo": "Sabado 5 de agosto 2023",
       "image": "https://i.postimg.cc/4ySm5VzM/bleach-sennen-kessen-hen-ketsubetsu-tan-11613.webp",
@@ -171,6 +174,7 @@
           "link": "/bungou-stray-dogs-4"
         }
       ],
+      "rating": 7.5,
       "secuelas": [],
       "proximo": false,
       "image": "https://i.postimg.cc/J7dfqsWL/Fs-T4g-PXa-MAw-Pbmh.jpg"
@@ -201,6 +205,7 @@
       "studio": "Pierrot",
       "serie": [{ "anime": "Black Clover", "link": "/anime/black-clover" }],
       "proximo": false,
+      "rating": 9.2,
       "image": "https://i.postimg.cc/MKJ5GbBF/black-clover-mahou-tei-no-ken.jpg"
     },
     {
@@ -229,6 +234,7 @@
       "studio": "Madhouse, Satelight, Graphinica",
       "precuelas": [],
       "secuelas": [],
+      "rating": 6.5,
       "proximo": false,
       "image": "https://i.postimg.cc/XvCHym5H/hellsing-ultimate.jpg"
     },
@@ -262,6 +268,7 @@
           "link": "/kimetsu-no-yaiba-yuukaku-hen"
         }
       ],
+      "rating": 7.7,
       "secuelas": []
     },
     {
@@ -289,6 +296,7 @@
         { "genero": "shoujo", "link": "/directorio?genre=shoujo" }
       ],
       "proximo": false,
+      "rating": 7.4,
       "banner__anime": "https://i.postimg.cc/ZKVvST2x/Banner-mashle.jpg"
     },
     {
@@ -359,6 +367,7 @@
           "link": "/directorio?genre=fantasia"
         }
       ],
+      "rating": 7.1,
       "studio": "Studio Pierrot",
       "duration": "24 min"
     },
