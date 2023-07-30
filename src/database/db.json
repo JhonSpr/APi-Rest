@@ -418,6 +418,7 @@
         }
       ],
       "duration": "24 min",
+      "rating": 7.2,
       "studio": "NAZ"
     },
     {
@@ -452,6 +453,7 @@
       ],
       "duration": "23 min",
       "studio": "CloverWorks",
+      "rating": 5.7,
       "tipo": "anime"
     },
     {
@@ -501,7 +503,8 @@
           "genero": "magia",
           "link": "/directorio?genre=magia"
         }
-      ]
+      ],
+      "rating": 7
     },
     {
       "id": "Kuro no Shoukanshi",
@@ -530,6 +533,7 @@
       ],
       "studio": "Satelight",
       "duration": "24 min",
+      "rating": 5.5,
       "tipo": "anime"
     },
     {
@@ -548,6 +552,7 @@
       "genero2": "comedia",
       "genero3": "fantasia",
       "genero4": "sobrenatural",
+
       "generos": [
         {
           "genero": "aventuras",
@@ -565,7 +570,8 @@
           "genero": "sobrenatural",
           "link": "/directorio?genre=sobrenatural"
         }
-      ]
+      ],
+      "rating": 6.3
     },
     {
       "id": "Heion Sedai no Idaten Tachi",
@@ -607,7 +613,8 @@
           "genero": "seinen",
           "link": "/directorio?genre=seinen"
         }
-      ]
+      ],
+      "rating": 6
     },
     {
       "id": "Peach Boy Riverside",
@@ -636,7 +643,8 @@
           "genero": "shounen",
           "link": "/directorio?genre=shounen"
         }
-      ]
+      ],
+      "rating": 6.5
     },
     {
       "id": "Jujutsu Kaisen",
@@ -680,7 +688,8 @@
           "genero": "terror",
           "link": "/directorio?genre=terror"
         }
-      ]
+      ],
+      "rating": 7.4
     },
     {
       "id": "Shingeki no Bahamut:Virgin Soul",
@@ -729,7 +738,7 @@
           "link": "/directorio?genre=sobrenatural"
         }
       ],
-      "al": 1
+      "rating": 6.7
     },
     {
       "id": "Castlevania",
@@ -783,7 +792,7 @@
       ],
       "classEstado": "tag is-success end",
       "tipo": "anime",
-      "al": 1
+      "rating": 7.6
     },
     {
       "id": "Overlord III",
@@ -833,7 +842,8 @@
           "genero": "sobrenatural",
           "link": "/directorio?genre=sobrenatural"
         }
-      ]
+      ],
+      "rating": 7.8
     },
     {
       "id": "Ao no Exorcist Kyoto Fujouou Hen",
@@ -879,9 +889,8 @@
         }
       ],
       "year": 2017,
-      "classEstado": "tag is-success end",
       "tipo": "anime",
-      "al": 1
+      "rating": 5.9
     },
     {
       "id": "Fairy Gone",
@@ -930,7 +939,8 @@
         }
       ],
       "studio": "P.A. Works",
-      "duration": "23 min"
+      "duration": "23 min",
+      "rating": 7.2
     },
     {
       "id": "Dr Stone Ryusui",
@@ -966,7 +976,7 @@
       ],
       "classEstado": "tag is-success end",
       "tipo": "anime",
-      "al": 1
+      "rating": 8.2
     },
     {
       "id": "isekai Yakkyoku",
@@ -994,7 +1004,8 @@
         }
       ],
       "classEstado": "tag is-success end",
-      "tipo": "anime"
+      "tipo": "anime",
+      "rating": 8.6
     },
     {
       "id": "Fairy Gone 2nd Temporada",
@@ -1033,7 +1044,8 @@
       "episodios": 12,
       "studio": "P.A. Works",
       "duration": "20 min",
-      "tipo": "anime"
+      "tipo": "anime",
+      "rating": 6.2
     },
     {
       "id": "isekai Meikyuu de Harem wo",
@@ -1081,9 +1093,9 @@
         }
       ],
       "descripcion": "Luchando con la vida y la sociedad, el estudiante de secundaria Michio Kaga deambula por Internet y aterriza en un sitio web extraño. El sitio web, que presenta una serie de preguntas y un sistema basado en puntos, permite crear habilidades y destrezas para un personaje. Al completar su personaje, Kaga fue transportado a un mundo de fantasía similar a un juego y renació como un hombre fuerte que puede reclamar chicas de nivel ídolo. ¡Así comienza la leyenda del engaño y el harem de un hombre renacido!",
-      "classEstado": "tag is-success end",
+
       "tipo": "anime",
-      "al": 1
+      "rating": 7.4
     },
     {
       "id": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Temporada",
@@ -1118,8 +1130,7 @@
       "year": 2022,
       "tipo": "anime",
       "episodios": 13,
-      "classEstado": "tag is-success end",
-      "al": 1
+      "rating": 7.7
     },
     {
       "id": "Spy x Family",
@@ -1154,8 +1165,8 @@
       ],
       "episodios": 12,
       "year": 2022,
-      "classEstado": "tag is-success end",
-      "al": 1
+
+      "rating": 4.7
     },
     {
       "id": "Date a Live IV",
@@ -1200,8 +1211,8 @@
       ],
       "year": 2022,
       "episodios": 12,
-      "classEstado": "tag is-success end",
-      "al": 1
+
+      "rating": 6.6
     },
     {
       "id": "Tate no Yuusha no Naraigari",
@@ -1252,8 +1263,7 @@
           "link": "/directorio?genre=seinen"
         }
       ],
-      "classEstado": "tag is-success end",
-      "al": 1
+      "rating": 5.7
     },
     {
       "id": "Tate no Yuusha no Naraigari 2nd Temporada",
@@ -1294,7 +1304,7 @@
           "link": "/directorio?genre=fantasia"
         }
       ],
-      "al": 1
+      "rating": 7.8
     },
     {
       "id": "Tomodachi Game",
@@ -1322,7 +1332,8 @@
           "link": "/directorio?genre=shounen"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "rating": 8.2
     },
     {
       "id": "Baraou no Souretsu",
@@ -1364,9 +1375,9 @@
           "link": "/directorio?genre=sobrenatural"
         }
       ],
-      "classEstado": "tag is-success end",
+
       "tipo": "anime",
-      "al": 2
+      "rating": 7.4
     },
     {
       "id": "Karakuri Circus",
@@ -1410,8 +1421,7 @@
         }
       ],
       "year": 2022,
-      "classEstado": "tag is-success end",
-      "al": 2
+      "rating": 7.9
     },
     {
       "id": "Extreme Hearts",
@@ -1438,7 +1448,8 @@
           "link": "/directorio?genre=Musica"
         }
       ],
-      "tipo": "anime"
+      "tipo": "anime",
+      "rating": 8
     },
     {
       "id": "Gensou Sangokushi Tenge Reishink",
