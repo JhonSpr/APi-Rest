@@ -1,182 +1,162 @@
 {
   "recientes": [
     {
-      "id": 1,
+      "nombre": "zom 100 zombie ni naru made ni shitai 100 no koto",
+      "link": "/ver/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-4",
+      "image": "https://image.tmdb.org/t/p/w300/1iH3IFZINIiXwW3xsQmBbLlpFH2.jpg",
+      "episode": "Episodio 4"
+    },
+    {
       "nombre": "bleach sennen kessen hen ketsubetsu tan",
       "link": "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-4",
       "image": "https://image.tmdb.org/t/p/original/jIxlbSf0Z4BWqWLTjHM7pfc7I1s.jpg",
       "episode": "Episodio 4"
     },
     {
-      "id": 2,
       "nombre": "jujutsu kaisen 2nd temporada",
       "link": "/ver/jujutsu-kaisen-2nd-temporada-4",
       "image": "https://cloudfront-cdn-images.com/x5qa8qmjz6uu.jpg",
       "episode": "Episodio 4"
     },
     {
-      "id": 3,
       "nombre": "Fairy gone",
       "link": "/ver/fairy-gone-12",
       "image": "https://image.tmdb.org/t/p/w300/sAvSITbps270l1hYtSQ57W7O1F8.jpg",
       "episode": "Episodio 12"
     },
     {
-      "id": 4,
       "nombre": "Mashle",
       "link": "/ver/mashle-6",
       "image": "https://image.tmdb.org/t/p/w300/lDvllafdpBKHxsyPKUsfLlEI2vn.jpg",
       "episode": "Episodio 6"
     },
     {
-      "id": 5,
       "nombre": "kimetsu no yaiba katanakaji no sato hen",
       "link": "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-6",
       "image": "https://image.tmdb.org/t/p/w300/o0HAhA3zeNsPQPtAnoigJlpCCuk.jpg",
       "episode": "Episodio 6"
     },
     {
-      "id": 6,
       "nombre": "kimetsu no yaiba katanakaji no sato hen",
       "link": "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-7",
       "image": "https://cloudfront-cdn-images.com/9fna1n946am8.jpg",
       "episode": "Episodio 7"
     },
     {
-      "id": 7,
       "nombre": "Mashle",
       "link": "/ver/mashle-7",
       "image": "https://cloudfront-cdn-images.com/q546idbtkmj2.jpg",
       "episode": "Episodio 7"
     },
     {
-      "id": 8,
       "nombre": "kimetsu no yaiba katanakaji no sato hen",
       "link": "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-8",
       "image": "https://image.tmdb.org/t/p/w300/twKgIalhN0PeahBx8mwk8UaMhvh.jpg",
       "episode": "Episodio 8"
     },
     {
-      "id": 9,
       "nombre": "Mashle",
       "link": "/ver/mashle-8",
       "image": "https://image.tmdb.org/t/p/w300/94Jx029j907EIqxZXbslIDcW07X.jpg",
       "episode": "Episodio 8"
     },
     {
-      "id": 10,
       "nombre": "kimetsu no yaiba katanakaji no sato hen",
       "link": "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-9",
       "image": "https://image.tmdb.org/t/p/w300/6EgVImJC0fn0jshgw12NHRf5Rzd.jpg",
       "episode": "Episodio 9"
     },
     {
-      "id": 11,
       "nombre": "Mashle",
       "link": "/ver/mashle-9",
       "image": "https://cloudfront-cdn-images.com/yd48nalhhn0k.jpg",
       "episode": "Episodio 9"
     },
     {
-      "id": 12,
       "nombre": "kimetsu no yaiba katanakaji no sato hen",
       "link": "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-10",
       "image": "https://image.tmdb.org/t/p/w300/iKD90AUxGHcLHGvbuSKfqq76rbE.jpg",
       "episode": "Episodio 10"
     },
     {
-      "id": 13,
       "nombre": "kimetsu no yaiba katanakaji no sato hen",
       "link": "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-11",
       "image": "https://cloudfront-cdn-images.com/5ac2z0vw3eyc.jpg",
       "episode": "Final"
     },
     {
-      "id": 14,
       "nombre": "Black Clover Mahou Tei no Ken",
       "link": "/ver/black-clover-mahou-tei-no-ken",
       "image": "https://i.postimg.cc/MKJ5GbBF/black-clover-mahou-tei-no-ken.jpg",
       "episode": "Pelicula"
     },
     {
-      "id": 15,
       "nombre": "Mashle",
       "link": "/ver/mashle-10",
       "image": "https://cloudfront-cdn-images.com/je6du5xf98kq_t.jpg",
       "episode": "Episodio 10"
     },
     {
-      "id": 17,
       "nombre": "Mashle",
       "link": "/ver/mashle-11",
       "image": "https://image.tmdb.org/t/p/w300/6bL1AUjhnUJjLhAoWkJ4SksPW3L.jpg",
       "episode": "Episodio 11"
     },
     {
-      "id": 18,
       "nombre": "Mashle",
       "link": "/ver/mashle-12",
       "image": "https://cloudfront-cdn-images.com/855j8x3qp9y2.jpg",
       "episode": "Final"
     },
     {
-      "id": 19,
       "nombre": "jujutsu kaisen 2nd temporada",
       "link": "/ver/jujutsu-kaisen-2nd-temporada-1",
       "image": "https://cloudfront-cdn-images.com/m9p52nd0wtxm.jpg",
       "episode": "Episodio 1"
     },
     {
-      "id": 21,
       "nombre": "bleach sennen kessen hen ketsubetsu tan",
       "link": "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-1",
       "image": "https://image.tmdb.org/t/p/original/aqJwqIHatEW7PUiJLTmNr1b2Ars.jpg",
       "episode": "Episodio 1"
     },
     {
-      "id": 23,
       "nombre": "jujutsu kaisen 2nd temporada",
       "link": "/ver/jujutsu-kaisen-2nd-temporada-2",
       "image": "https://i.postimg.cc/HsdHtXS6/jujutsu-kaisen-2nd-season-cap-2-300x170.jpg",
       "episode": "Episodio 2"
     },
     {
-      "id": 24,
       "nombre": "zom 100 zombie ni naru made ni shitai 100 no koto",
       "link": "/ver/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-1",
       "image": "https://image.tmdb.org/t/p/w300/zME0h04UnDR2Gea5n3iK1dxaNeS.jpg",
       "episode": "Episodio 1"
     },
     {
-      "id": 26,
       "nombre": "bleach sennen kessen hen ketsubetsu tan",
       "link": "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-2",
       "image": "https://image.tmdb.org/t/p/w300/aONdt2mDZxUJR9swBkVjhDb1sXu.jpg",
       "episode": "Episodio 2"
     },
     {
-      "id": 30,
       "nombre": "zom 100 zombie ni naru made ni shitai 100 no koto",
       "link": "/ver/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-2",
       "image": "https://image.tmdb.org/t/p/w300/otuPRIdx8C4Ex1Y20dpdYzmdv42.jpg",
       "episode": "Episodio 2"
     },
     {
-      "id": 32,
       "nombre": "jujutsu kaisen 2nd temporada",
       "link": "/ver/jujutsu-kaisen-2nd-temporada-3",
       "image": "https://cloudfront-cdn-images.com/65anw4wt1lod.jpg",
       "episode": "Episodio 3"
     },
     {
-      "id": 33,
       "nombre": "bleach sennen kessen hen ketsubetsu tan",
       "link": "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-3",
       "image": "https://image.tmdb.org/t/p/w300/4p3a1Q0TbZ51sCf5OndRv9DETzt.jpg",
       "episode": "Episodio 3"
     },
     {
-      "id": 34,
       "nombre": "zom 100 zombie ni naru made ni shitai 100 no koto",
       "link": "/ver/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-3",
       "image": "https://image.tmdb.org/t/p/w300/mBbmqYq4fHmNhdeMJOA8K569Qr7.jpg",
