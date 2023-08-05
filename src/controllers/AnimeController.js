@@ -12,7 +12,6 @@ const getAllAnimes = (req, res) => {
     const genero = req.query.genero;
     const type = req.query.type;
     const rating = req.query.rating;
-
     const animes = animeService.getAllAnime({
       name,
       años,
