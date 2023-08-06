@@ -109,7 +109,7 @@
       "anime": "bleach sennen kessen hen ketsubetsu tan",
       "mode": "TV",
       "tipo": "anime",
-      "episodios": 4,
+      "episodios": 5,
       "temporadas": 2,
       "descripcion": "segunda parte de BLEACH Sennen Kessen-hen",
       "genero1": "accion",
@@ -147,6 +147,10 @@
         {
           "episode": 4,
           "image": "https://image.tmdb.org/t/p/original/jIxlbSf0Z4BWqWLTjHM7pfc7I1s.jpg"
+        },
+        {
+          "episode": 5,
+          "image": "https://i.postimg.cc/8z4CgBnv/BLEACH-Thousand-Year-Blood-War-18.jpg"
         }
       ],
       "rating": 8.3,
