@@ -12,13 +12,11 @@ const getAllAnime = (filterParams) => {
       return DB.animes.filter((anime) =>
         anime.name.includes(filterParams.name.toLowerCase()),
       );
-      return;
     }
     if (filterParams.años) {
       return DB.animes.filter(
         (anime) => anime.year === Number(filterParams.años),
       );
-      return;
     }
     if (filterParams.estado) {
       return DB.animes.filter(
@@ -29,13 +27,11 @@ const getAllAnime = (filterParams) => {
       return DB.animes.filter(
         (anime) => anime.tipo == String(filterParams.type),
       );
-      return;
     }
     if (filterParams.episodes) {
       return DB.animes.filter(
         (anime) => anime.episodios == String(filterParams.episodes),
       );
-      return;
     }
     if (filterParams.genero) {
       return DB.animes.filter(
@@ -49,7 +45,6 @@ const getAllAnime = (filterParams) => {
           anime.genero7 == String(filterParams.genero.toLowerCase()),
       );
     }
-
     if (filterParams.rating) {
       return DB.animes.filter(
         (anime) => anime.rating >= minRating && anime?.rating <= maxRating,
