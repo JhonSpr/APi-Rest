@@ -109,7 +109,7 @@
       "anime": "bleach sennen kessen hen ketsubetsu tan",
       "mode": "TV",
       "tipo": "anime",
-      "episodios": 5,
+      "episodios": 6,
       "temporadas": 2,
       "descripcion": "segunda parte de BLEACH Sennen Kessen-hen",
       "genero1": "accion",
@@ -151,11 +151,15 @@
         {
           "episode": 5,
           "image": "https://i.postimg.cc/8z4CgBnv/BLEACH-Thousand-Year-Blood-War-18.jpg"
+        },
+        {
+          "episode": 6,
+          "image": "https://i.postimg.cc/HsrRd92s/tp-VKcyjz-E9o-LBSo-Jwo66-Gc-Db-TVY.jpg"
         }
       ],
       "rating": 8.3,
       "secuelas": [],
-      "proximo": "Sabado 5 de agosto 2023",
+      "proximo": "Sabado 19 de agosto 2023",
       "image": "https://i.postimg.cc/4ySm5VzM/bleach-sennen-kessen-hen-ketsubetsu-tan-11613.webp",
       "banner__anime": "https://i.postimg.cc/xjp2BXSt/Banner-bleach-segunda-parte.jpg"
     },
