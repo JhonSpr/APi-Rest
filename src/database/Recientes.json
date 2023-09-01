@@ -1,6 +1,12 @@
 {
   "recientes": [
     {
+      "nombre": "jujutsu kaisen 2nd temporada",
+      "link": "/ver/jujutsu-kaisen-2nd-temporada-6",
+      "image": "https://i.postimg.cc/4dcfCqp8/862-0-300x170.jpg",
+      "episode": "Episodio 6"
+    },
+    {
       "nombre": "bleach sennen kessen hen ketsubetsu tan",
       "link": "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-8",
       "image": "https://i.postimg.cc/qvhTcsKb/fd53f-W7-WO6-Sx-Y2a7-PLv-BY1j-HNOd.jpg",
@@ -166,12 +172,6 @@
       "nombre": "bleach sennen kessen hen ketsubetsu tan",
       "link": "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-2",
       "image": "https://image.tmdb.org/t/p/w300/aONdt2mDZxUJR9swBkVjhDb1sXu.jpg",
-      "episode": "Episodio 2"
-    },
-    {
-      "nombre": "zom 100 zombie ni naru made ni shitai 100 no koto",
-      "link": "/ver/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-2",
-      "image": "https://image.tmdb.org/t/p/w300/otuPRIdx8C4Ex1Y20dpdYzmdv42.jpg",
       "episode": "Episodio 2"
     }
   ]
