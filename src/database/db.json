@@ -113,7 +113,7 @@
       "anime": "bleach sennen kessen hen ketsubetsu tan",
       "mode": "TV",
       "tipo": "anime",
-      "episodios": 8,
+      "episodios": 9,
       "temporadas": 2,
       "descripcion": "segunda parte de BLEACH Sennen Kessen-hen",
       "genero1": "accion",
@@ -167,11 +167,15 @@
         {
           "episode": 8,
           "image": "https://i.postimg.cc/qvhTcsKb/fd53f-W7-WO6-Sx-Y2a7-PLv-BY1j-HNOd.jpg"
+        },
+        {
+          "episode": 9,
+          "image": "https://i.postimg.cc/C1g59pYq/ug-Qz-VAhl7-N0-R6-U3-HL1dc-DTZyfe-U.jpg"
         }
       ],
       "rating": 8.3,
       "secuelas": [],
-      "proximo": "Sabado 2 de septiembre 2023",
+      "proximo": "Sabado 16 de septiembre 2023",
       "image": "https://i.postimg.cc/4ySm5VzM/bleach-sennen-kessen-hen-ketsubetsu-tan-11613.webp",
       "banner__anime": "https://i.postimg.cc/xjp2BXSt/Banner-bleach-segunda-parte.jpg"
     },
