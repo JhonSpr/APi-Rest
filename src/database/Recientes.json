@@ -1,6 +1,12 @@
 {
   "recientes": [
     {
+      "nombre": "jujutsu kaisen 2nd temporada",
+      "link": "/ver/jujutsu-kaisen-2nd-temporada-9",
+      "image": "https://i.postimg.cc/prZQM5Yz/4-0-6-300x170.jpg",
+      "episode": "Episodio 9"
+    },
+    {
       "nombre": "bleach sennen kessen hen ketsubetsu tan",
       "link": "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-10",
       "image": "https://i.postimg.cc/wvgyVSvs/63-TOo-Xj1-WNBob-XHyc-G5u-G4lu-KDV.jpg",
@@ -172,12 +178,6 @@
       "nombre": "jujutsu kaisen 2nd temporada",
       "link": "/ver/jujutsu-kaisen-2nd-temporada-1",
       "image": "https://i.postimg.cc/FKNH2JHq/jujutsu-kaisen-2nd-season-cap-1.jpg",
-      "episode": "Episodio 1"
-    },
-    {
-      "nombre": "bleach sennen kessen hen ketsubetsu tan",
-      "link": "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-1",
-      "image": "https://image.tmdb.org/t/p/original/aqJwqIHatEW7PUiJLTmNr1b2Ars.jpg",
       "episode": "Episodio 1"
     }
   ]
