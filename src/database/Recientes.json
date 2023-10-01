@@ -1,6 +1,18 @@
 {
   "recientes": [
     {
+      "nombre": "bleach sennen kessen hen ketsubetsu tan",
+      "link": "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-13",
+      "image": "https://i.postimg.cc/pLv7Lr9M/6y-KZx-Pf-Qjnp-Pv-AOn-Jc-VL3e-Vn9bq.jpg",
+      "episode": "Episodio 13"
+    },
+    {
+      "nombre": "bleach sennen kessen hen ketsubetsu tan",
+      "link": "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-12",
+      "image": "https://i.postimg.cc/jC0HvWVx/1i7f-H1-Smou-IPgv9g-Xl-Pnlsx-WFir.jpg",
+      "episode": "Episodio 12"
+    },
+    {
       "nombre": "jujutsu kaisen 2nd temporada",
       "link": "/ver/jujutsu-kaisen-2nd-temporada-10",
       "image": "https://i.postimg.cc/W3fqdMdh/jujutsu-kaisen-2nd-season-cap-10-300x170.jpg",
@@ -173,18 +185,6 @@
       "link": "/ver/mashle-10",
       "image": "https://i.postimg.cc/BZHQQgPy/mashle-10.jpg",
       "episode": "Episodio 10"
-    },
-    {
-      "nombre": "Mashle",
-      "link": "/ver/mashle-11",
-      "image": "https://image.tmdb.org/t/p/w300/6bL1AUjhnUJjLhAoWkJ4SksPW3L.jpg",
-      "episode": "Episodio 11"
-    },
-    {
-      "nombre": "Mashle",
-      "link": "/ver/mashle-12",
-      "image": "https://i.postimg.cc/HLkVry1M/mashle-12.jpg",
-      "episode": "Final"
     }
   ]
 }
