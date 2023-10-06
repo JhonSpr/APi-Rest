@@ -1,6 +1,12 @@
 {
   "recientes": [
     {
+      "nombre": "jujutsu kaisen 2nd temporada",
+      "link": "/ver/jujutsu-kaisen-2nd-temporada-11",
+      "image": "https://i.postimg.cc/Bb9PjPNR/jujutsu-kaisen-2nd-season-cap-11-300x170.jpg",
+      "episode": "Episodio 11"
+    },
+    {
       "nombre": "bleach sennen kessen hen ketsubetsu tan",
       "link": "/ver/bleach-sennen-kessen-hen-ketsubetsu-tan-13",
       "image": "https://i.postimg.cc/pLv7Lr9M/6y-KZx-Pf-Qjnp-Pv-AOn-Jc-VL3e-Vn9bq.jpg",
@@ -179,12 +185,6 @@
       "link": "/ver/black-clover-mahou-tei-no-ken",
       "image": "https://i.postimg.cc/MKJ5GbBF/black-clover-mahou-tei-no-ken.jpg",
       "episode": "Pelicula"
-    },
-    {
-      "nombre": "Mashle",
-      "link": "/ver/mashle-10",
-      "image": "https://i.postimg.cc/BZHQQgPy/mashle-10.jpg",
-      "episode": "Episodio 10"
     }
   ]
 }
