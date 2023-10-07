@@ -1385,16 +1385,10 @@
       "anime": "Tate no Yuusha no Naraigari 2nd Temporada",
       "mode": "TV",
       "descripcion": "Segunda temporada de Tate no Yuusha no Nariagari",
-      "sec2": "disable",
-      "sec3": "disable",
-      "nombreSecuela": "Tate no Yuusha no Naraigari",
-      "textoSecuela": "Precuela",
-      "linksec1": "/tate-no-yuusha-no-naraigari",
       "image": "https://i.postimg.cc/bJR6r8kk/tate-no-yuusha-no-nariagari-season-2.jpg",
       "estado": "finalizado",
       "year": 2022,
       "episodios": 13,
-      "classEstado": "tag is-success end",
       "genero1": "accion",
       "genero2": "aventuras",
       "genero3": "drama",
@@ -1418,7 +1412,19 @@
           "link": "/directorio?genre=fantasia"
         }
       ],
-      "rating": 7.8
+      "rating": 7.8,
+      "precuelas": [
+        {
+          "precuela": "tate no yuusha no nariagari",
+          "link": "/tate-no-yuusha-no-naraigari"
+        }
+      ],
+      "secuelas": [
+        {
+          "secuela": "tate no yuusha no naraigari 3ra temporada",
+          "link": "/tate-no-yuusha-no-naraigari-3ra-temporada"
+        }
+      ]
     },
     {
       "id": "Tomodachi Game",
