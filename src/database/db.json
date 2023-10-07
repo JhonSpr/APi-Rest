@@ -1,6 +1,52 @@
 {
   "animes": [
     {
+      "id": "tate no Yuusha no Nariagari 3ra temporada",
+      "name": "tate no Yuusha no Nariagari 3ra temporada",
+      "anime": "tate no Yuusha no Nariagari 3ra temporada",
+      "mode": "TV",
+      "tipo": "anime",
+      "episodios": 1,
+      "descripcion": "Naofumi Iwatani derrotó a la Tortuga Espíritu, una de las Cuatro Bestias Guardianas, y siguió a la persona detrás de su resurgimiento, Kyo, a otro mundo. Después de derrotar a Kyo, finalmente regresó con Melromarc. Otra de las Cuatro Bestias Guardianas, el Fénix, está a punto de revivir, y mientras el reino intenta prepararse, los otros tres Héroes Cardenales están desaparecidos después de su fracaso en la batalla de la Tortuga Espiritual. Es posible que las propias tierras de Naofumi tampoco estén listas. Para reforzar sus defensas, Naofumi decide buscar a los miembros dispersos de Lurolona Village. Visita la tierra de Zeltoble, donde escucha que algunos fueron vendidos como esclavos. Como primer paso para salvarlos, él, Raphtalia y Filo participan en una arena de combate subterránea. Los semihumanos buscan la salvación. A los otros tres Cardenales Héroes se les ha destrozado el ánimo. Y Bitch (Myne) acecha en las sombras. A medida que las tramas de todos se cruzan, ¿podrá Naofumi seguir el camino en el que cree?",
+      "genero1": "accion",
+      "genero2": "aventuras",
+      "genero3": "drama",
+      "genero4": "fantasia",
+      "genero5": "isekai",
+      "genero6": "seinen",
+      "generos": [
+        { "genero": "accion", "link": "/directorio?genre=accion" },
+        { "genero": "aventuras", "link": "/directorio?genre=aventuras" },
+        { "genero": "drama", "link": "/directorio?genre=drama" },
+        { "genero": "fantasia ", "link": "/directorio?genre=fantasia" },
+        { "genero": "isekai", "link": "/directorio?genre=isekai" },
+        { "genero": "seinen", "link": "/directorio?genre=seinen" }
+      ],
+      "emitido": "octubre 6 de 2023",
+      "duration": "25 min",
+      "estado": "en emision",
+      "year": 2023,
+      "studio": "Kinema Citrus",
+      "precuelas": [
+        {
+          "precuela": "tate no yuusha no nariagari 2nd temporada",
+          "link": "tate-no-yuusha-no-naraigari-2nd-temporada"
+        }
+      ],
+      "rating": 8,
+      "episodes__overlay": [
+        {
+          "episode": 1,
+          "image": "https://i.postimg.cc/4dBpLkfb/tate-no-yuusha-no-nariagari-season-3.jpg"
+        }
+      ],
+      "temporadas": 3,
+      "secuelas": [],
+      "proximo": "Viernes 13 de octubre 2023",
+      "image": "https://i.postimg.cc/4dBpLkfb/tate-no-yuusha-no-nariagari-season-3.jpg",
+      "banner__anime": "https://i.postimg.cc/4dBpLkfb/tate-no-yuusha-no-nariagari-season-3.jpg"
+    },
+    {
       "id": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
       "name": "zom 100 zombie ni naru made ni shitai 100 no koto",
       "anime": "zom 100 zombie ni naru made ni shitai 100 no koto",
