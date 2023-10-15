@@ -99,7 +99,7 @@
       "anime": "jujutsu kaisen 2nd temporada",
       "mode": "TV",
       "tipo": "anime",
-      "episodios": 11,
+      "episodios": 12,
       "descripcion": "El pasado sale a la luz cuando los estudiantes de segundo año Satoru Gojou y Suguru Getou tienen la tarea de acompañar a la joven Riko Amanai al Maestro Tengen. Pero cuando un usuario que no es hechicero intenta matarlos, su misión de proteger el Star Plasma Vessel amenaza con convertirlos en enemigos acérrimos y cimentar sus destinos: ¡uno como el hechicero más fuerte del mundo y el otro como el hechicero más retorcido!",
       "genero1": "accion",
       "genero2": "drama",
@@ -165,11 +165,15 @@
         {
           "image": "https://i.postimg.cc/Bb9PjPNR/jujutsu-kaisen-2nd-season-cap-11-300x170.jpg",
           "episode": 11
+        },
+        {
+          "image": "https://i.postimg.cc/BnjKvWt2/574-0-300x170.jpg",
+          "episode": 12
         }
       ],
       "temporadas": 2,
       "secuelas": [],
-      "proximo": "12 de octubre 2023",
+      "proximo": "19 de octubre 2023",
       "image": "https://i.postimg.cc/PrpP1rpk/Jujutusu-kaisen-2nd-temporada.jpg",
       "banner__anime": "https://i.postimg.cc/TPJ9WX34/Banner-Jujutsu-kaisen-2nd-temporada.jpg"
     },
