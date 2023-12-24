@@ -44,7 +44,12 @@
       "secuelas": [],
       "proximo": "Viernes 13 de octubre 2023",
       "image": "https://i.postimg.cc/4dBpLkfb/tate-no-yuusha-no-nariagari-season-3.jpg",
-      "url1": "https://www.youtube.com/embed/g8HPHQxX_FI?si=HvA4DxDavc4nm_cv"
+      "services": [
+        {
+          "url": "https://mega.nz/embed/fxxxmQ5L#RVeVtOdGfLAH1fhFs-SzwBLVBLDRyLZjABEMEyO-JqA",
+          "service": "mega"
+        }
+      ]
     },
     {
       "id": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
