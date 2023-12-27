@@ -44,28 +44,30 @@
       "secuelas": [],
       "proximo": "Viernes 13 de octubre 2023",
       "image": "https://i.postimg.cc/4dBpLkfb/tate-no-yuusha-no-nariagari-season-3.jpg",
-      "services": {
-        "cap1": [
-          {
-            "url": "https://mega.nz/embed/fxxxmQ5L#RVeVtOdGfLAH1fhFs-SzwBLVBLDRyLZjABEMEyO-JqA",
-            "service": "mega"
-          },
-          {
-            "url": "https://streamtape.com/e/OXLgw6QX6bsZZD4/",
-            "service": "streamtape"
-          }
-        ],
-        "cap2": [
-          {
-            "url": "URL_CAP2_1",
-            "service": "service_type"
-          },
-          {
-            "url": "URL_CAP2_2",
-            "service": "service_type"
-          }
-        ]
-      }
+      "services": [
+        {
+          "cap1": [
+            {
+              "url": "https://mega.nz/embed/fxxxmQ5L#RVeVtOdGfLAH1fhFs-SzwBLVBLDRyLZjABEMEyO-JqA",
+              "service": "mega"
+            },
+            {
+              "url": "https://streamtape.com/e/OXLgw6QX6bsZZD4/",
+              "service": "streamtape"
+            }
+          ],
+          "cap2": [
+            {
+              "url": "URL_CAP2_1",
+              "service": "service_type"
+            },
+            {
+              "url": "URL_CAP2_2",
+              "service": "service_type"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
@@ -120,7 +122,7 @@
       "anime": "jujutsu kaisen 2nd temporada",
       "mode": "TV",
       "tipo": "tv",
-      "episodios": 12,
+      "episodios": 22,
       "descripcion": "El pasado sale a la luz cuando los estudiantes de segundo año Satoru Gojou y Suguru Getou tienen la tarea de acompañar a la joven Riko Amanai al Maestro Tengen. Pero cuando un usuario que no es hechicero intenta matarlos, su misión de proteger el Star Plasma Vessel amenaza con convertirlos en enemigos acérrimos y cimentar sus destinos: ¡uno como el hechicero más fuerte del mundo y el otro como el hechicero más retorcido!",
       "genero1": "accion",
       "genero2": "drama",
@@ -190,13 +192,34 @@
         {
           "image": "https://i.postimg.cc/BnjKvWt2/574-0-300x170.jpg",
           "episode": 12
+        },
+        {
+          "image": "https://i.postimg.cc/7ZdFBNzD/jujutsu-kaisen-2nd-season-cap-22-300x170.jpg",
+          "episode": 22
         }
       ],
       "temporadas": 2,
       "secuelas": [],
       "proximo": "19 de octubre 2023",
       "image": "https://i.postimg.cc/PrpP1rpk/Jujutusu-kaisen-2nd-temporada.jpg",
-      "banner__anime": "https://i.postimg.cc/TPJ9WX34/Banner-Jujutsu-kaisen-2nd-temporada.jpg"
+      "banner__anime": "https://i.postimg.cc/TPJ9WX34/Banner-Jujutsu-kaisen-2nd-temporada.jpg",
+      "services": [
+        {
+          "caps22": [
+            {
+              "url": "https://krakenfiles.com/embed-video/nyh8IpXFIf",
+              "service": "kraken"
+            },
+            {
+              "url": "https://mega.nz/embed/syZE1QiL#NMzuoEKB2r7HLDfg2CatgzZLaawqAotRsmxC50jHJr4"
+            },
+            {
+              "url": "https://streamtape.com/e/Vy0aVOk09efKLKX/",
+              "service": "streamtape"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
