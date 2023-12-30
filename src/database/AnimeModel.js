@@ -7,34 +7,42 @@ const getAllAnime = (filterParams) => {
     let animes = DB.animes;
     if (filterParams.info) {
       return DB.animes.filter((anime) => anime.name === filterParams.info);
-    } else if (filterParams.name !== "todos") {
+    } else if (
+      filterParams.name !== undefined &&
+      filterParams.name.trim() !== ""
+    ) {
       return DB.animes.filter((anime) =>
         anime.name.toLowerCase().includes(filterParams.name.toLowerCase()),
       );
-    } else if (filterParams.años) {
+    }
+    if (filterParams.años) {
       return DB.animes.filter(
         (anime) => anime.year === Number(filterParams.años),
       );
-    } else if (filterParams.estado) {
+    }
+    if (filterParams.estado) {
       return DB.animes.filter(
         (anime) => anime.estado == String(filterParams.estado),
       );
-    } else if (filterParams.type) {
+    }
+    if (filterParams.type) {
       return DB.animes.filter(
         (anime) => anime.tipo == String(filterParams.type),
       );
-    } else if (filterParams.episodes) {
+    }
+    if (filterParams.episodes) {
       return DB.animes.filter(
         (anime) => anime.episodios == String(filterParams.episodes),
       );
-    } else if (filterParams.genero) {
+    }
+    if (filterParams.genero) {
       const generos = Array.isArray(filterParams.genero)
         ? filterParams.genero
         : [filterParams.genero];
 
       return DB.animes.filter((anime) => {
-        return generos.some((genero) =>
-          [
+        return generos.some((genero) => {
+          return [
             anime.genero1,
             anime.genero2,
             anime.genero3,
@@ -42,10 +50,11 @@ const getAllAnime = (filterParams) => {
             anime.genero5,
             anime.genero6,
             anime.genero7,
-          ].includes(genero.toLowerCase()),
-        );
+          ].includes(genero.toLowerCase());
+        });
       });
-    } else if (filterParams.rating) {
+    }
+    if (filterParams.rating) {
       return DB.animes.filter(
         (anime) => anime.rating >= minRating && anime?.rating <= maxRating,
       );
