@@ -8,10 +8,12 @@ const getAllAnime = (filterParams) => {
     if (filterParams.info) {
       return DB.animes.filter((anime) => anime.name === filterParams.info);
     }
-    if (filterParams.name) {
+    if (filterParams.name !== undefined && filterParams.name.trim() !== "") {
       return DB.animes.filter((anime) =>
-        anime.name.includes(filterParams.name.toLowerCase()),
+        anime.name.toLowerCase().includes(filterParams.name.toLowerCase()),
       );
+    } else {
+      return DB.animes; // Devuelve todos los animes si el query está vacío
     }
     if (filterParams.años) {
       return DB.animes.filter(
