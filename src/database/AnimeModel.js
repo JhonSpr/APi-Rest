@@ -34,16 +34,23 @@ const getAllAnime = (filterParams) => {
       );
     }
     if (filterParams.genero) {
-      return DB.animes.filter(
-        (anime) =>
-          anime.genero1 == String(filterParams.genero.toLowerCase()) ||
-          anime.genero2 == String(filterParams.genero.toLowerCase()) ||
-          anime.genero3 == String(filterParams.genero.toLowerCase()) ||
-          anime.genero4 == String(filterParams.genero.toLowerCase()) ||
-          anime.genero5 == String(filterParams.genero.toLowerCase()) ||
-          anime.genero6 == String(filterParams.genero.toLowerCase()) ||
-          anime.genero7 == String(filterParams.genero.toLowerCase()),
-      );
+      const generos = Array.isArray(filterParams.genero)
+        ? filterParams.genero
+        : [filterParams.genero];
+
+      return DB.animes.filter((anime) => {
+        return generos.some((genero) => {
+          return [
+            anime.genero1,
+            anime.genero2,
+            anime.genero3,
+            anime.genero4,
+            anime.genero5,
+            anime.genero6,
+            anime.genero7,
+          ].includes(genero.toLowerCase());
+        });
+      });
     }
     if (filterParams.rating) {
       return DB.animes.filter(

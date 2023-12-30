@@ -29,7 +29,7 @@ const getAllAnimes = (req, res) => {
   } catch (error) {
     res.status(error?.status || 500).send({
       status: "Algo salió mal",
-      data: { error: error?.message || error },
+      data: [],
     });
   }
 };
