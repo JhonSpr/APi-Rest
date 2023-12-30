@@ -7,42 +7,34 @@ const getAllAnime = (filterParams) => {
     let animes = DB.animes;
     if (filterParams.info) {
       return DB.animes.filter((anime) => anime.name === filterParams.info);
-    }
-    if (filterParams.name !== undefined && filterParams.name.trim() !== "") {
+    } else if (filterParams.name !== "todos") {
       return DB.animes.filter((anime) =>
         anime.name.toLowerCase().includes(filterParams.name.toLowerCase()),
       );
-    } else {
-      return DB.animes; // Devuelve todos los animes si el query está vacío
-    }
-    if (filterParams.años) {
+    } else if (filterParams.años) {
       return DB.animes.filter(
         (anime) => anime.year === Number(filterParams.años),
       );
-    }
-    if (filterParams.estado) {
+    } else if (filterParams.estado) {
       return DB.animes.filter(
         (anime) => anime.estado == String(filterParams.estado),
       );
-    }
-    if (filterParams.type) {
+    } else if (filterParams.type) {
       return DB.animes.filter(
         (anime) => anime.tipo == String(filterParams.type),
       );
-    }
-    if (filterParams.episodes) {
+    } else if (filterParams.episodes) {
       return DB.animes.filter(
         (anime) => anime.episodios == String(filterParams.episodes),
       );
-    }
-    if (filterParams.genero) {
+    } else if (filterParams.genero) {
       const generos = Array.isArray(filterParams.genero)
         ? filterParams.genero
         : [filterParams.genero];
 
       return DB.animes.filter((anime) => {
-        return generos.some((genero) => {
-          return [
+        return generos.some((genero) =>
+          [
             anime.genero1,
             anime.genero2,
             anime.genero3,
@@ -50,11 +42,10 @@ const getAllAnime = (filterParams) => {
             anime.genero5,
             anime.genero6,
             anime.genero7,
-          ].includes(genero.toLowerCase());
-        });
+          ].includes(genero.toLowerCase()),
+        );
       });
-    }
-    if (filterParams.rating) {
+    } else if (filterParams.rating) {
       return DB.animes.filter(
         (anime) => anime.rating >= minRating && anime?.rating <= maxRating,
       );
