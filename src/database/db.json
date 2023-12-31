@@ -66,12 +66,12 @@
           ],
           "cap2": [
             {
-              "url": "URL_CAP2_1",
-              "service": "service_type"
+              "url": "https://mega.nz/embed/2wYyzT5C#759aX4_cZk8RshKnBPC62OCQ4qeZum1pEWGFnEPlnm0",
+              "service": "mega"
             },
             {
-              "url": "URL_CAP2_2",
-              "service": "service_type"
+              "url": "https://krakenfiles.com/embed-video/Ot6BMid1xq",
+              "service": "kraken"
             }
           ],
           "cap3": [
