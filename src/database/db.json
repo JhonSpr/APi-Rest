@@ -231,7 +231,7 @@
       "banner__anime": "https://i.postimg.cc/TPJ9WX34/Banner-Jujutsu-kaisen-2nd-temporada.jpg",
       "services": [
         {
-          "caps21": [
+          "cap21": [
             {
               "url": "https://mega.nz/file/oP8nAKYZ#lsO38PNXmKrB1zvuB3nnyPXF8F-8Wb5l2gCtL7cjqfs",
               "service": "mega"
@@ -245,21 +245,22 @@
               "service": "streamtape"
             }
           ],
-          "caps22": [
-            {
-              "url": "https://krakenfiles.com/embed-video/nyh8IpXFIf",
-              "service": "kraken"
-            },
+          "cap22": [
             {
               "url": "https://mega.nz/embed/syZE1QiL#NMzuoEKB2r7HLDfg2CatgzZLaawqAotRsmxC50jHJr4",
               "service": "mega"
             },
             {
+              "url": "https://krakenfiles.com/embed-video/nyh8IpXFIf",
+              "service": "kraken"
+            },
+
+            {
               "url": "https://streamtape.com/e/Vy0aVOk09efKLKX/",
               "service": "streamtape"
             }
           ],
-          "caps23": [
+          "cap23": [
             {
               "url": "https://mega.nz/embed/Fvoz1DDb#6cLzH84bUhcioUeF_dTQhWxzURwZ6KjnuimgqcS40Cc",
               "service": "mega"
