@@ -212,27 +212,64 @@
           "episode": 12
         },
         {
+          "image": "https://ww3.animeonline.ninja/wp-content/uploads/2023/12/285.0-300x170.jpg",
+          "episode": 21
+        },
+        {
           "image": "https://i.postimg.cc/7ZdFBNzD/jujutsu-kaisen-2nd-season-cap-22-300x170.jpg",
           "episode": 22
+        },
+        {
+          "image": "https://ww3.animeonline.ninja/wp-content/uploads/2023/12/jujutsu-kaisen-2nd-season-cap-23-300x170.jpg",
+          "episode": 23
         }
       ],
       "temporadas": 2,
       "secuelas": [],
-      "proximo": "19 de octubre 2023",
+      "proximo": "4 de enero 2024",
       "image": "https://i.postimg.cc/PrpP1rpk/Jujutusu-kaisen-2nd-temporada.jpg",
       "banner__anime": "https://i.postimg.cc/TPJ9WX34/Banner-Jujutsu-kaisen-2nd-temporada.jpg",
       "services": [
         {
+          "caps21": [
+            {
+              "url": "https://mega.nz/file/oP8nAKYZ#lsO38PNXmKrB1zvuB3nnyPXF8F-8Wb5l2gCtL7cjqfs",
+              "service": "mega"
+            },
+            {
+              "url": "https://krakenfiles.com/embed-video/5PqwMb53EB",
+              "service": "kraken"
+            },
+            {
+              "url": "https://streamtape.com/e/q76Opvlb8JFzb9z/",
+              "service": "streamtape"
+            }
+          ],
           "caps22": [
             {
               "url": "https://krakenfiles.com/embed-video/nyh8IpXFIf",
               "service": "kraken"
             },
             {
-              "url": "https://mega.nz/embed/syZE1QiL#NMzuoEKB2r7HLDfg2CatgzZLaawqAotRsmxC50jHJr4"
+              "url": "https://mega.nz/embed/syZE1QiL#NMzuoEKB2r7HLDfg2CatgzZLaawqAotRsmxC50jHJr4",
+              "service": "mega"
             },
             {
               "url": "https://streamtape.com/e/Vy0aVOk09efKLKX/",
+              "service": "streamtape"
+            }
+          ],
+          "caps23": [
+            {
+              "url": "https://mega.nz/embed/Fvoz1DDb#6cLzH84bUhcioUeF_dTQhWxzURwZ6KjnuimgqcS40Cc",
+              "service": "mega"
+            },
+            {
+              "url": "https://krakenfiles.com/embed-video/MBrAkOI8Hk",
+              "service": "kraken"
+            },
+            {
+              "url": "https://streamtape.com/e/dRGwmDDqdbckkaY/",
               "service": "streamtape"
             }
           ]

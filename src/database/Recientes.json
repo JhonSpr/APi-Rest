@@ -1,6 +1,13 @@
 {
   "recientes": [
     {
+      "nombre": "jujutsu kaisen 2nd temporada",
+      "link": "/ver/jujutsu-kaisen-2nd-temporada-23",
+      "image": "https://ww3.animeonline.ninja/wp-content/uploads/2023/12/jujutsu-kaisen-2nd-season-cap-23-300x170.jpg",
+      "episode": "Episodio 23"
+    },
+
+    {
       "nombre": "tate no yuusha no nariagari 3ra temporada",
       "link": "/ver/tate-no-yuusha-no-nariagari-3ra-temporada-3",
       "image": "https://image.tmdb.org/t/p/w300/ke53laX0I3cQhsp0y8n8BW6lkFl.jpg",
@@ -17,6 +24,12 @@
       "link": "/ver/jujutsu-kaisen-2nd-temporada-22",
       "image": " https://i.postimg.cc/7ZdFBNzD/jujutsu-kaisen-2nd-season-cap-22-300x170.jpg",
       "episode": "Episodio 22"
+    },
+    {
+      "nombre": "jujutsu kaisen 2nd temporada",
+      "link": "/ver/jujutsu-kaisen-2nd-temporada-21",
+      "image": "https://ww3.animeonline.ninja/wp-content/uploads/2023/12/285.0-300x170.jpg",
+      "episode": "Episodio 21"
     },
     {
       "nombre": "jujutsu kaisen 2nd temporada",
@@ -185,18 +198,6 @@
       "link": "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-9",
       "image": "https://image.tmdb.org/t/p/w300/6EgVImJC0fn0jshgw12NHRf5Rzd.jpg",
       "episode": "Episodio 9"
-    },
-    {
-      "nombre": "Mashle",
-      "link": "/ver/mashle-9",
-      "image": "https://i.postimg.cc/xjRhRJw8/mashle-9.jpg",
-      "episode": "Episodio 9"
-    },
-    {
-      "nombre": "kimetsu no yaiba katanakaji no sato hen",
-      "link": "/ver/kimetsu-no-yaiba-katanakaji-no-sato-hen-10",
-      "image": "https://image.tmdb.org/t/p/w300/iKD90AUxGHcLHGvbuSKfqq76rbE.jpg",
-      "episode": "Episodio 10"
     }
   ]
 }
