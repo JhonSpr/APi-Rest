@@ -12,6 +12,7 @@ const getAllAnimes = (req, res) => {
     const genero = req.query.genero;
     const type = req.query.type;
     const rating = req.query.rating;
+    const sortBy = req.query.sortBy;
     const animes = animeService.getAllAnime({
       name,
       años,
@@ -21,6 +22,7 @@ const getAllAnimes = (req, res) => {
       type,
       info,
       rating,
+      sortBy,
     });
 
     let datos = animes;

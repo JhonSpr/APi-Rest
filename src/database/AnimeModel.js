@@ -60,7 +60,22 @@ const getAllAnime = (filterParams) => {
       );
     }
 
-    return animes;
+    function sortByRating(sortOrder) {
+      if (sortOrder === "asc") {
+        return animes.slice().sort((a, b) => a.rating - b.rating);
+      } else if (sortOrder === "desc") {
+        return animes.slice().sort((a, b) => b.rating - a.rating);
+      } else {
+        return animes.slice();
+      }
+    }
+
+    if (filterParams.sortBy) {
+      const sortedAnimes = sortByRating(filterParams.sortBy);
+      return sortedAnimes;
+    } else {
+      return animes.slice();
+    }
   } catch (error) {
     throw { status: 500, message: error };
   }
