@@ -64,11 +64,11 @@ const getAllAnime = (filterParams) => {
 
     function sortByRating(sortOrder) {
       if (sortOrder === "asc") {
-        return animes.slice().sort((a, b) => a.anime - b.anime);
+        return animes.slice().sort((a, b) => a.name.localeCompare(b.name));
       } else if (sortOrder === "desc") {
-        return animes.slice().sort((a, b) => b.anime - a.anime);
+        return animes.slice().sort((a, b) => b.name.localeCompare(a.name));
       } else {
-        return animes.slice();
+        return animes.slice(); // Si no se proporciona un orden válido, devolver el array sin modificar
       }
     }
 
