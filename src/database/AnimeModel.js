@@ -64,9 +64,9 @@ const getAllAnime = (filterParams) => {
 
     function sortByRating(sortOrder) {
       if (sortOrder === "asc") {
-        return animes.slice().sort((a, b) => a.name - b.name);
+        return animes.slice().sort((a, b) => a.anime - b.anime);
       } else if (sortOrder === "desc") {
-        return animes.slice().sort((a, b) => b.name - a.name);
+        return animes.slice().sort((a, b) => b.anime - a.anime);
       } else {
         return animes.slice();
       }
