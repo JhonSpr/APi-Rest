@@ -25,7 +25,11 @@ const getAllAnimes = (req, res) => {
 
     let datos = animes;
 
-    res.send({ datos: datos.slice(startIndex, endIndex), item: datos.length });
+    res.send({
+      datos: datos.slice(startIndex, endIndex),
+      item: datos.length,
+      currentPage: page,
+    });
   } catch (error) {
     res.status(error?.status || 500).send({
       status: "Algo salió mal",
