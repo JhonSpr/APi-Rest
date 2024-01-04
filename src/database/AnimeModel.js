@@ -20,6 +20,7 @@ const getAllAnime = (filterParams) => {
         (anime) => anime.year === Number(filterParams.años),
       );
     }
+
     if (filterParams.estado) {
       return DB.animes.filter(
         (anime) => anime.estado == String(filterParams.estado),
