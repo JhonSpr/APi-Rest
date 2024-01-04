@@ -68,22 +68,14 @@ const getAllAnime = (filterParams) => {
       } else if (sortOrder === "desc") {
         return animes.slice().sort((a, b) => b.name.localeCompare(a.name));
       }
-
-      if (rating === "desc") {
-        return animes.sort((a, b) => a.rating.localeCompare(b.rating));
-      } else if (rating === "asc") {
-        return animes.sort((a, b) => b.rating.localeCompare(a.rating));
+      if (sortOrder === "todos") {
+        return animes.slice();
       }
     }
 
     if (filterParams.sortBy) {
       const sortedAnimes = sortByRating(filterParams.sortBy);
       return sortedAnimes;
-    }
-
-    if (filterParams.sortRating) {
-      const ratingAnimes = sortByRating(filterParams.sortRating);
-      return ratingAnimes;
     }
 
     return animes.slice();
