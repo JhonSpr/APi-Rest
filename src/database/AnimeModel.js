@@ -62,7 +62,7 @@ const getAllAnime = (filterParams) => {
 
     /*ordene por nombre de cada anime*/
 
-    function sortByRating(sortOrder, rating) {
+    function sortByRating(sortOrder) {
       if (sortOrder === "asc") {
         return animes.slice().sort((a, b) => a.name.localeCompare(b.name));
       } else if (sortOrder === "desc") {
