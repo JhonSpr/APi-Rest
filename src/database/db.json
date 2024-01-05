@@ -152,7 +152,7 @@
       ],
       "emitido": "julio 6 de 2023",
       "duration": "24 min",
-      "estado": "en emision",
+      "estado": "finalizado",
       "year": 2023,
       "studio": "MAPPA",
       "precuelas": [
@@ -161,7 +161,7 @@
           "link": "/jujutsu-kaisen"
         }
       ],
-      "rating": 7.5,
+      "rating": 8.4,
       "episodes__overlay": [
         {
           "episode": 1,
@@ -226,7 +226,7 @@
       ],
       "temporadas": 2,
       "secuelas": [],
-      "proximo": "4 de enero 2024",
+      "proximo": false,
       "image": "https://i.postimg.cc/PrpP1rpk/Jujutusu-kaisen-2nd-temporada.jpg",
       "banner__anime": "https://i.postimg.cc/TPJ9WX34/Banner-Jujutsu-kaisen-2nd-temporada.jpg",
       "services": [
@@ -873,6 +873,13 @@
       "estado": "finalizado",
       "year": 2020,
       "episodios": 24,
+      "precuelas": [],
+      "secuelas": [
+        {
+          "secuela": "jujutsu kaisen 2nd temporada",
+          "link": "/jujutsu-kaisen-2nd-temporada"
+        }
+      ],
       "descripcion": "Yuuji Itadori es un estudiante de instituto con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo del instituto para no dar un palo al agua… Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?",
       "tipo": "tv",
       "genero1": "accion",
@@ -907,7 +914,7 @@
           "link": "/directorio?genre=terror"
         }
       ],
-      "rating": 7.4
+      "rating": 7.8
     },
     {
       "id": "Shingeki no Bahamut:Virgin Soul",
