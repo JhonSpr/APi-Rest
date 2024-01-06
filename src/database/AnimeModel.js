@@ -78,9 +78,9 @@ const getAllAnime = (filterParams) => {
     }
 
     /*ordene por nombre de cada anime*/
-    if (filterParams.sortBy) {
-      animes = sortByRating(filterParams.sortBy, animes);
-    }
+    // if (filterParams.sortBy) {
+    //   animes = sortByRating(filterParams.sortBy, animes);
+    // }
 
     return animes;
   } catch (error) {
