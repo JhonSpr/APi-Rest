@@ -1,5 +1,15 @@
 const DB = require("./db.json");
-
+function sortByRating(sortOrder, animes) {
+  if (sortOrder === "asc") {
+    return animes.slice().sort((a, b) => a.name.localeCompare(b.name));
+  } else if (sortOrder === "desc") {
+    return animes.slice().sort((a, b) => b.name.localeCompare(a.name));
+  } else if (sortOrder === "todos") {
+    return animes.slice();
+  } else {
+    return animes.slice(); // Manejo de caso por defecto
+  }
+}
 const getAllAnime = (filterParams) => {
   try {
     const minRating = parseFloat(filterParams.rating);
@@ -66,6 +76,13 @@ const getAllAnime = (filterParams) => {
         (anime) => anime.rating >= minRating && anime?.rating <= maxRating,
       );
     }
+
+    /*ordene por nombre de cada anime*/
+    if (filterParams.sortBy) {
+      animes = sortByRating(filterParams.sortBy, animes);
+    }
+
+    return animes;
   } catch (error) {
     throw { status: 500, message: error };
   }
