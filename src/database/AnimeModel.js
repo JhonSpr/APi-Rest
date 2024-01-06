@@ -16,9 +16,15 @@ const getAllAnime = (filterParams) => {
       );
     }
     if (filterParams.años) {
-      return DB.animes.filter(
-        (anime) => anime.year === Number(filterParams.años),
-      );
+      const años = Array.isArray(filterParams.años)
+        ? filterParams.años
+        : [filterParams.años];
+
+      return DB.animes.filter((animeItem) => {
+        return años.some((año) => {
+          return animeItem.year === Number(año);
+        });
+      });
     }
 
     if (filterParams.estado) {
