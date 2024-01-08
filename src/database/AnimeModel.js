@@ -22,7 +22,7 @@ const getAllAnime = (filterParams) => {
 
       return DB.animes.filter((animeItem) => {
         return años.some((año) => {
-          return animeItem.year === Number(año);
+          return animeItem.year == año;
         });
       });
     }

@@ -28,31 +28,19 @@ const getAllAnimes = (req, res) => {
     let datos = animes;
 
     if (sortBy === "desc") {
-      res.send({
-        datos: datos
-          .slice(startIndex, endIndex)
-          .sort((a, b) => b.name.localeCompare(a.name)),
-        item: datos.length,
-        currentPage: page,
-        sort: sortBy,
-      });
+      datos.sort((a, b) => b.name.localeCompare(a.name));
     } else if (sortBy === "asc") {
-      res.send({
-        datos: datos
-          .slice(startIndex, endIndex)
-          .sort((a, b) => a.name.localeCompare(b.name)),
-        item: datos.length,
-        currentPage: page,
-        sort: sortBy,
-      });
+      datos.sort((a, b) => a.name.localeCompare(b.name));
     } else if (sortBy === undefined || sortBy === null || sortBy === "todos") {
-      res.send({
-        datos: datos.slice(startIndex, endIndex),
-        item: datos.length,
-        currentPage: page,
-        sort: sortBy,
-      });
+      datos;
     }
+
+    res.send({
+      datos: datos.slice(startIndex, endIndex),
+      item: datos.length,
+      currentPage: page,
+      sort: sortBy,
+    });
   } catch (error) {
     res.status(error?.status || 500).send({
       status: "Algo salió mal",
