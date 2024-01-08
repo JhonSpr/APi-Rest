@@ -32,7 +32,7 @@ const getAllAnimes = (req, res) => {
     } else if (sortBy === "asc") {
       datos.sort((a, b) => a.name.localeCompare(b.name));
     } else if (sortBy === undefined || sortBy === null || sortBy === "todos") {
-      datos;
+      datos.slice(startIndex, endIndex);
     }
 
     res.send({
