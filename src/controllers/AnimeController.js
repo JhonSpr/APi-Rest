@@ -28,15 +28,19 @@ const getAllAnimes = (req, res) => {
     let datos = animes;
 
     if (sortBy === "desc") {
-      datos.sort((a, b) => b.name.localeCompare(a.name));
+      datos = datos
+        .sort((a, b) => b.name.localeCompare(a.name))
+        .slice(startIndex, endIndex);
     } else if (sortBy === "asc") {
-      datos.sort((a, b) => a.name.localeCompare(b.name));
+      datos = datos
+        .sort((a, b) => a.name.localeCompare(b.name))
+        .slice(startIndex, endIndex);
     } else if (sortBy === undefined || sortBy === null || sortBy === "todos") {
-      datos.slice(startIndex, endIndex);
+      datos = datos.slice(startIndex, endIndex);
     }
 
     res.send({
-      datos: datos.slice(startIndex, endIndex),
+      datos: datos,
       item: datos.length,
       currentPage: page,
       sort: sortBy,
