@@ -1,56 +1,60 @@
-const { sortData } = require("../controllers/AnimeController");
 const DB = require("./db.json");
 const originalData = [...DB.animes];
+
 const getAllAnime = (filterParams) => {
   try {
     const minRating = parseFloat(filterParams.rating);
     const maxRating = minRating + 0.9;
+
+    // Restaurar los datos originales cada vez que se llama a la función
     let animes = [...originalData];
+
     if (filterParams.info) {
-      return DB.animes.filter((anime) => anime.name === filterParams.info);
-    } else if (
-      filterParams.name !== undefined &&
-      filterParams.name.trim() !== ""
-    ) {
-      return DB.animes.filter((anime) =>
+      return animes.filter((anime) => anime.name === filterParams.info);
+    }
+
+    if (filterParams.name !== undefined && filterParams.name.trim() !== "") {
+      animes = animes.filter((anime) =>
         anime.name.toLowerCase().includes(filterParams.name.toLowerCase()),
       );
     }
+
     if (filterParams.años) {
       const años = Array.isArray(filterParams.años)
         ? filterParams.años
         : [filterParams.años];
 
-      return DB.animes.filter((animeItem) => {
-        return años.some((año) => {
-          return animeItem.year == año;
-        });
-      });
+      animes = animes.filter((animeItem) =>
+        años.some((año) => animeItem.year == año),
+      );
     }
 
     if (filterParams.estado) {
-      return DB.animes.filter(
-        (anime) => anime.estado == String(filterParams.estado),
+      animes = animes.filter(
+        (anime) => anime.estado === String(filterParams.estado),
       );
     }
+
     if (filterParams.type) {
-      return DB.animes.filter(
-        (anime) => anime.tipo == String(filterParams.type),
+      animes = animes.filter(
+        (anime) => anime.tipo === String(filterParams.type),
       );
     }
+
     if (filterParams.episodes) {
-      return DB.animes.filter(
-        (anime) => anime.episodios == String(filterParams.episodes),
+      animes = animes.filter(
+        (anime) => anime.episodios === String(filterParams.episodes),
       );
     }
+
     if (filterParams.genero) {
       const generos = Array.isArray(filterParams.genero)
         ? filterParams.genero
         : [filterParams.genero];
 
-      return DB.animes.filter((anime) => {
-        return generos.some((genero) => {
-          return [
+      animes = animes.filter((anime) =>
+        generos.some((genero) =>
+          [
             anime.genero1,
             anime.genero2,
             anime.genero3,
@@ -58,22 +62,22 @@ const getAllAnime = (filterParams) => {
             anime.genero5,
             anime.genero6,
             anime.genero7,
-          ].includes(genero.toLowerCase());
-        });
-      });
+          ].includes(genero.toLowerCase()),
+        ),
+      );
     }
 
-    if (filterParams.sortBy == "desc" && filterParams.sortBy !== "todos") {
-      return DB.animes.sort((a, b) => b.name.localeCompare(a.name));
-    }
-
-    if (filterParams.sortBy == "asc" && filterParams.sortBy !== "todos") {
-      return DB.animes.sort((a, b) => a.name.localeCompare(b.name));
+    if (filterParams.sortBy === "desc") {
+      // Ordenar por nombre de manera descendente
+      animes.sort((a, b) => b.name.localeCompare(a.name));
+    } else if (filterParams.sortBy === "asc") {
+      // Ordenar por nombre de manera ascendente
+      animes.sort((a, b) => a.name.localeCompare(b.name));
     }
 
     if (filterParams.rating) {
-      return DB.animes.filter(
-        (anime) => anime.rating >= minRating && anime?.rating <= maxRating,
+      animes = animes.filter(
+        (anime) => anime.rating >= minRating && anime.rating <= maxRating,
       );
     }
 
