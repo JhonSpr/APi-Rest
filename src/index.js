@@ -11,6 +11,9 @@ app.use("/api/v1/animes/", v1animeRouter);
 app.use("/api/v1/recien-agregados", (req, res) => {
   res.send({ recientes: db.recientes });
 });
+app.use("/api/v1/coming-soon", (req, res) => {
+  res.send({ calendario: db.calendario });
+});
 
 app.listen(PORT, () => {
   console.log(`🚀 Server listening on port ${PORT}`);
