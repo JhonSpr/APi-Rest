@@ -1,10 +1,11 @@
+const { sortData } = require("../controllers/AnimeController");
 const DB = require("./db.json");
-
+const originalData = [...DB.animes];
 const getAllAnime = (filterParams) => {
   try {
     const minRating = parseFloat(filterParams.rating);
     const maxRating = minRating + 0.9;
-    let animes = DB.animes;
+    let animes = [...originalData];
     if (filterParams.info) {
       return DB.animes.filter((anime) => anime.name === filterParams.info);
     } else if (
@@ -61,6 +62,15 @@ const getAllAnime = (filterParams) => {
         });
       });
     }
+
+    if (filterParams.sortBy == "desc" && filterParams.sortBy !== "todos") {
+      return DB.animes.sort((a, b) => b.name.localeCompare(a.name));
+    }
+
+    if (filterParams.sortBy == "asc" && filterParams.sortBy !== "todos") {
+      return DB.animes.sort((a, b) => a.name.localeCompare(b.name));
+    }
+
     if (filterParams.rating) {
       return DB.animes.filter(
         (anime) => anime.rating >= minRating && anime?.rating <= maxRating,

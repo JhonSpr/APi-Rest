@@ -12,7 +12,7 @@ const getAllAnimes = (req, res) => {
     const genero = req.query.genero;
     const type = req.query.type;
     const rating = req.query.rating;
-    const sortBy = req.query.sortBy;
+    const sortBy = req.query.sortBy ?? "todos";
     const animes = animeService.getAllAnime({
       name,
       años,
@@ -24,40 +24,14 @@ const getAllAnimes = (req, res) => {
       rating,
       sortBy,
     });
-
     let datos = animes;
 
-    if (sortBy === "desc") {
-      sortdesc = datos
-        .sort((a, b) => b.name.localeCompare(a.name))
-        .slice(startIndex, endIndex);
-      res.send({
-        datos: sortdesc,
-        item: datos.length,
-        currentPage: page,
-        sort: sortBy,
-      });
-    } else if (sortBy === "asc") {
-      sortasc = datos
-        .sort((a, b) => a.name.localeCompare(b.name))
-        .slice(startIndex, endIndex);
-      res.send({
-        datos: sortasc,
-        item: datos.length,
-        currentPage: page,
-        sort: sortBy,
-      });
-    } else if (sortBy === "todos") {
-      todos = datos.slice(startIndex, endIndex);
-      res.send({
-        datos: todos,
-        item: datos.length,
-        currentPage: page,
-        sort: sortBy,
-      });
-    }
-    res.setHeader("Cache-Control", "no-store");
-    res.setHeader("Expires", "0");
+    res.send({
+      datos: datos.slice(startIndex, endIndex),
+      item: datos.length,
+      currentPage: page,
+      sort: sortBy,
+    });
   } catch (error) {
     res.status(error?.status || 500).send({
       status: "Algo salió mal",
