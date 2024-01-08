@@ -30,14 +30,21 @@ const getAllAnime = (filterParams) => {
     }
 
     if (filterParams.estado) {
-      animes = animes.filter(
-        (anime) => anime.estado === String(filterParams.estado),
+      const estado = Array.isArray(filterParams.estado)
+        ? filterParams.estado
+        : [filterParams.estado];
+      animes = animes.filter((animeItem) =>
+        estado.some((estado) => animeItem.estado === estado),
       );
     }
 
     if (filterParams.type) {
-      animes = animes.filter(
-        (anime) => anime.tipo === String(filterParams.type),
+      const type = Array.isArray(filterParams.type)
+        ? filterParams.type
+        : [filterParams.type];
+
+      animes = animes.filter((animeItem) =>
+        type.some((type) => animeItem.tipo === type),
       );
     }
 
