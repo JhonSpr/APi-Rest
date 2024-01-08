@@ -38,7 +38,8 @@ const getAllAnimes = (req, res) => {
     } else if (sortBy === undefined || sortBy === null || sortBy === "todos") {
       datos = datos.slice(startIndex, endIndex);
     }
-
+    res.setHeader("Cache-Control", "no-store");
+    res.setHeader("Expires", "0");
     res.send({
       datos: datos,
       item: datos.length,

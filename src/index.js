@@ -2,6 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const v1animeRouter = require("./v1/routes/animeRoutes");
 const db = require("./database/Recientes.json");
+const { middleware } = require("apicache");
 const app = express();
 const PORT = process.env.PORT || 3001;
 app.disable("x-powered-by");
