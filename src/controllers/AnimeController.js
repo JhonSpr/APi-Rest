@@ -28,24 +28,36 @@ const getAllAnimes = (req, res) => {
     let datos = animes;
 
     if (sortBy === "desc") {
-      datos = datos
+      sortdesc = datos
         .sort((a, b) => b.name.localeCompare(a.name))
         .slice(startIndex, endIndex);
+      res.send({
+        datos: sortdesc,
+        item: datos.length,
+        currentPage: page,
+        sort: sortBy,
+      });
     } else if (sortBy === "asc") {
-      datos = datos
+      sortasc = datos
         .sort((a, b) => a.name.localeCompare(b.name))
         .slice(startIndex, endIndex);
-    } else if (sortBy === undefined || sortBy === null || sortBy === "todos") {
-      datos = datos.slice(startIndex, endIndex);
+      res.send({
+        datos: sortasc,
+        item: datos.length,
+        currentPage: page,
+        sort: sortBy,
+      });
+    } else if (sortBy === "todos") {
+      todos = datos.slice(startIndex, endIndex);
+      res.send({
+        datos: todos,
+        item: datos.length,
+        currentPage: page,
+        sort: sortBy,
+      });
     }
     res.setHeader("Cache-Control", "no-store");
     res.setHeader("Expires", "0");
-    res.send({
-      datos: datos,
-      item: datos.length,
-      currentPage: page,
-      sort: sortBy,
-    });
   } catch (error) {
     res.status(error?.status || 500).send({
       status: "Algo salió mal",
