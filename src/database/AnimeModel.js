@@ -75,20 +75,18 @@ const getAllAnime = (filterParams) => {
     }
 
     if (filterParams.sortBy === "desc") {
-      // Ordenar por nombre de manera descendente
       animes.sort((a, b) => b.name.localeCompare(a.name));
     } else if (filterParams.sortBy === "asc") {
-      // Ordenar por nombre de manera ascendente
       animes.sort((a, b) => a.name.localeCompare(b.name));
     }
     if (filterParams.rating) {
-      const ratings = Array.isArray(filterParams.rating)
-        ? filterParams.rating.map(Number)
-        : [Number(filterParams.rating)];
+      const ratingQueryParam = filterParams.rating.toLowerCase();
 
-      animes = animes.filter((animeItem) =>
-        ratings.includes(Math.floor(animeItem.rating)),
-      );
+      if (ratingQueryParam === "mayor") {
+        animes = animes.filter((animeItem) => animeItem.rating > 6);
+      } else if (ratingQueryParam === "menor") {
+        animes = animes.filter((animeItem) => animeItem.rating < 6);
+      }
     }
 
     return animes;
