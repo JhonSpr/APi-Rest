@@ -81,10 +81,13 @@ const getAllAnime = (filterParams) => {
       // Ordenar por nombre de manera ascendente
       animes.sort((a, b) => a.name.localeCompare(b.name));
     }
-
     if (filterParams.rating) {
-      animes = animes.filter(
-        (anime) => anime.rating >= minRating && anime.rating <= maxRating,
+      const ratings = Array.isArray(filterParams.rating)
+        ? filterParams.rating.map(Number)
+        : [Number(filterParams.rating)];
+
+      animes = animes.filter((animeItem) =>
+        ratings.includes(Math.floor(animeItem.rating)),
       );
     }
 
