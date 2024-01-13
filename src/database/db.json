@@ -1,6 +1,49 @@
 {
   "animes": [
     {
+      "id": "Ao no Exorcist Shimane Illuminati-hen",
+      "name": "Ao no Exorcist Shimane Illuminati-hen",
+      "anime": "ao no exorcist shimane illuminati hen",
+      "mode": "TV",
+      "tipo": "tv",
+      "episodios": 1,
+      "descripcion": "Tercera temporada de Ao no Exorcist",
+      "genero1": "accion",
+      "genero2": "comedia",
+      "genero3": "demonios",
+      "genero4": "fantasia",
+      "genero5": "shounen",
+      "generos": [
+        { "genero": "accion", "link": "/directorio?genero=accion" },
+        { "genero": "comedia", "link": "/directorio?genero=comedia" },
+        { "genero": "demonios", "link": "/directorio?genero=demonios" },
+        { "genero": "fantasia ", "link": "/directorio?genero=fantasia" },
+        { "genero": "isekai", "link": "/directorio?genero=shounen" }
+      ],
+      "emitido": "enero 7 2024",
+      "duration": "24 min",
+      "estado": "en emision",
+      "year": 2024,
+      "studio": null,
+      "precuelas": [
+        {
+          "precuela": "Ao no Exorcist: Kyoto Fujouou-hen",
+          "link": "/ao-no-exorcist-kyoto-fujouou-hen"
+        }
+      ],
+      "rating": 7.8,
+      "episodes__overlay": [
+        {
+          "episode": 1,
+          "image": ""
+        }
+      ],
+      "temporadas": 3,
+      "secuelas": [],
+      "proximo": "Sábado 13 de enero 2024",
+      "image": "https://i.postimg.cc/sf0HkPcR/ao-no-exorcist-shimane-illuminati-hen.jpg"
+    },
+    {
       "id": "tate no Yuusha no Nariagari 3ra temporada",
       "name": "tate no yuusha no nariagari 3ra temporada",
       "anime": "tate no Yuusha no Nariagari 3ra temporada",
