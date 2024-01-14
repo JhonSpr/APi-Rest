@@ -35,11 +35,39 @@
       "episodes__overlay": [
         {
           "episode": 1,
-          "image": ""
+          "image": "https://i.postimg.cc/tCBDRkWH/b-J4qvnze-Fyg-CDUDRv-OQl-J3-UVs-L1.jpg"
+        },
+        {
+          "episode": 2,
+          "image": "https://i.postimg.cc/4N2bRdRf/cf-RE0i-Ib-Zefer-YKh4s-Tf-TOayzo-T.jpg"
         }
       ],
       "temporadas": 3,
       "secuelas": [],
+      "services": [
+        {
+          "cap1": [
+            {
+              "url": "https://mega.nz/embed/wps2zYJK#SRfLCwkMTivQbTIGYxZMk0wOu2CBNt7JL3tMg04J_OI",
+              "service": "mega"
+            },
+            {
+              "url": "https://streamtape.com/e/KzLRvgMxxxi0ZvA/",
+              "service": "streamtape"
+            }
+          ],
+          "cap2": [
+            {
+              "url": "https://mega.nz/embed/tyN3lAwS#3kursQlz_OaM2Qn7yvO5LMb8gPzpABpZkmgYSJA4780",
+              "service": "mega"
+            },
+            {
+              "url": "https://streamtape.com/e/zMw62dmb1jIYqQl/",
+              "service": "streamtape"
+            }
+          ]
+        }
+      ],
       "proximo": "Sábado 13 de enero 2024",
       "image": "https://i.postimg.cc/sf0HkPcR/ao-no-exorcist-shimane-illuminati-hen.jpg"
     },
