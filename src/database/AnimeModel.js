@@ -34,7 +34,7 @@ const getAllAnime = (filterParams) => {
         ? filterParams.estado
         : [filterParams.estado];
       animes = animes.filter((animeItem) =>
-        estado.some((estado) => animeItem.estado === estado),
+        estado.some((estado) => animeItem.estado == estado),
       );
     }
 

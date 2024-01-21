@@ -6,7 +6,7 @@
       "anime": "solo leveling",
       "mode": "TV",
       "tipo": "tv",
-      "episodios": 2,
+      "episodios": 3,
       "descripcion": "Hace diez años, apareció “la Puerta” y conectó el mundo real con el reino de la magia y los monstruos. Para combatir a estas viles bestias, la gente corriente recibió poderes sobrehumanos y se convirtió en “Cazadores”. Sung Jin-Woo, de 20 años, es uno de esos cazadores, pero se le conoce como el “más débil del mundo”, debido a su patético poder en comparación con un mísero rango E. Aun así, caza monstruos incansablemente en Gates de bajo rango para pagar las facturas médicas de su madre. Sin embargo, este miserable estilo de vida cambia cuando Jin-Woo -creyendo que es el único que ha muerto en una misión que salió terriblemente mal- se despierta en un hospital tres días después para encontrar una misteriosa pantalla flotando frente a él. Este “Quest Log” exige que Jin-Woo complete un intenso e irreal programa de entrenamiento, o que se enfrente a un castigo apropiado. Al principio, Jin-Woo se muestra reacio a cumplir con el rigor de la búsqueda, pero pronto descubre que puede transformarlo en uno de los cazadores más temibles del mundo.",
       "genero1": "accion",
       "genero2": "aventuras",
@@ -22,7 +22,7 @@
       "year": 2024,
       "studio": null,
       "precuelas": [],
-      "rating": 8.8,
+      "rating": 8.4,
       "episodes__overlay": [
         {
           "episode": 1,
@@ -31,6 +31,10 @@
         {
           "episode": 2,
           "image": "https://i.postimg.cc/t42c58fr/Gpsue-GZH511-Pt-A2me-DB7-Kb-QJi-R.jpg"
+        },
+        {
+          "episode": 2,
+          "image": "https://i.postimg.cc/V61cKj7W/u-XIYp-GBh-Aee-Ie-FCQq1kw-O01ho-NA.jpg"
         }
       ],
       "temporadas": 1,
@@ -56,10 +60,20 @@
               "url": "https://streamtape.com/e/doeDajRKDzhGWJ/",
               "service": "streamtape"
             }
+          ],
+          "cap3": [
+            {
+              "url": "https://mega.nz/embed/5PtT1QKS#xAdCM919FClW2FbA1SuXNmQrIgh0FCFeEgy5pdwZbdE",
+              "service": "mega"
+            },
+            {
+              "url": "https://streamtape.com/e/PwvVWoYA1AU0q91/",
+              "service": "streamtape"
+            }
           ]
         }
       ],
-      "proximo": "Sábado 20 de enero 2024",
+      "proximo": "Sábado 27 de enero 2024",
       "image": "https://i.postimg.cc/wTmQ1Dqw/138405l.jpg"
     },
     {
