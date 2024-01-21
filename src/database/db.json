@@ -1,6 +1,64 @@
 {
   "animes": [
     {
+      "id": "MASHLE Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+      "name": "MASHLE Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+      "anime": "MASHLE Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+      "mode": "TV",
+      "tipo": "tv",
+      "episodios": 3,
+      "descripcion": "Segunda temporada de mashle",
+      "genero1": "accion",
+      "genero2": "comedia",
+      "genero3": "fantasia",
+      "genero4": "shounen",
+      "generos": [
+        { "genero": "accion", "link": "/directorio?genero=accion" },
+        { "genero": "comedia", "link": "/directorio?genre=comedia" },
+        { "genero": "fantasia", "link": "/directorio?genre=fantasia" },
+        {
+          "genero": "shounen",
+          "link": "/directorio?genero=shounen"
+        }
+      ],
+      "emitido": "enero 7 2024",
+      "duration": "24 min",
+      "estado": "en emision",
+      "year": 2024,
+      "studio": null,
+      "precuelas": [{ "precuela": "mashle", "link": "/mashle" }],
+      "rating": 9.6,
+      "episodes__overlay": [
+        {
+          "episode": 1,
+          "image": "https://i.postimg.cc/rFfzDKDn/sc-Jx-HVqy-ZV2m50-RPo0-LEun-KREHV.jpg"
+        },
+        {
+          "episode": 2,
+          "image": "https://i.postimg.cc/j2CmvghJ/7-H4-Dri-Jiq-JW1-Wdn-ZQAbl4-ZGIYO7.jpg"
+        },
+        {
+          "episode": 3,
+          "image": "https://i.postimg.cc/jSkX4xFv/7-AYNZs-Uv-YDNEYmy-DCz-NPQQs0f6o.jpg"
+        }
+      ],
+      "temporadas": 2,
+      "secuelas": [],
+      "services": [
+        {
+          "cap1": [{ "url": "https://saidochesto.top/embed.php?id=38038" }],
+          "cap2": [{ "url": "https://saidochesto.top/embed.php?id=38292" }],
+          "cap3": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=38505"
+            }
+          ]
+        }
+      ],
+      "proximo": "Sábado 27 de enero 2024",
+      "image": "https://i.postimg.cc/RZZb4bt6/mashle-kami-shinkakusha-kouho-senbatsu-shiken-hen.jpg"
+    },
+    {
       "id": "solo leveling",
       "name": "solo leveling",
       "anime": "solo leveling",
