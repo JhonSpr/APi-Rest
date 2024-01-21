@@ -82,7 +82,7 @@
       "anime": "ao no exorcist shimane illuminati hen",
       "mode": "TV",
       "tipo": "tv",
-      "episodios": 1,
+      "episodios": 3,
       "descripcion": "Tercera temporada de Ao no Exorcist",
       "genero1": "accion",
       "genero2": "comedia",
@@ -116,6 +116,10 @@
         {
           "episode": 2,
           "image": "https://i.postimg.cc/4N2bRdRf/cf-RE0i-Ib-Zefer-YKh4s-Tf-TOayzo-T.jpg"
+        },
+        {
+          "episode": 3,
+          "image": "https://i.postimg.cc/Dw3kv9sw/jz-Sny-XOMy-Sxqzoc3g-KUy-Or42ij1.jpg"
         }
       ],
       "temporadas": 3,
@@ -141,10 +145,20 @@
               "url": "https://streamtape.com/e/zMw62dmb1jIYqQl/",
               "service": "streamtape"
             }
+          ],
+          "cap3": [
+            {
+              "url": "https://mega.nz/embed/8KESXJjS#TZhi2lemNdi2s1DH747b9p75n_J3Su606l71_-cSifE",
+              "service": "mega"
+            },
+            {
+              "url": "https://streamtape.com/e/VVY1b0VXOKTKG6K/",
+              "service": "streamtape"
+            }
           ]
         }
       ],
-      "proximo": "Sábado 13 de enero 2024",
+      "proximo": "Sábado 27 de enero 2024",
       "image": "https://i.postimg.cc/sf0HkPcR/ao-no-exorcist-shimane-illuminati-hen.jpg"
     },
     {
