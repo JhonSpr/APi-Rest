@@ -41,34 +41,11 @@
       "secuelas": [],
       "services": [
         {
-          "cap1": [
-            {
-              "url": "https://krakenfiles.com/embed-video/ckqMSa83VE",
-              "service": "kraken"
-            },
-            {
-              "url": "https://streamtape.com/e/JWVWA31RKmtjlz2/",
-              "service": "streamtape"
-            }
-          ],
-          "cap2": [
-            {
-              "url": "https://mega.nz/embed/Fq8mhIyS#f-0g0Z135VaP8GTnyF5ajhQgyZ0iq3Cf9GR678AjXdA",
-              "service": "mega"
-            },
-            {
-              "url": "https://streamtape.com/e/doeDajRKDzhGWJ/",
-              "service": "streamtape"
-            }
-          ],
+          "cap1": [{ "url": "https://saidochesto.top/embed.php?id=38052" }],
+          "cap2": [{ "url": "https://saidochesto.top/embed.php?id=38293" }],
           "cap3": [
             {
-              "url": "https://mega.nz/embed/5PtT1QKS#xAdCM919FClW2FbA1SuXNmQrIgh0FCFeEgy5pdwZbdE",
-              "service": "mega"
-            },
-            {
-              "url": "https://streamtape.com/e/PwvVWoYA1AU0q91/",
-              "service": "streamtape"
+              "url": "https://saidochesto.top/embed.php?id=38507"
             }
           ]
         }
