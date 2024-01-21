@@ -10,7 +10,7 @@ const getAllAnime = (filterParams) => {
     let animes = [...originalData];
 
     if (filterParams.info) {
-      return animes.filter((anime) => anime.name === filterParams.info);
+      return animes.filter((anime) => anime.name == filterParams.info);
     }
 
     if (filterParams.name !== undefined && filterParams.name.trim() !== "") {
