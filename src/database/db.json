@@ -1,6 +1,100 @@
 {
   "animes": [
     {
+      "id": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+      "name": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+      "anime": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+      "mode": "TV",
+      "tipo": "tv",
+      "episodios": 12,
+      "descripcion": "Cuando un asesino de primera clase renace en otro mundo, resulta que lo hace como el heredero de una familia de asesinos en las sombras. Con sus conocimientos como asesino del mundo moderno y su expericia, sumándole la magia especial y las técnicas de su nuevo mundo, ¡parece que no tendrá difícil convertirse en el asesino más letal de la historia!",
+      "genero1": "accion",
+      "genero2": "fantasia",
+
+      "generos": [
+        { "genero": "accion", "link": "/directorio?genero=accion" },
+        { "genero": "fantasia", "link": "/directorio?genre=fantasia" }
+      ],
+      "emitido": "Octubre 5 de 2021",
+      "duration": "24 min",
+      "estado": "finalizado",
+      "year": 2024,
+      "studio": "SILVER LINK., Studio Palette",
+      "precuelas": [],
+      "rating": 7.5,
+      "episodes__overlay": [
+        {
+          "episode": 1,
+          "image": ""
+        },
+        {
+          "episode": 2,
+          "image": ""
+        },
+        {
+          "episode": 3,
+          "image": ""
+        },
+        {
+          "episode": 4,
+          "image": ""
+        },
+        {
+          "episode": 5,
+          "image": ""
+        },
+        {
+          "episode": 6,
+          "image": ""
+        },
+        {
+          "episode": 7,
+          "image": ""
+        },
+        {
+          "episode": 8,
+          "image": ""
+        },
+        {
+          "episode": 9,
+          "image": ""
+        },
+        {
+          "episode": 10,
+          "image": ""
+        },
+        {
+          "episode": 11,
+          "image": ""
+        },
+        {
+          "episode": 12,
+          "image": ""
+        }
+      ],
+      "temporadas": 1,
+      "secuelas": [],
+      "services": [
+        {
+          "cap1": [{ "url": "" }],
+          "cap2": [{ "url": "" }],
+          "cap3": [{ "url": "" }],
+          "cap4": [{ "url": "" }],
+          "cap5": [{ "url": "" }],
+          "cap6": [{ "url": "" }],
+          "cap7": [{ "url": "" }],
+          "cap8": [{ "url": "" }],
+          "cap9": [{ "url": "" }],
+          "cap10": [{ "url": "" }],
+          "cap11": [{ "url": "" }],
+          "cap12": [{ "url": "" }]
+        }
+      ],
+      "proximo": false,
+      "image": "https://i.postimg.cc/RZZb4bt6/mashle-kami-shinkakusha-kouho-senbatsu-shiken-hen.jpg",
+      "trailer": "https://www.youtube.com/embed/_PR_PwGshIE?si=9X_Xw3V2eNl7I_8G"
+    },
+    {
       "id": "MASHLE Kami Shinkakusha Kouho Senbatsu Shiken-hen",
       "name": "mashle kami shinkakusha kouho senbatsu shiken hen",
       "anime": "MASHLE Kami Shinkakusha Kouho Senbatsu Shiken-hen",
