@@ -674,7 +674,7 @@
       "anime": "ao no exorcist shimane illuminati hen",
       "mode": "TV",
       "tipo": "tv",
-      "episodios": 3,
+      "episodios": 4,
       "descripcion": "Tercera temporada de Ao no Exorcist",
       "genero1": "accion",
       "genero2": "comedia",
@@ -727,6 +727,10 @@
         {
           "episode": 3,
           "image": "https://i.postimg.cc/Dw3kv9sw/jz-Sny-XOMy-Sxqzoc3g-KUy-Or42ij1.jpg"
+        },
+        {
+          "episode": 4,
+          "image": "https://i.postimg.cc/JnVy0t68/7-Eyr-VLYTo5a-XJP0atxk4-AC1w1-DB.jpg"
         }
       ],
       "temporadas": 3,
@@ -757,7 +761,8 @@
             {
               "url": "https://saidochesto.top/embed.php?id=38499"
             }
-          ]
+          ],
+          "cap4": [{ "url": "https://saidochesto.top/embed.php?id=38566" }]
         }
       ],
       "proximo": "Sábado 27 de enero 2024",
