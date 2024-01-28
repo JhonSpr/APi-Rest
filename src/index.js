@@ -32,7 +32,20 @@ app.put("/api/v1/animes/:id/rating", (req, res) => {
     res.status(400).send({ error: "El rating no es un número válido." });
   }
 });
+const agregarNuevoAnime = (req, res) => {
+  try {
+    const nuevoAnime = req.body;
+    DB.animes.push(nuevoAnime);
 
+    res
+      .status(201)
+      .send({ message: "Anime agregado correctamente", anime: nuevoAnime });
+  } catch (error) {
+    console.error("Error al agregar el anime:", error);
+    res.status(500).send({ error: "Error interno del servidor" });
+  }
+};
+app.post("/api/v1/animes/add", agregarNuevoAnime);
 app.use("/api/v1/recien-agregados", (req, res) => {
   res.send({ recientes: db.recientes });
 });
