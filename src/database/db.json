@@ -1,6 +1,193 @@
 {
   "animes": [
     {
+      "id": "Undead Unluck",
+      "name": "Undead Unluck",
+      "anime": "Undead Unluck",
+      "mode": "TV",
+      "tipo": "tv",
+      "episodios": 16,
+      "descripcion": "¿Qué sucede cuando una chica desafortunada conoce a un no-muerto? ¡Puro caos! Cansada de matar gente sin darse cuenta con su habilidad especial Unluck, Fuuko Izumo se propone acabar con todo. Pero cuando conoce a Andy, un hombre que anhela la muerte pero no puede morir, encuentra una razón para vivir y él encuentra a alguien capaz de darle la muerte que ha estado anhelando.",
+      "genero1": "accion",
+      "genero2": "comedia",
+      "genero3": "shounen",
+      "generos": [
+        {
+          "genero": "accion",
+          "link": "/directorio?genero=accion"
+        },
+        {
+          "genero": "comedia",
+          "link": "/directorio?genero=comedia"
+        },
+        {
+          "genero": "shounen",
+          "link": "/directorio?genre=shounen"
+        }
+      ],
+      "emitido": "octubre 7 de 2023",
+      "duration": "24 min",
+      "estado": "en emision",
+      "year": 2023,
+      "studio": "david prodution",
+      "precuelas": [],
+      "episodes__overlay": [
+        {
+          "episode": 1,
+          "image": ""
+        },
+        {
+          "episode": 2,
+          "image": ""
+        },
+        {
+          "episode": 3,
+          "image": ""
+        },
+        {
+          "episode": 4,
+          "image": ""
+        },
+        {
+          "episode": 5,
+          "image": ""
+        },
+        {
+          "episode": 6,
+          "image": ""
+        },
+        {
+          "episode": 7,
+          "image": ""
+        },
+        {
+          "episode": 8,
+          "image": ""
+        },
+        {
+          "episode": 9,
+          "image": ""
+        },
+        {
+          "episode": 10,
+          "image": ""
+        },
+        {
+          "episode": 11,
+          "image": ""
+        },
+        {
+          "episode": 12,
+          "image": ""
+        },
+        {
+          "episode": 13,
+          "image": ""
+        },
+        {
+          "episode": 14,
+          "image": ""
+        },
+        {
+          "episode": 15,
+          "image": ""
+        },
+        {
+          "episode": 16,
+          "image": ""
+        }
+      ],
+      "temporadas": 1,
+      "secuelas": [],
+      "services": [
+        {
+          "cap1": [
+            {
+              "url": ""
+            }
+          ],
+          "cap2": [
+            {
+              "url": ""
+            }
+          ],
+          "cap3": [
+            {
+              "url": ""
+            }
+          ],
+          "cap4": [
+            {
+              "url": ""
+            }
+          ],
+          "cap5": [
+            {
+              "url": ""
+            }
+          ],
+          "cap6": [
+            {
+              "url": ""
+            }
+          ],
+          "cap7": [
+            {
+              "url": ""
+            }
+          ],
+          "cap8": [
+            {
+              "url": ""
+            }
+          ],
+          "cap9": [
+            {
+              "url": ""
+            }
+          ],
+          "cap10": [
+            {
+              "url": ""
+            }
+          ],
+          "cap11": [
+            {
+              "url": ""
+            }
+          ],
+          "cap12": [
+            {
+              "url": ""
+            }
+          ],
+          "cap13": [
+            {
+              "url": ""
+            }
+          ],
+          "cap14": [
+            {
+              "url": ""
+            }
+          ],
+          "cap15": [
+            {
+              "url": ""
+            }
+          ],
+          "cap16": [
+            {
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "proximo": "Viernes 2 de febrero 2024",
+      "image": "https://i.postimg.cc/rscm9xcy/undead-unluck.jpg",
+      "trailer": "QzzZUQLhJhY?si=cz3Wn5iTscMMOO9R"
+    },
+    {
       "id": "Vinland Saga",
       "name": "vinland saga",
       "anime": "Vinland Saga",
@@ -2665,7 +2852,10 @@
       "descripcion": "Una vez, la tierra de Togenkyo era una tierra pacífica, donde los humanos y los yokai vivían juntos. Sin embargo, entonces aparecieron hombres que intentaron revivir a Gyumaoh, el Gran Yokai que fue asesinado por el dios de la guerra Nataku Taishi y enterrado en el castillo de Houtou hace 500 años, utilizando una combinación prohibida de química y magia. Las ondas de energía negativa que esto creó se extendieron por todo Togenkyo, provocando que los yokai enloquecieran y atacaran a la humanidad. Para salvar la tierra, Kanzeon Bosatsu ordena a Son Goku, Genjyo Sazno, Sha Gojyo y Cho Hakkai que vayan al oeste. Los cuatro emprenden un viaje para detener el experimento para revivir a Gyumaoh. En el camino, se encuentran con Hazel Grouse, que emplea una extraña magia que utiliza las almas de los yokai para revivir a los muertos, y su seguidor Gat. Ambos se unen al grupo. Y Ukoku Sanzo, un hombre con el que tienen una larga historia, se acerca en las sombras… Personajes inolvidables, intensos dramas personales y una acción impresionante en una historia sobre los vínculos entre cuatro hombres.",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "textoSecuela": "Secuela",
       "nombreSecuela": "Saiyuuki Reload Blast",
       "linksec1": "/saiyuuki-reload-blast",
@@ -2758,7 +2948,10 @@
       "episodios": 12,
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Orient",
       "linksec1": "/orient",
@@ -2780,7 +2973,10 @@
       "tipo": "tv",
       "episodios": 12,
       "sec2": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec3": "disable",
       "textoSecuela": "Proximo Episodio",
       "nombreSecuela": "Suspendido por casos COVID-19",
@@ -2845,7 +3041,10 @@
       "tipo": "tv",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "image": "https://i.postimg.cc/Z5VDF6q2/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita.jpg",
       "estado": "finalizado",
       "year": 2022,
@@ -2863,7 +3062,10 @@
       "tipo": "tv",
       "sec3": "disable",
       "episodios": 5,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "image": "https://i.postimg.cc/NGk8HBFP/vampire-in-the-garden.jpg",
       "estado": "finalizado",
       "year": 2022,
@@ -2880,7 +3082,10 @@
       "tipo": "tv",
       "sec1": "disable",
       "sec2": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec3": "disable",
       "image": "https://i.postimg.cc/pLhnqHVv/zuihou-de-zhaohuan-shi-the-last-summoner.jpg",
       "estado": "finalizado",
@@ -2895,7 +3100,10 @@
       "descripcion": "Cuarta temporada de Kingdom",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Kingdom 3ra Temporada",
       "linksec1": "/kingdom-3ra-temporada",
@@ -2916,7 +3124,10 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "episodios": 12,
       "image": "https://i.postimg.cc/J7Yng22z/mahoutsukai-reimeiki.jpg",
       "estado": "finalizado",
@@ -2933,7 +3144,10 @@
       "descripcion": "Schternbilt City es hogar de personas llamadas 'Next', que usan sus habilidades especiales para proteger a los ciudadanos como superheroes. Estos héroes resuelven casos y salvan vidas con el fin de vestir logotipos o adquirir 'hero points'. Sus actividades son documentadas en el popular programa 'Hero TV', que escoge al 'Rey de los Heroes' por medio de un ranking anual. El héroe veterano Wild Tiger siempre ha preferido trabajar solo, pero se le ha asignado el novato Barnaby Brooks Jr, quien tiene una perspectiva diferente de lo que es ser un héroe.",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Tiger & Bunny",
       "linksec1": "/tiger-&-bunny",
@@ -2957,7 +3171,10 @@
       "episodios": 26,
       "tipo": "tv",
       "sec2": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec3": "disable",
       "textoSecuela": "Precuela",
       "nombreSecuela": "Toaru Majutsu no Index II",
@@ -2992,7 +3209,10 @@
       "descripcion": "Segunda parte de Shingeki no Kyojin: The Final Season.",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Shingeki no Kyojin: Temporada Final",
       "episodios": 12,
@@ -3012,7 +3232,10 @@
       "descripcion": "¿Alguna vez fuiste víctima de una posesión espiritual? ¿Hay algún fantasma que quieras hacer desaparecer de tu casa... o hacerlo arder eternamente en el infierno? Si respondiste 'sí' a cualquiera de estas preguntas o a cualquier otra similar, entonces necesitas a Muhyo y Roji, expertos en las leyes de lo sobrenatural. Hacer justicia con los espíritus es su especialidad.",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "textoSecuela": "Secuela",
       "nombreSecuela": "Muhyo to Rouji no Mahouritsu Soudan Jumusho 2nd temporada",
       "linksec1": "muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-temporada",
@@ -3028,7 +3251,10 @@
       "id": "Golden Time",
       "name": "golden time",
       "anime": "Golden Time",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "mode": "TV",
       "descripcion": "Tada Banri, es un estudiante de nuevo ingreso en una escuela privada de derecho en Tokio, después de la ceremonia de apertura, él estaba completamente perdido tratando de encontrar el camino hacia el salón de orientación para los de primer año. En ese momento, se encuentra con un estudiante de primer año, que también estaba perdido, Mitsuo Yanagisawa. De alguna manera llegaron al lugar donde se dirigían, pero de repente frente a los dos aparece una chica hermosa que sostiene un ramo de rosas. La chica golpeó a Mitsuo en la cara con el ramo. 'felicidades, estudiante de nuevo ingreso', fue todo lo que dijo, y luego se fue. La mujer que golpeo a Mitsuo se trataba de su amiga de la infancia, Kaga Kouko. Cuando eran niños se habían prometido a casarse cuando algún día llegarán a cumplir sus sueños. Con el fin de escapar de ella, Mitsuo había salido secretamente y tomado el examen de este colegio privado muy conocido.",
       "sec1": "disable",
@@ -3110,7 +3336,10 @@
       "sec3": "disable",
       "textoSecuela": "Secuela",
       "nombreSecuela": "Overlord II",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "linksec1": "/overlord-ii",
       "estado": "finalizado",
       "year": 2015,
@@ -3129,7 +3358,10 @@
       "textoSecuela2": "Secuela",
       "nombreSecuela": "Overlord",
       "nombreSecuela2": "Overlord III",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "linksec1": "/overlord",
       "linksec2": "overlord-iii",
       "link": "/overlord-II",
@@ -3144,7 +3376,10 @@
     {
       "id": "Aldnoah Zero Parte 2",
       "name": "aldnoah zero parte 2",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "anime": "Aldnoah Zero Parte 2",
       "mode": "TV",
       "descripcion": "Segunda temporada de Aldnoah.Zero.",
@@ -3165,7 +3400,10 @@
       "id": "Yama no Susume 3",
       "name": "yama no susume 3",
       "anime": "Yama no Susume 3",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "mode": "TV",
       "descripcion": "Tercera Temporada de Yama no Susume",
       "sec3": "disable",
@@ -3190,7 +3428,10 @@
       "mode": "TV",
       "descripcion": "Resumen de la Película, Kimetsu no Yaiba Movie: Mugen Ressha-hen, con algunas escenas extras y sonidos de fondo nuevos.",
       "episodios": 7,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec3": "disable",
       "textoSecuela": "Precuela",
       "textoSecuela2": "Secuela",
@@ -3256,7 +3497,10 @@
       "sec2": "disable",
       "tipo": "tv",
       "sec3": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "textoSecuela": "Secuela",
       "nombreSecuela": "Shingeki no Bahamut:Genesis",
       "linksec1": "/shingeki-no-bahamut:genesis",
@@ -3281,7 +3525,10 @@
       "linksec1": "/pelicula/ao-no-exorcist",
       "linksec2": "/ao-no-exorcist-kyoto-fujouou-hen",
       "episodios": 25,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "image": "https://i.postimg.cc/2jgwY2qC/ao-no-exorcist.jpg",
       "estado": "finalizado",
       "year": 2011,
@@ -3301,7 +3548,10 @@
       "linksec1": "/lord-el-melloi-ii-sei-no-jikenbo",
       "episodios": 14,
       "tipo": "tv",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "image": "https://i.postimg.cc/jScPDXjw/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note.jpg",
       "estado": "finalizado",
       "year": 2019,
@@ -3321,7 +3571,10 @@
       "nombreSecuela": "Majutsushi Orphen Hagure Tabi: Kimluck Hen",
       "linksec1": "/majutsushi-orphen-hagure-tabi-kimluck-hen",
       "episodios": 14,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "image": "https://i.postimg.cc/fTh95FtS/majutsushi-orphen-hagure-tabi.jpg",
       "estado": "finalizado",
       "year": 2020,
@@ -3337,7 +3590,10 @@
       "link": "/castlevania-3",
       "descripcion": "Tercera temporada de Castlevania",
       "episodios": 10,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec2": "disable",
       "tipo": "tv",
       "sec3": "disable",
@@ -3361,7 +3617,10 @@
       "nombreSecuela": "arifureta shokugyou de sekai saikyou",
       "linksec1": "/arifureta-shokugyou-de-sekai-saikyou",
       "episodios": 15,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "image": "https://i.postimg.cc/4NJ3YTHP/arifureta-shokugyou-de-sekai-saikyou-2nd-season.jpg",
       "estado": "finalizado",
       "tipo": "tv",
@@ -3378,7 +3637,10 @@
       "sec2": "disable",
       "tipo": "tv",
       "sec3": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "episodios": 12,
       "mode": "TV",
       "image": "https://i.postimg.cc/FRy9KP9w/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei.jpg",
@@ -3396,7 +3658,10 @@
       "sec2": "disable",
       "sec3": "disable",
       "mode": "TV",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "image": "https://i.postimg.cc/4y4Txs2h/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru.jpg",
       "descripcion": "La historia da comienzo cuando la diosa Rista invoca a un héroe para ayudarle en su mundo, el cual parece un videojuego de gran dificultad. El protagonista, Seiya, es excepcional en prácticamente todo, pero también es excesivamente cauto. Hace cosas como comprar tres sets de armadura (uno para usar, uno de repuesto, y otro de repuesto para el de repuesto) y no contenerse en absoluto ni siquiera contra un triste limo, por si acaso.",
       "estado": "finalizado",
@@ -3420,7 +3685,10 @@
       "linksec1": "/accel-world",
       "linksec2": "sword-art-online-ii",
       "episodios": 25,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "image": "https://i.postimg.cc/W4RLJMfV/sword-art-online.jpg",
       "estado": "finalizado",
       "year": 2012,
@@ -3439,7 +3707,10 @@
       "sec2": "disable",
       "sec3": "disable",
       "tipo": "tv",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "estado": "finalizado",
       "year": 2020,
       "classEstado": "tag is-success end",
@@ -3458,7 +3729,10 @@
       "sec2": "disable",
       "sec3": "disable",
       "tipo": "tv",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "linksec1": "/drifters-ova",
       "nombreSecuela": "Drifters (Ova)",
       "textoSecuela": "Historia Paralela",
@@ -3476,7 +3750,10 @@
       "descripcion": "Ambientada en la era de los dioses, cuando Atenea y Pandora jugaban fichas importantes sobre la vida de las personas. Esta serie narra la vida de dos jovencitos, Tenma y Alone, dos niños huérfanos que viven en un pueblo italiano y que son separados cuando Pandora le dice a Alone que el es la reencarnacion de Hades, en ese mismo instante Tenma es llevado al santuario y se da cuenta que es la reencarnación de pegaso. Alli conoce a Sasha, la reencarnación de Atenea. Al poco tiempo llega la noticia de que el dios Hades a despertado justo a inicios de la guerra Santa.",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "linksec1": "/saint-seiya",
       "nombreSecuela": "Saint Seiya",
       "textoSecuela": "Secuela",
@@ -3497,7 +3774,10 @@
       "episodios": 13,
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Kekkai Sensen",
       "linksec1": "/kekkai-sensen",
@@ -3515,7 +3795,10 @@
       "estado": "finalizado",
       "descripcion": "La guerra que se libró entre la Iglesia y las Brujas durante cinco siglos finalmente terminó en paz, pero hace unos pocos años. Sin embargo, enclavado en los lugares sombríos del mundo, las brasas de ese antiguo conflicto aún arden. Un estudiante problemático llamado Sable, que asiste a la Real Academia de magia del Reino de Wenias, no tiene recuerdos de su época antes de inscribirse. A las órdenes del director Albus, dejó el Reino para viajar a los confines del sur del continente, donde los insurgentes anti-magia siguen siendo una fuerza a tener en cuenta, como parte de un régimen de entrenamiento especial. Lo acompaña un grupo de individuos fuertes tanto en capacidad como en personalidad; está la conocida como la Bruja del Alba, Roux Cristasse, que busca el conocimiento prohibido de la magia primitiva en el “Grimorio de Zero”, la chica genio Holtz, así como la única bestia de la escuela, Kudd. ¿Qué verdad descubrirán en su viaje hacia el sur…?",
       "episodios": 12,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -3533,7 +3816,10 @@
       "estado": "finalizado",
       "descripcion": "Cuando Arc despierta, descubre que lo han transportado a otro mundo en el cuerpo del personaje con el que estaba jugando en un MMO. Aunque por fuera parece una armadura completa, en su interior no hay más que un esqueleto, así que es el Caballero Esqueleto. Si se descubriera su identidad lo confundirían con un monstruo ¡y le darían caza! Por esto mismo Arc decide vivir como un mercenario para no atraer miradas ajenas. Sin embargo, no es el tipo de hombre que pueda quedarse de brazos cruzados cuando ve cometerse injusticias ante sus ojos.",
       "episodios": 12,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -3551,7 +3837,10 @@
       "estado": "finalizado",
       "descripcion": "En un mundo dividido entre el Interior y el Exterior, a los que viven en ambos reinos se les dice que nunca crucen al otro lado, para que no sean malditos. Una joven llamada Shiva vive al otro lado, en un pueblo vacío con un guardián demoníaco conocido solo como Teacher. Aunque los dos tienen prohibido tocarse, parecen compartir un vínculo que trasciende sus apariencias dispares. Pero cuando Shiva deja el cuidado de Teacher para buscar a su abuela, el secreto detrás de su misterioso arreglo de vivienda sale a la luz.",
       "episodios": 3,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "tipo": "tv",
@@ -3573,7 +3862,10 @@
       "sec3": "disable",
       "tipo": "tv",
       "episodios": 13,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "year": 2022,
       "classEstado": "tag is-success end",
       "al": 4
@@ -3588,7 +3880,10 @@
       "year": 2022,
       "descripcion": "El más poderoso Señor Demonio de la historia, Varvatos, sentía que ya había conseguido todo lo que podía como rey. Debido a lo poderoso que era, se había quedado completamente solo y anhelaba una vida más sencilla. Unos milenios más tarde renace como Ard Meteor, un simple aldeano, pero en este futuro en el que ha renacido la civilización mágica ha sufrido un gran declive y la magia ha perdido su poder de antaño. Arc se une a la Academia de magia con su amiga de la infancia Ireena, y por mucho que lo intenta, no logra no destacar y hacer notar que no es un cualquiera.",
       "episodios": 12,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "tipo": "tv",
@@ -3605,7 +3900,10 @@
       "estado": "finalizado",
       "descripcion": "Después de salvar el mundo, el héroe más fuerte, Leo, se convirtió en alguien que no es querido en el pacífico mundo humano. Era demasiado fuerte. Exiliado, busca un trabajo en el Ejército del Rey Demonio, al que había derrotado y que necesita ser reconstruido. El Ejército tenía muchos problemas: demasiado trabajo, problemas financieros, etc. Leo comienza a mejorar las cosas utilizando su poder. Leo se encuentra de nuevo con Echidna y le pregunta por qué invadió el mundo humano. Una historia inesperada…",
       "episodios": 14,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -3624,7 +3922,10 @@
       "year": 2022,
       "descripcion": "El futuro lejano. Después de alcanzar su punto máximo, la población de la Tierra cayó en declive. La IA se desarrolló para ayudar a preservar las especies y gestionar el ecosistema; un gran experimento en la diversidad humana. A través de la ingeniería genética, se creó una diversa gama de pueblos, incluidos bestias, seres mágicos y más, para vivir en una ciudad diversa separada en grupos amurallados. Cada grupo desarrolló una cultura única, acorde con las personas que vivían allí. La IA mantiene continuamente sus vidas y el sistema para garantizar la supervivencia.",
       "episodios": 12,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "tipo": "tv",
@@ -3641,7 +3942,10 @@
       "estado": "finalizado",
       "descripcion": "Es el París del siglo XIX y el joven vampiro Noé busca el Libro de Vanitas. Atacado por un vampiro enloquecido, un médico humano llamado Vanitas tienta a Noé con una cruzada loca para curar a toda la raza de vampiros. Si bien aliarse con él puede ser peligroso, Vanitas recibe noticias de que la Bestia de Gévaudan ha regresado, y Noé está siendo llevado para investigar este fantasma del pasado.",
       "episodios": 13,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Vanitas no Carte",
       "linksec1": "/vanitas-no-carte",
@@ -3659,7 +3963,10 @@
       "name": "ryman s club",
       "descripcion": "Mikoto Shiratori, un jugador prodigio de bádminton sufre un trauma tras una derrota en un torneo. Después de esto, se convierte en un empleado en la compañía Sunlight Beverage y se hace amigo de Tatsuru Miyazumi, el jugador y vendedor con mejor desempeño del equipo”.",
       "episodios": 12,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -3679,7 +3986,10 @@
       "estado": "finalizado",
       "descripcion": "El príncipe de este pequeño y débil reino se esfuerza por una sola cosa: ¡vender su país y largarse a vivir una vida tranquila y de ocio! Lamentablemente, el mayor obstáculo que enfrentará será su brillante mente… ¡mientras continúa obteniendo logros cada vez más impresionantes, también aumenta el favor de la gente de su reino!, esto complicará aún más el hacer que sus sueños se vuelvan realidad.",
       "episodios": 12,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -3698,7 +4008,10 @@
       "year": 2022,
       "descripcion": "El proyecto se centra en la relación entre Magoichi, el líder del grupo de mercenarios Saika Ikki, y el señor de la guerra de la era Sengoku, Oda Nobunaga.",
       "episodios": 12,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -3715,7 +4028,10 @@
       "estado": "finalizado",
       "descripcion": "A los 10 años, los mejores amigos, Musashi y Kojiro, se sentaban en un emocionado silencio mientras el padre de Kojiro contaba historias de demonios malvados que se cebaban con los inocentes, y de guerreros que los derrotaban. Practicando el manejo de la espada, los dos juran convertirse en los más fuertes del mundo. Pero a medida que crecen, Kojiro se vuelve cínico y Musashi se da cuenta de que no puede hacer retroceder 150 años de dominio demoníaco por sí solo. Le llaman prodigio con el pico, y está casi dispuesto a conformarse con una vida de trabajo. Sin embargo, no puede evitar la sensación de que todavía tiene la responsabilidad de actuar… y, pronto, las injusticias de su mundo le obligarán a actuar…",
       "episodios": 12,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec2": "disable",
       "sec3": "disable",
       "textoSecuela": "Precuela",
@@ -3736,7 +4052,10 @@
       "descripcion": "Segunda temporada de Genjitsu Shugi Yuusha no Oukoku Saikenki",
       "episodios": 13,
       "sec2": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec3": "disable",
       "textoSecuela": "Precuela",
       "nombreSecuela": "Genjitsu Shungi Yuusha no Oukoku Saikenki",
@@ -3756,7 +4075,10 @@
       "descripcion": "La Región Administrativa Especial del Lejano Oriente, también conocida como el Distrito 24, es una isla artificial que se encuentra en la Bahía de Tokio. Shuta, Ran y Koki nacieron y se criaron en la isla. Sus antecedentes familiares, preferencias y personalidades son completamente diferentes, pero son amigos de la infancia que siempre se han mantenido unidos. Sin embargo, un incidente cambió su relación para siempre. Un año después, los tres amigos se reencuentran por casualidad en un servicio conmemorativo que se lleva a cabo por el incidente. Los tres teléfonos suenan de repente al mismo tiempo. Su amigo, que se supone que está muerto, llama y exige que tomen una decisión sobre el futuro. Los tres amigos hacen lo que creen que es mejor para proteger el Distrito 24 y sus habitantes.",
       "episodios": 13,
       "sec1": "disable",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec2": "disable",
       "sec3": "disable",
       "year": 2022,
@@ -3773,7 +4095,10 @@
       "estado": "finalizado",
       "descripcion": "La nueva agencia de talentos de doblaje AiRBLUE no tiene profesionales experimentados ni estrellas famosas. Lo que sí tiene es un grupo de actrices de doblaje en formación cuyo individualismo y personalidad brilla a través de su inexperiencia. ¡Cada uno está buscando la manera de aprovechar sus talentos y hacer realidad sus sueños! Sin embargo, tarde o temprano, todos estos sueños se toparán con la crudeza de la realidad. No importa cuán devotamente practiquen, no todos los candidatos pueden aprobar todas las audiciones. ¿Podrán soportar la angustia, los reveses y la discordia? Si los obstáculos que deben afrontar todos los alumnos los hacen tropezar, ¿pueden recuperarse y volver a levantarse? La historia de estas actrices de doblaje incipientes ya está lista para que el director la llame ¡acción!",
       "episodios": 24,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -3791,7 +4116,10 @@
       "estado": "finalizado",
       "descripcion": "El manga se centra en Kuroitsu, un investigador asistente en el departamento de desarrollo sobrehumano de Agastya, una organización secreta villana que lucha con héroes que intentan salvar el mundo. Kuroitsu vive una vida ajetreada en Agastya, atrapada entre las absurdas peticiones de sus jefes; haciendo presentaciones; implementar nuevas funciones en superhumanos; y obtener resultados dentro del tiempo asignado, el presupuesto y las solicitudes de especificaciones; todo sin vacaciones.",
       "episodios": 12,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -3809,7 +4137,10 @@
       "estado": "finalizado",
       "descripcion": "La serie sigue a Fudo Aikawa y Desumi Magahara, los líderes de organizaciones heroicas y villanas, respectivamente. ¿Podrá su amor sobrevivir a su eterna batalla, cuando uno quiere la paz mundial y el otro la dominación mundial?",
       "episodios": 12,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -3826,7 +4157,10 @@
       "anime": "Megalo Box",
       "descripcion": "La historia tiene lugar en un ambiente de boxeo callejero en el que nuestro protagonista (Joe)y su entrenador (Nanbu)sobreviven como pueden a base de peleas arregladas. Pero este último se verá obligado a llevar a Joe hasta el torneo más grande de megalobox para saldar una deuda.",
       "episodios": 13,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "textoSecuela": "Secuela",
       "nombreSecuela": "Megalo Box 2",
       "linksec1": "/megalo-box-2",
@@ -3847,7 +4181,10 @@
       "estado": "finalizado",
       "descripcion": "Estas extrañas personas son Brutes, luchadores que han sido creados a través de la manipulación genética para combinar los cerebros de los humanos y los poderes de los animales, mientras poderosas empresas apuestan al resultado de sus duelos en torneos llamados Killing Bites.",
       "episodios": 12,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -3865,7 +4202,10 @@
       "estado": "finalizado",
       "descripcion": "Año 2046, los Neuro-Linker permite a las personas tener sus cinco sentidos en un mundo virtual donde interactúan y se comunican a través de internet. Haruyuki, un estudiante normal y corriente de aspecto bajito y fuerte se sumerge en este mundo de realidad aumentada para evadirse de sus problemas.",
       "episodios": 24,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "proximo": false,
       "generos": [
         {
@@ -3908,7 +4248,10 @@
       "estado": "finalizado",
       "descripcion": "Utawarerumono es una historia post-apocalíptica centrada en el protagonista enmascarado, Hakuoro, que es encontrado por una familia de dos muchachas y una abuela en un busque cerca de su pueblo. Al recuperarse, y ser interrogado, se descubre que tiene amnesia, desconociendo todo su pasado, incluyendo su nombre - siendo Hakuoro el nombre dado por la familia que lo acogió. Hakuoro pronto es aceptado en la aldea y viviendo con ellas, pero después de poco tiempo Hakuoro encuentra que la vida en esta aldea está siendo oprimida por el emperador. Luego de armar de valor a toda la aldea, hakuoro llegará a tomar el poder del gobierno.",
       "episodios": 26,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec2": "disable",
       "tipo": "tv",
       "textoSecuela": "Secuela",
@@ -3930,7 +4273,10 @@
       "estado": "finalizado",
       "descripcion": "La serie nos traslada a un futuro lejano en el que los robots han habitado el planeta durante muchos siglos y los humanos, sus creadores, se extinguieron muchos años atrás. De hecho, muchos robots no creen que los humanos existieran, y les toman por mitos. Dos robots dedicados a la agricultura, encuentran una cápsula criogénica con una niña humana dentro en los campos. Ambos, deciden criar a la llamada Sara a escondidas, pues el mundo de los robots no está preparado para confirmar que los humanos existieron. Sara pone la vida de sus nuevos cuidadores en peligro, quienes se tienen que enfrentar al temible Zero y a su ejército.",
       "episodios": 4,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -3948,7 +4294,10 @@
       "estado": "finalizado",
       "descripcion": "En el Planeta Latimer todo es temporal, pero el honor es para siempre. En el planeta Latimer, Takeshi Kovacs debe proteger a un tatuador mientras investiga la muerte de un jefe yakuza junto a un cínico CTAC . De la mente creativa detrás de Cowboy Bebop, explora el universo expandido de “Altered Carbon” en esta adaptación anime.",
       "episodios": 1,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -3965,7 +4314,10 @@
       "anime": "Re Zero kara Hajimeru isekai Seikatsu 2nd Temporada Parte 2",
       "descripcion": "Segunda temporada de Re:zero",
       "episodios": 12,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Re:zero kara Hajimeru isekai Seikatsu 2nd Temporada Parte 1",
       "sec2": "disable",
@@ -3984,7 +4336,10 @@
       "anime": "Kumo desu ga Nani ka",
       "descripcion": "Yo, la protagonista, era solo una chica normal de secundaria, pero de repente me reencarné como un monstruo araña en un mundo de fantasía. No solo eso, sino que me desperté en una mazmorra llena de monstruos feroces. Armado solo con mi conocimiento humano y mi abrumadora positividad, me veo obligada a usar telarañas y trampas para derrotar a monstruos mucho más fuertes solo para seguir con vida ... Así comienza la historia de supervivencia del laberinto de una niña con una fuerza mental increíble que vive como una de las bestias de menor rango!",
       "episodios": 24,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "tipo": "tv",
@@ -4011,7 +4366,10 @@
       "sec3": "disable",
       "episodios": 12,
       "tipo": "tv",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 4
@@ -4025,7 +4383,10 @@
       "estado": "finalizado",
       "descripcion": "El Imperio es una utopía mecanizada con ciencia y tecnología altamente desarrolladas. La soberanía de Nebulis es una nación temida como la Tierra de las Brujas, cuya gente usa el poder paranormal. Los dos países han estado en guerra constante durante más de cien años, pero ahora han aparecido dos héroes en sus respectivas tierras. Iska ha llegado a ser reconocida como el mayor activo militar del Imperio en la edad más joven de su historia. Aliceliese es la Princesa de la Soberanía de Nebulis, llamada la Bruja de la Calamidad de Hielo con miedo por sus enemigos. Los dos se encuentran en el campo de batalla y se convierten en enemigos mortales. Los orgullos se traban cuernos mientras ambos luchan sin concesiones para proteger a sus respectivas naciones, familias y camaradas. Pero a medida que se conocen como personas reales durante sus feroces batallas, comienzan a sentirse atraídos por las formas de vida y los ideales del otro aunque son plenamente conscientes de que el destino se burlará de ellos cruelmente, no permitiéndoles estar juntos. Efectivamente, la tensión mundial aumenta aún más y las conspiraciones de las principales naciones se complican más. Pero incluso en un mundo tan dividido, este niño y esta niña no pueden detener sus sentimientos el uno por el otro.",
       "episodios": 12,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "tipo": "tv",
@@ -4044,7 +4405,10 @@
       "descripcion": "Moroha: InuYasha Next Generations.",
       "episodios": 24,
       "tipo": "tv",
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "textoSecuela": "Precuela",
       "textoSecuela2": "Secuela",
       "nombreSecuela": "InuYasha: Kanketsu-hen",
@@ -4066,7 +4430,10 @@
       "tipo": "tv",
       "descripcion": "No se trata del destino... ¿Cuál es tu historia favorita? ¿Tiene un héroe que mata a un dragón y salva a una princesa? ¿O un hijo de la profecía destinado a la grandeza? Bueno, mi historia favorita es un poco diferente. Es la historia de una bruja que viaja por el mundo sin buscar nada en particular. Sin búsqueda propia, es libre de vagar donde el viento la lleve, agregando algunas páginas a la historia de quienquiera que conozca antes de emprender su próxima aventura. Al final de sus viajes, la bruja contrata a un aprendiz que algún día comenzará su propio viaje. Y así continúa el ciclo, o eso dice la historia. Ahora, la bruja que comienza de nuevo la historia ... ¿quién podría ser?",
       "episodios": 12,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -4081,7 +4448,10 @@
       "name": "mob psycho 100",
       "anime": "Mob Psycho 100",
       "episodios": 13,
-      "genero1": ["accion", "fantasia"],
+      "genero1": [
+        "accion",
+        "fantasia"
+      ],
       "tipo": "tv",
       "estado": "finalizado",
       "des": "Kageyama Shigeo, apodado Mob, es un chico con problemas para expresarse pero que en realidad es un poderoso esper. Mob está decidido a llevar una vida normal y mantiene sus poderes especiales reprimidos, pero cuando sus emociones alcancen el nivel del 100%, ¡le ocurrirá algo terrible! Rodeado por falsos espers, espíritus malignos y misteriosas organizaciones, ¿qué hará Mob? ¿Qué elecciones tomará?",
