@@ -39,7 +39,6 @@ app.post("/api/v1/animes-agregar", (req, res) => {
   try {
     const nuevoAnime = req.body;
 
-    // Agrega el nuevo anime al array 'animes' en tu base de datos (DB)
     DB.animes.unshift(nuevoAnime);
 
     // Guarda los cambios en el archivo db.json utilizando una ruta absoluta
