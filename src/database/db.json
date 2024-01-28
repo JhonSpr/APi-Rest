@@ -9,17 +9,22 @@
       "episodios": 24,
       "descripcion": "",
       "genero1": "accion",
-      "genero2": "fantasia",
-
+      "genero2": "shounen",
+      "genero3": "Historico",
+      "genero4": "drama",
+      "genero5": "aventuras",
       "generos": [
         { "genero": "accion", "link": "/directorio?genero=accion" },
-        { "genero": "fantasia", "link": "/directorio?genre=fantasia" }
+        { "genero": "shounen", "link": "/directorio?genero=shounen" },
+        { "genero": "Historico", "link": "/directorio?genre=historico" },
+        { "genero": "drama", "link": "/directorio?genre=drama" },
+        { "genero": "aventuras", "link": "/directorio?genre=aventuras" }
       ],
-      "emitido": "Octubre 5 de 2021",
+      "emitido": "Julio 7 de 2019",
       "duration": "24 min",
       "estado": "finalizado",
-      "year": 2021,
-      "studio": "SILVER LINK., Studio Palette",
+      "year": 2019,
+      "studio": "Wit Studio",
       "precuelas": [],
       "rating": 7.5,
       "episodes__overlay": [
@@ -91,8 +96,8 @@
         }
       ],
       "proximo": false,
-      "image": "https://i.postimg.cc/XY8nF4GW/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru.jpg",
-      "trailer": "_PR_PwGshIE?si=9X_Xw3V2eNl7I_8G"
+      "image": "https://i.postimg.cc/5NY0ztfH/vinland-saga.jpg",
+      "trailer": "f8JrZ7Q_p-8?si=gE3tFA4ISzFWZMqY"
     },
     {
       "id": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
