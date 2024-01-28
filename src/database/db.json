@@ -100,7 +100,7 @@
       "anime": "MASHLE Kami Shinkakusha Kouho Senbatsu Shiken-hen",
       "mode": "TV",
       "tipo": "tv",
-      "episodios": 3,
+      "episodios": 4,
       "descripcion": "Segunda temporada de mashle",
       "genero1": "accion",
       "genero2": "comedia",
@@ -134,6 +134,10 @@
         {
           "episode": 3,
           "image": "https://i.postimg.cc/jSkX4xFv/7-AYNZs-Uv-YDNEYmy-DCz-NPQQs0f6o.jpg"
+        },
+        {
+          "episode": 4,
+          "image": "https://i.postimg.cc/7LWSd4gj/63byr-YDDz-YYknysfy-Y5qq-DJR3ii.jpg"
         }
       ],
       "temporadas": 2,
@@ -146,10 +150,15 @@
             {
               "url": "https://saidochesto.top/embed.php?id=38505"
             }
+          ],
+          "cap4": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=38572"
+            }
           ]
         }
       ],
-      "proximo": "Sábado 27 de enero 2024",
+      "proximo": "Sábado 3 de febrero 2024",
       "image": "https://i.postimg.cc/RZZb4bt6/mashle-kami-shinkakusha-kouho-senbatsu-shiken-hen.jpg"
     },
     {
@@ -158,7 +167,7 @@
       "anime": "solo leveling",
       "mode": "TV",
       "tipo": "tv",
-      "episodios": 3,
+      "episodios": 4,
       "descripcion": "Hace diez años, apareció “la Puerta” y conectó el mundo real con el reino de la magia y los monstruos. Para combatir a estas viles bestias, la gente corriente recibió poderes sobrehumanos y se convirtió en “Cazadores”. Sung Jin-Woo, de 20 años, es uno de esos cazadores, pero se le conoce como el “más débil del mundo”, debido a su patético poder en comparación con un mísero rango E. Aun así, caza monstruos incansablemente en Gates de bajo rango para pagar las facturas médicas de su madre. Sin embargo, este miserable estilo de vida cambia cuando Jin-Woo -creyendo que es el único que ha muerto en una misión que salió terriblemente mal- se despierta en un hospital tres días después para encontrar una misteriosa pantalla flotando frente a él. Este “Quest Log” exige que Jin-Woo complete un intenso e irreal programa de entrenamiento, o que se enfrente a un castigo apropiado. Al principio, Jin-Woo se muestra reacio a cumplir con el rigor de la búsqueda, pero pronto descubre que puede transformarlo en uno de los cazadores más temibles del mundo.",
       "genero1": "accion",
       "genero2": "aventuras",
@@ -187,6 +196,10 @@
         {
           "episode": 3,
           "image": "https://i.postimg.cc/V61cKj7W/u-XIYp-GBh-Aee-Ie-FCQq1kw-O01ho-NA.jpg"
+        },
+        {
+          "episode": 4,
+          "image": "https://i.postimg.cc/v83Gsm11/a97dec-XJk1-Xid8w-Srn-Wczn-VY3-FU.jpg"
         }
       ],
       "temporadas": 1,
@@ -199,10 +212,15 @@
             {
               "url": "https://saidochesto.top/embed.php?id=38507"
             }
+          ],
+          "cap4": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=38573"
+            }
           ]
         }
       ],
-      "proximo": "Sábado 27 de enero 2024",
+      "proximo": "Sábado 3 de febrero 2024",
       "image": "https://i.postimg.cc/wTmQ1Dqw/138405l.jpg"
     },
     {
