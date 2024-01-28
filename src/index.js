@@ -5,6 +5,8 @@ const db = require("./database/Recientes.json");
 const DB = require("./database/db.json");
 const app = express();
 const PORT = process.env.PORT || 3001;
+const fs = require("fs");
+const path = require("path");
 app.disable("x-powered-by");
 app.use(cors());
 app.use(express.json());
@@ -32,20 +34,38 @@ app.put("/api/v1/animes/:id/rating", (req, res) => {
     res.status(400).send({ error: "El rating no es un número válido." });
   }
 });
-const agregarNuevoAnime = (req, res) => {
+
+app.post("/api/v1/animes-agregar", (req, res) => {
   try {
     const nuevoAnime = req.body;
-    DB.animes.push(nuevoAnime);
+
+    // Agrega el nuevo anime al array 'animes' en tu base de datos (DB)
+    DB.animes.unshift(nuevoAnime);
+
+    // Guarda los cambios en el archivo db.json utilizando una ruta absoluta
+    const dbFilePath = path.resolve(__dirname, "database", "db.json");
+    fs.writeFileSync(dbFilePath, JSON.stringify(DB, null, 2));
 
     res
       .status(201)
       .send({ message: "Anime agregado correctamente", anime: nuevoAnime });
   } catch (error) {
     console.error("Error al agregar el anime:", error);
-    res.status(500).send({ error: "Error interno del servidor" });
+
+    // Devuelve detalles del error en la respuesta
+    res
+      .status(500)
+      .send({ error: "Error interno del servidor", details: error.message });
   }
-};
-app.post("/api/v1/animes/add", agregarNuevoAnime);
+});
+
+app.use((req, res, next) => {
+  res.header("Cache-Control", "no-cache, no-store, must-revalidate");
+  res.header("Pragma", "no-cache");
+  res.header("Expires", "0");
+  next();
+});
+
 app.use("/api/v1/recien-agregados", (req, res) => {
   res.send({ recientes: db.recientes });
 });

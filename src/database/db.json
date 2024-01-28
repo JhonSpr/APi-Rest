@@ -14,11 +14,26 @@
       "genero4": "drama",
       "genero5": "aventuras",
       "generos": [
-        { "genero": "accion", "link": "/directorio?genero=accion" },
-        { "genero": "shounen", "link": "/directorio?genero=shounen" },
-        { "genero": "Historico", "link": "/directorio?genre=historico" },
-        { "genero": "drama", "link": "/directorio?genre=drama" },
-        { "genero": "aventuras", "link": "/directorio?genre=aventuras" }
+        {
+          "genero": "accion",
+          "link": "/directorio?genero=accion"
+        },
+        {
+          "genero": "shounen",
+          "link": "/directorio?genero=shounen"
+        },
+        {
+          "genero": "Historico",
+          "link": "/directorio?genre=historico"
+        },
+        {
+          "genero": "drama",
+          "link": "/directorio?genre=drama"
+        },
+        {
+          "genero": "aventuras",
+          "link": "/directorio?genre=aventuras"
+        }
       ],
       "emitido": "Julio 7 de 2019",
       "duration": "24 min",
@@ -85,18 +100,66 @@
       ],
       "services": [
         {
-          "cap1": [{ "url": "" }],
-          "cap2": [{ "url": "" }],
-          "cap3": [{ "url": "" }],
-          "cap4": [{ "url": "" }],
-          "cap5": [{ "url": "" }],
-          "cap6": [{ "url": "" }],
-          "cap7": [{ "url": "" }],
-          "cap8": [{ "url": "" }],
-          "cap9": [{ "url": "" }],
-          "cap10": [{ "url": "" }],
-          "cap11": [{ "url": "" }],
-          "cap12": [{ "url": "" }]
+          "cap1": [
+            {
+              "url": ""
+            }
+          ],
+          "cap2": [
+            {
+              "url": ""
+            }
+          ],
+          "cap3": [
+            {
+              "url": ""
+            }
+          ],
+          "cap4": [
+            {
+              "url": ""
+            }
+          ],
+          "cap5": [
+            {
+              "url": ""
+            }
+          ],
+          "cap6": [
+            {
+              "url": ""
+            }
+          ],
+          "cap7": [
+            {
+              "url": ""
+            }
+          ],
+          "cap8": [
+            {
+              "url": ""
+            }
+          ],
+          "cap9": [
+            {
+              "url": ""
+            }
+          ],
+          "cap10": [
+            {
+              "url": ""
+            }
+          ],
+          "cap11": [
+            {
+              "url": ""
+            }
+          ],
+          "cap12": [
+            {
+              "url": ""
+            }
+          ]
         }
       ],
       "proximo": false,
@@ -113,10 +176,15 @@
       "descripcion": "Cuando un asesino de primera clase renace en otro mundo, resulta que lo hace como el heredero de una familia de asesinos en las sombras. Con sus conocimientos como asesino del mundo moderno y su expericia, sumándole la magia especial y las técnicas de su nuevo mundo, ¡parece que no tendrá difícil convertirse en el asesino más letal de la historia!",
       "genero1": "accion",
       "genero2": "fantasia",
-
       "generos": [
-        { "genero": "accion", "link": "/directorio?genero=accion" },
-        { "genero": "fantasia", "link": "/directorio?genre=fantasia" }
+        {
+          "genero": "accion",
+          "link": "/directorio?genero=accion"
+        },
+        {
+          "genero": "fantasia",
+          "link": "/directorio?genre=fantasia"
+        }
       ],
       "emitido": "Octubre 5 de 2021",
       "duration": "24 min",
@@ -179,18 +247,66 @@
       "secuelas": [],
       "services": [
         {
-          "cap1": [{ "url": "https://saidochesto.top/embed.php?id=16653" }],
-          "cap2": [{ "url": "https://saidochesto.top/embed.php?id=16716" }],
-          "cap3": [{ "url": "https://saidochesto.top/embed.php?id=16901" }],
-          "cap4": [{ "url": "https://saidochesto.top/embed.php?id=17057" }],
-          "cap5": [{ "url": "https://saidochesto.top/embed.php?id=17139" }],
-          "cap6": [{ "url": "https://saidochesto.top/embed.php?id=17201" }],
-          "cap7": [{ "url": "https://saidochesto.top/embed.php?id=17303" }],
-          "cap8": [{ "url": "https://saidochesto.top/embed.php?id=17372" }],
-          "cap9": [{ "url": "https://saidochesto.top/embed.php?id=17645" }],
-          "cap10": [{ "url": "https://saidochesto.top/embed.php?id=18293" }],
-          "cap11": [{ "url": "https://saidochesto.top/embed.php?id=18372" }],
-          "cap12": [{ "url": "https://saidochesto.top/embed.php?id=18468" }]
+          "cap1": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=16653"
+            }
+          ],
+          "cap2": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=16716"
+            }
+          ],
+          "cap3": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=16901"
+            }
+          ],
+          "cap4": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=17057"
+            }
+          ],
+          "cap5": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=17139"
+            }
+          ],
+          "cap6": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=17201"
+            }
+          ],
+          "cap7": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=17303"
+            }
+          ],
+          "cap8": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=17372"
+            }
+          ],
+          "cap9": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=17645"
+            }
+          ],
+          "cap10": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=18293"
+            }
+          ],
+          "cap11": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=18372"
+            }
+          ],
+          "cap12": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=18468"
+            }
+          ]
         }
       ],
       "proximo": false,
@@ -210,9 +326,18 @@
       "genero3": "fantasia",
       "genero4": "shounen",
       "generos": [
-        { "genero": "accion", "link": "/directorio?genero=accion" },
-        { "genero": "comedia", "link": "/directorio?genre=comedia" },
-        { "genero": "fantasia", "link": "/directorio?genre=fantasia" },
+        {
+          "genero": "accion",
+          "link": "/directorio?genero=accion"
+        },
+        {
+          "genero": "comedia",
+          "link": "/directorio?genre=comedia"
+        },
+        {
+          "genero": "fantasia",
+          "link": "/directorio?genre=fantasia"
+        },
         {
           "genero": "shounen",
           "link": "/directorio?genero=shounen"
@@ -223,7 +348,12 @@
       "estado": "en emision",
       "year": 2024,
       "studio": null,
-      "precuelas": [{ "precuela": "mashle", "link": "/mashle" }],
+      "precuelas": [
+        {
+          "precuela": "mashle",
+          "link": "/mashle"
+        }
+      ],
       "rating": 9.6,
       "episodes__overlay": [
         {
@@ -247,8 +377,16 @@
       "secuelas": [],
       "services": [
         {
-          "cap1": [{ "url": "https://saidochesto.top/embed.php?id=38038" }],
-          "cap2": [{ "url": "https://saidochesto.top/embed.php?id=38292" }],
+          "cap1": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=38038"
+            }
+          ],
+          "cap2": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=38292"
+            }
+          ],
           "cap3": [
             {
               "url": "https://saidochesto.top/embed.php?id=38505"
@@ -276,9 +414,18 @@
       "genero2": "aventuras",
       "genero3": "fantasia",
       "generos": [
-        { "genero": "accion", "link": "/directorio?genero=accion" },
-        { "genero": "aventuras", "link": "/directorio?genre=aventuras" },
-        { "genero": "fantasia", "link": "/directorio?genre=fantasia" }
+        {
+          "genero": "accion",
+          "link": "/directorio?genero=accion"
+        },
+        {
+          "genero": "aventuras",
+          "link": "/directorio?genre=aventuras"
+        },
+        {
+          "genero": "fantasia",
+          "link": "/directorio?genre=fantasia"
+        }
       ],
       "emitido": "enero 7 2024",
       "duration": "24 min",
@@ -309,8 +456,16 @@
       "secuelas": [],
       "services": [
         {
-          "cap1": [{ "url": "https://saidochesto.top/embed.php?id=38052" }],
-          "cap2": [{ "url": "https://saidochesto.top/embed.php?id=38293" }],
+          "cap1": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=38052"
+            }
+          ],
+          "cap2": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=38293"
+            }
+          ],
           "cap3": [
             {
               "url": "https://saidochesto.top/embed.php?id=38507"
@@ -340,11 +495,26 @@
       "genero4": "fantasia",
       "genero5": "shounen",
       "generos": [
-        { "genero": "accion", "link": "/directorio?genero=accion" },
-        { "genero": "comedia", "link": "/directorio?genero=comedia" },
-        { "genero": "demonios", "link": "/directorio?genero=demonios" },
-        { "genero": "fantasia ", "link": "/directorio?genero=fantasia" },
-        { "genero": "isekai", "link": "/directorio?genero=shounen" }
+        {
+          "genero": "accion",
+          "link": "/directorio?genero=accion"
+        },
+        {
+          "genero": "comedia",
+          "link": "/directorio?genero=comedia"
+        },
+        {
+          "genero": "demonios",
+          "link": "/directorio?genero=demonios"
+        },
+        {
+          "genero": "fantasia ",
+          "link": "/directorio?genero=fantasia"
+        },
+        {
+          "genero": "isekai",
+          "link": "/directorio?genero=shounen"
+        }
       ],
       "emitido": "enero 7 2024",
       "duration": "24 min",
@@ -396,7 +566,11 @@
               "service": "streamtape"
             }
           ],
-          "cap3": [{ "url": "https://saidochesto.top/embed.php?id=38499" }]
+          "cap3": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=38499"
+            }
+          ]
         }
       ],
       "proximo": "Sábado 27 de enero 2024",
@@ -417,12 +591,30 @@
       "genero5": "isekai",
       "genero6": "seinen",
       "generos": [
-        { "genero": "accion", "link": "/directorio?genre=accion" },
-        { "genero": "aventuras", "link": "/directorio?genre=aventuras" },
-        { "genero": "drama", "link": "/directorio?genre=drama" },
-        { "genero": "fantasia ", "link": "/directorio?genre=fantasia" },
-        { "genero": "isekai", "link": "/directorio?genre=isekai" },
-        { "genero": "seinen", "link": "/directorio?genre=seinen" }
+        {
+          "genero": "accion",
+          "link": "/directorio?genre=accion"
+        },
+        {
+          "genero": "aventuras",
+          "link": "/directorio?genre=aventuras"
+        },
+        {
+          "genero": "drama",
+          "link": "/directorio?genre=drama"
+        },
+        {
+          "genero": "fantasia ",
+          "link": "/directorio?genre=fantasia"
+        },
+        {
+          "genero": "isekai",
+          "link": "/directorio?genre=isekai"
+        },
+        {
+          "genero": "seinen",
+          "link": "/directorio?genre=seinen"
+        }
       ],
       "emitido": "octubre 6 de 2023",
       "duration": "25 min",
@@ -501,9 +693,18 @@
       "genero2": "comedia",
       "genero3": "horror",
       "generos": [
-        { "genero": "accion", "link": "/directorio?genre=accion" },
-        { "genero": "comedia", "link": "/directorio?genre=comedia" },
-        { "genero": "horror", "link": "/directorio?genre=horror" }
+        {
+          "genero": "accion",
+          "link": "/directorio?genre=accion"
+        },
+        {
+          "genero": "comedia",
+          "link": "/directorio?genre=comedia"
+        },
+        {
+          "genero": "horror",
+          "link": "/directorio?genre=horror"
+        }
       ],
       "emitido": "julio 9 de 2023",
       "duration": "24 min",
@@ -548,9 +749,18 @@
       "genero2": "drama",
       "genero3": "sobrenatural",
       "generos": [
-        { "genero": "accion", "link": "/directorio?genre=accion" },
-        { "genero": "drama", "link": "/directorio?genre=drama" },
-        { "genero": "sobrenatural", "link": "/directorio?genre=sobrenatural" }
+        {
+          "genero": "accion",
+          "link": "/directorio?genre=accion"
+        },
+        {
+          "genero": "drama",
+          "link": "/directorio?genre=drama"
+        },
+        {
+          "genero": "sobrenatural",
+          "link": "/directorio?genre=sobrenatural"
+        }
       ],
       "emitido": "julio 6 de 2023",
       "duration": "24 min",
@@ -656,7 +866,6 @@
               "url": "https://krakenfiles.com/embed-video/nyh8IpXFIf",
               "service": "kraken"
             },
-
             {
               "url": "https://streamtape.com/e/Vy0aVOk09efKLKX/",
               "service": "streamtape"
@@ -692,9 +901,18 @@
       "genero2": "aventuras",
       "genero3": "fantasia",
       "generos": [
-        { "genero": "accion", "link": "/directorio?genre=accion" },
-        { "genero": "aventuras", "link": "/directorio?genre=aventuras" },
-        { "genero": "fantasia", "link": "/directorio?genre=fantasia" }
+        {
+          "genero": "accion",
+          "link": "/directorio?genre=accion"
+        },
+        {
+          "genero": "aventuras",
+          "link": "/directorio?genre=aventuras"
+        },
+        {
+          "genero": "fantasia",
+          "link": "/directorio?genre=fantasia"
+        }
       ],
       "emitido": "julio 8 de 2023",
       "duration": "24 min",
@@ -779,9 +997,18 @@
       "genero2": "misterio",
       "genero3": "sobrenatural",
       "generos": [
-        { "genero": "accion", "link": "/directorio?genre=accion" },
-        { "genero": "misterio", "link": "/directorio?genre=misterio" },
-        { "genero": "sobrenatural", "link": "/directorio?genre=sobrenatural" }
+        {
+          "genero": "accion",
+          "link": "/directorio?genre=accion"
+        },
+        {
+          "genero": "misterio",
+          "link": "/directorio?genre=misterio"
+        },
+        {
+          "genero": "sobrenatural",
+          "link": "/directorio?genre=sobrenatural"
+        }
       ],
       "emitido": "julio 12 de 2023",
       "duration": "24 min",
@@ -812,18 +1039,38 @@
       "genero4": "magia",
       "genero5": "shounen",
       "generos": [
-        { "genero": "accion", "link": "/directorio?genre=accion" },
-        { "genero": "demonios", "link": "/directorio?genre=demonios" },
-        { "genero": "fantasia ", "link": "/directorio?genre=fantasia" },
-        { "genero": "magia", "link": "/directorio?genre=magia" },
-        { "genero": "shounen ", "link": "/directorio?genre=shounen" }
+        {
+          "genero": "accion",
+          "link": "/directorio?genre=accion"
+        },
+        {
+          "genero": "demonios",
+          "link": "/directorio?genre=demonios"
+        },
+        {
+          "genero": "fantasia ",
+          "link": "/directorio?genre=fantasia"
+        },
+        {
+          "genero": "magia",
+          "link": "/directorio?genre=magia"
+        },
+        {
+          "genero": "shounen ",
+          "link": "/directorio?genre=shounen"
+        }
       ],
       "emitido": "junio 16 de 2023",
       "duration": "1 hr 53 min",
       "estado": "finalizado",
       "year": 2023,
       "studio": "Pierrot",
-      "serie": [{ "anime": "Black Clover", "link": "/anime/black-clover" }],
+      "serie": [
+        {
+          "anime": "Black Clover",
+          "link": "/anime/black-clover"
+        }
+      ],
       "proximo": false,
       "rating": 9.2,
       "image": "https://i.postimg.cc/MKJ5GbBF/black-clover-mahou-tei-no-ken.jpg"
@@ -841,11 +1088,26 @@
       "genero4": "terror",
       "genero5": "accion",
       "generos": [
-        { "genero": "accion", "link": "/directorio?genre=accion" },
-        { "genero": "seinen", "link": "/directorio?genre=seinen" },
-        { "genero": "militar", "link": "/directorio?genre=militar" },
-        { "genero": "sobrenatural", "link": "/directorio?genre=sobrenatural" },
-        { "genero": "terror", "link": "/directorio?genre=terror" }
+        {
+          "genero": "accion",
+          "link": "/directorio?genre=accion"
+        },
+        {
+          "genero": "seinen",
+          "link": "/directorio?genre=seinen"
+        },
+        {
+          "genero": "militar",
+          "link": "/directorio?genre=militar"
+        },
+        {
+          "genero": "sobrenatural",
+          "link": "/directorio?genre=sobrenatural"
+        },
+        {
+          "genero": "terror",
+          "link": "/directorio?genre=terror"
+        }
       ],
       "episodios": 10,
       "duration": "50 min",
@@ -877,10 +1139,22 @@
       "genero4": "accion",
       "proximo": false,
       "generos": [
-        { "genero": "accion", "link": "/directorio?genre=accion" },
-        { "genero": "fantasia", "link": "/directorio?genre=fantasia" },
-        { "genero": "shounen", "link": "/directorio?genre=shounen" },
-        { "genero": "historico", "link": "/directorio?genre=historico" }
+        {
+          "genero": "accion",
+          "link": "/directorio?genre=accion"
+        },
+        {
+          "genero": "fantasia",
+          "link": "/directorio?genre=fantasia"
+        },
+        {
+          "genero": "shounen",
+          "link": "/directorio?genre=shounen"
+        },
+        {
+          "genero": "historico",
+          "link": "/directorio?genre=historico"
+        }
       ],
       "precuelas": [
         {
@@ -911,9 +1185,18 @@
       "genero2": "comedia",
       "genero3": "shoujo",
       "generos": [
-        { "genero": "accion ", "link": "/directorio?genre=accion" },
-        { "genero": "comedia", "link": "/directorio?genre=comedia" },
-        { "genero": "shoujo", "link": "/directorio?genre=shoujo" }
+        {
+          "genero": "accion ",
+          "link": "/directorio?genre=accion"
+        },
+        {
+          "genero": "comedia",
+          "link": "/directorio?genre=comedia"
+        },
+        {
+          "genero": "shoujo",
+          "link": "/directorio?genre=shoujo"
+        }
       ],
       "proximo": false,
       "rating": 7.4,
@@ -925,7 +1208,6 @@
       "anime": "Akudama Drive",
       "mode": "TV",
       "descripcion": "Hace muchos años, una Gran Guerra Civil devastó Japón, dejando al país fragmentado en dos regiones: Kansai y Kanto. En Kansai, un grupo de seis Akudama llevan a cabo las misiones que les encomienda un misterioso gato negro, mientras evaden a la policía. Pero un viaje peligroso está a punto de desarrollarse cuando una niña civil se retuerce en el estilo de vida de los Akudama y es testigo de sus impulsos criminales.",
-
       "estado": "finalizado",
       "proximo": false,
       "year": 2020,
@@ -962,7 +1244,12 @@
       "episodios": 13,
       "secuelas": [],
       "proximo": false,
-      "precuelas": [{ "precuela": "Bleach", "link": "/bleach" }],
+      "precuelas": [
+        {
+          "precuela": "Bleach",
+          "link": "/bleach"
+        }
+      ],
       "estado": "finalizado",
       "tipo": "tv",
       "genero1": "accion",
@@ -1172,7 +1459,6 @@
       "genero2": "comedia",
       "genero3": "fantasia",
       "genero4": "sobrenatural",
-
       "generos": [
         {
           "genero": "aventuras",
@@ -1433,8 +1719,18 @@
       "year": 2018,
       "proximo": false,
       "descripcion": "Tercera temporada de Overlord.",
-      "secuelas": [{ "secuela": "Overlord IV", "link": "/overlord-iv" }],
-      "precuelas": [{ "precuela": "Overlord II", "link": "/overlord-ii" }],
+      "secuelas": [
+        {
+          "secuela": "Overlord IV",
+          "link": "/overlord-iv"
+        }
+      ],
+      "precuelas": [
+        {
+          "precuela": "Overlord II",
+          "link": "/overlord-ii"
+        }
+      ],
       "temporadas": 4,
       "studio": "Madhouse",
       "tipo": "tv",
@@ -1649,7 +1945,12 @@
       "genero4": "magia",
       "proximo": false,
       "secuelas": [],
-      "precuelas": [{ "precuela": "Fairy gone", "link": "/fairy-gone" }],
+      "precuelas": [
+        {
+          "precuela": "Fairy gone",
+          "link": "/fairy-gone"
+        }
+      ],
       "generos": [
         {
           "genero": "accion",
@@ -1720,7 +2021,6 @@
         }
       ],
       "descripcion": "Luchando con la vida y la sociedad, el estudiante de secundaria Michio Kaga deambula por Internet y aterriza en un sitio web extraño. El sitio web, que presenta una serie de preguntas y un sistema basado en puntos, permite crear habilidades y destrezas para un personaje. Al completar su personaje, Kaga fue transportado a un mundo de fantasía similar a un juego y renació como un hombre fuerte que puede reclamar chicas de nivel ídolo. ¡Así comienza la leyenda del engaño y el harem de un hombre renacido!",
-
       "tipo": "tv",
       "rating": 7.4
     },
@@ -1792,7 +2092,6 @@
       ],
       "episodios": 12,
       "year": 2022,
-
       "rating": 4.7
     },
     {
@@ -1838,7 +2137,6 @@
       ],
       "year": 2022,
       "episodios": 12,
-
       "rating": 6.6
     },
     {
@@ -2009,7 +2307,6 @@
           "link": "/directorio?genre=sobrenatural"
         }
       ],
-
       "tipo": "tv",
       "rating": 7.4
     },
@@ -2391,8 +2688,14 @@
       "precuelas": [],
       "secuelas": [],
       "generos": [
-        { "genero": "fantasia", "link": "/directorio?genre=fantasia" },
-        { "genero": "drama", "link": "/directorio?genre=drama" }
+        {
+          "genero": "fantasia",
+          "link": "/directorio?genre=fantasia"
+        },
+        {
+          "genero": "drama",
+          "link": "/directorio?genre=drama"
+        }
       ],
       "proximo": false,
       "image": "https://i.postimg.cc/1R7hshSb/violet-evergarden.jpg",
@@ -2414,14 +2717,25 @@
       "genero1": "sobrenatural",
       "genero2": "ciencia ficcion",
       "genero3": "seinen",
-      "precuelas": [{ "precuela": "shadows house", "link": "/shadows-house" }],
+      "precuelas": [
+        {
+          "precuela": "shadows house",
+          "link": "/shadows-house"
+        }
+      ],
       "generos": [
-        { "genero": "sobrenatural", "link": "/directorio?genre=sobrenatural" },
+        {
+          "genero": "sobrenatural",
+          "link": "/directorio?genre=sobrenatural"
+        },
         {
           "genero": "ciencia ficcion",
           "link": "/directorio?genre=ciencia-ficcion"
         },
-        { "genero": "seinen", "link": "/directorio?genre=seinen" }
+        {
+          "genero": "seinen",
+          "link": "/directorio?genre=seinen"
+        }
       ],
       "secuelas": [],
       "proximo": false,
@@ -2486,13 +2800,30 @@
       "genero3": "juegos",
       "genero4": "magia",
       "generos": [
-        { "genero": "accion", "link": "/directorio?genre=accion" },
-        { "genero": "fantasia", "link": "/directorio?genre=fantasia" },
-        { "genero": "juegos", "link": "/directorio?genre=juegos" },
-        { "genero": "magia", "link": "/directorio?genre=magia" }
+        {
+          "genero": "accion",
+          "link": "/directorio?genre=accion"
+        },
+        {
+          "genero": "fantasia",
+          "link": "/directorio?genre=fantasia"
+        },
+        {
+          "genero": "juegos",
+          "link": "/directorio?genre=juegos"
+        },
+        {
+          "genero": "magia",
+          "link": "/directorio?genre=magia"
+        }
       ],
       "secuelas": [],
-      "precuelas": [{ "precuela": "Overlord III", "link": "/overlord-iii" }],
+      "precuelas": [
+        {
+          "precuela": "Overlord III",
+          "link": "/overlord-iii"
+        }
+      ],
       "proximo": false,
       "descripcion": "Cuarta temporada de Overlord",
       "episodios": 13,
@@ -2721,16 +3052,34 @@
       "descripcion": "Los hermanos Elric emprenden un viaje tras haber perdido parte de su cuerpo mientras intentaban resucitar a su madre. Siendo ambos huérfanos de madre y con su padre en paradero desconocido, cuyo oscuro pasado es tan misterioso como él mismo, el hermano mayor, Edward Elric, decide convertirse en alquimista nacional para poder remediar el pecado que cometieron; pues la transmutación humana está vedada para los humanos y no hay perdón por aquellos que han visto la puerta, Si quieres obtener algo, debes sacrificar otra cosa que posea el mismo valor a cambio; esta es la ley de los estados equivalentes, nada se gana sin ningún sacrificio.",
       "episodios": 64,
       "generos": [
-        { "genero": "accion", "link": "/directorio?genre=accion" },
-        { "genero": "militar", "link": "/directorio?genre=militar" },
-        { "genero": "shounen", "link": "/directorio?genre=shounen" },
-        { "genero": "magia", "link": "/directorio?genre=magia" },
-        { "genero": "drama", "link": "/directorio?genre=drama" },
+        {
+          "genero": "accion",
+          "link": "/directorio?genre=accion"
+        },
+        {
+          "genero": "militar",
+          "link": "/directorio?genre=militar"
+        },
+        {
+          "genero": "shounen",
+          "link": "/directorio?genre=shounen"
+        },
+        {
+          "genero": "magia",
+          "link": "/directorio?genre=magia"
+        },
+        {
+          "genero": "drama",
+          "link": "/directorio?genre=drama"
+        },
         {
           "genero": "fantasia",
           "link": "/directorio?genre=fantasia"
         },
-        { "genero": "fantasia", "link": "/directorio?genre=fantasia" }
+        {
+          "genero": "fantasia",
+          "link": "/directorio?genre=fantasia"
+        }
       ],
       "genero1": "accion",
       "genero2": "militar",
@@ -2895,7 +3244,6 @@
       "estado": "finalizado",
       "duration": "24 min",
       "studio": "MAPPA, Studio VOLN",
-
       "year": 2015
     },
     {
@@ -3520,11 +3868,20 @@
       "genero1": ["accion", "fantasia"],
       "proximo": false,
       "generos": [
-        { "genero": "accion", "link": "/directorio?genre=accion" },
-        { "genero": "fantasia", "link": "/directorio?genre=fantasia" }
+        {
+          "genero": "accion",
+          "link": "/directorio?genre=accion"
+        },
+        {
+          "genero": "fantasia",
+          "link": "/directorio?genre=fantasia"
+        }
       ],
       "secuelas": [
-        { "secuela": "Accel World Ex", "link": "/accel-world-acchel-world" }
+        {
+          "secuela": "Accel World Ex",
+          "link": "/accel-world-acchel-world"
+        }
       ],
       "precuelas": [
         {
@@ -4759,7 +5116,6 @@
       "sec3": "disable",
       "estado": "en emision",
       "tipo": "tv",
-
       "classEstado": "tag is-success airing"
     },
     {
@@ -4799,7 +5155,6 @@
       "linksec1": "/fumetsu-no-anata-e",
       "textoSecuela2": "Proximo Episodio",
       "tipo": "tv",
-
       "nombreSecuela2": "Domingo 22 de enero 2023",
       "sec3": "disable",
       "classEstado": "tag is-success airing"
@@ -4815,8 +5170,14 @@
       "genero2": "misterio",
       "genero3": "sobrenatural",
       "generos": [
-        { "genero": "accion", "link": "/directorio?genre=accion" },
-        { "genero": "misterio", "link": "/directorio?genre=misterio" },
+        {
+          "genero": "accion",
+          "link": "/directorio?genre=accion"
+        },
+        {
+          "genero": "misterio",
+          "link": "/directorio?genre=misterio"
+        },
         {
           "genero": "sobrenatural",
           "link": "/directorio?genre=sobrenatural"
@@ -4825,7 +5186,10 @@
       "tipo": "tv",
       "episodios": 12,
       "precuelas": [
-        { "precuela": "bungou stray dogs 3", "link": "/bungou-stray-dogs-3" }
+        {
+          "precuela": "bungou stray dogs 3",
+          "link": "/bungou-stray-dogs-3"
+        }
       ],
       "descripcion": "“Su agencia de detectives es un orgullo del país”. Ha pasado aproximadamente un mes desde que la Agencia Armada de Detectives, en colaboración con Port Mafia, ganó la operación de canibalismo ideada por las Ratas en la Casa de los Muertos. La Agencia de Detectives Armados recibió la medalla más alta por su contribución a la seguridad, la Orden del Arco de Exorcismo de Azusa, y fue elogiada por todo el país. Entonces llega una solicitud urgente del gobierno. Los cuatro asesinatos de los jóvenes senadores se compararon con los cinco signos de la mortalidad del ser celestial más alto de Rokudo Rinne, los Seis Reinos de la Reencarnación. La Agencia de Detectives Armados se propone evitar que ocurra el asesinato restante. “Todas las fuerzas deben trabajar juntas para prevenir los intentos del mal”. ¡Pero resulta ser una trampa tendida por el astuto Demonio Fyodor, que se suponía que había sido capturado...! Los funcionarios del gobierno sospechan de la justicia que defienden. Una unidad especial de la policía militar, los Perros de Caza, está lista para entrar en acción. La Descomposición del Ángel está vagando por las calles para provocar la destrucción del mundo. La Agencia de Detectives Armados, que ha sido calumniada por el público desde su gloria, se enfrenta uno tras otro a nuevos enemigos y su desesperación sin fondo. Con su amistad desmoronándose, ¿será Atsushi Nakajima capaz de superar esta crisis sin precedentes? Sin un rayo de esperanza a la vista, la batalla está a punto de comenzar...",
       "estado": "finalizado",
