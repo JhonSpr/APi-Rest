@@ -506,7 +506,7 @@
       "anime": "MASHLE Kami Shinkakusha Kouho Senbatsu Shiken-hen",
       "mode": "TV",
       "tipo": "tv",
-      "episodios": 4,
+      "episodios": 5,
       "descripcion": "Segunda temporada de mashle",
       "genero1": "accion",
       "genero2": "comedia",
@@ -558,6 +558,10 @@
         {
           "episode": 4,
           "image": "https://i.postimg.cc/7LWSd4gj/63byr-YDDz-YYknysfy-Y5qq-DJR3ii.jpg"
+        },
+        {
+          "episode": 5,
+          "image": "https://i.postimg.cc/7ZNvh88v/mashle.jpg"
         }
       ],
       "temporadas": 2,
@@ -583,10 +587,11 @@
             {
               "url": "https://saidochesto.top/embed.php?id=38572"
             }
-          ]
+          ],
+          "cap5": [{ "url": "https://saidochesto.top/embed.php?id=38744" }]
         }
       ],
-      "proximo": "Sábado 3 de febrero 2024",
+      "proximo": "Sábado 10 de febrero 2024",
       "image": "https://i.postimg.cc/RZZb4bt6/mashle-kami-shinkakusha-kouho-senbatsu-shiken-hen.jpg"
     },
     {
@@ -595,7 +600,7 @@
       "anime": "solo leveling",
       "mode": "TV",
       "tipo": "tv",
-      "episodios": 4,
+      "episodios": 5,
       "descripcion": "Hace diez años, apareció “la Puerta” y conectó el mundo real con el reino de la magia y los monstruos. Para combatir a estas viles bestias, la gente corriente recibió poderes sobrehumanos y se convirtió en “Cazadores”. Sung Jin-Woo, de 20 años, es uno de esos cazadores, pero se le conoce como el “más débil del mundo”, debido a su patético poder en comparación con un mísero rango E. Aun así, caza monstruos incansablemente en Gates de bajo rango para pagar las facturas médicas de su madre. Sin embargo, este miserable estilo de vida cambia cuando Jin-Woo -creyendo que es el único que ha muerto en una misión que salió terriblemente mal- se despierta en un hospital tres días después para encontrar una misteriosa pantalla flotando frente a él. Este “Quest Log” exige que Jin-Woo complete un intenso e irreal programa de entrenamiento, o que se enfrente a un castigo apropiado. Al principio, Jin-Woo se muestra reacio a cumplir con el rigor de la búsqueda, pero pronto descubre que puede transformarlo en uno de los cazadores más temibles del mundo.",
       "genero1": "accion",
       "genero2": "aventuras",
@@ -637,6 +642,10 @@
         {
           "episode": 4,
           "image": "https://i.postimg.cc/v83Gsm11/a97dec-XJk1-Xid8w-Srn-Wczn-VY3-FU.jpg"
+        },
+        {
+          "episode": 5,
+          "image": "https://i.postimg.cc/yNZZ0HBd/solo-leveling.jpg"
         }
       ],
       "temporadas": 1,
@@ -662,7 +671,8 @@
             {
               "url": "https://saidochesto.top/embed.php?id=38573"
             }
-          ]
+          ],
+          "cap5": [{ "url": "https://saidochesto.top/embed.php?id=38745" }]
         }
       ],
       "proximo": "Sábado 3 de febrero 2024",
@@ -674,7 +684,7 @@
       "anime": "ao no exorcist shimane illuminati hen",
       "mode": "TV",
       "tipo": "tv",
-      "episodios": 4,
+      "episodios": 5,
       "descripcion": "Tercera temporada de Ao no Exorcist",
       "genero1": "accion",
       "genero2": "comedia",
@@ -731,6 +741,10 @@
         {
           "episode": 4,
           "image": "https://i.postimg.cc/JnVy0t68/7-Eyr-VLYTo5a-XJP0atxk4-AC1w1-DB.jpg"
+        },
+        {
+          "episode": 5,
+          "image": "https://i.postimg.cc/Sx46dHXx/ao-no-exorcist.jpg"
         }
       ],
       "temporadas": 3,
@@ -762,10 +776,11 @@
               "url": "https://saidochesto.top/embed.php?id=38499"
             }
           ],
-          "cap4": [{ "url": "https://saidochesto.top/embed.php?id=38566" }]
+          "cap4": [{ "url": "https://saidochesto.top/embed.php?id=38566" }],
+          "cap5": [{ "url": "https://saidochesto.top/embed.php?id=38746" }]
         }
       ],
-      "proximo": "Sábado 27 de enero 2024",
+      "proximo": "Sábado 10 de enero 2024",
       "image": "https://i.postimg.cc/sf0HkPcR/ao-no-exorcist-shimane-illuminati-hen.jpg"
     },
     {
