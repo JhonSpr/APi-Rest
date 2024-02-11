@@ -600,7 +600,7 @@
       "anime": "solo leveling",
       "mode": "TV",
       "tipo": "tv",
-      "episodios": 5,
+      "episodios": 6,
       "descripcion": "Hace diez años, apareció “la Puerta” y conectó el mundo real con el reino de la magia y los monstruos. Para combatir a estas viles bestias, la gente corriente recibió poderes sobrehumanos y se convirtió en “Cazadores”. Sung Jin-Woo, de 20 años, es uno de esos cazadores, pero se le conoce como el “más débil del mundo”, debido a su patético poder en comparación con un mísero rango E. Aun así, caza monstruos incansablemente en Gates de bajo rango para pagar las facturas médicas de su madre. Sin embargo, este miserable estilo de vida cambia cuando Jin-Woo -creyendo que es el único que ha muerto en una misión que salió terriblemente mal- se despierta en un hospital tres días después para encontrar una misteriosa pantalla flotando frente a él. Este “Quest Log” exige que Jin-Woo complete un intenso e irreal programa de entrenamiento, o que se enfrente a un castigo apropiado. Al principio, Jin-Woo se muestra reacio a cumplir con el rigor de la búsqueda, pero pronto descubre que puede transformarlo en uno de los cazadores más temibles del mundo.",
       "genero1": "accion",
       "genero2": "aventuras",
@@ -646,6 +646,10 @@
         {
           "episode": 5,
           "image": "https://i.postimg.cc/yNZZ0HBd/solo-leveling.webp"
+        },
+        {
+          "episode": 6,
+          "image": "https://i.postimg.cc/PfMyvNN1/jeyh5o40-Bj-Smk-Yxv1-FV7-OMq-Jn9m.jpg"
         }
       ],
       "temporadas": 1,
@@ -672,10 +676,11 @@
               "url": "https://saidochesto.top/embed.php?id=38573"
             }
           ],
-          "cap5": [{ "url": "https://saidochesto.top/embed.php?id=38745" }]
+          "cap5": [{ "url": "https://saidochesto.top/embed.php?id=38745" }],
+          "cap6": [{ "url": "https://saidochesto.top/embed.php?id=39025" }]
         }
       ],
-      "proximo": "Sábado 3 de febrero 2024",
+      "proximo": "Sábado 17 de febrero 2024",
       "image": "https://i.postimg.cc/wTmQ1Dqw/138405l.webp"
     },
     {
@@ -684,7 +689,7 @@
       "anime": "ao no exorcist shimane illuminati hen",
       "mode": "TV",
       "tipo": "tv",
-      "episodios": 5,
+      "episodios": 6,
       "descripcion": "Tercera temporada de Ao no Exorcist",
       "genero1": "accion",
       "genero2": "comedia",
@@ -745,6 +750,10 @@
         {
           "episode": 5,
           "image": "https://i.postimg.cc/Sx46dHXx/ao-no-exorcist.webp"
+        },
+        {
+          "episode": 6,
+          "image": "https://i.postimg.cc/LX2fmBtw/s-Aj-Go3-YSE5i-IOkw-CBYw-Hj-WTnj1s.jpg"
         }
       ],
       "temporadas": 3,
@@ -777,10 +786,11 @@
             }
           ],
           "cap4": [{ "url": "https://saidochesto.top/embed.php?id=38566" }],
-          "cap5": [{ "url": "https://saidochesto.top/embed.php?id=38746" }]
+          "cap5": [{ "url": "https://saidochesto.top/embed.php?id=38746" }],
+          "cap6": [{ "url": "https://saidochesto.top/embed.php?id=39026" }]
         }
       ],
-      "proximo": "Sábado 10 de enero 2024",
+      "proximo": "Sábado 17 de febrero 2024",
       "image": "https://i.postimg.cc/sf0HkPcR/ao-no-exorcist-shimane-illuminati-hen.webp"
     },
     {
