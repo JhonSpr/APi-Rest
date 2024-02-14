@@ -5307,33 +5307,29 @@
       "linksec1": "/ywamushi-pedal-glory-line",
       "textoSecuela2": "Proximo Episodio",
       "nombreSecuela2": "Sabado 14 de enerp 2023",
-      "sec3": "disable",
       "estado": "en emision",
       "classEstado": "tag is-success airing"
     },
     {
-      "id": "BLUELOCK",
+      "id": "bluelock",
       "mode": "TV",
       "image": "https://i.postimg.cc/tT6SjWCS/bluelock.webp",
-      "anime": "BLUELOCK",
+      "anime": "bluelock",
       "name": "bluelock",
       "year": 2022,
-      "genero1": "Deportes",
+      "genero1": "deportes",
       "generos": [
         {
-          "genero": "Deportes",
-          "link": "/directorio?genre=Deportes"
+          "genero": "deportes"
         }
       ],
       "descripcion": "Después de una derrota desastrosa en la Copa del Mundo de 2018, el equipo de Japón lucha por reagruparse. Pero, ¿qué falta? Un Ace Striker absoluto, que puede guiarlos hacia la victoria. La Unión de Fútbol de Japón está empeñada en crear un delantero que tenga hambre de goles y sed de victoria, y que pueda ser el instrumento decisivo para darle la vuelta a un partido perdido... y para hacerlo, ha reunido a 300 de los mejores de Japón. y jugadores juveniles más brillantes. ¿Quién surgirá para liderar el equipo... y será capaz de superar en fuerza y ego a todos los que se interpongan en su camino?",
       "episodios": 14,
       "textoSecuela": "Proximo Episodio",
       "nombreSecuela": "Sabado 21 de enero 2023",
-      "sec2": "disable",
-      "sec3": "disable",
-      "estado": "en emision",
+      "estado": "finalizado",
       "tipo": "tv",
-      "classEstado": "tag is-success airing"
+      "trailer": ""
     },
     {
       "id": "Fumetsu no Anata e Temporada 2",
