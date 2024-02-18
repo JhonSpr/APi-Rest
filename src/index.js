@@ -67,7 +67,7 @@ app.post('/api/v1/propiedad', (req, res) => {
       // Verifica si el objeto ya tiene la propiedad "rating"
       if (!anime.hasOwnProperty('rating')) {
         // Si no tiene la propiedad "rating", agrégala con el valor que desees
-        anime.rating = 0 // Aquí puedes establecer el valor que prefieras para "rating"
+        anime.rating = 5.2 // Aquí puedes establecer el valor que prefieras para "rating"
       }
     })
 
