@@ -186,7 +186,8 @@
       "proximo": "Viernes 2 de febrero 2024",
       "image": "https://i.postimg.cc/rscm9xcy/undead-unluck.webp",
       "trailer": "QzzZUQLhJhY?si=cz3Wn5iTscMMOO9R",
-      "banner": "https://i.postimg.cc/DyqVTvtf/The-Undead-Unluck.avif"
+      "banner": "https://i.postimg.cc/DyqVTvtf/The-Undead-Unluck.avif",
+      "rating": 0
     },
     {
       "id": "Vinland Saga",
@@ -353,7 +354,8 @@
       "proximo": false,
       "image": "https://i.postimg.cc/5NY0ztfH/vinland-saga.webp",
       "trailer": "f8JrZ7Q_p-8?si=gE3tFA4ISzFWZMqY",
-      "banner": "https://i.postimg.cc/SsFNySyy/vinland-saga.webp"
+      "banner": "https://i.postimg.cc/SsFNySyy/vinland-saga.webp",
+      "rating": 5.2
     },
     {
       "id": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
@@ -590,7 +592,11 @@
               "url": "https://saidochesto.top/embed.php?id=38572"
             }
           ],
-          "cap5": [{ "url": "https://saidochesto.top/embed.php?id=38744" }]
+          "cap5": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=38744"
+            }
+          ]
         }
       ],
       "proximo": "Sábado 10 de febrero 2024",
@@ -678,8 +684,16 @@
               "url": "https://saidochesto.top/embed.php?id=38573"
             }
           ],
-          "cap5": [{ "url": "https://saidochesto.top/embed.php?id=38745" }],
-          "cap6": [{ "url": "https://saidochesto.top/embed.php?id=39025" }]
+          "cap5": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=38745"
+            }
+          ],
+          "cap6": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39025"
+            }
+          ]
         }
       ],
       "proximo": "Sábado 17 de febrero 2024",
@@ -787,9 +801,21 @@
               "url": "https://saidochesto.top/embed.php?id=38499"
             }
           ],
-          "cap4": [{ "url": "https://saidochesto.top/embed.php?id=38566" }],
-          "cap5": [{ "url": "https://saidochesto.top/embed.php?id=38746" }],
-          "cap6": [{ "url": "https://saidochesto.top/embed.php?id=39026" }]
+          "cap4": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=38566"
+            }
+          ],
+          "cap5": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=38746"
+            }
+          ],
+          "cap6": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39026"
+            }
+          ]
         }
       ],
       "proximo": "Sábado 17 de febrero 2024",
@@ -2626,7 +2652,8 @@
         }
       ],
       "year": 2022,
-      "tipo": "tv"
+      "tipo": "tv",
+      "rating": 0
     },
     {
       "id": "Tribe nine",
@@ -2648,7 +2675,8 @@
       "estado": "finalizado",
       "year": 2022,
       "episodios": 12,
-      "tipo": "tv"
+      "tipo": "tv",
+      "rating": 0
     },
     {
       "id": "Koroshi Ai",
@@ -2675,7 +2703,8 @@
       "image": "https://i.postimg.cc/DyhsvDcd/koroshi-ai.webp",
       "estado": "finalizado",
       "year": 2022,
-      "episodios": 12
+      "episodios": 12,
+      "rating": 0
     },
     {
       "id": "Sabikui Bisco",
@@ -2707,7 +2736,8 @@
       "episodios": 12,
       "image": "https://i.postimg.cc/YCshWyQP/sabikui-bisco.webp",
       "estado": "finalizado",
-      "year": 2022
+      "year": 2022,
+      "rating": 0
     },
     {
       "id": "Sasaki to Miyano",
@@ -2736,7 +2766,8 @@
       "estado": "finalizado",
       "year": 2022,
       "classEstado": "tag is-success end",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "id": "Toaru Majutsu no Index",
@@ -2782,7 +2813,8 @@
       "episodios": 24,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "id": "Berserk: Ougon Jidai-hen - MEMORIAL EDITION",
@@ -2836,7 +2868,8 @@
       "estado": "finalizado",
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "id": "Dolls Frontline",
@@ -2874,7 +2907,8 @@
       "year": 2022,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "id": "Saiyuki RELOAD -ZEROIN-",
@@ -2894,7 +2928,8 @@
       "episodios": 13,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "id": "Violet Evergarden",
@@ -2925,7 +2960,8 @@
       "studio": "Kyoto Animation",
       "trailer": "0hpN3bGeX2U",
       "banner": "https://images3.alphacoders.com/905/905838.webp",
-      "tipo": "tv"
+      "tipo": "tv",
+      "rating": 0
     },
     {
       "id": "Shadows House Temporada 2",
@@ -2966,7 +3002,8 @@
       "trailer": "https://www.youtube.com/embed/FnrInJHB2l4",
       "studio": "CloverWorks",
       "duration": "24 min",
-      "tipo": "tv"
+      "tipo": "tv",
+      "rating": 0
     },
     {
       "id": "Orient 2nd Temporada",
@@ -2986,7 +3023,8 @@
       "year": 2022,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "id": "isekai Ojisan",
@@ -3006,7 +3044,8 @@
       "estado": "en emision",
       "li13": "disable",
       "classEstado": "tag is-success airing",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "id": "Overlord IV",
@@ -3051,7 +3090,8 @@
       "studio": " Madhouse",
       "duration": "24 min",
       "temporadas": 4,
-      "tipo": "tv"
+      "tipo": "tv",
+      "rating": 0
     },
     {
       "id": "Tensei kenja no isekai life dai 2 no shokugyou wo ete sekai saikyou ni narimashita",
@@ -3069,7 +3109,8 @@
       "estado": "finalizado",
       "year": 2022,
       "classEstado": "tag is-success end",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "id": "Vampire in the Garden",
@@ -3087,7 +3128,8 @@
       "estado": "finalizado",
       "year": 2022,
       "classEstado": "tag is-success end",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "id": "Ziuhou de Zhaohuan Shi the last summoner",
@@ -3105,7 +3147,8 @@
       "estado": "finalizado",
       "year": 2022,
       "classEstado": "tag is-success end",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "name": "kingdom 4ta temporada",
@@ -3124,7 +3167,8 @@
       "tipo": "tv",
       "year": 2022,
       "classEstado": "tag is-success end",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "id": "mahoutsukai reimeiki",
@@ -3142,7 +3186,8 @@
       "year": 2022,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "id": "tiger and bunny 2",
@@ -3162,7 +3207,8 @@
       "year": 2022,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "id": "toaru majustu no index III",
@@ -3182,7 +3228,8 @@
       "nombreSecuela": "Toaru Majutsu no Index II",
       "linksec1": "/toaru-majutsu-no-index-ii",
       "classEstado": "tag is-success end",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "id": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
@@ -3201,7 +3248,8 @@
       "tipo": "tv",
       "estado": "finalizado",
       "classEstado": "tag is-success end",
-      "al": 2
+      "al": 2,
+      "rating": 0
     },
     {
       "id": "shingeki no kyojin temporada final parte 2",
@@ -3221,7 +3269,8 @@
       "year": 2022,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Muhyo to Rouji no Mahouritsu Soudan Jimusho",
@@ -3241,7 +3290,8 @@
       "year": 2018,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Golden Time",
@@ -3259,7 +3309,8 @@
       "year": 2016,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Fullmetal Alchemist Brotherhood",
@@ -3315,7 +3366,8 @@
       "banner": "https://kineticscribe.files.wordpress.com/2013/08/fmab-banner.webp",
       "studio": "Bones",
       "duration": "24 min",
-      "tipo": "tv"
+      "tipo": "tv",
+      "rating": 0
     },
     {
       "id": "Overlord",
@@ -3335,7 +3387,8 @@
       "year": 2015,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Overlord II",
@@ -3358,7 +3411,8 @@
       "year": 2018,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Aldnoah Zero Parte 2",
@@ -3378,7 +3432,8 @@
       "year": 2015,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Yama no Susume 3",
@@ -3400,7 +3455,8 @@
       "year": 2018,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Kimetsu no Yaiba: Mugen Ressha-hen",
@@ -3422,7 +3478,8 @@
       "year": 2021,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Ushio to tora",
@@ -3463,7 +3520,8 @@
       "estado": "finalizado",
       "duration": "24 min",
       "studio": "MAPPA, Studio VOLN",
-      "year": 2015
+      "year": 2015,
+      "rating": 0
     },
     {
       "id": "Shingeki no Bahamut Genesis",
@@ -3483,7 +3541,8 @@
       "estado": "finalizado",
       "year": 2014,
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Ao no Exorcist",
@@ -3505,7 +3564,8 @@
       "estado": "finalizado",
       "year": 2011,
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
@@ -3525,7 +3585,8 @@
       "estado": "finalizado",
       "year": 2019,
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Majutsushi Orphen Hagure Tabi",
@@ -3545,7 +3606,8 @@
       "estado": "finalizado",
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Castlevania 3",
@@ -3566,7 +3628,8 @@
       "estado": "finalizado",
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Arifureta Shokugyou de Sekai Saikyou Segunda Temporada",
@@ -3586,7 +3649,8 @@
       "tipo": "tv",
       "year": 2022,
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
@@ -3604,7 +3668,8 @@
       "estado": "finalizado",
       "year": 2021,
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
@@ -3622,7 +3687,8 @@
       "tipo": "tv",
       "year": 2019,
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Sword Art Online",
@@ -3644,7 +3710,8 @@
       "estado": "finalizado",
       "year": 2012,
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Shachou, Battle no Jikan desu!",
@@ -3662,7 +3729,8 @@
       "estado": "finalizado",
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Drifters",
@@ -3682,7 +3750,8 @@
       "nombreSecuela": "Drifters (Ova)",
       "textoSecuela": "Historia Paralela",
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Saint Seiya: The Lost Canvas",
@@ -3703,7 +3772,8 @@
       "tipo": "tv",
       "year": 2009,
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Kekkai Sensen & Beyond",
@@ -3723,7 +3793,8 @@
       "tipo": "tv",
       "year": 2017,
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Mahoutsukai Reimeiki",
@@ -3741,7 +3812,8 @@
       "tipo": "tv",
       "year": 2022,
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Gaikotsu Kishi-sama, Tadaima isekai e Odekakechuu",
@@ -3759,7 +3831,8 @@
       "tipo": "tv",
       "year": 2022,
       "classEstado": "tag is-success end",
-      "al": 3
+      "al": 3,
+      "rating": 0
     },
     {
       "id": "Totsukuni no shoujo",
@@ -3777,7 +3850,8 @@
       "sec3": "disable",
       "year": 2022,
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Kunoichi Tsubaki no Mune no Uchi",
@@ -3795,7 +3869,8 @@
       "genero1": ["accion", "fantasia"],
       "year": 2022,
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
@@ -3813,7 +3888,8 @@
       "tipo": "tv",
       "sec3": "disable",
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Yuusha, Yamemasu",
@@ -3831,7 +3907,8 @@
       "tipo": "tv",
       "year": 2022,
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "ESTAB LIFE: Great Escape",
@@ -3849,7 +3926,8 @@
       "tipo": "tv",
       "sec3": "disable",
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Vanitas no Carte 2nd Cour",
@@ -3869,7 +3947,8 @@
       "year": 2022,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Ryman's Club",
@@ -3887,7 +3966,8 @@
       "year": 2022,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
@@ -3905,7 +3985,8 @@
       "tipo": "tv",
       "year": 2022,
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Sabiiro no Armor -Reimei",
@@ -3923,7 +4004,8 @@
       "sec3": "disable",
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Orient",
@@ -3943,7 +4025,8 @@
       "year": 2022,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2",
@@ -3963,7 +4046,8 @@
       "year": 2022,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Tokyo 24-ku",
@@ -3981,7 +4065,8 @@
       "year": 2022,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "CUE!",
@@ -3999,7 +4084,8 @@
       "year": 2022,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Kaijin Kaihatsu-bu no Kuroitsu-san",
@@ -4017,7 +4103,8 @@
       "year": 2022,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Koi wa Sekai Seifuku no Ato de",
@@ -4035,7 +4122,8 @@
       "year": 2022,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Megalo Box",
@@ -4055,7 +4143,8 @@
       "year": 2018,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Killing Bites",
@@ -4073,7 +4162,8 @@
       "year": 2018,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Accel World",
@@ -4116,7 +4206,8 @@
       "trailer": "https://www.youtube.com/embed/qjXJiypzXyQ",
       "year": 2012,
       "tipo": "tv",
-      "classEstado": "tag is-success end"
+      "classEstado": "tag is-success end",
+      "rating": 0
     },
     {
       "id": "Utawarerumono",
@@ -4138,7 +4229,8 @@
       "linksec3": "/accel-world-infinite-burst",
       "year": 2006,
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Eden",
@@ -4156,7 +4248,8 @@
       "tipo": "tv",
       "year": 2021,
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Altered Carbon: Resleeved",
@@ -4174,7 +4267,8 @@
       "tipo": "tv",
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Re:Zero kara Hajimeru isekai Seikatsu Segunda Temporada Parte 2",
@@ -4193,7 +4287,8 @@
       "estado": "finalizado",
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Kumo desu ga, Nani ka",
@@ -4211,7 +4306,8 @@
       "estado": "finalizado",
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Shingeki no Kyojin: Temporada Final",
@@ -4233,7 +4329,8 @@
       "genero1": ["accion", "fantasia"],
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
@@ -4251,7 +4348,8 @@
       "sec3": "disable",
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 4
+      "al": 4,
+      "rating": 0
     },
     {
       "id": "Hanyo no Yashahime",
@@ -4273,7 +4371,8 @@
       "sec3": "disable",
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Majo no Tabitabi",
@@ -4291,7 +4390,8 @@
       "sec3": "disable",
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Mob Psycho 100",
@@ -4311,7 +4411,8 @@
       "sec3": "disable",
       "year": 2016,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Mob Psycho 100 II",
@@ -4354,7 +4455,8 @@
       "sec3": "disable",
       "year": 2019,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
@@ -4393,7 +4495,8 @@
       "sec3": "disable",
       "year": 2022,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Senyoku no Sigrdrifa",
@@ -4422,7 +4525,8 @@
       "sec3": "disable",
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "King's Raid: Ishi wo Tsugumono-tachi",
@@ -4461,7 +4565,8 @@
       "sec2": "disable",
       "sec3": "disable",
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Danmachi III",
@@ -4509,7 +4614,8 @@
       "estado": "finalizado",
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "DanMachi II",
@@ -4552,7 +4658,8 @@
       "sec3": "disable",
       "year": 2019,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Sword Art Online: Alicization - War of Underworld Parte 2",
@@ -4593,7 +4700,8 @@
       "sec3": "disable",
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Re:Zero kara Hajimeru isekai Seikatsu 2nd Temporada Parte 1",
@@ -4631,7 +4739,8 @@
       "estado": "finalizado",
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Noragami Aragoto",
@@ -4672,7 +4781,8 @@
       "sec2": "disable",
       "sec3": "disable",
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Noragami",
@@ -4713,7 +4823,8 @@
       "sec2": "disable",
       "sec3": "disable",
       "duration": "24 min",
-      "studio": "Bones"
+      "studio": "Bones",
+      "rating": 0
     },
     {
       "id": "SPY x FAMILY 2nd Temporada",
@@ -4749,7 +4860,8 @@
       "year": 2022,
       "estado": "finalizado",
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Tokyo Ghoul: re 2",
@@ -4785,7 +4897,8 @@
       "sec3": "disable",
       "year": 2018,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Tokyo Ghoul: re",
@@ -4823,7 +4936,8 @@
       "sec3": "disable",
       "year": 2018,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Darling in the Franxx",
@@ -4857,7 +4971,8 @@
       "sec3": "disable",
       "year": 2018,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Goblin Slayer",
@@ -4898,7 +5013,8 @@
       "estado": "finalizado",
       "year": 2018,
       "duration": "24 min",
-      "studio": "White Fox"
+      "studio": "White Fox",
+      "rating": 0
     },
     {
       "id": "Knight's & Magic",
@@ -4931,7 +5047,8 @@
       "sec3": "disable",
       "year": 2017,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Tokyo Ghoul √A",
@@ -4975,7 +5092,8 @@
       "estado": "finalizado",
       "year": 2015,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Tokyo Ghoul",
@@ -5019,7 +5137,8 @@
       "linksec1": "/tokyo-ghoul-√a",
       "sec2": "disable",
       "sec3": "disable",
-      "year": 2014
+      "year": 2014,
+      "rating": 0
     },
     {
       "id": "ID:INVADED",
@@ -5058,7 +5177,8 @@
       "tipo": "tv",
       "year": 2020,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Levius",
@@ -5094,7 +5214,8 @@
       "estado": "finalizado",
       "year": 2019,
       "classEstado": "tag is-success end",
-      "al": 5
+      "al": 5,
+      "rating": 0
     },
     {
       "id": "Chainsaw Man",
@@ -5122,7 +5243,8 @@
       "sec2": "disable",
       "sec3": "disable",
       "estado": "finalizado",
-      "classEstado": "tag is-success end"
+      "classEstado": "tag is-success end",
+      "rating": 0
     },
     {
       "id": "Mob Psycho 100 III",
@@ -5162,7 +5284,8 @@
       ],
       "sec3": "disable",
       "estado": "finalizado",
-      "classEstado": "tag is-success end"
+      "classEstado": "tag is-success end",
+      "rating": 0
     },
     {
       "id": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV",
@@ -5207,7 +5330,8 @@
       "sec2": "disable",
       "sec3": "disable",
       "estado": "en emision",
-      "classEstado": "tag is-success airing"
+      "classEstado": "tag is-success airing",
+      "rating": 0
     },
     {
       "id": "Fuufu Ijou, Koibito Miman",
@@ -5245,7 +5369,8 @@
       "sec2": "disable",
       "sec3": "disable",
       "estado": "finalizado",
-      "classEstado": "tag is-success end"
+      "classEstado": "tag is-success end",
+      "rating": 0
     },
     {
       "id": "Peter Grill to Kenja no Jikan Super Extra",
@@ -5285,7 +5410,8 @@
         }
       ],
       "estado": "finalizado",
-      "classEstado": "tag is-success end"
+      "classEstado": "tag is-success end",
+      "rating": 0
     },
     {
       "id": "Yowamushi Pedal Limit Break",
@@ -5310,7 +5436,8 @@
       "textoSecuela2": "Proximo Episodio",
       "nombreSecuela2": "Sabado 14 de enerp 2023",
       "estado": "en emision",
-      "classEstado": "tag is-success airing"
+      "classEstado": "tag is-success airing",
+      "rating": 0
     },
     {
       "id": "bluelock",
@@ -5331,7 +5458,8 @@
       "nombreSecuela": "Sabado 21 de enero 2023",
       "estado": "finalizado",
       "tipo": "tv",
-      "trailer": ""
+      "trailer": "",
+      "rating": 0
     },
     {
       "id": "Fumetsu no Anata e Temporada 2",
@@ -5372,7 +5500,8 @@
       "tipo": "tv",
       "nombreSecuela2": "Domingo 22 de enero 2023",
       "sec3": "disable",
-      "classEstado": "tag is-success airing"
+      "classEstado": "tag is-success airing",
+      "rating": 0
     },
     {
       "id": "Bungou Stray Dogs 4",

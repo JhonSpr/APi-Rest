@@ -91,12 +91,15 @@ const getAllAnime = (filterParams) => {
       const ratingQueryParam = filterParams.rating.toLowerCase()
 
       if (ratingQueryParam === 'mayor') {
-        animes = animes.filter((animeItem) => animeItem.rating > 6)
+        animes = animes.filter(
+          (animeItem) => animeItem.rating && animeItem.rating > 6
+        )
       } else if (ratingQueryParam === 'menor') {
-        animes = animes.filter((animeItem) => animeItem.rating < 6)
+        animes = animes.filter(
+          (animeItem) => animeItem.rating && animeItem.rating < 6
+        )
       }
     }
-
     return animes
   } catch (error) {
     throw { status: 500, message: error }
