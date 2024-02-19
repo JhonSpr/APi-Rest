@@ -601,7 +601,7 @@
       ],
       "proximo": "Sábado 10 de febrero 2024",
       "image": "https://i.postimg.cc/RZZb4bt6/mashle-kami-shinkakusha-kouho-senbatsu-shiken-hen.webp",
-      "trailer": "https://i.postimg.cc/pTWpJ4cN/Mashle-trailer-presenta-el-opening-de-la-temporada-2-y-los-visionarios-divinos.jpg"
+      "banner": "https://i.postimg.cc/pTWpJ4cN/Mashle-trailer-presenta-el-opening-de-la-temporada-2-y-los-visionarios-divinos.jpg"
     },
     {
       "id": "solo leveling",
@@ -1422,7 +1422,6 @@
       "year": 2023,
       "estado": "finalizado",
       "studio": "A-1 Pictures",
-      "banner": "https://staticg.sportskeeda.com/editor/2022/11/52a29-16680280293550.png",
       "secuelas": [],
       "precuelas": [],
       "duration": "24 min",
@@ -1446,7 +1445,7 @@
       ],
       "proximo": false,
       "rating": 7.4,
-      "banner__anime": "https://i.postimg.cc/ZKVvST2x/Banner-mashle.webp"
+      "banner": "https://i.postimg.cc/ZKVvST2x/Banner-mashle.webp"
     },
     {
       "id": "akudama drive",
