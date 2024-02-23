@@ -6,7 +6,7 @@
       "anime": "ishura",
       "mode": "TV",
       "tipo": "tv",
-      "episodios": 7,
+      "episodios": 8,
       "descripcion": "En un mundo donde el Rey Demonio ha muerto, una multitud de semidioses capaces de derribarlo han heredado el mundo. Un maestro esgrimista que puede descubrir cómo eliminar a sus oponentes con una sola mirada; un lancero tan veloz que puede romper la barrera del sonido; un pícaro wyvern que lucha con tres armas legendarias a la vez; un mago todopoderoso que puede hacer realidad los pensamientos; un asesino angelical que causa muerte instantánea. Ansiosos por obtener el título de 'Verdadero Héroe', estos campeones persiguen desafíos contra enemigos formidables y provocan conflictos entre ellos. Comienza la batalla para determinar quién es el más poderoso de los poderosos.",
       "genero1": "accion",
       "genero2": "aventuras",
@@ -34,31 +34,35 @@
       "episodes__overlay": [
         {
           "episode": 1,
-          "image": ""
+          "image": "https://i.postimg.cc/ZK48mfNg/4-We2tjek-X6-NVJRD8-JQJAX9-El2mz.jpg"
         },
         {
           "episode": 2,
-          "image": ""
+          "image": "https://i.postimg.cc/m2kQhPdN/ppszo-Fm-BADudn-T0zr1p9xj8q-W3l.jpg"
         },
         {
           "episode": 3,
-          "image": ""
+          "image": "https://i.postimg.cc/Y98dKJ9p/h-O2-GGR9t-Ld-Ds-Mn-AC8d-LXgl-CW0-JJ.jpg"
         },
         {
           "episode": 4,
-          "image": ""
+          "image": "https://i.postimg.cc/tR3rFvHR/k-Yhdv-Ty-CUF5-QMxb-H9-Utq11-MZOgx.jpg"
         },
         {
           "episode": 5,
-          "image": ""
+          "image": "https://i.postimg.cc/BZ2K6dfp/7-GFIhgz-Miu6u-TTDb9-Tktx-Qk-E36o.jpg"
         },
         {
           "episode": 6,
-          "image": ""
+          "image": "https://i.postimg.cc/Jn5HTkqg/76-Aczxf5ae2-EMFw-HAUT1wit-XQIw.jpg"
         },
         {
           "episode": 7,
-          "image": ""
+          "image": "https://i.postimg.cc/4dsQNZ2D/j-Fu5-PKh-TQkd8m-FFk8dj0-Tg-S7s-Oi.jpg"
+        },
+        {
+          "episode": 8,
+          "image": "https://i.postimg.cc/j2Xx06nV/js-ZYpug-Zf0-S0ib-Zz-EACaja-HDZX9.jpg"
         }
       ],
       "temporadas": 1,
@@ -67,37 +71,42 @@
         {
           "cap1": [
             {
-              "url": ""
+              "url": "https://saidochesto.top/embed.php?id=38021"
             }
           ],
           "cap2": [
             {
-              "url": ""
+              "url": "https://saidochesto.top/embed.php?id=38131"
             }
           ],
           "cap3": [
             {
-              "url": ""
+              "url": "https://saidochesto.top/embed.php?id=38417"
             }
           ],
           "cap4": [
             {
-              "url": ""
+              "url": "https://saidochesto.top/embed.php?id=38536"
             }
           ],
           "cap5": [
             {
-              "url": ""
+              "url": "https://saidochesto.top/embed.php?id=38665"
             }
           ],
           "cap6": [
             {
-              "url": ""
+              "url": "https://saidochesto.top/embed.php?id=38894"
             }
           ],
           "cap7": [
             {
-              "url": ""
+              "url": "https://saidochesto.top/embed.php?id=39059"
+            }
+          ],
+          "cap8": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39134"
             }
           ]
         }
