@@ -1,6 +1,114 @@
 {
   "animes": [
     {
+      "id": "ishura",
+      "name": "ishura",
+      "anime": "ishura",
+      "mode": "TV",
+      "tipo": "tv",
+      "episodios": 7,
+      "descripcion": "En un mundo donde el Rey Demonio ha muerto, una multitud de semidioses capaces de derribarlo han heredado el mundo. Un maestro esgrimista que puede descubrir cómo eliminar a sus oponentes con una sola mirada; un lancero tan veloz que puede romper la barrera del sonido; un pícaro wyvern que lucha con tres armas legendarias a la vez; un mago todopoderoso que puede hacer realidad los pensamientos; un asesino angelical que causa muerte instantánea. Ansiosos por obtener el título de 'Verdadero Héroe', estos campeones persiguen desafíos contra enemigos formidables y provocan conflictos entre ellos. Comienza la batalla para determinar quién es el más poderoso de los poderosos.",
+      "genero1": "accion",
+      "genero2": "aventuras",
+      "genero3": "fantasia",
+      "generos": [
+        {
+          "genero": "accion",
+          "link": "/directorio?genero=accion"
+        },
+        {
+          "genero": "aventuras",
+          "link": "/directorio?genero=aventuras"
+        },
+        {
+          "genero": "fantasia",
+          "link": "/directorio?genero=fantasia"
+        }
+      ],
+      "emitido": "enero 03 de 2024",
+      "duration": "24 min",
+      "estado": "en emision",
+      "year": 2024,
+      "studio": "Passione",
+      "precuelas": [],
+      "episodes__overlay": [
+        {
+          "episode": 1,
+          "image": ""
+        },
+        {
+          "episode": 2,
+          "image": ""
+        },
+        {
+          "episode": 3,
+          "image": ""
+        },
+        {
+          "episode": 4,
+          "image": ""
+        },
+        {
+          "episode": 5,
+          "image": ""
+        },
+        {
+          "episode": 6,
+          "image": ""
+        },
+        {
+          "episode": 7,
+          "image": ""
+        }
+      ],
+      "temporadas": 1,
+      "secuelas": [],
+      "services": [
+        {
+          "cap1": [
+            {
+              "url": ""
+            }
+          ],
+          "cap2": [
+            {
+              "url": ""
+            }
+          ],
+          "cap3": [
+            {
+              "url": ""
+            }
+          ],
+          "cap4": [
+            {
+              "url": ""
+            }
+          ],
+          "cap5": [
+            {
+              "url": ""
+            }
+          ],
+          "cap6": [
+            {
+              "url": ""
+            }
+          ],
+          "cap7": [
+            {
+              "url": ""
+            }
+          ]
+        }
+      ],
+      "proximo": "febrero 21 de 2024",
+      "image": "https://i.postimg.cc/6qBYFMcr/ishura-1.jpg",
+      "trailer": "i4jKHUMuuNk",
+      "banner": "https://i.postimg.cc/GmRGK4MD/ishura-anime-characters.avif",
+      "rating": 5.2
+    },
+    {
       "id": "Undead Unluck",
       "name": "undead unluck",
       "anime": "undead unluck",
