@@ -371,7 +371,7 @@
       "mode": "TV",
       "tipo": "tv",
       "episodios": 24,
-      "descripcion": "",
+      "descripcion": "Durante mil años, los vikingos se han hecho un gran nombre y reputación como las familias más fuertes con sed de violencia. Thorfinn, el hijo de uno de los mejores guerreros de los vikingos, pasa su niñez en un campo de batalla para mejorar sus habilidades en su aventura para redimir su venganza más deseada después de que su padre fue asesinado.",
       "genero1": "accion",
       "genero2": "shounen",
       "genero3": "Historico",
@@ -453,6 +453,56 @@
         {
           "episode": 12,
           "image": ""
+        },
+        {
+          "episode": 13,
+          "image": ""
+        },
+        {
+          "episode": 14,
+          "image": ""
+        },
+        {
+          "episode": 15,
+          "image": ""
+        },
+        {
+          "episode": 16,
+          "image": ""
+        },
+        {
+          "episode": 17,
+          "image": ""
+        },
+        {
+          "episode": 18,
+          "image": ""
+        },
+        {
+          "episode": 19,
+          "image": ""
+        },
+        {
+          "episode": 20,
+          "image": ""
+        },
+
+        {
+          "episode": 21,
+          "image": ""
+        },
+
+        {
+          "episode": 22,
+          "image": ""
+        },
+        {
+          "episode": 23,
+          "image": ""
+        },
+        {
+          "episode": 24,
+          "image": ""
         }
       ],
       "temporadas": 2,
@@ -520,6 +570,66 @@
             }
           ],
           "cap12": [
+            {
+              "url": ""
+            }
+          ],
+          "cap13": [
+            {
+              "url": ""
+            }
+          ],
+          "cap14": [
+            {
+              "url": ""
+            }
+          ],
+          "cap15": [
+            {
+              "url": ""
+            }
+          ],
+          "cap16": [
+            {
+              "url": ""
+            }
+          ],
+          "cap17": [
+            {
+              "url": ""
+            }
+          ],
+          "cap18": [
+            {
+              "url": ""
+            }
+          ],
+          "cap19": [
+            {
+              "url": ""
+            }
+          ],
+          "cap20": [
+            {
+              "url": ""
+            }
+          ],
+          "cap21": [
+            {
+              "url": ""
+            }
+          ],
+          "cap22": [
+            {
+              "url": ""
+            }
+          ],
+          "cap23": [
+            {
+              "url": ""
+            }
+          ],
+          "cap24": [
             {
               "url": ""
             }
