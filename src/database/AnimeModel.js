@@ -16,6 +16,12 @@ const getAllAnime = (filterParams) => {
           filterParams.letra.toLowerCase()
       )
     }
+    if (filterParams.studio) {
+      return animes.filter(
+        (anime) =>
+          anime?.studio?.toLowerCase() === filterParams.studio.toLowerCase()
+      )
+    }
 
     if (filterParams.info) {
       return animes.filter((anime) => anime.name == filterParams.info)
