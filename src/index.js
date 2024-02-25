@@ -35,6 +35,40 @@ app.put('/api/v1/animes/:id/rating', (req, res) => {
   }
 })
 
+app.put('/api/v1/animes/:id/visita', (req, res) => {
+  const animeId = req.params.id
+  const visita = parseInt(req.body.visitas)
+
+  // Verifica si la visita es un número válido
+  if (!isNaN(visita)) {
+    // Encuentra el anime por su ID en tu base de datos y actualiza las visitas
+    const anime = DB.animes.find((anime) => anime.id === animeId)
+
+    if (anime) {
+      anime.visitas = visita
+
+      // Ruta del archivo JSON de la base de datos
+      const dbPath = './database/db.json' // Reemplaza con la ruta correcta de tu archivo JSON
+
+      // Escribe los cambios en el archivo JSON
+      fs.writeFile(dbPath, JSON.stringify(DB), (err) => {
+        if (err) {
+          res
+            .status(500)
+            .send({ error: 'Error al escribir en la base de datos.' })
+          console.error(err) // Imprime el error en la consola para depuración
+          return
+        }
+        res.send({ message: 'Visitas actualizadas correctamente.' })
+      })
+    } else {
+      res.status(404).send({ error: 'Anime no encontrado.' })
+    }
+  } else {
+    res.status(400).send({ error: 'La visita no es un número válido.' })
+  }
+})
+
 app.post('/api/v1/animes-agregar', (req, res) => {
   try {
     const nuevoAnime = req.body
@@ -68,6 +102,10 @@ app.post('/api/v1/propiedad', (req, res) => {
       if (!anime.hasOwnProperty('rating')) {
         // Si no tiene la propiedad "rating", agrégala con el valor que desees
         anime.rating = 5.2 // Aquí puedes establecer el valor que prefieras para "rating"
+      }
+      if (!anime.hasOwnProperty('visitas')) {
+        // Si no tiene la propiedad "rating", agrégala con el valor que desees
+        anime.visitas = 0 // Aquí puedes establecer el valor que prefieras para "rating"
       }
     })
 

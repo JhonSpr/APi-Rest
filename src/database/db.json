@@ -56,7 +56,8 @@
       "image": "https://i.postimg.cc/J0Qm5RYJ/ninja-kamui.jpg",
       "trailer": "oeW6Ew4HRmc",
       "banner": "https://i.postimg.cc/CKfRHfGq/ninja-kamui-fecha-de-estreno-jpg-1324964843.webp",
-      "rating": 5.2
+
+      "visitas": 0
     },
     {
       "id": "ishura",
@@ -173,7 +174,8 @@
       "image": "https://i.postimg.cc/6qBYFMcr/ishura-1.jpg",
       "trailer": "i4jKHUMuuNk",
       "banner": "https://i.postimg.cc/GmRGK4MD/ishura-anime-characters.avif",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Undead Unluck",
@@ -362,7 +364,8 @@
       "image": "https://i.postimg.cc/rscm9xcy/undead-unluck.webp",
       "trailer": "QzzZUQLhJhY?si=cz3Wn5iTscMMOO9R",
       "banner": "https://i.postimg.cc/DyqVTvtf/The-Undead-Unluck.avif",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Vinland Saga",
@@ -638,7 +641,8 @@
       "image": "https://i.postimg.cc/5NY0ztfH/vinland-saga.webp",
       "trailer": "f8JrZ7Q_p-8?si=gE3tFA4ISzFWZMqY",
       "banner": "https://i.postimg.cc/jj7Hc4BH/Vinland-Saga-featured.webp",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 2
     },
     {
       "id": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
@@ -785,7 +789,8 @@
       ],
       "proximo": false,
       "image": "https://i.postimg.cc/XY8nF4GW/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru.webp",
-      "trailer": "_PR_PwGshIE?si=9X_Xw3V2eNl7I_8G"
+      "trailer": "_PR_PwGshIE?si=9X_Xw3V2eNl7I_8G",
+      "visitas": 2
     },
     {
       "id": "MASHLE Kami Shinkakusha Kouho Senbatsu Shiken-hen",
@@ -884,7 +889,8 @@
       ],
       "proximo": "Sábado 10 de febrero 2024",
       "image": "https://i.postimg.cc/RZZb4bt6/mashle-kami-shinkakusha-kouho-senbatsu-shiken-hen.webp",
-      "banner": "https://i.postimg.cc/pTWpJ4cN/Mashle-trailer-presenta-el-opening-de-la-temporada-2-y-los-visionarios-divinos.jpg"
+      "banner": "https://i.postimg.cc/pTWpJ4cN/Mashle-trailer-presenta-el-opening-de-la-temporada-2-y-los-visionarios-divinos.jpg",
+      "visitas": 0
     },
     {
       "id": "ore dake lvel up na ken solo leveling",
@@ -981,7 +987,8 @@
         }
       ],
       "proximo": "Sábado 17 de febrero 2024",
-      "image": "https://i.postimg.cc/wTmQ1Dqw/138405l.webp"
+      "image": "https://i.postimg.cc/wTmQ1Dqw/138405l.webp",
+      "visitas": 0
     },
     {
       "id": "Ao no Exorcist Shimane Illuminati-hen",
@@ -1103,7 +1110,8 @@
         }
       ],
       "proximo": "Sábado 17 de febrero 2024",
-      "image": "https://i.postimg.cc/sf0HkPcR/ao-no-exorcist-shimane-illuminati-hen.webp"
+      "image": "https://i.postimg.cc/sf0HkPcR/ao-no-exorcist-shimane-illuminati-hen.webp",
+      "visitas": 0
     },
     {
       "id": "tate no Yuusha no Nariagari 3ra temporada",
@@ -1208,7 +1216,8 @@
             }
           ]
         }
-      ]
+      ],
+      "visitas": 0
     },
     {
       "id": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
@@ -1264,7 +1273,8 @@
       "secuelas": [],
       "proximo": "Domingo 7 de agosto 2023",
       "image": "https://i.postimg.cc/hGj1p231/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto.webp",
-      "banner__anime": "https://i.postimg.cc/59vq7YpT/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-banner.webp"
+      "banner__anime": "https://i.postimg.cc/59vq7YpT/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-banner.webp",
+      "visitas": 0
     },
     {
       "id": "jujutsu kaisen 2nd temporada",
@@ -1415,7 +1425,8 @@
             }
           ]
         }
-      ]
+      ],
+      "visitas": 0
     },
     {
       "id": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
@@ -1512,7 +1523,8 @@
       "secuelas": [],
       "proximo": false,
       "image": "https://i.postimg.cc/4ySm5VzM/bleach-sennen-kessen-hen-ketsubetsu-tan-11613.webp",
-      "banner__anime": "https://i.postimg.cc/xjp2BXSt/Banner-bleach-segunda-parte.webp"
+      "banner__anime": "https://i.postimg.cc/xjp2BXSt/Banner-bleach-segunda-parte.webp",
+      "visitas": 0
     },
     {
       "id": "Bungou Stray Dogs 5",
@@ -1553,7 +1565,8 @@
       "rating": 7.5,
       "secuelas": [],
       "proximo": false,
-      "image": "https://i.postimg.cc/J7dfqsWL/Fs-T4g-PXa-MAw-Pbmh.webp"
+      "image": "https://i.postimg.cc/J7dfqsWL/Fs-T4g-PXa-MAw-Pbmh.webp",
+      "visitas": 0
     },
     {
       "id": "Black clover pelicula",
@@ -1602,7 +1615,8 @@
       ],
       "proximo": false,
       "rating": 9.2,
-      "image": "https://i.postimg.cc/MKJ5GbBF/black-clover-mahou-tei-no-ken.webp"
+      "image": "https://i.postimg.cc/MKJ5GbBF/black-clover-mahou-tei-no-ken.webp",
+      "visitas": 0
     },
     {
       "id": "Hellsing Ultimate",
@@ -1647,7 +1661,8 @@
       "secuelas": [],
       "rating": 6.5,
       "proximo": false,
-      "image": "https://i.postimg.cc/XvCHym5H/hellsing-ultimate.webp"
+      "image": "https://i.postimg.cc/XvCHym5H/hellsing-ultimate.webp",
+      "visitas": 0
     },
     {
       "id": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
@@ -1692,7 +1707,8 @@
         }
       ],
       "rating": 7.7,
-      "secuelas": []
+      "secuelas": [],
+      "visitas": 0
     },
     {
       "id": "mashle",
@@ -1728,7 +1744,8 @@
       ],
       "proximo": false,
       "rating": 7.4,
-      "banner": "https://i.postimg.cc/ZKVvST2x/Banner-mashle.webp"
+      "banner": "https://i.postimg.cc/ZKVvST2x/Banner-mashle.webp",
+      "visitas": 0
     },
     {
       "id": "akudama drive",
@@ -1759,7 +1776,8 @@
       "duration": "24 min",
       "studio": "Studio Pierrot",
       "image": "https://i.postimg.cc/Dz96B0dq/akudama-drive.webp",
-      "banner__anime": "https://i.postimg.cc/Bv2FVWLB/Banner-Akudama-Drive.webp"
+      "banner__anime": "https://i.postimg.cc/Bv2FVWLB/Banner-Akudama-Drive.webp",
+      "visitas": 0
     },
     {
       "id": "BLEACH: Sennen Kessen-hen",
@@ -1804,7 +1822,8 @@
       ],
       "rating": 7.1,
       "studio": "Studio Pierrot",
-      "duration": "24 min"
+      "duration": "24 min",
+      "visitas": 0
     },
     {
       "id": "hoshi no samidare",
@@ -1854,7 +1873,8 @@
       ],
       "duration": "24 min",
       "rating": 7.2,
-      "studio": "NAZ"
+      "studio": "NAZ",
+      "visitas": 0
     },
     {
       "id": "Shadows House",
@@ -1889,7 +1909,8 @@
       "duration": "23 min",
       "studio": "CloverWorks",
       "rating": 5.7,
-      "tipo": "tv"
+      "tipo": "tv",
+      "visitas": 0
     },
     {
       "id": "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2",
@@ -1939,7 +1960,8 @@
           "link": "/directorio?genre=magia"
         }
       ],
-      "rating": 7
+      "rating": 7,
+      "visitas": 0
     },
     {
       "id": "Kuro no Shoukanshi",
@@ -1969,7 +1991,8 @@
       "studio": "Satelight",
       "duration": "24 min",
       "rating": 5.5,
-      "tipo": "tv"
+      "tipo": "tv",
+      "visitas": 0
     },
     {
       "id": "Hanyo no Yashahime ni no Shou",
@@ -2005,7 +2028,8 @@
           "link": "/directorio?genre=sobrenatural"
         }
       ],
-      "rating": 6.3
+      "rating": 6.3,
+      "visitas": 0
     },
     {
       "id": "Heion Sedai no Idaten Tachi",
@@ -2048,7 +2072,8 @@
           "link": "/directorio?genre=seinen"
         }
       ],
-      "rating": 6
+      "rating": 6,
+      "visitas": 0
     },
     {
       "id": "Peach Boy Riverside",
@@ -2078,7 +2103,8 @@
           "link": "/directorio?genre=shounen"
         }
       ],
-      "rating": 6.5
+      "rating": 6.5,
+      "visitas": 0
     },
     {
       "id": "Jujutsu Kaisen",
@@ -2130,7 +2156,8 @@
           "link": "/directorio?genre=terror"
         }
       ],
-      "rating": 7.8
+      "rating": 7.8,
+      "visitas": 0
     },
     {
       "id": "Shingeki no Bahamut:Virgin Soul",
@@ -2179,7 +2206,8 @@
           "link": "/directorio?genre=sobrenatural"
         }
       ],
-      "rating": 6.7
+      "rating": 6.7,
+      "visitas": 0
     },
     {
       "id": "Castlevania",
@@ -2233,7 +2261,8 @@
       ],
       "classEstado": "tag is-success end",
       "tipo": "tv",
-      "rating": 7.6
+      "rating": 7.6,
+      "visitas": 0
     },
     {
       "id": "Overlord III",
@@ -2294,7 +2323,8 @@
           "link": "/directorio?genre=sobrenatural"
         }
       ],
-      "rating": 7.8
+      "rating": 7.8,
+      "visitas": 0
     },
     {
       "id": "Ao no Exorcist Kyoto Fujouou Hen",
@@ -2341,7 +2371,8 @@
       ],
       "year": 2017,
       "tipo": "tv",
-      "rating": 5.9
+      "rating": 5.9,
+      "visitas": 0
     },
     {
       "id": "Fairy Gone",
@@ -2391,7 +2422,8 @@
       ],
       "studio": "P.A. Works",
       "duration": "23 min",
-      "rating": 7.2
+      "rating": 7.2,
+      "visitas": 0
     },
     {
       "id": "Dr Stone Ryusui",
@@ -2427,7 +2459,8 @@
       ],
       "classEstado": "tag is-success end",
       "tipo": "tv",
-      "rating": 8.2
+      "rating": 8.2,
+      "visitas": 0
     },
     {
       "id": "isekai Yakkyoku",
@@ -2456,7 +2489,8 @@
       ],
       "classEstado": "tag is-success end",
       "tipo": "tv",
-      "rating": 8.6
+      "rating": 8.6,
+      "visitas": 0
     },
     {
       "id": "Fairy Gone 2nd Temporada",
@@ -2501,7 +2535,8 @@
       "studio": "P.A. Works",
       "duration": "20 min",
       "tipo": "tv",
-      "rating": 6.2
+      "rating": 6.2,
+      "visitas": 0
     },
     {
       "id": "isekai Meikyuu de Harem wo",
@@ -2550,7 +2585,8 @@
       ],
       "descripcion": "Luchando con la vida y la sociedad, el estudiante de secundaria Michio Kaga deambula por Internet y aterriza en un sitio web extraño. El sitio web, que presenta una serie de preguntas y un sistema basado en puntos, permite crear habilidades y destrezas para un personaje. Al completar su personaje, Kaga fue transportado a un mundo de fantasía similar a un juego y renació como un hombre fuerte que puede reclamar chicas de nivel ídolo. ¡Así comienza la leyenda del engaño y el harem de un hombre renacido!",
       "tipo": "tv",
-      "rating": 7.4
+      "rating": 7.4,
+      "visitas": 0
     },
     {
       "id": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Temporada",
@@ -2585,7 +2621,8 @@
       "year": 2022,
       "tipo": "tv",
       "episodios": 13,
-      "rating": 7.7
+      "rating": 7.7,
+      "visitas": 0
     },
     {
       "id": "Spy x Family",
@@ -2620,7 +2657,8 @@
       ],
       "episodios": 12,
       "year": 2022,
-      "rating": 4.7
+      "rating": 4.7,
+      "visitas": 0
     },
     {
       "id": "Date a Live IV",
@@ -2665,7 +2703,8 @@
       ],
       "year": 2022,
       "episodios": 12,
-      "rating": 6.6
+      "rating": 6.6,
+      "visitas": 0
     },
     {
       "id": "Tate no Yuusha no Naraigari",
@@ -2716,7 +2755,8 @@
           "link": "/directorio?genre=seinen"
         }
       ],
-      "rating": 5.7
+      "rating": 5.7,
+      "visitas": 0
     },
     {
       "id": "Tate no Yuusha no Naraigari 2nd Temporada",
@@ -2764,7 +2804,8 @@
           "secuela": "tate no yuusha no naraigari 3ra temporada",
           "link": "/tate-no-yuusha-no-nariagari-3ra-temporada"
         }
-      ]
+      ],
+      "visitas": 0
     },
     {
       "id": "Tomodachi Game",
@@ -2793,7 +2834,8 @@
         }
       ],
       "year": 2022,
-      "rating": 8.2
+      "rating": 8.2,
+      "visitas": 0
     },
     {
       "id": "Baraou no Souretsu",
@@ -2836,7 +2878,8 @@
         }
       ],
       "tipo": "tv",
-      "rating": 7.4
+      "rating": 7.4,
+      "visitas": 0
     },
     {
       "id": "Karakuri Circus",
@@ -2880,7 +2923,8 @@
         }
       ],
       "year": 2022,
-      "rating": 7.9
+      "rating": 7.9,
+      "visitas": 0
     },
     {
       "id": "Extreme Hearts",
@@ -2908,7 +2952,8 @@
         }
       ],
       "tipo": "tv",
-      "rating": 8
+      "rating": 8,
+      "visitas": 0
     },
     {
       "id": "Gensou Sangokushi Tenge Reishink",
@@ -2936,7 +2981,8 @@
       ],
       "year": 2022,
       "tipo": "tv",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Tribe nine",
@@ -2959,7 +3005,8 @@
       "year": 2022,
       "episodios": 12,
       "tipo": "tv",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Koroshi Ai",
@@ -2987,7 +3034,8 @@
       "estado": "finalizado",
       "year": 2022,
       "episodios": 12,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Sabikui Bisco",
@@ -3020,7 +3068,8 @@
       "image": "https://i.postimg.cc/YCshWyQP/sabikui-bisco.webp",
       "estado": "finalizado",
       "year": 2022,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Sasaki to Miyano",
@@ -3050,7 +3099,8 @@
       "year": 2022,
       "classEstado": "tag is-success end",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Toaru Majutsu no Index",
@@ -3097,7 +3147,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Berserk: Ougon Jidai-hen - MEMORIAL EDITION",
@@ -3152,7 +3203,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Dolls Frontline",
@@ -3191,7 +3243,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Saiyuki RELOAD -ZEROIN-",
@@ -3201,10 +3254,7 @@
       "descripcion": "Una vez, la tierra de Togenkyo era una tierra pacífica, donde los humanos y los yokai vivían juntos. Sin embargo, entonces aparecieron hombres que intentaron revivir a Gyumaoh, el Gran Yokai que fue asesinado por el dios de la guerra Nataku Taishi y enterrado en el castillo de Houtou hace 500 años, utilizando una combinación prohibida de química y magia. Las ondas de energía negativa que esto creó se extendieron por todo Togenkyo, provocando que los yokai enloquecieran y atacaran a la humanidad. Para salvar la tierra, Kanzeon Bosatsu ordena a Son Goku, Genjyo Sazno, Sha Gojyo y Cho Hakkai que vayan al oeste. Los cuatro emprenden un viaje para detener el experimento para revivir a Gyumaoh. En el camino, se encuentran con Hazel Grouse, que emplea una extraña magia que utiliza las almas de los yokai para revivir a los muertos, y su seguidor Gat. Ambos se unen al grupo. Y Ukoku Sanzo, un hombre con el que tienen una larga historia, se acerca en las sombras… Personajes inolvidables, intensos dramas personales y una acción impresionante en una historia sobre los vínculos entre cuatro hombres.",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "textoSecuela": "Secuela",
       "nombreSecuela": "Saiyuuki Reload Blast",
       "linksec1": "/saiyuuki-reload-blast",
@@ -3215,7 +3265,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Violet Evergarden",
@@ -3247,7 +3298,8 @@
       "trailer": "0hpN3bGeX2U",
       "banner": "https://images3.alphacoders.com/905/905838.webp",
       "tipo": "tv",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Shadows House Temporada 2",
@@ -3289,7 +3341,8 @@
       "studio": "CloverWorks",
       "duration": "24 min",
       "tipo": "tv",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Orient 2nd Temporada",
@@ -3300,10 +3353,7 @@
       "episodios": 12,
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Orient",
       "linksec1": "/orient",
@@ -3313,7 +3363,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "isekai Ojisan",
@@ -3326,10 +3377,7 @@
       "tipo": "tv",
       "episodios": 12,
       "sec2": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec3": "disable",
       "textoSecuela": "Proximo Episodio",
       "nombreSecuela": "Suspendido por casos COVID-19",
@@ -3337,7 +3385,8 @@
       "li13": "disable",
       "classEstado": "tag is-success airing",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Overlord IV",
@@ -3383,7 +3432,8 @@
       "duration": "24 min",
       "temporadas": 4,
       "tipo": "tv",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Tensei kenja no isekai life dai 2 no shokugyou wo ete sekai saikyou ni narimashita",
@@ -3396,16 +3446,14 @@
       "tipo": "tv",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/Z5VDF6q2/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita.webp",
       "estado": "finalizado",
       "year": 2022,
       "classEstado": "tag is-success end",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Vampire in the Garden",
@@ -3418,16 +3466,14 @@
       "tipo": "tv",
       "sec3": "disable",
       "episodios": 5,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/NGk8HBFP/vampire-in-the-garden.webp",
       "estado": "finalizado",
       "year": 2022,
       "classEstado": "tag is-success end",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Ziuhou de Zhaohuan Shi the last summoner",
@@ -3439,17 +3485,15 @@
       "tipo": "tv",
       "sec1": "disable",
       "sec2": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec3": "disable",
       "image": "https://i.postimg.cc/pLhnqHVv/zuihou-de-zhaohuan-shi-the-last-summoner.webp",
       "estado": "finalizado",
       "year": 2022,
       "classEstado": "tag is-success end",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "name": "kingdom 4ta temporada",
@@ -3458,10 +3502,7 @@
       "descripcion": "Cuarta temporada de Kingdom",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Kingdom 3ra Temporada",
       "linksec1": "/kingdom-3ra-temporada",
@@ -3472,7 +3513,8 @@
       "year": 2022,
       "classEstado": "tag is-success end",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "mahoutsukai reimeiki",
@@ -3483,10 +3525,7 @@
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "episodios": 12,
       "image": "https://i.postimg.cc/J7Yng22z/mahoutsukai-reimeiki.webp",
       "estado": "finalizado",
@@ -3494,7 +3533,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "tiger and bunny 2",
@@ -3504,10 +3544,7 @@
       "descripcion": "Schternbilt City es hogar de personas llamadas 'Next', que usan sus habilidades especiales para proteger a los ciudadanos como superheroes. Estos héroes resuelven casos y salvan vidas con el fin de vestir logotipos o adquirir 'hero points'. Sus actividades son documentadas en el popular programa 'Hero TV', que escoge al 'Rey de los Heroes' por medio de un ranking anual. El héroe veterano Wild Tiger siempre ha preferido trabajar solo, pero se le ha asignado el novato Barnaby Brooks Jr, quien tiene una perspectiva diferente de lo que es ser un héroe.",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Tiger & Bunny",
       "linksec1": "/tiger-&-bunny",
@@ -3518,7 +3555,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "toaru majustu no index III",
@@ -3532,17 +3570,15 @@
       "episodios": 26,
       "tipo": "tv",
       "sec2": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec3": "disable",
       "textoSecuela": "Precuela",
       "nombreSecuela": "Toaru Majutsu no Index II",
       "linksec1": "/toaru-majutsu-no-index-ii",
       "classEstado": "tag is-success end",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
@@ -3562,7 +3598,8 @@
       "estado": "finalizado",
       "classEstado": "tag is-success end",
       "al": 2,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "shingeki no kyojin temporada final parte 2",
@@ -3572,10 +3609,7 @@
       "descripcion": "Segunda parte de Shingeki no Kyojin: The Final Season.",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Shingeki no Kyojin: Temporada Final",
       "episodios": 12,
@@ -3586,7 +3620,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Muhyo to Rouji no Mahouritsu Soudan Jimusho",
@@ -3596,10 +3631,7 @@
       "descripcion": "¿Alguna vez fuiste víctima de una posesión espiritual? ¿Hay algún fantasma que quieras hacer desaparecer de tu casa... o hacerlo arder eternamente en el infierno? Si respondiste 'sí' a cualquiera de estas preguntas o a cualquier otra similar, entonces necesitas a Muhyo y Roji, expertos en las leyes de lo sobrenatural. Hacer justicia con los espíritus es su especialidad.",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "textoSecuela": "Secuela",
       "nombreSecuela": "Muhyo to Rouji no Mahouritsu Soudan Jumusho 2nd temporada",
       "linksec1": "muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-temporada",
@@ -3610,16 +3642,14 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Golden Time",
       "name": "golden time",
       "anime": "Golden Time",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "mode": "TV",
       "descripcion": "Tada Banri, es un estudiante de nuevo ingreso en una escuela privada de derecho en Tokio, después de la ceremonia de apertura, él estaba completamente perdido tratando de encontrar el camino hacia el salón de orientación para los de primer año. En ese momento, se encuentra con un estudiante de primer año, que también estaba perdido, Mitsuo Yanagisawa. De alguna manera llegaron al lugar donde se dirigían, pero de repente frente a los dos aparece una chica hermosa que sostiene un ramo de rosas. La chica golpeó a Mitsuo en la cara con el ramo. 'felicidades, estudiante de nuevo ingreso', fue todo lo que dijo, y luego se fue. La mujer que golpeo a Mitsuo se trataba de su amiga de la infancia, Kaga Kouko. Cuando eran niños se habían prometido a casarse cuando algún día llegarán a cumplir sus sueños. Con el fin de escapar de ella, Mitsuo había salido secretamente y tomado el examen de este colegio privado muy conocido.",
       "sec1": "disable",
@@ -3632,7 +3662,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Fullmetal Alchemist Brotherhood",
@@ -3689,7 +3720,8 @@
       "studio": "Bones",
       "duration": "24 min",
       "tipo": "tv",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Overlord",
@@ -3703,17 +3735,15 @@
       "sec3": "disable",
       "textoSecuela": "Secuela",
       "nombreSecuela": "Overlord II",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "linksec1": "/overlord-ii",
       "estado": "finalizado",
       "year": 2015,
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Overlord II",
@@ -3726,10 +3756,7 @@
       "textoSecuela2": "Secuela",
       "nombreSecuela": "Overlord",
       "nombreSecuela2": "Overlord III",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "linksec1": "/overlord",
       "linksec2": "overlord-iii",
       "link": "/overlord-II",
@@ -3740,15 +3767,13 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Aldnoah Zero Parte 2",
       "name": "aldnoah zero parte 2",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "anime": "Aldnoah Zero Parte 2",
       "mode": "TV",
       "descripcion": "Segunda temporada de Aldnoah.Zero.",
@@ -3764,16 +3789,14 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Yama no Susume 3",
       "name": "yama no susume 3",
       "anime": "Yama no Susume 3",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "mode": "TV",
       "descripcion": "Tercera Temporada de Yama no Susume",
       "sec3": "disable",
@@ -3790,7 +3813,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Kimetsu no Yaiba: Mugen Ressha-hen",
@@ -3799,10 +3823,7 @@
       "mode": "TV",
       "descripcion": "Resumen de la Película, Kimetsu no Yaiba Movie: Mugen Ressha-hen, con algunas escenas extras y sonidos de fondo nuevos.",
       "episodios": 7,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec3": "disable",
       "textoSecuela": "Precuela",
       "textoSecuela2": "Secuela",
@@ -3816,7 +3837,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Ushio to tora",
@@ -3858,7 +3880,8 @@
       "duration": "24 min",
       "studio": "MAPPA, Studio VOLN",
       "year": 2015,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Shingeki no Bahamut Genesis",
@@ -3870,10 +3893,7 @@
       "sec2": "disable",
       "tipo": "tv",
       "sec3": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "textoSecuela": "Secuela",
       "nombreSecuela": "Shingeki no Bahamut:Genesis",
       "linksec1": "/shingeki-no-bahamut:genesis",
@@ -3882,7 +3902,8 @@
       "year": 2014,
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Ao no Exorcist",
@@ -3899,16 +3920,14 @@
       "linksec1": "/pelicula/ao-no-exorcist",
       "linksec2": "/ao-no-exorcist-kyoto-fujouou-hen",
       "episodios": 25,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/2jgwY2qC/ao-no-exorcist.webp",
       "estado": "finalizado",
       "year": 2011,
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
@@ -3923,16 +3942,14 @@
       "linksec1": "/lord-el-melloi-ii-sei-no-jikenbo",
       "episodios": 14,
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/jScPDXjw/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note.webp",
       "estado": "finalizado",
       "year": 2019,
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Majutsushi Orphen Hagure Tabi",
@@ -3947,16 +3964,14 @@
       "nombreSecuela": "Majutsushi Orphen Hagure Tabi: Kimluck Hen",
       "linksec1": "/majutsushi-orphen-hagure-tabi-kimluck-hen",
       "episodios": 14,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/fTh95FtS/majutsushi-orphen-hagure-tabi.webp",
       "estado": "finalizado",
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Castlevania 3",
@@ -3967,10 +3982,7 @@
       "link": "/castlevania-3",
       "descripcion": "Tercera temporada de Castlevania",
       "episodios": 10,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec2": "disable",
       "tipo": "tv",
       "sec3": "disable",
@@ -3981,7 +3993,8 @@
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Arifureta Shokugyou de Sekai Saikyou Segunda Temporada",
@@ -3995,17 +4008,15 @@
       "nombreSecuela": "arifureta shokugyou de sekai saikyou",
       "linksec1": "/arifureta-shokugyou-de-sekai-saikyou",
       "episodios": 15,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/4NJ3YTHP/arifureta-shokugyou-de-sekai-saikyou-2nd-season.webp",
       "estado": "finalizado",
       "tipo": "tv",
       "year": 2022,
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
@@ -4016,10 +4027,7 @@
       "sec2": "disable",
       "tipo": "tv",
       "sec3": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "episodios": 12,
       "mode": "TV",
       "image": "https://i.postimg.cc/FRy9KP9w/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei.webp",
@@ -4027,7 +4035,8 @@
       "year": 2021,
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
@@ -4038,10 +4047,7 @@
       "sec2": "disable",
       "sec3": "disable",
       "mode": "TV",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/4y4Txs2h/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru.webp",
       "descripcion": "La historia da comienzo cuando la diosa Rista invoca a un héroe para ayudarle en su mundo, el cual parece un videojuego de gran dificultad. El protagonista, Seiya, es excepcional en prácticamente todo, pero también es excesivamente cauto. Hace cosas como comprar tres sets de armadura (uno para usar, uno de repuesto, y otro de repuesto para el de repuesto) y no contenerse en absoluto ni siquiera contra un triste limo, por si acaso.",
       "estado": "finalizado",
@@ -4049,7 +4055,8 @@
       "year": 2019,
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Sword Art Online",
@@ -4066,16 +4073,14 @@
       "linksec1": "/accel-world",
       "linksec2": "sword-art-online-ii",
       "episodios": 25,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/W4RLJMfV/sword-art-online.webp",
       "estado": "finalizado",
       "year": 2012,
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Shachou, Battle no Jikan desu!",
@@ -4089,15 +4094,13 @@
       "sec2": "disable",
       "sec3": "disable",
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "estado": "finalizado",
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Drifters",
@@ -4112,16 +4115,14 @@
       "sec2": "disable",
       "sec3": "disable",
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "linksec1": "/drifters-ova",
       "nombreSecuela": "Drifters (Ova)",
       "textoSecuela": "Historia Paralela",
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Saint Seiya: The Lost Canvas",
@@ -4134,10 +4135,7 @@
       "descripcion": "Ambientada en la era de los dioses, cuando Atenea y Pandora jugaban fichas importantes sobre la vida de las personas. Esta serie narra la vida de dos jovencitos, Tenma y Alone, dos niños huérfanos que viven en un pueblo italiano y que son separados cuando Pandora le dice a Alone que el es la reencarnacion de Hades, en ese mismo instante Tenma es llevado al santuario y se da cuenta que es la reencarnación de pegaso. Alli conoce a Sasha, la reencarnación de Atenea. Al poco tiempo llega la noticia de que el dios Hades a despertado justo a inicios de la guerra Santa.",
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "linksec1": "/saint-seiya",
       "nombreSecuela": "Saint Seiya",
       "textoSecuela": "Secuela",
@@ -4146,7 +4144,8 @@
       "year": 2009,
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Kekkai Sensen & Beyond",
@@ -4159,10 +4158,7 @@
       "episodios": 13,
       "sec2": "disable",
       "sec3": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Kekkai Sensen",
       "linksec1": "/kekkai-sensen",
@@ -4170,7 +4166,8 @@
       "year": 2017,
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Mahoutsukai Reimeiki",
@@ -4181,10 +4178,7 @@
       "estado": "finalizado",
       "descripcion": "La guerra que se libró entre la Iglesia y las Brujas durante cinco siglos finalmente terminó en paz, pero hace unos pocos años. Sin embargo, enclavado en los lugares sombríos del mundo, las brasas de ese antiguo conflicto aún arden. Un estudiante problemático llamado Sable, que asiste a la Real Academia de magia del Reino de Wenias, no tiene recuerdos de su época antes de inscribirse. A las órdenes del director Albus, dejó el Reino para viajar a los confines del sur del continente, donde los insurgentes anti-magia siguen siendo una fuerza a tener en cuenta, como parte de un régimen de entrenamiento especial. Lo acompaña un grupo de individuos fuertes tanto en capacidad como en personalidad; está la conocida como la Bruja del Alba, Roux Cristasse, que busca el conocimiento prohibido de la magia primitiva en el “Grimorio de Zero”, la chica genio Holtz, así como la única bestia de la escuela, Kudd. ¿Qué verdad descubrirán en su viaje hacia el sur…?",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -4192,7 +4186,8 @@
       "year": 2022,
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Gaikotsu Kishi-sama, Tadaima isekai e Odekakechuu",
@@ -4203,10 +4198,7 @@
       "estado": "finalizado",
       "descripcion": "Cuando Arc despierta, descubre que lo han transportado a otro mundo en el cuerpo del personaje con el que estaba jugando en un MMO. Aunque por fuera parece una armadura completa, en su interior no hay más que un esqueleto, así que es el Caballero Esqueleto. Si se descubriera su identidad lo confundirían con un monstruo ¡y le darían caza! Por esto mismo Arc decide vivir como un mercenario para no atraer miradas ajenas. Sin embargo, no es el tipo de hombre que pueda quedarse de brazos cruzados cuando ve cometerse injusticias ante sus ojos.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -4214,7 +4206,8 @@
       "year": 2022,
       "classEstado": "tag is-success end",
       "al": 3,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Totsukuni no shoujo",
@@ -4225,10 +4218,7 @@
       "estado": "finalizado",
       "descripcion": "En un mundo dividido entre el Interior y el Exterior, a los que viven en ambos reinos se les dice que nunca crucen al otro lado, para que no sean malditos. Una joven llamada Shiva vive al otro lado, en un pueblo vacío con un guardián demoníaco conocido solo como Teacher. Aunque los dos tienen prohibido tocarse, parecen compartir un vínculo que trasciende sus apariencias dispares. Pero cuando Shiva deja el cuidado de Teacher para buscar a su abuela, el secreto detrás de su misterioso arreglo de vivienda sale a la luz.",
       "episodios": 3,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "tipo": "tv",
@@ -4236,7 +4226,8 @@
       "year": 2022,
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Kunoichi Tsubaki no Mune no Uchi",
@@ -4251,14 +4242,12 @@
       "sec3": "disable",
       "tipo": "tv",
       "episodios": 13,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "year": 2022,
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
@@ -4270,17 +4259,15 @@
       "year": 2022,
       "descripcion": "El más poderoso Señor Demonio de la historia, Varvatos, sentía que ya había conseguido todo lo que podía como rey. Debido a lo poderoso que era, se había quedado completamente solo y anhelaba una vida más sencilla. Unos milenios más tarde renace como Ard Meteor, un simple aldeano, pero en este futuro en el que ha renacido la civilización mágica ha sufrido un gran declive y la magia ha perdido su poder de antaño. Arc se une a la Academia de magia con su amiga de la infancia Ireena, y por mucho que lo intenta, no logra no destacar y hacer notar que no es un cualquiera.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "tipo": "tv",
       "sec3": "disable",
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Yuusha, Yamemasu",
@@ -4291,10 +4278,7 @@
       "estado": "finalizado",
       "descripcion": "Después de salvar el mundo, el héroe más fuerte, Leo, se convirtió en alguien que no es querido en el pacífico mundo humano. Era demasiado fuerte. Exiliado, busca un trabajo en el Ejército del Rey Demonio, al que había derrotado y que necesita ser reconstruido. El Ejército tenía muchos problemas: demasiado trabajo, problemas financieros, etc. Leo comienza a mejorar las cosas utilizando su poder. Leo se encuentra de nuevo con Echidna y le pregunta por qué invadió el mundo humano. Una historia inesperada…",
       "episodios": 14,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -4302,7 +4286,8 @@
       "year": 2022,
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "ESTAB LIFE: Great Escape",
@@ -4314,17 +4299,15 @@
       "year": 2022,
       "descripcion": "El futuro lejano. Después de alcanzar su punto máximo, la población de la Tierra cayó en declive. La IA se desarrolló para ayudar a preservar las especies y gestionar el ecosistema; un gran experimento en la diversidad humana. A través de la ingeniería genética, se creó una diversa gama de pueblos, incluidos bestias, seres mágicos y más, para vivir en una ciudad diversa separada en grupos amurallados. Cada grupo desarrolló una cultura única, acorde con las personas que vivían allí. La IA mantiene continuamente sus vidas y el sistema para garantizar la supervivencia.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "tipo": "tv",
       "sec3": "disable",
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Vanitas no Carte 2nd Cour",
@@ -4335,10 +4318,7 @@
       "estado": "finalizado",
       "descripcion": "Es el París del siglo XIX y el joven vampiro Noé busca el Libro de Vanitas. Atacado por un vampiro enloquecido, un médico humano llamado Vanitas tienta a Noé con una cruzada loca para curar a toda la raza de vampiros. Si bien aliarse con él puede ser peligroso, Vanitas recibe noticias de que la Bestia de Gévaudan ha regresado, y Noé está siendo llevado para investigar este fantasma del pasado.",
       "episodios": 13,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Vanitas no Carte",
       "linksec1": "/vanitas-no-carte",
@@ -4348,7 +4328,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Ryman's Club",
@@ -4357,10 +4338,7 @@
       "name": "ryman s club",
       "descripcion": "Mikoto Shiratori, un jugador prodigio de bádminton sufre un trauma tras una derrota en un torneo. Después de esto, se convierte en un empleado en la compañía Sunlight Beverage y se hace amigo de Tatsuru Miyazumi, el jugador y vendedor con mejor desempeño del equipo”.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -4370,7 +4348,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
@@ -4381,10 +4360,7 @@
       "estado": "finalizado",
       "descripcion": "El príncipe de este pequeño y débil reino se esfuerza por una sola cosa: ¡vender su país y largarse a vivir una vida tranquila y de ocio! Lamentablemente, el mayor obstáculo que enfrentará será su brillante mente… ¡mientras continúa obteniendo logros cada vez más impresionantes, también aumenta el favor de la gente de su reino!, esto complicará aún más el hacer que sus sueños se vuelvan realidad.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -4392,7 +4368,8 @@
       "year": 2022,
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Sabiiro no Armor -Reimei",
@@ -4404,17 +4381,15 @@
       "year": 2022,
       "descripcion": "El proyecto se centra en la relación entre Magoichi, el líder del grupo de mercenarios Saika Ikki, y el señor de la guerra de la era Sengoku, Oda Nobunaga.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Orient",
@@ -4425,10 +4400,7 @@
       "estado": "finalizado",
       "descripcion": "A los 10 años, los mejores amigos, Musashi y Kojiro, se sentaban en un emocionado silencio mientras el padre de Kojiro contaba historias de demonios malvados que se cebaban con los inocentes, y de guerreros que los derrotaban. Practicando el manejo de la espada, los dos juran convertirse en los más fuertes del mundo. Pero a medida que crecen, Kojiro se vuelve cínico y Musashi se da cuenta de que no puede hacer retroceder 150 años de dominio demoníaco por sí solo. Le llaman prodigio con el pico, y está casi dispuesto a conformarse con una vida de trabajo. Sin embargo, no puede evitar la sensación de que todavía tiene la responsabilidad de actuar… y, pronto, las injusticias de su mundo le obligarán a actuar…",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec2": "disable",
       "sec3": "disable",
       "textoSecuela": "Precuela",
@@ -4438,7 +4410,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2",
@@ -4450,10 +4423,7 @@
       "descripcion": "Segunda temporada de Genjitsu Shugi Yuusha no Oukoku Saikenki",
       "episodios": 13,
       "sec2": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec3": "disable",
       "textoSecuela": "Precuela",
       "nombreSecuela": "Genjitsu Shungi Yuusha no Oukoku Saikenki",
@@ -4462,7 +4432,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Tokyo 24-ku",
@@ -4474,17 +4445,15 @@
       "descripcion": "La Región Administrativa Especial del Lejano Oriente, también conocida como el Distrito 24, es una isla artificial que se encuentra en la Bahía de Tokio. Shuta, Ran y Koki nacieron y se criaron en la isla. Sus antecedentes familiares, preferencias y personalidades son completamente diferentes, pero son amigos de la infancia que siempre se han mantenido unidos. Sin embargo, un incidente cambió su relación para siempre. Un año después, los tres amigos se reencuentran por casualidad en un servicio conmemorativo que se lleva a cabo por el incidente. Los tres teléfonos suenan de repente al mismo tiempo. Su amigo, que se supone que está muerto, llama y exige que tomen una decisión sobre el futuro. Los tres amigos hacen lo que creen que es mejor para proteger el Distrito 24 y sus habitantes.",
       "episodios": 13,
       "sec1": "disable",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec2": "disable",
       "sec3": "disable",
       "year": 2022,
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "CUE!",
@@ -4495,10 +4464,7 @@
       "estado": "finalizado",
       "descripcion": "La nueva agencia de talentos de doblaje AiRBLUE no tiene profesionales experimentados ni estrellas famosas. Lo que sí tiene es un grupo de actrices de doblaje en formación cuyo individualismo y personalidad brilla a través de su inexperiencia. ¡Cada uno está buscando la manera de aprovechar sus talentos y hacer realidad sus sueños! Sin embargo, tarde o temprano, todos estos sueños se toparán con la crudeza de la realidad. No importa cuán devotamente practiquen, no todos los candidatos pueden aprobar todas las audiciones. ¿Podrán soportar la angustia, los reveses y la discordia? Si los obstáculos que deben afrontar todos los alumnos los hacen tropezar, ¿pueden recuperarse y volver a levantarse? La historia de estas actrices de doblaje incipientes ya está lista para que el director la llame ¡acción!",
       "episodios": 24,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -4506,7 +4472,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Kaijin Kaihatsu-bu no Kuroitsu-san",
@@ -4517,10 +4484,7 @@
       "estado": "finalizado",
       "descripcion": "El manga se centra en Kuroitsu, un investigador asistente en el departamento de desarrollo sobrehumano de Agastya, una organización secreta villana que lucha con héroes que intentan salvar el mundo. Kuroitsu vive una vida ajetreada en Agastya, atrapada entre las absurdas peticiones de sus jefes; haciendo presentaciones; implementar nuevas funciones en superhumanos; y obtener resultados dentro del tiempo asignado, el presupuesto y las solicitudes de especificaciones; todo sin vacaciones.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -4528,7 +4492,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Koi wa Sekai Seifuku no Ato de",
@@ -4539,10 +4504,7 @@
       "estado": "finalizado",
       "descripcion": "La serie sigue a Fudo Aikawa y Desumi Magahara, los líderes de organizaciones heroicas y villanas, respectivamente. ¿Podrá su amor sobrevivir a su eterna batalla, cuando uno quiere la paz mundial y el otro la dominación mundial?",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -4550,7 +4512,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Megalo Box",
@@ -4560,10 +4523,7 @@
       "anime": "Megalo Box",
       "descripcion": "La historia tiene lugar en un ambiente de boxeo callejero en el que nuestro protagonista (Joe)y su entrenador (Nanbu)sobreviven como pueden a base de peleas arregladas. Pero este último se verá obligado a llevar a Joe hasta el torneo más grande de megalobox para saldar una deuda.",
       "episodios": 13,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "textoSecuela": "Secuela",
       "nombreSecuela": "Megalo Box 2",
       "linksec1": "/megalo-box-2",
@@ -4574,7 +4534,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Killing Bites",
@@ -4585,10 +4546,7 @@
       "estado": "finalizado",
       "descripcion": "Estas extrañas personas son Brutes, luchadores que han sido creados a través de la manipulación genética para combinar los cerebros de los humanos y los poderes de los animales, mientras poderosas empresas apuestan al resultado de sus duelos en torneos llamados Killing Bites.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -4596,7 +4554,8 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Accel World",
@@ -4607,10 +4566,7 @@
       "estado": "finalizado",
       "descripcion": "Año 2046, los Neuro-Linker permite a las personas tener sus cinco sentidos en un mundo virtual donde interactúan y se comunican a través de internet. Haruyuki, un estudiante normal y corriente de aspecto bajito y fuerte se sumerge en este mundo de realidad aumentada para evadirse de sus problemas.",
       "episodios": 24,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "proximo": false,
       "generos": [
         {
@@ -4643,7 +4599,8 @@
       "year": 2012,
       "tipo": "tv",
       "classEstado": "tag is-success end",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Utawarerumono",
@@ -4654,10 +4611,7 @@
       "estado": "finalizado",
       "descripcion": "Utawarerumono es una historia post-apocalíptica centrada en el protagonista enmascarado, Hakuoro, que es encontrado por una familia de dos muchachas y una abuela en un busque cerca de su pueblo. Al recuperarse, y ser interrogado, se descubre que tiene amnesia, desconociendo todo su pasado, incluyendo su nombre - siendo Hakuoro el nombre dado por la familia que lo acogió. Hakuoro pronto es aceptado en la aldea y viviendo con ellas, pero después de poco tiempo Hakuoro encuentra que la vida en esta aldea está siendo oprimida por el emperador. Luego de armar de valor a toda la aldea, hakuoro llegará a tomar el poder del gobierno.",
       "episodios": 26,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec2": "disable",
       "tipo": "tv",
       "textoSecuela": "Secuela",
@@ -4669,7 +4623,8 @@
       "year": 2006,
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Eden",
@@ -4680,10 +4635,7 @@
       "estado": "finalizado",
       "descripcion": "La serie nos traslada a un futuro lejano en el que los robots han habitado el planeta durante muchos siglos y los humanos, sus creadores, se extinguieron muchos años atrás. De hecho, muchos robots no creen que los humanos existieran, y les toman por mitos. Dos robots dedicados a la agricultura, encuentran una cápsula criogénica con una niña humana dentro en los campos. Ambos, deciden criar a la llamada Sara a escondidas, pues el mundo de los robots no está preparado para confirmar que los humanos existieron. Sara pone la vida de sus nuevos cuidadores en peligro, quienes se tienen que enfrentar al temible Zero y a su ejército.",
       "episodios": 4,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -4691,7 +4643,8 @@
       "year": 2021,
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Altered Carbon: Resleeved",
@@ -4702,10 +4655,7 @@
       "estado": "finalizado",
       "descripcion": "En el Planeta Latimer todo es temporal, pero el honor es para siempre. En el planeta Latimer, Takeshi Kovacs debe proteger a un tatuador mientras investiga la muerte de un jefe yakuza junto a un cínico CTAC . De la mente creativa detrás de Cowboy Bebop, explora el universo expandido de “Altered Carbon” en esta adaptación anime.",
       "episodios": 1,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
@@ -4713,7 +4663,8 @@
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Re:Zero kara Hajimeru isekai Seikatsu Segunda Temporada Parte 2",
@@ -4723,10 +4674,7 @@
       "anime": "Re Zero kara Hajimeru isekai Seikatsu 2nd Temporada Parte 2",
       "descripcion": "Segunda temporada de Re:zero",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "textoSecuela": "Precuela",
       "nombreSecuela": "Re:zero kara Hajimeru isekai Seikatsu 2nd Temporada Parte 1",
       "sec2": "disable",
@@ -4736,7 +4684,8 @@
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Kumo desu ga, Nani ka",
@@ -4746,10 +4695,7 @@
       "anime": "Kumo desu ga Nani ka",
       "descripcion": "Yo, la protagonista, era solo una chica normal de secundaria, pero de repente me reencarné como un monstruo araña en un mundo de fantasía. No solo eso, sino que me desperté en una mazmorra llena de monstruos feroces. Armado solo con mi conocimiento humano y mi abrumadora positividad, me veo obligada a usar telarañas y trampas para derrotar a monstruos mucho más fuertes solo para seguir con vida ... Así comienza la historia de supervivencia del laberinto de una niña con una fuerza mental increíble que vive como una de las bestias de menor rango!",
       "episodios": 24,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "tipo": "tv",
@@ -4758,7 +4704,8 @@
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Shingeki no Kyojin: Temporada Final",
@@ -4777,14 +4724,12 @@
       "sec3": "disable",
       "episodios": 12,
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
@@ -4795,10 +4740,7 @@
       "estado": "finalizado",
       "descripcion": "El Imperio es una utopía mecanizada con ciencia y tecnología altamente desarrolladas. La soberanía de Nebulis es una nación temida como la Tierra de las Brujas, cuya gente usa el poder paranormal. Los dos países han estado en guerra constante durante más de cien años, pero ahora han aparecido dos héroes en sus respectivas tierras. Iska ha llegado a ser reconocida como el mayor activo militar del Imperio en la edad más joven de su historia. Aliceliese es la Princesa de la Soberanía de Nebulis, llamada la Bruja de la Calamidad de Hielo con miedo por sus enemigos. Los dos se encuentran en el campo de batalla y se convierten en enemigos mortales. Los orgullos se traban cuernos mientras ambos luchan sin concesiones para proteger a sus respectivas naciones, familias y camaradas. Pero a medida que se conocen como personas reales durante sus feroces batallas, comienzan a sentirse atraídos por las formas de vida y los ideales del otro aunque son plenamente conscientes de que el destino se burlará de ellos cruelmente, no permitiéndoles estar juntos. Efectivamente, la tensión mundial aumenta aún más y las conspiraciones de las principales naciones se complican más. Pero incluso en un mundo tan dividido, este niño y esta niña no pueden detener sus sentimientos el uno por el otro.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "tipo": "tv",
@@ -4806,7 +4748,8 @@
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 4,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Hanyo no Yashahime",
@@ -4818,10 +4761,7 @@
       "descripcion": "Moroha: InuYasha Next Generations.",
       "episodios": 24,
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "textoSecuela": "Precuela",
       "textoSecuela2": "Secuela",
       "nombreSecuela": "InuYasha: Kanketsu-hen",
@@ -4832,7 +4772,8 @@
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Majo no Tabitabi",
@@ -4844,17 +4785,15 @@
       "tipo": "tv",
       "descripcion": "No se trata del destino... ¿Cuál es tu historia favorita? ¿Tiene un héroe que mata a un dragón y salva a una princesa? ¿O un hijo de la profecía destinado a la grandeza? Bueno, mi historia favorita es un poco diferente. Es la historia de una bruja que viaja por el mundo sin buscar nada en particular. Sin búsqueda propia, es libre de vagar donde el viento la lleve, agregando algunas páginas a la historia de quienquiera que conozca antes de emprender su próxima aventura. Al final de sus viajes, la bruja contrata a un aprendiz que algún día comenzará su propio viaje. Y así continúa el ciclo, o eso dice la historia. Ahora, la bruja que comienza de nuevo la historia ... ¿quién podría ser?",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "sec1": "disable",
       "sec2": "disable",
       "sec3": "disable",
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Mob Psycho 100",
@@ -4863,10 +4802,7 @@
       "name": "mob psycho 100",
       "anime": "Mob Psycho 100",
       "episodios": 13,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "estado": "finalizado",
       "des": "Kageyama Shigeo, apodado Mob, es un chico con problemas para expresarse pero que en realidad es un poderoso esper. Mob está decidido a llevar una vida normal y mantiene sus poderes especiales reprimidos, pero cuando sus emociones alcancen el nivel del 100%, ¡le ocurrirá algo terrible! Rodeado por falsos espers, espíritus malignos y misteriosas organizaciones, ¿qué hará Mob? ¿Qué elecciones tomará?",
@@ -4878,7 +4814,8 @@
       "year": 2016,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Mob Psycho 100 II",
@@ -4922,7 +4859,8 @@
       "year": 2019,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
@@ -4962,7 +4900,8 @@
       "year": 2022,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Senyoku no Sigrdrifa",
@@ -4992,7 +4931,8 @@
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "King's Raid: Ishi wo Tsugumono-tachi",
@@ -5032,7 +4972,8 @@
       "sec3": "disable",
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Danmachi III",
@@ -5081,7 +5022,8 @@
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "DanMachi II",
@@ -5125,7 +5067,8 @@
       "year": 2019,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Sword Art Online: Alicization - War of Underworld Parte 2",
@@ -5167,7 +5110,8 @@
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Re:Zero kara Hajimeru isekai Seikatsu 2nd Temporada Parte 1",
@@ -5206,7 +5150,8 @@
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Noragami Aragoto",
@@ -5248,7 +5193,8 @@
       "sec3": "disable",
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Noragami",
@@ -5290,7 +5236,8 @@
       "sec3": "disable",
       "duration": "24 min",
       "studio": "Bones",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "SPY x FAMILY 2nd Temporada",
@@ -5327,7 +5274,8 @@
       "estado": "finalizado",
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Tokyo Ghoul: re 2",
@@ -5364,7 +5312,8 @@
       "year": 2018,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Tokyo Ghoul: re",
@@ -5403,7 +5352,8 @@
       "year": 2018,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Darling in the Franxx",
@@ -5438,7 +5388,8 @@
       "year": 2018,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Goblin Slayer",
@@ -5480,7 +5431,8 @@
       "year": 2018,
       "duration": "24 min",
       "studio": "White Fox",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Knight's & Magic",
@@ -5514,7 +5466,8 @@
       "year": 2017,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Tokyo Ghoul √A",
@@ -5559,7 +5512,8 @@
       "year": 2015,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Tokyo Ghoul",
@@ -5604,7 +5558,8 @@
       "sec2": "disable",
       "sec3": "disable",
       "year": 2014,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "ID:INVADED",
@@ -5644,7 +5599,8 @@
       "year": 2020,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Levius",
@@ -5681,7 +5637,8 @@
       "year": 2019,
       "classEstado": "tag is-success end",
       "al": 5,
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Chainsaw Man",
@@ -5710,7 +5667,8 @@
       "sec3": "disable",
       "estado": "finalizado",
       "classEstado": "tag is-success end",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Mob Psycho 100 III",
@@ -5751,7 +5709,8 @@
       "sec3": "disable",
       "estado": "finalizado",
       "classEstado": "tag is-success end",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV",
@@ -5797,7 +5756,8 @@
       "sec3": "disable",
       "estado": "en emision",
       "classEstado": "tag is-success airing",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Fuufu Ijou, Koibito Miman",
@@ -5836,7 +5796,8 @@
       "sec3": "disable",
       "estado": "finalizado",
       "classEstado": "tag is-success end",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Peter Grill to Kenja no Jikan Super Extra",
@@ -5877,7 +5838,8 @@
       ],
       "estado": "finalizado",
       "classEstado": "tag is-success end",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Yowamushi Pedal Limit Break",
@@ -5903,7 +5865,8 @@
       "nombreSecuela2": "Sabado 14 de enerp 2023",
       "estado": "en emision",
       "classEstado": "tag is-success airing",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "bluelock",
@@ -5925,7 +5888,8 @@
       "estado": "finalizado",
       "tipo": "tv",
       "trailer": "",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Fumetsu no Anata e Temporada 2",
@@ -5967,7 +5931,8 @@
       "nombreSecuela2": "Domingo 22 de enero 2023",
       "sec3": "disable",
       "classEstado": "tag is-success airing",
-      "rating": 5.2
+      "rating": 5.2,
+      "visitas": 0
     },
     {
       "id": "Bungou Stray Dogs 4",
@@ -6003,7 +5968,8 @@
       ],
       "descripcion": "“Su agencia de detectives es un orgullo del país”. Ha pasado aproximadamente un mes desde que la Agencia Armada de Detectives, en colaboración con Port Mafia, ganó la operación de canibalismo ideada por las Ratas en la Casa de los Muertos. La Agencia de Detectives Armados recibió la medalla más alta por su contribución a la seguridad, la Orden del Arco de Exorcismo de Azusa, y fue elogiada por todo el país. Entonces llega una solicitud urgente del gobierno. Los cuatro asesinatos de los jóvenes senadores se compararon con los cinco signos de la mortalidad del ser celestial más alto de Rokudo Rinne, los Seis Reinos de la Reencarnación. La Agencia de Detectives Armados se propone evitar que ocurra el asesinato restante. “Todas las fuerzas deben trabajar juntas para prevenir los intentos del mal”. ¡Pero resulta ser una trampa tendida por el astuto Demonio Fyodor, que se suponía que había sido capturado...! Los funcionarios del gobierno sospechan de la justicia que defienden. Una unidad especial de la policía militar, los Perros de Caza, está lista para entrar en acción. La Descomposición del Ángel está vagando por las calles para provocar la destrucción del mundo. La Agencia de Detectives Armados, que ha sido calumniada por el público desde su gloria, se enfrenta uno tras otro a nuevos enemigos y su desesperación sin fondo. Con su amistad desmoronándose, ¿será Atsushi Nakajima capaz de superar esta crisis sin precedentes? Sin un rayo de esperanza a la vista, la batalla está a punto de comenzar...",
       "estado": "finalizado",
-      "rating": 0.2
+      "rating": 0.2,
+      "visitas": 0
     }
   ]
 }
