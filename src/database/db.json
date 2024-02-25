@@ -798,7 +798,7 @@
       "anime": "MASHLE Kami Shinkakusha Kouho Senbatsu Shiken-hen",
       "mode": "TV",
       "tipo": "tv",
-      "episodios": 5,
+      "episodios": 6,
       "descripcion": "Segunda temporada de mashle",
       "genero1": "accion",
       "genero2": "comedia",
@@ -833,7 +833,7 @@
           "link": "/mashle"
         }
       ],
-      "rating": 9.6,
+      "rating": null,
       "episodes__overlay": [
         {
           "episode": 1,
@@ -854,6 +854,10 @@
         {
           "episode": 5,
           "image": "https://i.postimg.cc/7ZNvh88v/mashle.webp"
+        },
+        {
+          "episode": 6,
+          "image": ""
         }
       ],
       "temporadas": 2,
@@ -884,10 +888,15 @@
             {
               "url": "https://saidochesto.top/embed.php?id=38744"
             }
+          ],
+          "cap6": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39197"
+            }
           ]
         }
       ],
-      "proximo": "Sábado 10 de febrero 2024",
+      "proximo": "Sábado 2 de marzo 2024",
       "image": "https://i.postimg.cc/RZZb4bt6/mashle-kami-shinkakusha-kouho-senbatsu-shiken-hen.webp",
       "banner": "https://i.postimg.cc/pTWpJ4cN/Mashle-trailer-presenta-el-opening-de-la-temporada-2-y-los-visionarios-divinos.jpg",
       "visitas": null
