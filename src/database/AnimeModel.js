@@ -22,6 +22,10 @@ const getAllAnime = (filterParams) => {
           anime?.studio?.toLowerCase() === filterParams?.studio?.toLowerCase()
       )
     }
+    if (filterParams.visitas) {
+      if (filterParams.visitas === 'masVisitas')
+        return animes.sort((a, b) => b.visitas - a.visitas)
+    }
 
     if (filterParams.info) {
       return animes.filter((anime) => anime.name == filterParams.info)

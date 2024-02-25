@@ -15,6 +15,7 @@ const getAllAnimes = (req, res) => {
     const sortBy = req.query.sortBy ?? 'todos'
     const letra = req.query.letra
     const studio = req.query.studio
+    const visitas = req.query.visitas
     const animes = animeService.getAllAnime({
       name,
       años,
@@ -27,6 +28,7 @@ const getAllAnimes = (req, res) => {
       sortBy,
       letra,
       studio,
+      visitas,
     })
     let datos = animes
 
