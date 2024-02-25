@@ -1,11 +1,16 @@
 {
   "recientes": [
     {
+      "nombre": "ninja kamui",
+      "episode": "Episodio 3",
+      "image": "https://i.postimg.cc/qRRdLpf1/qwr-Evf-Lsq-LA6-Ag-WN00ukpda4-DTq.jpg",
+      "fechaAgregado": "2024-02-25T13:34:09-05:00"
+    },
+    {
       "nombre": "solo leveling",
       "episode": "Episodio 7",
       "image": "https://i.postimg.cc/qBGRFXHn/3-UGTVLFHc-AIQgjolx6r-Qp-Cott-Rj.jpg"
     },
-
     {
       "nombre": "ninja kamui",
       "episode": "Episodio 2",
@@ -33,7 +38,6 @@
     },
     {
       "nombre": "mashle kami shinkakusha kouho senbatsu shiken hen",
-
       "episode": "Episodio 5",
       "image": "https://i.postimg.cc/7ZNvh88v/mashle.jpg"
     },
@@ -49,7 +53,6 @@
       "episode": "Episodio 4",
       "image": "https://i.postimg.cc/JnVy0t68/7-Eyr-VLYTo5a-XJP0atxk4-AC1w1-DB.jpg"
     },
-
     {
       "nombre": "solo leveling",
       "link": "/ver/solo-leveling-4",

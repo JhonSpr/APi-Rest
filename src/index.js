@@ -1,9 +1,9 @@
 const express = require('express')
 const cors = require('cors')
+const moment = require('moment-timezone')
 const v1animeRouter = require('./v1/routes/animeRoutes')
 const db = require('./database/Recientes.json')
 const DB = require('./database/db.json')
-const { getAllAnime } = require('./database/AnimeModel')
 const app = express()
 const PORT = process.env.PORT || 3001
 const fs = require('fs')
@@ -14,6 +14,56 @@ app.use(express.json())
 app.use('/api/v1/animes/', v1animeRouter)
 app.use('/api/v1/recien-agregados', (req, res) => {
   res.send({ recientes: db.recientes })
+})
+
+app.put('/api/v1/animes/:id/services', (req, res) => {
+  const animeId = req.params.id
+  const capNumber = req.body.capNumber
+  const capUrl = req.body.capUrl
+  const imageEpisode = req.body.imageEpisode
+  // Encuentra el anime por su ID en tu base de datos
+  const animeIndex = DB.animes.findIndex((anime) => anime.id === animeId)
+
+  if (animeIndex !== -1) {
+    // Encuentra el anime y verifica si ya tiene una propiedad "services"
+    const anime = DB.animes[animeIndex]
+    if (!anime.hasOwnProperty('services')) {
+      anime.services = []
+    }
+
+    if (
+      !anime.services.some(
+        (service) => Object.keys(service)[0] === `cap${capNumber}`
+      )
+    ) {
+      anime.services.push({ [`cap${capNumber}`]: [{ url: capUrl }] })
+      anime.episodios = capNumber
+
+      if (
+        !anime.episodes__overlay.some(
+          (episode) => episode.episode === capNumber
+        )
+      ) {
+        // Si no existe, agrega el nuevo objeto con el episodio y la imagen
+        anime.episodes__overlay.push({
+          episode: capNumber,
+          image: imageEpisode,
+        })
+      }
+
+      // Escribe los cambios en el archivo JSON
+      const dbFilePath = path.resolve(__dirname, 'database', 'db.json')
+      fs.writeFileSync(dbFilePath, JSON.stringify(DB, null, 2))
+
+      res.send({ message: `Cap${capNumber} agregado correctamente.` })
+    } else {
+      res
+        .status(400)
+        .send({ error: `El capítulo ${capNumber} ya existe para este anime.` })
+    }
+  } else {
+    res.status(404).send({ error: 'Anime no encontrado.' })
+  }
 })
 
 app.put('/api/v1/animes/:id/rating', (req, res) => {
@@ -56,10 +106,10 @@ app.put('/api/v1/animes/:id/visitas', (req, res) => {
   }
 })
 
-app.post('/api/v1/animes-agregar', (req, res) => {
+app.post('/api/v1/agregar-anime', (req, res) => {
   try {
     const nuevoAnime = req.body
-
+    nuevoAnime.fechaAgregado = moment().tz('America/Bogota').format()
     DB.animes.unshift(nuevoAnime)
 
     // Guarda los cambios en el archivo db.json utilizando una ruta absoluta
@@ -69,6 +119,29 @@ app.post('/api/v1/animes-agregar', (req, res) => {
     res
       .status(201)
       .send({ message: 'Anime agregado correctamente', anime: nuevoAnime })
+  } catch (error) {
+    console.error('Error al agregar el anime:', error)
+
+    // Devuelve detalles del error en la respuesta
+    res
+      .status(500)
+      .send({ error: 'Error interno del servidor', details: error.message })
+  }
+})
+
+app.post('/api/v1/agregar-ultimo-episodio', (req, res) => {
+  try {
+    const nuevoAnime = req.body
+    nuevoAnime.fechaAgregado = moment().tz('America/Bogota').format()
+    db.recientes.unshift(nuevoAnime)
+
+    const dbFilePath = path.resolve(__dirname, 'database', 'Recientes.json')
+    fs.writeFileSync(dbFilePath, JSON.stringify(db, null, 2))
+
+    res.status(201).send({
+      message: 'Episodio agregado correctamente',
+      recientes: nuevoAnime,
+    })
   } catch (error) {
     console.error('Error al agregar el anime:', error)
 
@@ -113,6 +186,66 @@ app.post('/api/v1/propiedad', (req, res) => {
   }
 })
 
+app.post('/api/v1/agregar-propiedad', (req, res) => {
+  try {
+    const { propiedad, valor } = req.body
+
+    // Itera sobre todos los objetos en tu base de datos
+    DB.animes.forEach((anime) => {
+      // Verifica si el objeto no tiene la propiedad especificada
+      if (!anime.hasOwnProperty(propiedad)) {
+        // Agrega la propiedad con el valor proporcionado
+        anime[propiedad] = valor
+      }
+    })
+
+    // Guarda los cambios en el archivo db.json utilizando una ruta absoluta
+    const dbFilePath = path.resolve(__dirname, 'database', 'db.json')
+    fs.writeFileSync(dbFilePath, JSON.stringify(DB, null, 2))
+
+    res.status(201).send({
+      message: `Propiedad "${propiedad}" agregada correctamente a todos los animes`,
+    })
+  } catch (error) {
+    console.error('Error al agregar la propiedad a los animes:', error)
+
+    // Devuelve detalles del error en la respuesta
+    res
+      .status(500)
+      .send({ error: 'Error interno del servidor', details: error.message })
+  }
+})
+
+app.post('/api/v1/eliminar-propiedad', (req, res) => {
+  try {
+    const propiedadAEliminar = req.body.propiedad
+
+    // Itera sobre todos los objetos en tu base de datos
+    DB.animes.forEach((anime) => {
+      // Verifica si el objeto tiene la propiedad que quieres eliminar
+      if (anime.hasOwnProperty(propiedadAEliminar)) {
+        // Elimina la propiedad del anime
+        delete anime[propiedadAEliminar]
+      }
+    })
+
+    // Guarda los cambios en el archivo db.json utilizando una ruta absoluta
+    const dbFilePath = path.resolve(__dirname, 'database', 'db.json')
+    fs.writeFileSync(dbFilePath, JSON.stringify(DB, null, 2))
+
+    res.status(200).send({
+      message: `Propiedad ${propiedadAEliminar} eliminada correctamente de todos los animes`,
+    })
+  } catch (error) {
+    console.error('Error al eliminar la propiedad de los animes:', error)
+
+    // Devuelve detalles del error en la respuesta
+    res
+      .status(500)
+      .send({ error: 'Error interno del servidor', details: error.message })
+  }
+})
+
 app.use((req, res, next) => {
   res.header('Cache-Control', 'no-cache, no-store, must-revalidate')
   res.header('Pragma', 'no-cache')
@@ -121,6 +254,8 @@ app.use((req, res, next) => {
 })
 
 app.use('/api/v1/recien-agregados', (req, res) => {
+  console.log(data)
+
   res.send({ recientes: db.recientes })
 })
 app.listen(PORT, () => {
