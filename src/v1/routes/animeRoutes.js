@@ -5,10 +5,10 @@ const db = require('../../database/Recientes.json')
 const DB = require('../../database/db.json')
 const fs = require('fs')
 const path = require('path')
-
+const moment = require('moment-timezone')
 router.get('/', animeController.getAllAnimes)
 router.get('/:tipo', animeController.getAllAnimes)
-router.put('/api/v1/animes/:id/services', (req, res) => {
+router.put('/:id/services', (req, res) => {
   const animeId = req.params.id
   const capNumber = req.body.capNumber
   const capUrl = req.body.capUrl
@@ -44,7 +44,7 @@ router.put('/api/v1/animes/:id/services', (req, res) => {
       }
 
       // Escribe los cambios en el archivo JSON
-      const dbFilePath = path.resolve(__dirname, 'database', 'db.json')
+      const dbFilePath = path.resolve(__dirname, '../../database', 'db.json')
       fs.writeFileSync(dbFilePath, JSON.stringify(DB, null, 2))
 
       res.send({ message: `Cap${capNumber} agregado correctamente.` })
@@ -105,7 +105,7 @@ router.post('/agregar-anime', (req, res) => {
     DB.animes.unshift(nuevoAnime)
 
     // Guarda los cambios en el archivo db.json utilizando una ruta absoluta
-    const dbFilePath = path.resolve(__dirname, 'database', 'db.json')
+    const dbFilePath = path.resolve(__dirname, '../../database', 'db.json')
     fs.writeFileSync(dbFilePath, JSON.stringify(DB, null, 2))
 
     res
@@ -127,7 +127,11 @@ router.post('/agregar-ultimo-episodio', (req, res) => {
     nuevoAnime.fechaAgregado = moment().tz('America/Bogota').format()
     db.recientes.unshift(nuevoAnime)
 
-    const dbFilePath = path.resolve(__dirname, 'database', 'Recientes.json')
+    const dbFilePath = path.resolve(
+      __dirname,
+      '../../database',
+      'Recientes.json'
+    )
     fs.writeFileSync(dbFilePath, JSON.stringify(db, null, 2))
 
     res.status(201).send({
@@ -225,7 +229,7 @@ router.post('/agregar-propiedad', (req, res) => {
     })
 
     // Guarda los cambios en el archivo db.json utilizando una ruta absoluta
-    const dbFilePath = path.resolve(__dirname, 'database', 'db.json')
+    const dbFilePath = path.resolve(__dirname, '../../database', 'db.json')
     fs.writeFileSync(dbFilePath, JSON.stringify(DB, null, 2))
 
     res.status(201).send({
@@ -255,7 +259,7 @@ router.post('/eliminar-propiedad', (req, res) => {
     })
 
     // Guarda los cambios en el archivo db.json utilizando una ruta absoluta
-    const dbFilePath = path.resolve(__dirname, 'database', 'db.json')
+    const dbFilePath = path.resolve(__dirname, '../../database', 'db.json')
     fs.writeFileSync(dbFilePath, JSON.stringify(DB, null, 2))
 
     res.status(200).send({

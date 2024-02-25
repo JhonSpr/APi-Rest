@@ -3,11 +3,10 @@ const cors = require('cors')
 const moment = require('moment-timezone')
 const v1animeRouter = require('./v1/routes/animeRoutes')
 const db = require('./database/Recientes.json')
-const DB = require('./database/db.json')
+
 const app = express()
 const PORT = process.env.PORT || 3001
-const fs = require('fs')
-const path = require('path')
+
 app.disable('x-powered-by')
 app.use(cors())
 app.use(express.json())
