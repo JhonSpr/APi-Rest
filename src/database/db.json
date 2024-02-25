@@ -57,7 +57,7 @@
       "trailer": "oeW6Ew4HRmc",
       "banner": "https://i.postimg.cc/CKfRHfGq/ninja-kamui-fecha-de-estreno-jpg-1324964843.webp",
 
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "ishura",
@@ -175,7 +175,7 @@
       "trailer": "i4jKHUMuuNk",
       "banner": "https://i.postimg.cc/GmRGK4MD/ishura-anime-characters.avif",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Undead Unluck",
@@ -365,7 +365,7 @@
       "trailer": "QzzZUQLhJhY?si=cz3Wn5iTscMMOO9R",
       "banner": "https://i.postimg.cc/DyqVTvtf/The-Undead-Unluck.avif",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Vinland Saga",
@@ -642,7 +642,7 @@
       "trailer": "f8JrZ7Q_p-8?si=gE3tFA4ISzFWZMqY",
       "banner": "https://i.postimg.cc/jj7Hc4BH/Vinland-Saga-featured.webp",
       "rating": 5.2,
-      "visitas": 2
+      "visitas": null
     },
     {
       "id": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
@@ -790,7 +790,7 @@
       "proximo": false,
       "image": "https://i.postimg.cc/XY8nF4GW/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru.webp",
       "trailer": "_PR_PwGshIE?si=9X_Xw3V2eNl7I_8G",
-      "visitas": 2
+      "visitas": null
     },
     {
       "id": "MASHLE Kami Shinkakusha Kouho Senbatsu Shiken-hen",
@@ -890,7 +890,7 @@
       "proximo": "Sábado 10 de febrero 2024",
       "image": "https://i.postimg.cc/RZZb4bt6/mashle-kami-shinkakusha-kouho-senbatsu-shiken-hen.webp",
       "banner": "https://i.postimg.cc/pTWpJ4cN/Mashle-trailer-presenta-el-opening-de-la-temporada-2-y-los-visionarios-divinos.jpg",
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "ore dake lvel up na ken solo leveling",
@@ -988,7 +988,7 @@
       ],
       "proximo": "Sábado 17 de febrero 2024",
       "image": "https://i.postimg.cc/wTmQ1Dqw/138405l.webp",
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Ao no Exorcist Shimane Illuminati-hen",
@@ -1111,7 +1111,7 @@
       ],
       "proximo": "Sábado 17 de febrero 2024",
       "image": "https://i.postimg.cc/sf0HkPcR/ao-no-exorcist-shimane-illuminati-hen.webp",
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "tate no Yuusha no Nariagari 3ra temporada",
@@ -1217,7 +1217,7 @@
           ]
         }
       ],
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
@@ -1274,7 +1274,7 @@
       "proximo": "Domingo 7 de agosto 2023",
       "image": "https://i.postimg.cc/hGj1p231/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto.webp",
       "banner__anime": "https://i.postimg.cc/59vq7YpT/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-banner.webp",
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "jujutsu kaisen 2nd temporada",
@@ -1426,7 +1426,7 @@
           ]
         }
       ],
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
@@ -1524,7 +1524,7 @@
       "proximo": false,
       "image": "https://i.postimg.cc/4ySm5VzM/bleach-sennen-kessen-hen-ketsubetsu-tan-11613.webp",
       "banner__anime": "https://i.postimg.cc/xjp2BXSt/Banner-bleach-segunda-parte.webp",
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Bungou Stray Dogs 5",
@@ -1566,7 +1566,7 @@
       "secuelas": [],
       "proximo": false,
       "image": "https://i.postimg.cc/J7dfqsWL/Fs-T4g-PXa-MAw-Pbmh.webp",
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Black clover pelicula",
@@ -1616,7 +1616,7 @@
       "proximo": false,
       "rating": 9.2,
       "image": "https://i.postimg.cc/MKJ5GbBF/black-clover-mahou-tei-no-ken.webp",
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Hellsing Ultimate",
@@ -1662,7 +1662,7 @@
       "rating": 6.5,
       "proximo": false,
       "image": "https://i.postimg.cc/XvCHym5H/hellsing-ultimate.webp",
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
@@ -1708,7 +1708,7 @@
       ],
       "rating": 7.7,
       "secuelas": [],
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "mashle",
@@ -1745,7 +1745,7 @@
       "proximo": false,
       "rating": 7.4,
       "banner": "https://i.postimg.cc/ZKVvST2x/Banner-mashle.webp",
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "akudama drive",
@@ -1777,7 +1777,7 @@
       "studio": "Studio Pierrot",
       "image": "https://i.postimg.cc/Dz96B0dq/akudama-drive.webp",
       "banner__anime": "https://i.postimg.cc/Bv2FVWLB/Banner-Akudama-Drive.webp",
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "BLEACH: Sennen Kessen-hen",
@@ -1823,7 +1823,7 @@
       "rating": 7.1,
       "studio": "Studio Pierrot",
       "duration": "24 min",
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "hoshi no samidare",
@@ -1874,7 +1874,7 @@
       "duration": "24 min",
       "rating": 7.2,
       "studio": "NAZ",
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Shadows House",
@@ -1910,7 +1910,7 @@
       "studio": "CloverWorks",
       "rating": 5.7,
       "tipo": "tv",
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Tensei Shitara Slime Datta Ken Segunda Temporada Parte 2",
@@ -1961,7 +1961,7 @@
         }
       ],
       "rating": 7,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Kuro no Shoukanshi",
@@ -1992,7 +1992,7 @@
       "duration": "24 min",
       "rating": 5.5,
       "tipo": "tv",
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Hanyo no Yashahime ni no Shou",
@@ -2029,7 +2029,7 @@
         }
       ],
       "rating": 6.3,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Heion Sedai no Idaten Tachi",
@@ -2073,7 +2073,7 @@
         }
       ],
       "rating": 6,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Peach Boy Riverside",
@@ -2104,7 +2104,7 @@
         }
       ],
       "rating": 6.5,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Jujutsu Kaisen",
@@ -2157,7 +2157,7 @@
         }
       ],
       "rating": 7.8,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Shingeki no Bahamut:Virgin Soul",
@@ -2207,7 +2207,7 @@
         }
       ],
       "rating": 6.7,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Castlevania",
@@ -2262,7 +2262,7 @@
       "classEstado": "tag is-success end",
       "tipo": "tv",
       "rating": 7.6,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Overlord III",
@@ -2324,7 +2324,7 @@
         }
       ],
       "rating": 7.8,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Ao no Exorcist Kyoto Fujouou Hen",
@@ -2372,7 +2372,7 @@
       "year": 2017,
       "tipo": "tv",
       "rating": 5.9,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Fairy Gone",
@@ -2423,7 +2423,7 @@
       "studio": "P.A. Works",
       "duration": "23 min",
       "rating": 7.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Dr Stone Ryusui",
@@ -2460,7 +2460,7 @@
       "classEstado": "tag is-success end",
       "tipo": "tv",
       "rating": 8.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "isekai Yakkyoku",
@@ -2490,7 +2490,7 @@
       "classEstado": "tag is-success end",
       "tipo": "tv",
       "rating": 8.6,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Fairy Gone 2nd Temporada",
@@ -2536,7 +2536,7 @@
       "duration": "20 min",
       "tipo": "tv",
       "rating": 6.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "isekai Meikyuu de Harem wo",
@@ -2586,7 +2586,7 @@
       "descripcion": "Luchando con la vida y la sociedad, el estudiante de secundaria Michio Kaga deambula por Internet y aterriza en un sitio web extraño. El sitio web, que presenta una serie de preguntas y un sistema basado en puntos, permite crear habilidades y destrezas para un personaje. Al completar su personaje, Kaga fue transportado a un mundo de fantasía similar a un juego y renació como un hombre fuerte que puede reclamar chicas de nivel ídolo. ¡Así comienza la leyenda del engaño y el harem de un hombre renacido!",
       "tipo": "tv",
       "rating": 7.4,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Temporada",
@@ -2622,7 +2622,7 @@
       "tipo": "tv",
       "episodios": 13,
       "rating": 7.7,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Spy x Family",
@@ -2658,7 +2658,7 @@
       "episodios": 12,
       "year": 2022,
       "rating": 4.7,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Date a Live IV",
@@ -2704,7 +2704,7 @@
       "year": 2022,
       "episodios": 12,
       "rating": 6.6,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Tate no Yuusha no Naraigari",
@@ -2756,7 +2756,7 @@
         }
       ],
       "rating": 5.7,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Tate no Yuusha no Naraigari 2nd Temporada",
@@ -2805,7 +2805,7 @@
           "link": "/tate-no-yuusha-no-nariagari-3ra-temporada"
         }
       ],
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Tomodachi Game",
@@ -2835,7 +2835,7 @@
       ],
       "year": 2022,
       "rating": 8.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Baraou no Souretsu",
@@ -2879,7 +2879,7 @@
       ],
       "tipo": "tv",
       "rating": 7.4,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Karakuri Circus",
@@ -2924,7 +2924,7 @@
       ],
       "year": 2022,
       "rating": 7.9,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Extreme Hearts",
@@ -2953,7 +2953,7 @@
       ],
       "tipo": "tv",
       "rating": 8,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Gensou Sangokushi Tenge Reishink",
@@ -2982,7 +2982,7 @@
       "year": 2022,
       "tipo": "tv",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Tribe nine",
@@ -3006,7 +3006,7 @@
       "episodios": 12,
       "tipo": "tv",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Koroshi Ai",
@@ -3035,7 +3035,7 @@
       "year": 2022,
       "episodios": 12,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Sabikui Bisco",
@@ -3069,7 +3069,7 @@
       "estado": "finalizado",
       "year": 2022,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Sasaki to Miyano",
@@ -3100,7 +3100,7 @@
       "classEstado": "tag is-success end",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Toaru Majutsu no Index",
@@ -3148,7 +3148,7 @@
       "classEstado": "tag is-success end",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Berserk: Ougon Jidai-hen - MEMORIAL EDITION",
@@ -3204,7 +3204,7 @@
       "classEstado": "tag is-success end",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Dolls Frontline",
@@ -3244,7 +3244,7 @@
       "classEstado": "tag is-success end",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Saiyuki RELOAD -ZEROIN-",
@@ -3266,7 +3266,7 @@
       "classEstado": "tag is-success end",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Violet Evergarden",
@@ -3299,7 +3299,7 @@
       "banner": "https://images3.alphacoders.com/905/905838.webp",
       "tipo": "tv",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Shadows House Temporada 2",
@@ -3342,7 +3342,7 @@
       "duration": "24 min",
       "tipo": "tv",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Orient 2nd Temporada",
@@ -3364,7 +3364,7 @@
       "classEstado": "tag is-success end",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "isekai Ojisan",
@@ -3386,7 +3386,7 @@
       "classEstado": "tag is-success airing",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Overlord IV",
@@ -3433,7 +3433,7 @@
       "temporadas": 4,
       "tipo": "tv",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Tensei kenja no isekai life dai 2 no shokugyou wo ete sekai saikyou ni narimashita",
@@ -3453,7 +3453,7 @@
       "classEstado": "tag is-success end",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Vampire in the Garden",
@@ -3473,7 +3473,7 @@
       "classEstado": "tag is-success end",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Ziuhou de Zhaohuan Shi the last summoner",
@@ -3493,7 +3493,7 @@
       "classEstado": "tag is-success end",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "name": "kingdom 4ta temporada",
@@ -3514,7 +3514,7 @@
       "classEstado": "tag is-success end",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "mahoutsukai reimeiki",
@@ -3534,7 +3534,7 @@
       "classEstado": "tag is-success end",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "tiger and bunny 2",
@@ -3556,7 +3556,7 @@
       "classEstado": "tag is-success end",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "toaru majustu no index III",
@@ -3578,7 +3578,7 @@
       "classEstado": "tag is-success end",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Ginga Eiyuu Densetsu: Die Neue These - Sakubou",
@@ -3599,7 +3599,7 @@
       "classEstado": "tag is-success end",
       "al": 2,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "shingeki no kyojin temporada final parte 2",
@@ -3621,7 +3621,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Muhyo to Rouji no Mahouritsu Soudan Jimusho",
@@ -3643,7 +3643,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Golden Time",
@@ -3663,7 +3663,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Fullmetal Alchemist Brotherhood",
@@ -3721,7 +3721,7 @@
       "duration": "24 min",
       "tipo": "tv",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Overlord",
@@ -3743,7 +3743,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Overlord II",
@@ -3768,7 +3768,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Aldnoah Zero Parte 2",
@@ -3790,7 +3790,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Yama no Susume 3",
@@ -3814,7 +3814,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Kimetsu no Yaiba: Mugen Ressha-hen",
@@ -3838,7 +3838,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Ushio to tora",
@@ -3881,7 +3881,7 @@
       "studio": "MAPPA, Studio VOLN",
       "year": 2015,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Shingeki no Bahamut Genesis",
@@ -3903,7 +3903,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Ao no Exorcist",
@@ -3927,7 +3927,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
@@ -3949,7 +3949,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Majutsushi Orphen Hagure Tabi",
@@ -3971,7 +3971,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Castlevania 3",
@@ -3994,7 +3994,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Arifureta Shokugyou de Sekai Saikyou Segunda Temporada",
@@ -4016,7 +4016,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
@@ -4036,7 +4036,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
@@ -4056,7 +4056,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Sword Art Online",
@@ -4080,7 +4080,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Shachou, Battle no Jikan desu!",
@@ -4100,7 +4100,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Drifters",
@@ -4122,7 +4122,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Saint Seiya: The Lost Canvas",
@@ -4145,7 +4145,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Kekkai Sensen & Beyond",
@@ -4167,7 +4167,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Mahoutsukai Reimeiki",
@@ -4187,7 +4187,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Gaikotsu Kishi-sama, Tadaima isekai e Odekakechuu",
@@ -4207,7 +4207,7 @@
       "classEstado": "tag is-success end",
       "al": 3,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Totsukuni no shoujo",
@@ -4227,7 +4227,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Kunoichi Tsubaki no Mune no Uchi",
@@ -4247,7 +4247,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
@@ -4267,7 +4267,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Yuusha, Yamemasu",
@@ -4287,7 +4287,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "ESTAB LIFE: Great Escape",
@@ -4307,7 +4307,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Vanitas no Carte 2nd Cour",
@@ -4329,7 +4329,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Ryman's Club",
@@ -4349,7 +4349,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
@@ -4369,7 +4369,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Sabiiro no Armor -Reimei",
@@ -4389,7 +4389,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Orient",
@@ -4411,7 +4411,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2",
@@ -4433,7 +4433,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Tokyo 24-ku",
@@ -4453,7 +4453,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "CUE!",
@@ -4473,7 +4473,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Kaijin Kaihatsu-bu no Kuroitsu-san",
@@ -4493,7 +4493,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Koi wa Sekai Seifuku no Ato de",
@@ -4513,7 +4513,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Megalo Box",
@@ -4535,7 +4535,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Killing Bites",
@@ -4555,7 +4555,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Accel World",
@@ -4600,7 +4600,7 @@
       "tipo": "tv",
       "classEstado": "tag is-success end",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Utawarerumono",
@@ -4624,7 +4624,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Eden",
@@ -4644,7 +4644,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Altered Carbon: Resleeved",
@@ -4664,7 +4664,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Re:Zero kara Hajimeru isekai Seikatsu Segunda Temporada Parte 2",
@@ -4685,7 +4685,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Kumo desu ga, Nani ka",
@@ -4705,7 +4705,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Shingeki no Kyojin: Temporada Final",
@@ -4729,7 +4729,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
@@ -4749,7 +4749,7 @@
       "classEstado": "tag is-success end",
       "al": 4,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Hanyo no Yashahime",
@@ -4773,7 +4773,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Majo no Tabitabi",
@@ -4793,7 +4793,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Mob Psycho 100",
@@ -4815,7 +4815,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Mob Psycho 100 II",
@@ -4860,7 +4860,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
@@ -4901,7 +4901,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Senyoku no Sigrdrifa",
@@ -4932,7 +4932,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "King's Raid: Ishi wo Tsugumono-tachi",
@@ -4973,7 +4973,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Danmachi III",
@@ -5023,7 +5023,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "DanMachi II",
@@ -5068,7 +5068,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Sword Art Online: Alicization - War of Underworld Parte 2",
@@ -5111,7 +5111,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Re:Zero kara Hajimeru isekai Seikatsu 2nd Temporada Parte 1",
@@ -5151,7 +5151,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Noragami Aragoto",
@@ -5194,7 +5194,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Noragami",
@@ -5237,7 +5237,7 @@
       "duration": "24 min",
       "studio": "Bones",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "SPY x FAMILY 2nd Temporada",
@@ -5275,7 +5275,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Tokyo Ghoul: re 2",
@@ -5313,7 +5313,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Tokyo Ghoul: re",
@@ -5353,7 +5353,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Darling in the Franxx",
@@ -5389,7 +5389,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Goblin Slayer",
@@ -5432,7 +5432,7 @@
       "duration": "24 min",
       "studio": "White Fox",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Knight's & Magic",
@@ -5467,7 +5467,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Tokyo Ghoul √A",
@@ -5513,7 +5513,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Tokyo Ghoul",
@@ -5559,7 +5559,7 @@
       "sec3": "disable",
       "year": 2014,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "ID:INVADED",
@@ -5600,7 +5600,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Levius",
@@ -5638,7 +5638,7 @@
       "classEstado": "tag is-success end",
       "al": 5,
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Chainsaw Man",
@@ -5668,7 +5668,7 @@
       "estado": "finalizado",
       "classEstado": "tag is-success end",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Mob Psycho 100 III",
@@ -5710,7 +5710,7 @@
       "estado": "finalizado",
       "classEstado": "tag is-success end",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV",
@@ -5757,7 +5757,7 @@
       "estado": "en emision",
       "classEstado": "tag is-success airing",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Fuufu Ijou, Koibito Miman",
@@ -5797,7 +5797,7 @@
       "estado": "finalizado",
       "classEstado": "tag is-success end",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Peter Grill to Kenja no Jikan Super Extra",
@@ -5839,7 +5839,7 @@
       "estado": "finalizado",
       "classEstado": "tag is-success end",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Yowamushi Pedal Limit Break",
@@ -5866,7 +5866,7 @@
       "estado": "en emision",
       "classEstado": "tag is-success airing",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "bluelock",
@@ -5889,7 +5889,7 @@
       "tipo": "tv",
       "trailer": "",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Fumetsu no Anata e Temporada 2",
@@ -5932,7 +5932,7 @@
       "sec3": "disable",
       "classEstado": "tag is-success airing",
       "rating": 5.2,
-      "visitas": 0
+      "visitas": null
     },
     {
       "id": "Bungou Stray Dogs 4",
@@ -5969,7 +5969,7 @@
       "descripcion": "“Su agencia de detectives es un orgullo del país”. Ha pasado aproximadamente un mes desde que la Agencia Armada de Detectives, en colaboración con Port Mafia, ganó la operación de canibalismo ideada por las Ratas en la Casa de los Muertos. La Agencia de Detectives Armados recibió la medalla más alta por su contribución a la seguridad, la Orden del Arco de Exorcismo de Azusa, y fue elogiada por todo el país. Entonces llega una solicitud urgente del gobierno. Los cuatro asesinatos de los jóvenes senadores se compararon con los cinco signos de la mortalidad del ser celestial más alto de Rokudo Rinne, los Seis Reinos de la Reencarnación. La Agencia de Detectives Armados se propone evitar que ocurra el asesinato restante. “Todas las fuerzas deben trabajar juntas para prevenir los intentos del mal”. ¡Pero resulta ser una trampa tendida por el astuto Demonio Fyodor, que se suponía que había sido capturado...! Los funcionarios del gobierno sospechan de la justicia que defienden. Una unidad especial de la policía militar, los Perros de Caza, está lista para entrar en acción. La Descomposición del Ángel está vagando por las calles para provocar la destrucción del mundo. La Agencia de Detectives Armados, que ha sido calumniada por el público desde su gloria, se enfrenta uno tras otro a nuevos enemigos y su desesperación sin fondo. Con su amistad desmoronándose, ¿será Atsushi Nakajima capaz de superar esta crisis sin precedentes? Sin un rayo de esperanza a la vista, la batalla está a punto de comenzar...",
       "estado": "finalizado",
       "rating": 0.2,
-      "visitas": 0
+      "visitas": null
     }
   ]
 }
