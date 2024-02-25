@@ -1,6 +1,12 @@
 {
   "recientes": [
     {
+      "nombre": "solo leveling",
+      "episode": "Episodio 7",
+      "image": "https://i.postimg.cc/qBGRFXHn/3-UGTVLFHc-AIQgjolx6r-Qp-Cott-Rj.jpg"
+    },
+
+    {
       "nombre": "ninja kamui",
       "episode": "Episodio 2",
       "image": "https://i.postimg.cc/6qTJnCRs/iu-Wttkg-KMJKLIo-WMBFt-UJxvg-R9w.jpg"
@@ -85,12 +91,6 @@
       "link": "/ver/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru-5",
       "episode": "Episodio 5",
       "image": "https://i.postimg.cc/BvZK00w6/g-Cma7-On-Pjc-Fq-Xlp-LOc25-O6r-Gzhd.jpg"
-    },
-    {
-      "nombre": "Sekai Saikou no Ansatsusha Isekai Kizoku ni Tensei suru",
-      "link": "/ver/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru-6",
-      "episode": "Episodio 6",
-      "image": "https://i.postimg.cc/HkRqGYL0/ugv-Al30-Yhb-X0-Rds-X3-Gg1-EQne1-H7.jpg"
     }
   ]
 }
