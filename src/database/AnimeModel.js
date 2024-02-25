@@ -36,6 +36,9 @@ const getAllAnime = (filterParams) => {
         anime.name.toLowerCase().includes(filterParams.name.toLowerCase())
       )
     }
+    if (filterParams.tipo) {
+      animes = animes.filter((anime) => anime.tipo === filterParams.tipo)
+    }
 
     if (filterParams.años) {
       const años = Array.isArray(filterParams.años)

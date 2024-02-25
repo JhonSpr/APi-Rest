@@ -1,6 +1,6 @@
 const animeService = require('../services/AnimeService')
 
-const getAllAnimes = (req, res) => {
+const getAllAnimes = async (req, res) => {
   const { name, estado, info } = req.query
   try {
     const limit = parseInt(req.query.limit) || 24
@@ -16,7 +16,10 @@ const getAllAnimes = (req, res) => {
     const letra = req.query.letra
     const studio = req.query.studio
     const visitas = req.query.visitas
-    const animes = animeService.getAllAnime({
+    const tipo = req.params.tipo
+
+    // Obtener los datos de animeService.getAllAnime()
+    const animes = await animeService.getAllAnime({
       name,
       años,
       estado,
@@ -29,12 +32,12 @@ const getAllAnimes = (req, res) => {
       letra,
       studio,
       visitas,
+      tipo,
     })
-    let datos = animes
 
     res.send({
-      datos: datos.slice(startIndex, endIndex),
-      item: datos.length,
+      datos: animes.slice(startIndex, endIndex),
+      item: animes.length,
       currentPage: page,
       sort: sortBy,
     })

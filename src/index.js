@@ -3,6 +3,7 @@ const cors = require('cors')
 const v1animeRouter = require('./v1/routes/animeRoutes')
 const db = require('./database/Recientes.json')
 const DB = require('./database/db.json')
+const { getAllAnime } = require('./database/AnimeModel')
 const app = express()
 const PORT = process.env.PORT || 3001
 const fs = require('fs')

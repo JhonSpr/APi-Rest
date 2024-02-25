@@ -1,12 +1,8 @@
-const express = require("express");
-const animeController = require("../../controllers/AnimeController");
-const router = express.Router();
+const express = require('express')
+const animeController = require('../../controllers/AnimeController')
+const router = express.Router()
 
-router.get("/", animeController.getAllAnimes);
-// .get("/:workoutId", animeController.getOneWorkout)
-// .post("/", animeController.createNewWorkout)
-// .patch("/:workoutId", animeController.updateOneWorkout)
+router.get('/', animeController.getAllAnimes)
+router.get('/:tipo', animeController.getAllAnimes)
 
-// .delete("/:workoutId", animeController.deleteOneWorkout);
-
-module.exports = router;
+module.exports = router
