@@ -35,32 +35,18 @@ app.put('/api/v1/animes/:id/rating', (req, res) => {
   }
 })
 
-app.put('/api/v1/animes/:id/visita', (req, res) => {
+app.put('/api/v1/animes/:id/visitas', (req, res) => {
   const animeId = req.params.id
-  const visita = parseInt(req.body.visitas)
+  const visitas = parseInt(req.body.visitas)
 
   // Verifica si la visita es un número válido
-  if (!isNaN(visita)) {
+  if (!isNaN(visitas)) {
     // Encuentra el anime por su ID en tu base de datos y actualiza las visitas
     const anime = DB.animes.find((anime) => anime.id === animeId)
 
     if (anime) {
-      anime.visitas = visita
-
-      // Ruta del archivo JSON de la base de datos
-      const dbPath = './database/db.json' // Reemplaza con la ruta correcta de tu archivo JSON
-
-      // Escribe los cambios en el archivo JSON
-      fs.writeFile(dbPath, JSON.stringify(DB), (err) => {
-        if (err) {
-          res
-            .status(500)
-            .send({ error: 'Error al escribir en la base de datos.' })
-          console.error(err) // Imprime el error en la consola para depuración
-          return
-        }
-        res.send({ message: 'Visitas actualizadas correctamente.' })
-      })
+      anime.visitas = visitas
+      res.send({ message: 'Visitas actualizadas correctamente.' })
     } else {
       res.status(404).send({ error: 'Anime no encontrado.' })
     }
