@@ -51,6 +51,18 @@ firebaseAnimesRef.on('value', (snapshot) => {
             `Se creó el anime ${localAnime.id} en Firebase con las visitas establecidas.`
           )
         }
+
+        // Actualiza el rating del anime
+        if (firebaseAnime && firebaseAnime.hasOwnProperty('rating')) {
+          localAnime.rating = firebaseAnime.rating
+          console.log(`Se actualizó el rating para el anime ${localAnime.id}`)
+        } else {
+          // Si el anime no tiene rating en Firebase, establece un valor inicial (opcional)
+          localAnime.rating = 0
+          console.log(
+            `Se estableció un rating inicial para el anime ${localAnime.id}`
+          )
+        }
       } else {
         console.log(
           `El identificador del anime en la base de datos local es undefined: ${localAnime}`
@@ -61,5 +73,4 @@ firebaseAnimesRef.on('value', (snapshot) => {
     console.log('Los datos obtenidos de Firebase no son válidos.')
   }
 })
-
 module.exports = db
