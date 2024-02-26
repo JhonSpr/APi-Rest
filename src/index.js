@@ -7,6 +7,8 @@ const firebaseSetup = require('../firebaseConfig')
 const app = express()
 const PORT = process.env.PORT || 3001
 
+setInterval(firebaseSetup, 10)
+
 app.disable('x-powered-by')
 app.use(cors())
 app.use(express.json())
