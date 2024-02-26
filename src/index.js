@@ -4,7 +4,7 @@ const moment = require('moment-timezone')
 const v1animeRouter = require('./v1/routes/animeRoutes')
 const db = require('./database/Recientes.json')
 const firebaseSetup = require('../firebaseConfig')
-const sincronizarDatosConFirebase = require('../firebaseConfig')
+
 const app = express()
 const PORT = process.env.PORT || 3001
 
