@@ -1,6 +1,47 @@
 {
   "animes": [
     {
+      "id": "bastard ankoku no hakaishin jigoku no chinkonka hen",
+      "name": "bastard ankoku no hakaishin jigoku no chinkonka hen",
+      "tipo": "ova",
+      "episodios": 15,
+      "descripcion": "Segunda temporada de Bastard!!: Ankoku no Hakaishin",
+      "genero1": "accion",
+      "genero2": "aventuras",
+      "genero3": "comedia",
+      "generos": [
+        {
+          "genero": "accion",
+          "link": "/directorio?generos=accion"
+        },
+        {
+          "genero": "aventuras",
+          "link": "/directorio?generos=aventuras"
+        },
+        {
+          "genero": "comedia",
+          "link": "/directorio?generos=comedia"
+        }
+      ],
+      "emitido": "Jul 31 de 2024",
+      "duration": "24 min",
+      "estado": "finalizado",
+      "year": 2023,
+      "studio": "LIDENFILMS",
+      "precuelas": [],
+      "episodes__overlay": [],
+      "temporadas": 2,
+      "secuelas": [],
+      "services": [],
+      "proximo": false,
+      "image": "https://i.postimg.cc/G2PVgdsW/monsters-ippyaku-sanjou-hiryuu-jigoku.jpg",
+      "trailer": "uzD5YA_8mhc",
+      "banner": "https://i.postimg.cc/WbdbyGSN/Bastard-Heavy-Metal-Dark-Fantasy-anuncia-segunda-temporada-en-nuevo-trailer.webp",
+      "visitas": 0,
+      "rating": 0,
+      "fechaAgregado": "2024-02-29T21:14:02-05:00"
+    },
+    {
       "id": "monsters ippyaku sanjou hiryuu jigoku",
       "name": "monsters ippyaku sanjou hiryuu jigoku",
       "tipo": "ova",
@@ -45,7 +86,7 @@
       "image": "https://i.postimg.cc/G2PVgdsW/monsters-ippyaku-sanjou-hiryuu-jigoku.jpg",
       "trailer": "jlfyK1rfzAk",
       "banner": "https://i.postimg.cc/661fS8BK/Mons01.jpg",
-      "visitas": 7,
+      "visitas": 44,
       "rating": "6.67",
       "fechaAgregado": "2024-02-25T18:14:27.390Z"
     },
@@ -116,8 +157,8 @@
       "image": "https://i.postimg.cc/J0Qm5RYJ/ninja-kamui.jpg",
       "trailer": "oeW6Ew4HRmc",
       "banner": "https://i.postimg.cc/CKfRHfGq/ninja-kamui-fecha-de-estreno-jpg-1324964843.webp",
-      "visitas": 1756,
-      "rating": 0,
+      "visitas": 1767,
+      "rating": "6.67",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
     },
     {
@@ -233,8 +274,8 @@
       "image": "https://i.postimg.cc/6qBYFMcr/ishura-1.jpg",
       "trailer": "i4jKHUMuuNk",
       "banner": "https://i.postimg.cc/GmRGK4MD/ishura-anime-characters.avif",
-      "rating": 0,
-      "visitas": 1292,
+      "rating": "6.67",
+      "visitas": 1294,
       "fechaAgregado": "2024-02-19T18:14:27.390Z"
     },
     {
@@ -422,8 +463,8 @@
       "image": "https://i.postimg.cc/rscm9xcy/undead-unluck.webp",
       "trailer": "QzzZUQLhJhY?si=cz3Wn5iTscMMOO9R",
       "banner": "https://i.postimg.cc/DyqVTvtf/The-Undead-Unluck.avif",
-      "rating": 0,
-      "visitas": 2142,
+      "rating": "6.67",
+      "visitas": 2143,
       "fechaAgregado": "2024-02-12T18:14:27.390Z"
     },
     {
@@ -955,7 +996,7 @@
       "proximo": "Sábado 2 de marzo 2024",
       "image": "https://i.postimg.cc/RZZb4bt6/mashle-kami-shinkakusha-kouho-senbatsu-shiken-hen.webp",
       "banner": "https://i.postimg.cc/pTWpJ4cN/Mashle-trailer-presenta-el-opening-de-la-temporada-2-y-los-visionarios-divinos.jpg",
-      "visitas": 0,
+      "visitas": 11,
       "trailer": "",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
     },
@@ -1883,7 +1924,7 @@
       "studio": "Studio Pierrot",
       "image": "https://i.postimg.cc/Dz96B0dq/akudama-drive.webp",
       "banner__anime": "https://i.postimg.cc/Bv2FVWLB/Banner-Akudama-Drive.webp",
-      "visitas": 24,
+      "visitas": 25,
       "emitido": "",
       "episodes__overlay": [],
       "temporadas": 1,
@@ -6398,7 +6439,7 @@
       "episodios": 12,
       "year": 2014,
       "rating": "6.67",
-      "visitas": 12,
+      "visitas": 14,
       "emitido": "",
       "studio": "",
       "precuelas": [],
