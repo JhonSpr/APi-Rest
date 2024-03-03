@@ -101,16 +101,10 @@ const getAllAnime = (filterParams) => {
       animes.sort((a, b) => a.name.localeCompare(b.name))
     }
     if (filterParams.rating) {
-      const ratingQueryParam = filterParams.rating.toLowerCase()
-
-      if (ratingQueryParam === 'mayor') {
-        animes = animes.filter(
-          (animeItem) => animeItem.rating && animeItem.rating > 6
-        )
-      } else if (ratingQueryParam === 'menor') {
-        animes = animes.filter(
-          (animeItem) => animeItem.rating && animeItem.rating < 6
-        )
+      if (filterParams.rating === 'mayor') {
+        animes = animes.sort((a, b) => b.rating - a.rating)
+      } else if (filterParams.rating === 'menor') {
+        animes = animes.sort((a, b) => a.rating - b.rating)
       }
     }
     return animes
