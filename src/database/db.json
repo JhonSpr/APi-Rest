@@ -86,7 +86,7 @@
       "image": "https://i.postimg.cc/G2PVgdsW/monsters-ippyaku-sanjou-hiryuu-jigoku.jpg",
       "trailer": "jlfyK1rfzAk",
       "banner": "https://i.postimg.cc/661fS8BK/Mons01.jpg",
-      "visitas": 53,
+      "visitas": 54,
       "rating": "6.67",
       "fechaAgregado": "2024-02-25T18:14:27.390Z"
     },
@@ -94,7 +94,7 @@
       "id": "ninja kamui",
       "name": "ninja kamui",
       "tipo": "tv",
-      "episodios": 4,
+      "episodios": 5,
       "descripcion": "Joe Higan es un Nukenin, un ex ninja que escapó de su clan y se esconde de su pasado violento en la América rural con su familia. Una noche, es emboscado por un equipo de asesinos de su antigua organización que imponen una sangrienta retribución a Joe y su familia por traicionar su antiguo código. Al surgir de su aparente 'muerte', Joe resurgirá como su antiguo yo, Ninja Kamui, para vengar a su familia y amigos. Kamui es un ninja del siglo XXI, un sombrío anacronismo que enfrenta sus antiguas habilidades contra armamento de alta tecnología con brutal delicadeza. Debe enfrentarse a asesinos entrenados, cyborgs de combate y ninjas rivales para derribar al mismo clan que lo creó",
       "genero1": "accion",
       "genero2": "ciencia ficcion",
@@ -130,6 +130,10 @@
         {
           "episode": 4,
           "image": "https://i.postimg.cc/hGKHLQZk/1glffb-Sb-LJibx6-JWLj-Px28-A5-F1p.jpg"
+        },
+        {
+          "episode": 5,
+          "image": "https://i.postimg.cc/dVtDy0Hx/ot-Ds-Ev-Ut-Hw-NOMf-EKo-RPrw-IWYC9-A.jpg"
         }
       ],
       "temporadas": 1,
@@ -166,13 +170,21 @@
               "image": "https://i.postimg.cc/hGKHLQZk/1glffb-Sb-LJibx6-JWLj-Px28-A5-F1p.jpg"
             }
           ]
+        },
+        {
+          "cap5": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39378",
+              "image": "https://i.postimg.cc/dVtDy0Hx/ot-Ds-Ev-Ut-Hw-NOMf-EKo-RPrw-IWYC9-A.jpg"
+            }
+          ]
         }
       ],
       "proximo": "febrero 27 de 2024",
       "image": "https://i.postimg.cc/J0Qm5RYJ/ninja-kamui.jpg",
       "trailer": "oeW6Ew4HRmc",
       "banner": "https://i.postimg.cc/CKfRHfGq/ninja-kamui-fecha-de-estreno-jpg-1324964843.webp",
-      "visitas": 1843,
+      "visitas": 1864,
       "rating": "7.50",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
     },
@@ -1166,7 +1178,7 @@
       ],
       "proximo": "Sábado 16 de marzo 2024",
       "image": "https://i.postimg.cc/wTmQ1Dqw/138405l.webp",
-      "visitas": 27,
+      "visitas": 34,
       "banner": "https://i.postimg.cc/HnmzFC4M/desktop-wallpaper-pc-version-of-my-since-few-people-wanted-it-also-thanks-for-all-the-good-words-sol.jpg",
       "trailer": "",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
@@ -1708,7 +1720,7 @@
       "proximo": false,
       "image": "https://i.postimg.cc/4ySm5VzM/bleach-sennen-kessen-hen-ketsubetsu-tan-11613.webp",
       "banner__anime": "https://i.postimg.cc/xjp2BXSt/Banner-bleach-segunda-parte.webp",
-      "visitas": 0,
+      "visitas": 3,
       "services": [],
       "banner": "",
       "trailer": "",
@@ -1987,7 +1999,7 @@
       "studio": "Studio Pierrot",
       "image": "https://i.postimg.cc/Dz96B0dq/akudama-drive.webp",
       "banner__anime": "https://i.postimg.cc/Bv2FVWLB/Banner-Akudama-Drive.webp",
-      "visitas": 27,
+      "visitas": 35,
       "emitido": "",
       "episodes__overlay": [],
       "temporadas": 1,
@@ -5073,7 +5085,7 @@
       "year": 2022,
       "tipo": "tv",
       "rating": 0,
-      "visitas": 2,
+      "visitas": 6,
       "emitido": "",
       "studio": "",
       "precuelas": [],
@@ -6319,7 +6331,7 @@
       "episodios": 12,
       "year": 2014,
       "rating": "6.67",
-      "visitas": 14,
+      "visitas": 21,
       "emitido": "",
       "studio": "",
       "precuelas": [],
