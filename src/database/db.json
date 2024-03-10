@@ -37,7 +37,7 @@
       "image": "https://i.postimg.cc/Px4sJmv9/bastard-ankoku-no-hakaishin-jigoku-no-chinkonka-hen.jpg",
       "trailer": "uzD5YA_8mhc",
       "banner": "https://i.postimg.cc/WbdbyGSN/Bastard-Heavy-Metal-Dark-Fantasy-anuncia-segunda-temporada-en-nuevo-trailer.webp",
-      "visitas": 203,
+      "visitas": 233,
       "rating": "9.99",
       "fechaAgregado": "2024-02-29T21:14:02-05:00"
     },
@@ -86,7 +86,7 @@
       "image": "https://i.postimg.cc/G2PVgdsW/monsters-ippyaku-sanjou-hiryuu-jigoku.jpg",
       "trailer": "jlfyK1rfzAk",
       "banner": "https://i.postimg.cc/661fS8BK/Mons01.jpg",
-      "visitas": 46,
+      "visitas": 53,
       "rating": "6.67",
       "fechaAgregado": "2024-02-25T18:14:27.390Z"
     },
@@ -168,8 +168,8 @@
       "image": "https://i.postimg.cc/J0Qm5RYJ/ninja-kamui.jpg",
       "trailer": "oeW6Ew4HRmc",
       "banner": "https://i.postimg.cc/CKfRHfGq/ninja-kamui-fecha-de-estreno-jpg-1324964843.webp",
-      "visitas": 1807,
-      "rating": "6.67",
+      "visitas": 1841,
+      "rating": "7.50",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
     },
     {
@@ -286,7 +286,7 @@
       "trailer": "i4jKHUMuuNk",
       "banner": "https://i.postimg.cc/GmRGK4MD/ishura-anime-characters.avif",
       "rating": "6.67",
-      "visitas": 1294,
+      "visitas": 1319,
       "fechaAgregado": "2024-02-19T18:14:27.390Z"
     },
     {
@@ -475,7 +475,7 @@
       "trailer": "QzzZUQLhJhY?si=cz3Wn5iTscMMOO9R",
       "banner": "https://i.postimg.cc/DyqVTvtf/The-Undead-Unluck.avif",
       "rating": "6.67",
-      "visitas": 2163,
+      "visitas": 2168,
       "fechaAgregado": "2024-02-12T18:14:27.390Z"
     },
     {
@@ -751,7 +751,7 @@
       "trailer": "f8JrZ7Q_p-8?si=gE3tFA4ISzFWZMqY",
       "banner": "https://i.postimg.cc/jj7Hc4BH/Vinland-Saga-featured.webp",
       "rating": 0,
-      "visitas": 0,
+      "visitas": 1,
       "fechaAgregado": "2024-02-02T18:14:27.390Z"
     },
     {
@@ -1026,7 +1026,7 @@
       "id": "ore dake lvel up na ken solo leveling",
       "name": "ore dake level up na ken solo leveling",
       "tipo": "tv",
-      "episodios": 8,
+      "episodios": 9,
       "descripcion": "Hace diez años, apareció “la Puerta” y conectó el mundo real con el reino de la magia y los monstruos. Para combatir a estas viles bestias, la gente corriente recibió poderes sobrehumanos y se convirtió en “Cazadores”. Sung Jin-Woo, de 20 años, es uno de esos cazadores, pero se le conoce como el “más débil del mundo”, debido a su patético poder en comparación con un mísero rango E. Aun así, caza monstruos incansablemente en Gates de bajo rango para pagar las facturas médicas de su madre. Sin embargo, este miserable estilo de vida cambia cuando Jin-Woo -creyendo que es el único que ha muerto en una misión que salió terriblemente mal- se despierta en un hospital tres días después para encontrar una misteriosa pantalla flotando frente a él. Este “Quest Log” exige que Jin-Woo complete un intenso e irreal programa de entrenamiento, o que se enfrente a un castigo apropiado. Al principio, Jin-Woo se muestra reacio a cumplir con el rigor de la búsqueda, pero pronto descubre que puede transformarlo en uno de los cazadores más temibles del mundo.",
       "genero1": "accion",
       "genero2": "aventuras",
@@ -1084,6 +1084,10 @@
         {
           "episode": 8,
           "image": "https://i.postimg.cc/6qZ5rZY8/m-Yoah2-Dtf-KVq-GMtu-CBmge-ZYCQo-M.jpg"
+        },
+        {
+          "episode": 9,
+          "image": "https://i.postimg.cc/ZqtLJn0N/uc-QLl-Kg-Xbdg-A2j4a1z-Wn-Dasft-Yk.jpg"
         }
       ],
       "temporadas": 1,
@@ -1132,11 +1136,18 @@
               "url": "https://saidochesto.top/embed.php?id=39300"
             }
           ]
+        },
+        {
+          "cap9": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39364"
+            }
+          ]
         }
       ],
       "proximo": "Sábado 09 de marzo 2024",
       "image": "https://i.postimg.cc/wTmQ1Dqw/138405l.webp",
-      "visitas": 22,
+      "visitas": 23,
       "banner": "https://i.postimg.cc/HnmzFC4M/desktop-wallpaper-pc-version-of-my-since-few-people-wanted-it-also-thanks-for-all-the-good-words-sol.jpg",
       "trailer": "",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
@@ -4830,7 +4841,7 @@
       "tipo": "tv",
       "year": 2022,
       "rating": 0,
-      "visitas": 0,
+      "visitas": 3,
       "emitido": "",
       "studio": "",
       "precuelas": [],
@@ -4946,7 +4957,7 @@
       "tipo": "tv",
       "year": 2022,
       "rating": "9.75",
-      "visitas": 4,
+      "visitas": 6,
       "emitido": "",
       "studio": "",
       "precuelas": [],
@@ -5033,7 +5044,7 @@
       "year": 2022,
       "tipo": "tv",
       "rating": 0,
-      "visitas": 0,
+      "visitas": 1,
       "emitido": "",
       "studio": "",
       "precuelas": [],
