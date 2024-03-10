@@ -28,7 +28,9 @@ router.put('/:id/services', (req, res) => {
         (service) => Object.keys(service)[0] === `cap${capNumber}`
       )
     ) {
-      anime.services.push({ [`cap${capNumber}`]: [{ url: capUrl }] })
+      anime.services.push({
+        [`cap${capNumber}`]: [{ url: capUrl, image: imageEpisode }],
+      })
       anime.episodios = capNumber
 
       if (
