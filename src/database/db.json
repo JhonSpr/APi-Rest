@@ -37,7 +37,7 @@
       "image": "https://i.postimg.cc/Px4sJmv9/bastard-ankoku-no-hakaishin-jigoku-no-chinkonka-hen.jpg",
       "trailer": "uzD5YA_8mhc",
       "banner": "https://i.postimg.cc/WbdbyGSN/Bastard-Heavy-Metal-Dark-Fantasy-anuncia-segunda-temporada-en-nuevo-trailer.webp",
-      "visitas": 238,
+      "visitas": 239,
       "rating": "9.99",
       "fechaAgregado": "2024-02-29T21:14:02-05:00"
     },
@@ -94,7 +94,7 @@
       "id": "ninja kamui",
       "name": "ninja kamui",
       "tipo": "tv",
-      "episodios": 9,
+      "episodios": 6,
       "descripcion": "Joe Higan es un Nukenin, un ex ninja que escapó de su clan y se esconde de su pasado violento en la América rural con su familia. Una noche, es emboscado por un equipo de asesinos de su antigua organización que imponen una sangrienta retribución a Joe y su familia por traicionar su antiguo código. Al surgir de su aparente 'muerte', Joe resurgirá como su antiguo yo, Ninja Kamui, para vengar a su familia y amigos. Kamui es un ninja del siglo XXI, un sombrío anacronismo que enfrenta sus antiguas habilidades contra armamento de alta tecnología con brutal delicadeza. Debe enfrentarse a asesinos entrenados, cyborgs de combate y ninjas rivales para derribar al mismo clan que lo creó",
       "genero1": "accion",
       "genero2": "ciencia ficcion",
@@ -134,6 +134,10 @@
         {
           "episode": 5,
           "image": "https://i.postimg.cc/dVtDy0Hx/ot-Ds-Ev-Ut-Hw-NOMf-EKo-RPrw-IWYC9-A.jpg"
+        },
+        {
+          "episode": 6,
+          "image": "https://i.postimg.cc/sgSv9SMP/t9-D5-WY4-Cj-DWg-Xf6s-Lnl-PRtar0ye.jpg"
         }
       ],
       "temporadas": 1,
@@ -178,13 +182,21 @@
               "image": "https://i.postimg.cc/dVtDy0Hx/ot-Ds-Ev-Ut-Hw-NOMf-EKo-RPrw-IWYC9-A.jpg"
             }
           ]
+        },
+        {
+          "cap6": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39514",
+              "image": "https://i.postimg.cc/sgSv9SMP/t9-D5-WY4-Cj-DWg-Xf6s-Lnl-PRtar0ye.jpg"
+            }
+          ]
         }
       ],
-      "proximo": "Martes 12 de marzo 2024",
+      "proximo": "Martes 26 de marzo 2024",
       "image": "https://i.postimg.cc/J0Qm5RYJ/ninja-kamui.jpg",
       "trailer": "oeW6Ew4HRmc",
       "banner": "https://i.postimg.cc/CKfRHfGq/ninja-kamui-fecha-de-estreno-jpg-1324964843.webp",
-      "visitas": 1908,
+      "visitas": 1911,
       "rating": "8.00",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
     },
@@ -523,7 +535,7 @@
       "trailer": "QzzZUQLhJhY?si=cz3Wn5iTscMMOO9R",
       "banner": "https://i.postimg.cc/DyqVTvtf/The-Undead-Unluck.avif",
       "rating": "6.67",
-      "visitas": 2168,
+      "visitas": 2169,
       "fechaAgregado": "2024-02-12T18:14:27.390Z"
     },
     {
@@ -1906,7 +1918,7 @@
       "rating": 0,
       "proximo": false,
       "image": "https://i.postimg.cc/XvCHym5H/hellsing-ultimate.webp",
-      "visitas": 2,
+      "visitas": 5,
       "emitido": "",
       "episodes__overlay": [],
       "temporadas": 1,
@@ -5746,7 +5758,7 @@
       "des": "Kageyama Shigeo, apodado Mob, es un chico con problemas para expresarse pero que en realidad es un poderoso esper. Mob está decidido a llevar una vida normal y mantiene sus poderes especiales reprimidos, pero cuando sus emociones alcancen el nivel del 100%, ¡le ocurrirá algo terrible! Rodeado por falsos espers, espíritus malignos y misteriosas organizaciones, ¿qué hará Mob? ¿Qué elecciones tomará?",
       "year": 2016,
       "rating": 0,
-      "visitas": 5,
+      "visitas": 6,
       "emitido": "",
       "studio": "",
       "precuelas": [],
