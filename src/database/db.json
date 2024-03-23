@@ -86,7 +86,7 @@
       "image": "https://i.postimg.cc/G2PVgdsW/monsters-ippyaku-sanjou-hiryuu-jigoku.jpg",
       "trailer": "jlfyK1rfzAk",
       "banner": "https://i.postimg.cc/661fS8BK/Mons01.jpg",
-      "visitas": 58,
+      "visitas": 67,
       "rating": "6.67",
       "fechaAgregado": "2024-02-25T18:14:27.390Z"
     },
@@ -196,8 +196,8 @@
       "image": "https://i.postimg.cc/J0Qm5RYJ/ninja-kamui.jpg",
       "trailer": "oeW6Ew4HRmc",
       "banner": "https://i.postimg.cc/CKfRHfGq/ninja-kamui-fecha-de-estreno-jpg-1324964843.webp",
-      "visitas": 1911,
-      "rating": "8.00",
+      "visitas": 10,
+      "rating": 0,
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
     },
     {
@@ -353,7 +353,7 @@
       "id": "Undead Unluck",
       "name": "undead unluck",
       "tipo": "tv",
-      "episodios": 16,
+      "episodios": 20,
       "descripcion": "¿Qué sucede cuando una chica desafortunada conoce a un no-muerto? ¡Puro caos! Cansada de matar gente sin darse cuenta con su habilidad especial Unluck, Fuuko Izumo se propone acabar con todo. Pero cuando conoce a Andy, un hombre que anhela la muerte pero no puede morir, encuentra una razón para vivir y él encuentra a alguien capaz de darle la muerte que ha estado anhelando.",
       "genero1": "accion",
       "genero2": "comedia",
@@ -374,7 +374,7 @@
       ],
       "emitido": "octubre 7 de 2023",
       "duration": "24 min",
-      "estado": "en emision",
+      "estado": "finalizado",
       "year": 2023,
       "studio": "david prodution",
       "precuelas": [],
@@ -442,6 +442,22 @@
         {
           "episode": 16,
           "image": "https://i.postimg.cc/zv9kQFVL/av-Kffjcg-DKM7-Se-SCSx-Yj90ng-FGu.webp"
+        },
+        {
+          "episode": 17,
+          "image": "https://i.postimg.cc/zDRTdtYL/h5-Nx-GUx3-Nqcr-QHKt-Hy-HHSj-V0a3-R.jpg"
+        },
+        {
+          "episode": 18,
+          "image": "https://i.postimg.cc/FzBr5gLD/enxi7k-Boxtv-Tf-NUBXb-Nah3-O9-E6-Y.jpg"
+        },
+        {
+          "episode": 19,
+          "image": "https://i.postimg.cc/Pf9J7TQh/unqd-QDF1dtc0-QQGKsms-UHQ7-L7-UG.jpg"
+        },
+        {
+          "episode": 20,
+          "image": "https://i.postimg.cc/MHCyZRkm/v-Slz-JOGUGWUD8-HYn-YIOAe-KQJDtx.jpg"
         }
       ],
       "temporadas": 1,
@@ -528,14 +544,46 @@
               "url": "https://saidochesto.top/embed.php?id=38562"
             }
           ]
+        },
+        {
+          "cap17": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=38737",
+              "image": "https://i.postimg.cc/zDRTdtYL/h5-Nx-GUx3-Nqcr-QHKt-Hy-HHSj-V0a3-R.jpg"
+            }
+          ]
+        },
+        {
+          "cap18": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39018",
+              "image": "https://i.postimg.cc/FzBr5gLD/enxi7k-Boxtv-Tf-NUBXb-Nah3-O9-E6-Y.jpg"
+            }
+          ]
+        },
+        {
+          "cap19": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39086",
+              "image": "https://i.postimg.cc/Pf9J7TQh/unqd-QDF1dtc0-QQGKsms-UHQ7-L7-UG.jpg"
+            }
+          ]
+        },
+        {
+          "cap20": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39182",
+              "image": "https://i.postimg.cc/MHCyZRkm/v-Slz-JOGUGWUD8-HYn-YIOAe-KQJDtx.jpg"
+            }
+          ]
         }
       ],
-      "proximo": "Viernes 2 de febrero 2024",
+      "proximo": false,
       "image": "https://i.postimg.cc/rscm9xcy/undead-unluck.webp",
       "trailer": "QzzZUQLhJhY?si=cz3Wn5iTscMMOO9R",
       "banner": "https://i.postimg.cc/DyqVTvtf/The-Undead-Unluck.avif",
       "rating": "6.67",
-      "visitas": 2169,
+      "visitas": 2172,
       "fechaAgregado": "2024-02-12T18:14:27.390Z"
     },
     {
@@ -1226,7 +1274,7 @@
       ],
       "proximo": "Sábado 23 de marzo 2024",
       "image": "https://i.postimg.cc/wTmQ1Dqw/138405l.webp",
-      "visitas": 34,
+      "visitas": 38,
       "banner": "https://i.postimg.cc/HnmzFC4M/desktop-wallpaper-pc-version-of-my-since-few-people-wanted-it-also-thanks-for-all-the-good-words-sol.jpg",
       "trailer": "",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
@@ -6292,7 +6340,7 @@
       ],
       "year": 2018,
       "rating": 0,
-      "visitas": 0,
+      "visitas": 1,
       "emitido": "",
       "studio": "",
       "precuelas": [],
