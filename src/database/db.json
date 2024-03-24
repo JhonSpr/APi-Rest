@@ -37,8 +37,8 @@
       "image": "https://i.postimg.cc/Px4sJmv9/bastard-ankoku-no-hakaishin-jigoku-no-chinkonka-hen.jpg",
       "trailer": "uzD5YA_8mhc",
       "banner": "https://i.postimg.cc/WbdbyGSN/Bastard-Heavy-Metal-Dark-Fantasy-anuncia-segunda-temporada-en-nuevo-trailer.webp",
-      "visitas": 239,
-      "rating": "9.99",
+      "visitas": 255,
+      "rating": "9.98",
       "fechaAgregado": "2024-02-29T21:14:02-05:00"
     },
     {
@@ -86,8 +86,8 @@
       "image": "https://i.postimg.cc/G2PVgdsW/monsters-ippyaku-sanjou-hiryuu-jigoku.jpg",
       "trailer": "jlfyK1rfzAk",
       "banner": "https://i.postimg.cc/661fS8BK/Mons01.jpg",
-      "visitas": 67,
-      "rating": "6.67",
+      "visitas": 72,
+      "rating": "7.50",
       "fechaAgregado": "2024-02-25T18:14:27.390Z"
     },
     {
@@ -196,8 +196,8 @@
       "image": "https://i.postimg.cc/J0Qm5RYJ/ninja-kamui.jpg",
       "trailer": "oeW6Ew4HRmc",
       "banner": "https://i.postimg.cc/CKfRHfGq/ninja-kamui-fecha-de-estreno-jpg-1324964843.webp",
-      "visitas": 10,
-      "rating": 0,
+      "visitas": 11,
+      "rating": "6.67",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
     },
     {
@@ -345,8 +345,8 @@
       "image": "https://i.postimg.cc/6qBYFMcr/ishura-1.jpg",
       "trailer": "i4jKHUMuuNk",
       "banner": "https://i.postimg.cc/GmRGK4MD/ishura-anime-characters.avif",
-      "rating": "8.00",
-      "visitas": 1329,
+      "rating": "8.33",
+      "visitas": 1349,
       "fechaAgregado": "2024-02-19T18:14:27.390Z"
     },
     {
@@ -582,8 +582,8 @@
       "image": "https://i.postimg.cc/rscm9xcy/undead-unluck.webp",
       "trailer": "QzzZUQLhJhY?si=cz3Wn5iTscMMOO9R",
       "banner": "https://i.postimg.cc/DyqVTvtf/The-Undead-Unluck.avif",
-      "rating": "6.67",
-      "visitas": 2172,
+      "rating": "7.50",
+      "visitas": 2177,
       "fechaAgregado": "2024-02-12T18:14:27.390Z"
     },
     {
@@ -1139,9 +1139,9 @@
     },
     {
       "id": "ore dake lvel up na ken solo leveling",
-      "name": "ore dake level up na ken solo leveling",
+      "name": "ore dake lvel up na ken solo leveling",
       "tipo": "tv",
-      "episodios": 10,
+      "episodios": 11,
       "descripcion": "Hace diez años, apareció “la Puerta” y conectó el mundo real con el reino de la magia y los monstruos. Para combatir a estas viles bestias, la gente corriente recibió poderes sobrehumanos y se convirtió en “Cazadores”. Sung Jin-Woo, de 20 años, es uno de esos cazadores, pero se le conoce como el “más débil del mundo”, debido a su patético poder en comparación con un mísero rango E. Aun así, caza monstruos incansablemente en Gates de bajo rango para pagar las facturas médicas de su madre. Sin embargo, este miserable estilo de vida cambia cuando Jin-Woo -creyendo que es el único que ha muerto en una misión que salió terriblemente mal- se despierta en un hospital tres días después para encontrar una misteriosa pantalla flotando frente a él. Este “Quest Log” exige que Jin-Woo complete un intenso e irreal programa de entrenamiento, o que se enfrente a un castigo apropiado. Al principio, Jin-Woo se muestra reacio a cumplir con el rigor de la búsqueda, pero pronto descubre que puede transformarlo en uno de los cazadores más temibles del mundo.",
       "genero1": "accion",
       "genero2": "aventuras",
@@ -1207,6 +1207,10 @@
         {
           "episode": 10,
           "image": "https://i.postimg.cc/SQrZZhJj/9-Jvp-RBQLzrxwo-ETMk-Y2mp-Iu-M6z-L.jpg"
+        },
+        {
+          "episode": 11,
+          "image": "https://i.postimg.cc/bw4VTZdC/m-IWU7-T4-Vc8-Ve-Oot6-SGEEi-Ya5otz.jpg"
         }
       ],
       "temporadas": 1,
@@ -1270,11 +1274,19 @@
               "image": "https://i.postimg.cc/SQrZZhJj/9-Jvp-RBQLzrxwo-ETMk-Y2mp-Iu-M6z-L.jpg"
             }
           ]
+        },
+        {
+          "cap11": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39573",
+              "image": "https://i.postimg.cc/bw4VTZdC/m-IWU7-T4-Vc8-Ve-Oot6-SGEEi-Ya5otz.jpg"
+            }
+          ]
         }
       ],
-      "proximo": "Sábado 23 de marzo 2024",
+      "proximo": "Sabádo 30 de abril 2024",
       "image": "https://i.postimg.cc/wTmQ1Dqw/138405l.webp",
-      "visitas": 38,
+      "visitas": 40,
       "banner": "https://i.postimg.cc/HnmzFC4M/desktop-wallpaper-pc-version-of-my-since-few-people-wanted-it-also-thanks-for-all-the-good-words-sol.jpg",
       "trailer": "",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
