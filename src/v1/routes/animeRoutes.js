@@ -2,12 +2,14 @@ const express = require('express')
 const animeController = require('../../controllers/AnimeController')
 const router = express.Router()
 const db = require('../../database/Recientes.json')
+const calendarioDb = require('../../database/Calendario.json')
 const DB = require('../../database/db.json')
 const fs = require('fs')
 const path = require('path')
 const moment = require('moment-timezone')
 router.get('/', animeController.getAllAnimes)
 router.get('/:tipo', animeController.getAllAnimes)
+
 router.put('/:id/services', (req, res) => {
   const animeId = req.params.id
   const capNumber = req.body.capNumber
@@ -57,6 +59,29 @@ router.put('/:id/services', (req, res) => {
     }
   } else {
     res.status(404).send({ error: 'Anime no encontrado.' })
+  }
+})
+
+router.get('/calendario/data', (req, res) => {
+  try {
+    const dbFilePath = path.resolve(
+      __dirname,
+      '../../database',
+      'Calendario.json'
+    )
+
+    // Leer el archivo JSON de la base de datos
+    const calendarioData = JSON.parse(fs.readFileSync(dbFilePath, 'utf-8'))
+
+    // Enviar los datos recuperados como respuesta
+    res.status(200).send(calendarioData)
+  } catch (error) {
+    console.error('Error al recuperar el calendario:', error)
+
+    // Devolver detalles del error en la respuesta
+    res
+      .status(500)
+      .send({ error: 'Error interno del servidor', details: error.message })
   }
 })
 
@@ -144,6 +169,67 @@ router.post('/agregar-ultimo-episodio', (req, res) => {
     console.error('Error al agregar el anime:', error)
 
     // Devuelve detalles del error en la respuesta
+    res
+      .status(500)
+      .send({ error: 'Error interno del servidor', details: error.message })
+  }
+})
+router.post('/add-calendario', (req, res) => {
+  try {
+    const nuevoAnime = req.body
+    nuevoAnime.fechaAgregado = moment().tz('America/Bogota').format()
+    calendarioDb.calendario.push(nuevoAnime)
+
+    const dbFilePath = path.resolve(
+      __dirname,
+      '../../database',
+      'Calendario.json'
+    )
+    fs.writeFileSync(dbFilePath, JSON.stringify(calendarioDb, null, 2))
+
+    res.status(201).send({
+      message: 'el calendario se actualizado correctamente correctamente',
+      calendario: nuevoAnime,
+    })
+  } catch (error) {
+    console.error('Error al agregar el anime:', error)
+
+    // Devuelve detalles del error en la respuesta
+    res
+      .status(500)
+      .send({ error: 'Error interno del servidor', details: error.message })
+  }
+})
+router.post('/:id/add-calendario', (req, res) => {
+  try {
+    const animeId = req.params.id
+    const updateData = req.body
+
+    const animeIndex = calendarioDb.calendario.findIndex(
+      (anime) => anime.id === animeId
+    )
+
+    if (animeIndex !== -1) {
+      const anime = calendarioDb.calendario[animeIndex]
+      Object.keys(updateData).forEach((key) => {
+        anime[key] = updateData[key]
+      })
+
+      const dbFilePath = path.resolve(
+        __dirname,
+        '../../database',
+        'Calendario.json'
+      )
+      fs.writeFileSync(dbFilePath, JSON.stringify(calendarioDb, null, 2))
+
+      res.status(200).send({
+        message: `Fechas actualizadas`,
+      })
+    } else {
+      res.status(404).send({ error: 'Anime no encontrado.' })
+    }
+  } catch (error) {
+    console.error('Error al actualizar las propiedades del anime:', error)
     res
       .status(500)
       .send({ error: 'Error interno del servidor', details: error.message })

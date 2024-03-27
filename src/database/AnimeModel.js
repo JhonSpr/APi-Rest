@@ -6,7 +6,6 @@ const getAllAnime = (filterParams) => {
     const minRating = parseFloat(filterParams.rating)
     const maxRating = minRating + 0.9
 
-    // Restaurar los datos originales cada vez que se llama a la función
     let animes = [...originalData]
 
     if (filterParams.letra) {
