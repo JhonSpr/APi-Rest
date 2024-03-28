@@ -174,7 +174,7 @@ router.post('/agregar-ultimo-episodio', (req, res) => {
       .send({ error: 'Error interno del servidor', details: error.message })
   }
 })
-router.post('/add-calendario', (req, res) => {
+router.post('/calendario/agregar', (req, res) => {
   try {
     const nuevoAnime = req.body
     nuevoAnime.fechaAgregado = moment().tz('America/Bogota').format()
@@ -200,13 +200,13 @@ router.post('/add-calendario', (req, res) => {
       .send({ error: 'Error interno del servidor', details: error.message })
   }
 })
-router.post('/:id/add-calendario', (req, res) => {
+router.post('/calendario/:fechaEstreno/actualizar', (req, res) => {
   try {
-    const animeId = req.params.id
+    const fechaEstreno = req.params.fechaEstreno
     const updateData = req.body
 
     const animeIndex = calendarioDb.calendario.findIndex(
-      (anime) => anime.id === animeId
+      (anime) => anime.fechaEstreno === fechaEstreno
     )
 
     if (animeIndex !== -1) {

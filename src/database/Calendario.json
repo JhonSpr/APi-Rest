@@ -1,11 +1,142 @@
 {
   "calendario": [
     {
-      "id": "martes",
-      "name": "Kimetsu no yaiba 4ta temporada",
-      "image": "xd",
-      "nextEpisode": "abril 3 de 2024",
-      "fechaAgregado": "2024-03-26T22:07:23-05:00"
+      "fechaEstreno": "abril 04",
+      "name": "Yuru Camp△ temporada 3",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T22:59:43-05:00"
+    },
+    {
+      "fechaEstreno": "abril 04",
+      "name": "Wind Breaker",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T22:59:54-05:00"
+    },
+    {
+      "fechaEstreno": "abril 04",
+      "name": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:00:06-05:00"
+    },
+    {
+      "fechaEstreno": "abril 04",
+      "name": "Re:Monster",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:00:17-05:00"
+    },
+    {
+      "fechaEstreno": "abril 04",
+      "name": "Hananoi-kun to Koi no Yamai",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:00:27-05:00"
+    },
+    {
+      "fechaEstreno": "abril 05",
+      "name": "Tensei Shitara Slime Datta Ken 3rd Season",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:00:45-05:00"
+    },
+    {
+      "fechaEstreno": "abril 05",
+      "name": "The iDOLMOSTER Shiny Colors",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:01:29-05:00"
+    },
+    {
+      "fechaEstreno": "abril 05",
+      "name": "Nijiyon Animation 2",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:01:35-05:00"
+    },
+    {
+      "fechaEstreno": "abril 06",
+      "name": "Boku no Hero Academia 7th Season",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:02:13-05:00"
+    },
+    {
+      "fechaEstreno": "abril 06",
+      "name": "Yoru no Kurage wa Oyogenai",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:02:17-05:00"
+    },
+    {
+      "fechaEstreno": "abril 06",
+      "name": "The Fable",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:02:25-05:00"
+    },
+    {
+      "fechaEstreno": "abril 06",
+      "name": "Yoru no Kurage wa Oyogenai",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:02:31-05:00"
+    },
+    {
+      "fechaEstreno": "abril 07",
+      "name": "Mushoku Tensei II: Isekai Ittara Honki Dasu 2nd Cour",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:02:56-05:00"
+    },
+    {
+      "fechaEstreno": "abril 07",
+      "name": "Hibike! Euphonium 3",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:03:15-05:00"
+    },
+    {
+      "fechaEstreno": "abril 07",
+      "name": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:03:26-05:00"
+    },
+    {
+      "fechaEstreno": "abril 07",
+      "name": "Shinigami Bocchan to Kuro Maid 3rd Season",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:03:35-05:00"
+    },
+    {
+      "fechaEstreno": "abril 07",
+      "name": "Sentai Daishikkaku",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:03:44-05:00"
+    },
+    {
+      "fechaEstreno": "abril 07",
+      "name": "Yozakura-san Chi no Daisakusen",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:03:55-05:00"
+    },
+    {
+      "fechaEstreno": "abril 07",
+      "name": "Vampire Dormitory",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:04:02-05:00"
+    },
+    {
+      "fechaEstreno": "abril 07",
+      "name": "Jiisan Baasan Wakagaeru",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:04:10-05:00"
+    },
+    {
+      "fechaEstreno": "abril 08",
+      "name": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:04:27-05:00"
+    },
+    {
+      "fechaEstreno": "abril 08",
+      "name": "Tadaima, Okaeri",
+      "nextEpisode": "Jueves 11 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:04:49-05:00"
+    },
+    {
+      "fechaEstreno": "abril 09",
+      "name": "Unnamed Memory",
+      "nextEpisode": "Martes 16 de abril 2024",
+      "fechaAgregado": "2024-03-27T23:05:58-05:00"
     }
   ]
 }
