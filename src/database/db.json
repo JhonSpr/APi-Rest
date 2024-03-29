@@ -1,6 +1,47 @@
 {
   "animes": [
     {
+      "id": "tercera temporada de yuru camp",
+      "name": "yuru Camp season 3",
+      "tipo": "tv",
+      "episodios": 0,
+      "descripcion": "Tercera temporada de Yuru Camp△",
+      "genero1": "Comedia",
+      "genero2": "Slice of life",
+      "generos": [
+        {
+          "genero": "comedia",
+          "link": "/directorio?generos=comedia"
+        },
+        {
+          "genero": "slice of life",
+          "link": "/directorio?generos=slice+of+life"
+        }
+      ],
+      "emitido": "04 abril 2024",
+      "duration": "24 min",
+      "estado": "en emision",
+      "year": 2024,
+      "studio": null,
+      "precuelas": [
+        {
+          "precuela": "yuru camp season 2",
+          "link": "/yuru-camp-season-2"
+        }
+      ],
+      "episodes__overlay": [],
+      "temporadas": 3,
+      "secuelas": [],
+      "services": [],
+      "proximo": false,
+      "image": "https://i.postimg.cc/8c5dFC5S/yuru-camp-season-3.jpg",
+      "trailer": "LN0TEmyrSK0?si=bZAi_HSKo0ZJX0X4",
+      "banner": "https://i.postimg.cc/g2dq9dFm/descarga.jpg",
+      "visitas": 0,
+      "rating": 0,
+      "fechaAgregado": "2024-03-29T12:50:22-05:00"
+    },
+    {
       "id": "bastard ankoku no hakaishin jigoku no chinkonka hen",
       "name": "bastard ankoku no hakaishin jigoku no chinkonka hen",
       "tipo": "ova",
@@ -37,7 +78,7 @@
       "image": "https://i.postimg.cc/Px4sJmv9/bastard-ankoku-no-hakaishin-jigoku-no-chinkonka-hen.jpg",
       "trailer": "uzD5YA_8mhc",
       "banner": "https://i.postimg.cc/WbdbyGSN/Bastard-Heavy-Metal-Dark-Fantasy-anuncia-segunda-temporada-en-nuevo-trailer.webp",
-      "visitas": 256,
+      "visitas": 259,
       "rating": "9.98",
       "fechaAgregado": "2024-02-29T21:14:02-05:00"
     },
@@ -86,7 +127,7 @@
       "image": "https://i.postimg.cc/G2PVgdsW/monsters-ippyaku-sanjou-hiryuu-jigoku.jpg",
       "trailer": "jlfyK1rfzAk",
       "banner": "https://i.postimg.cc/661fS8BK/Mons01.jpg",
-      "visitas": 73,
+      "visitas": 75,
       "rating": "7.50",
       "fechaAgregado": "2024-02-25T18:14:27.390Z"
     },
@@ -208,7 +249,7 @@
       "image": "https://i.postimg.cc/J0Qm5RYJ/ninja-kamui.jpg",
       "trailer": "oeW6Ew4HRmc",
       "banner": "https://i.postimg.cc/CKfRHfGq/ninja-kamui-fecha-de-estreno-jpg-1324964843.webp",
-      "visitas": 25,
+      "visitas": 36,
       "rating": "6.67",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
     },
@@ -595,7 +636,7 @@
       "trailer": "QzzZUQLhJhY?si=cz3Wn5iTscMMOO9R",
       "banner": "https://i.postimg.cc/DyqVTvtf/The-Undead-Unluck.avif",
       "rating": "7.50",
-      "visitas": 2179,
+      "visitas": 2184,
       "fechaAgregado": "2024-02-12T18:14:27.390Z"
     },
     {
@@ -2026,7 +2067,7 @@
       "rating": 0,
       "proximo": false,
       "image": "https://i.postimg.cc/XvCHym5H/hellsing-ultimate.webp",
-      "visitas": 8,
+      "visitas": 21,
       "emitido": "",
       "episodes__overlay": [],
       "temporadas": 1,
@@ -2155,7 +2196,7 @@
       "studio": "Studio Pierrot",
       "image": "https://i.postimg.cc/Dz96B0dq/akudama-drive.webp",
       "banner__anime": "https://i.postimg.cc/Bv2FVWLB/Banner-Akudama-Drive.webp",
-      "visitas": 41,
+      "visitas": 42,
       "emitido": "",
       "episodes__overlay": [],
       "temporadas": 1,
