@@ -37,8 +37,8 @@
       "image": "https://i.postimg.cc/8c5dFC5S/yuru-camp-season-3.jpg",
       "trailer": "LN0TEmyrSK0?si=bZAi_HSKo0ZJX0X4",
       "banner": "https://i.postimg.cc/rpsVz0Xj/yuru-camp.jpg",
-      "visitas": 21,
-      "rating": 0,
+      "visitas": 24,
+      "rating": "6.67",
       "fechaAgregado": "2024-03-29T12:50:22-05:00"
     },
     {
@@ -249,8 +249,8 @@
       "image": "https://i.postimg.cc/J0Qm5RYJ/ninja-kamui.jpg",
       "trailer": "oeW6Ew4HRmc",
       "banner": "https://i.postimg.cc/CKfRHfGq/ninja-kamui-fecha-de-estreno-jpg-1324964843.webp",
-      "visitas": 39,
-      "rating": "6.67",
+      "visitas": 48,
+      "rating": 0,
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
     },
     {
@@ -399,7 +399,7 @@
       "trailer": "i4jKHUMuuNk",
       "banner": "https://i.postimg.cc/GmRGK4MD/ishura-anime-characters.avif",
       "rating": "8.33",
-      "visitas": 1354,
+      "visitas": 1356,
       "fechaAgregado": "2024-02-19T18:14:27.390Z"
     },
     {
@@ -636,7 +636,7 @@
       "trailer": "QzzZUQLhJhY?si=cz3Wn5iTscMMOO9R",
       "banner": "https://i.postimg.cc/DyqVTvtf/The-Undead-Unluck.avif",
       "rating": "7.50",
-      "visitas": 2186,
+      "visitas": 2190,
       "fechaAgregado": "2024-02-12T18:14:27.390Z"
     },
     {
@@ -1222,7 +1222,7 @@
       "proximo": "Sabádo 30 de abril 2024",
       "image": "https://i.postimg.cc/RZZb4bt6/mashle-kami-shinkakusha-kouho-senbatsu-shiken-hen.webp",
       "banner": "https://i.postimg.cc/pTWpJ4cN/Mashle-trailer-presenta-el-opening-de-la-temporada-2-y-los-visionarios-divinos.jpg",
-      "visitas": 31,
+      "visitas": 32,
       "trailer": "",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
     },
@@ -1251,11 +1251,11 @@
       ],
       "emitido": "enero 7 2024",
       "duration": "24 min",
-      "estado": "en emision",
+      "estado": "finalizado",
       "year": 2024,
       "studio": null,
       "precuelas": [],
-      "rating": "8.00",
+      "rating": "6.00",
       "episodes__overlay": [
         {
           "episode": 1,
@@ -1385,9 +1385,9 @@
           ]
         }
       ],
-      "proximo": "Sabádo 30 de abril 2024",
+      "proximo": false,
       "image": "https://i.postimg.cc/wTmQ1Dqw/138405l.webp",
-      "visitas": 56,
+      "visitas": 59,
       "banner": "https://i.postimg.cc/HnmzFC4M/desktop-wallpaper-pc-version-of-my-since-few-people-wanted-it-also-thanks-for-all-the-good-words-sol.jpg",
       "trailer": "",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
@@ -2079,7 +2079,7 @@
       "rating": 0,
       "proximo": false,
       "image": "https://i.postimg.cc/XvCHym5H/hellsing-ultimate.webp",
-      "visitas": 26,
+      "visitas": 33,
       "emitido": "",
       "episodes__overlay": [],
       "temporadas": 1,
@@ -2130,7 +2130,7 @@
       ],
       "rating": 0,
       "secuelas": [],
-      "visitas": 0,
+      "visitas": 2,
       "emitido": "",
       "episodes__overlay": [],
       "temporadas": 1,
@@ -2189,7 +2189,7 @@
       "year": 2020,
       "episodios": 12,
       "tipo": "tv",
-      "rating": "6.67",
+      "rating": "5.00",
       "genero1": "accion",
       "genero2": "ciencia ficcion",
       "generos": [
@@ -2208,7 +2208,7 @@
       "studio": "Studio Pierrot",
       "image": "https://i.postimg.cc/Dz96B0dq/akudama-drive.webp",
       "banner__anime": "https://i.postimg.cc/Bv2FVWLB/Banner-Akudama-Drive.webp",
-      "visitas": 42,
+      "visitas": 51,
       "emitido": "",
       "episodes__overlay": [],
       "temporadas": 1,
