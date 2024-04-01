@@ -275,14 +275,20 @@ router.post('/:id/update', (req, res) => {
     const animeId = req.params.id
     const updateData = req.body
 
-    // Encuentra el anime por su ID en tu base de datos
+    // Encuentra el índice del anime por su ID en tu base de datos
     const animeIndex = DB.animes.findIndex((anime) => anime.id === animeId)
 
     if (animeIndex !== -1) {
       // Encuentra el anime y actualiza las propiedades especificadas
       const anime = DB.animes[animeIndex]
       Object.keys(updateData).forEach((key) => {
-        anime[key] = updateData[key]
+        // Verifica si la nueva propiedad tiene un valor diferente de undefined
+        if (updateData[key] !== undefined) {
+          anime[key] = updateData[key]
+        } else {
+          // Si la nueva propiedad es undefined, elimina la propiedad existente
+          delete anime[key]
+        }
       })
 
       // Guarda los cambios en el archivo db.json utilizando una ruta absoluta
@@ -302,7 +308,6 @@ router.post('/:id/update', (req, res) => {
       .send({ error: 'Error interno del servidor', details: error.message })
   }
 })
-
 router.post('/agregar-propiedad', (req, res) => {
   try {
     const { propiedad, valor } = req.body
