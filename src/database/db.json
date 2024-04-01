@@ -257,7 +257,7 @@
       "id": "ishura",
       "name": "ishura",
       "tipo": "tv",
-      "episodios": 10,
+      "episodios": 12,
       "descripcion": "En un mundo donde el Rey Demonio ha muerto, una multitud de semidioses capaces de derribarlo han heredado el mundo. Un maestro esgrimista que puede descubrir cómo eliminar a sus oponentes con una sola mirada; un lancero tan veloz que puede romper la barrera del sonido; un pícaro wyvern que lucha con tres armas legendarias a la vez; un mago todopoderoso que puede hacer realidad los pensamientos; un asesino angelical que causa muerte instantánea. Ansiosos por obtener el título de 'Verdadero Héroe', estos campeones persiguen desafíos contra enemigos formidables y provocan conflictos entre ellos. Comienza la batalla para determinar quién es el más poderoso de los poderosos.",
       "genero1": "accion",
       "genero2": "aventuras",
@@ -321,6 +321,14 @@
         {
           "episode": 10,
           "image": "https://i.postimg.cc/j25zMB9n/d-Mfco2-AIEvt-Tq-QYVWPh6-LFbl-Cld.jpg"
+        },
+        {
+          "episode": 11,
+          "image": "https://i.postimg.cc/wjrY6VwR/i-VZl9ug-Cggwja-UB26b9-KXWbc-Y6c.jpg"
+        },
+        {
+          "episode": 12,
+          "image": "https://i.postimg.cc/gJCvdfZt/m-PE2lyjbc-Zmt1-Mjf-Zz-M2-Ke-JENb-E.jpg"
         }
       ],
       "temporadas": 1,
@@ -389,6 +397,22 @@
             {
               "url": "https://saidochesto.top/embed.php?id=39333",
               "image": "https://i.postimg.cc/j25zMB9n/d-Mfco2-AIEvt-Tq-QYVWPh6-LFbl-Cld.jpg"
+            }
+          ]
+        },
+        {
+          "cap11": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39471",
+              "image": "https://i.postimg.cc/wjrY6VwR/i-VZl9ug-Cggwja-UB26b9-KXWbc-Y6c.jpg"
+            }
+          ]
+        },
+        {
+          "cap12": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39535",
+              "image": "https://i.postimg.cc/gJCvdfZt/m-PE2lyjbc-Zmt1-Mjf-Zz-M2-Ke-JENb-E.jpg"
             }
           ]
         }
