@@ -1219,12 +1219,13 @@
           ]
         }
       ],
-      "proximo": "Sabádo 30 de abril 2024",
+      "proximo": false,
       "image": "https://i.postimg.cc/RZZb4bt6/mashle-kami-shinkakusha-kouho-senbatsu-shiken-hen.webp",
       "banner": "https://i.postimg.cc/pTWpJ4cN/Mashle-trailer-presenta-el-opening-de-la-temporada-2-y-los-visionarios-divinos.jpg",
       "visitas": 32,
       "trailer": "",
-      "fechaAgregado": "2024-02-20T18:14:27.390Z"
+      "fechaAgregado": "2024-02-20T18:14:27.390Z",
+      "estado:": "finalizado"
     },
     {
       "id": "ore dake lvel up na ken solo leveling",
