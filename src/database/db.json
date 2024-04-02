@@ -1,6 +1,203 @@
 {
   "animes": [
     {
+      "id": "kono subarashii sekai ni shukufuku wo 3",
+      "name": "kono subarashii sekai ni shukufuku wo 3",
+      "tipo": "tv",
+      "episodios": 0,
+      "descripcion": "Y así es como el besto isekai regresa para bendecir nuestra humilde existencia con una tercera temporada.",
+      "genero1": "aventuras",
+      "genero2": "comedia",
+      "genero3": "fantasia",
+      "genero4": "isekai",
+      "genero5": "magia",
+      "generos": [
+        {
+          "genero": "aventuras",
+          "link": "/directorio?generos=aventuras"
+        },
+        {
+          "genero": "comedia",
+          "link": "/directorio?generos=comedia"
+        },
+        {
+          "genero": "fantasia",
+          "link": "/directorio?generos=fantasia"
+        },
+        {
+          "genero": "isekai",
+          "link": "/directorio?generos=isekai"
+        },
+        {
+          "genero": "magia",
+          "link": "/directorio?generos=magia"
+        }
+      ],
+      "emitido": "Miércoles 10 de abril 2024",
+      "duration": "24 min",
+      "estado": "proximamente",
+      "year": 2024,
+      "studio": "AIC PLUS+",
+      "precuelas": [],
+      "episodes__overlay": [],
+      "temporadas": 1,
+      "secuelas": [],
+      "services": [],
+      "proximo": "Miércoles 10 de abril 2024",
+      "image": "https://i.postimg.cc/1tL87k90/kono-subarashii-sekai-ni-shukufuku-wo-3.jpg",
+      "trailer": "V3mKlAvuSRs?si=5tOW1pHP-jKU2a69",
+      "banner": "https://i.postimg.cc/zXvCQrSW/a-konosuba-banner-i-made-v0-usni0k86kzw91.webp",
+      "fechaAgregado": "2024-04-01T22:05:04-05:00"
+    },
+    {
+      "id": "the new gate",
+      "name": "the new gate",
+      "tipo": "tv",
+      "episodios": 0,
+      "descripcion": "THE NEW GATE: un juego en línea transformado en una lucha de vida o muerte para sus jugadores. Gracias a los valientes esfuerzos de Shin, el más poderoso de todos, el fin del juego y la libertad para todos parecían estar al alcance. Pero momentos después de que Shin derrota al jefe final del juego, se encuentra bañado por una luz desconocida y transportado unos 500 años al futuro del mundo del juego. ¡Arrojado de un simple juego que salió mal a una tierra nueva y extraña, un joven espadachín de fuerza incomparable está a punto de embarcarse en un viaje legendario!",
+      "genero1": "accion",
+      "genero2": "aventuras",
+      "genero3": "fantasia",
+      "genero4": "isekai",
+      "generos": [
+        {
+          "genero": "acción",
+          "link": "/directorio?generos=accion"
+        },
+        {
+          "genero": "aventuras",
+          "link": "/directorio?generos=aventuras"
+        },
+        {
+          "genero": "fantasia",
+          "link": "/directorio?generos=fantasia"
+        },
+        {
+          "genero": "isekai",
+          "link": "/directorio?generos=isekai"
+        }
+      ],
+      "emitido": "Sábado 13 de abril 2024",
+      "duration": "24 min",
+      "estado": "proximamente",
+      "year": 2024,
+      "studio": "AIC PLUS+",
+      "precuelas": [],
+      "episodes__overlay": [],
+      "temporadas": 1,
+      "secuelas": [],
+      "services": [],
+      "proximo": "Sábado 13 de abril 2024",
+      "image": "https://i.postimg.cc/9MVm4cFn/the-new-gate.jpg",
+      "trailer": "K_4l3EiQKEU?si=8hC2qW52KkPwcxD6",
+      "banner": "https://i.postimg.cc/dtnywSnF/the-new-gate-titelbild.jpg",
+      "fechaAgregado": "2024-04-01T21:59:22-05:00",
+      "visitas": 0,
+      "rating": 0
+    },
+    {
+      "id": "date a live v",
+      "name": "date a live v",
+      "tipo": "tv",
+      "episodios": 0,
+      "descripcion": "quinta temporada de date a live.",
+      "genero1": "comedia",
+      "genero2": "escolares",
+      "genero3": "fantasia",
+      "genero4": "harem",
+      "generos": [
+        {
+          "genero": "comedia",
+          "link": "/directorio?generos=comedia"
+        },
+        {
+          "genero": "escolares",
+          "link": "/directorio?generos=escolares"
+        },
+        {
+          "genero": "fantasia",
+          "link": "/directorio?generos=fantasia"
+        },
+        {
+          "genero": "harem",
+          "link": "/directorio?generos=harem"
+        }
+      ],
+      "emitido": "abril 10 de 2024",
+      "duration": "24 min",
+      "estado": "proximamente",
+      "year": 2024,
+      "studio": "AIC PLUS+",
+      "precuelas": [
+        {
+          "precuela": "date a live 4th season",
+          "link": "/date-a-live-4th-season"
+        }
+      ],
+      "episodes__overlay": [],
+      "temporadas": 5,
+      "secuelas": [],
+      "services": [],
+      "proximo": "Miércoles 10 abril 2024",
+      "image": "https://i.postimg.cc/TPxwM2xP/date-a-live-v.jpg",
+      "trailer": "d88brvlgUug?si=Sn88CybWzVlzMW0G",
+      "banner": "https://i.postimg.cc/sXcK92jG/date-a-live-v-character-visuals-1.jpg",
+      "fechaAgregado": "2024-04-01T21:53:21-05:00",
+      "visitas": 0,
+      "rating": 0
+    },
+    {
+      "id": "boku no hero academia 7th season",
+      "name": "boku no hero academia 7th season",
+      "tipo": "tv",
+      "episodios": 0,
+      "descripcion": "Séptima temporada de naruto verde.",
+      "genero1": "accion",
+      "genero2": "comedia",
+      "genero3": "escolares",
+      "genero4": "shounen",
+      "generos": [
+        {
+          "genero": "accion",
+          "link": "/directorio?generos=accion"
+        },
+        {
+          "genero": "comedia",
+          "link": "/directorio?generos=comedia"
+        },
+        {
+          "genero": "escolares",
+          "link": "/directorio?generos=escolares"
+        },
+        {
+          "genero": "shounen",
+          "link": "/directorio?generos=shounen"
+        }
+      ],
+      "emitido": "abril 06 de 2024",
+      "duration": "24 min",
+      "estado": "proximamente",
+      "year": 2024,
+      "studio": "Bones",
+      "precuelas": [
+        {
+          "precuela": "boku no hero academia 6th season",
+          "link": "/boku-no-hero-academia-6th-season"
+        }
+      ],
+      "episodes__overlay": [],
+      "temporadas": 7,
+      "secuelas": [],
+      "services": [],
+      "proximo": "Sábado 06 abril 2024",
+      "image": "https://i.postimg.cc/66vhzzMf/boku-no-hero-academia-7th-season.jpg",
+      "trailer": "ANTRhzQ-FdA?si=K0EkjqwZR7Hakenv",
+      "banner": "https://i.postimg.cc/hPJR2kH3/my-hero-academia.webp",
+      "fechaAgregado": "2024-04-01T21:44:15-05:00",
+      "visitas": 0,
+      "rating": 0
+    },
+    {
       "id": "yuru camp season 3",
       "name": "yuru camp season 3",
       "tipo": "tv",
@@ -37,7 +234,7 @@
       "image": "https://i.postimg.cc/8c5dFC5S/yuru-camp-season-3.jpg",
       "trailer": "LN0TEmyrSK0?si=bZAi_HSKo0ZJX0X4",
       "banner": "https://i.postimg.cc/rpsVz0Xj/yuru-camp.jpg",
-      "visitas": 24,
+      "visitas": 26,
       "rating": "6.67",
       "fechaAgregado": "2024-03-29T12:50:22-05:00"
     },
@@ -422,7 +619,7 @@
       "trailer": "i4jKHUMuuNk",
       "banner": "https://i.postimg.cc/GmRGK4MD/ishura-anime-characters.avif",
       "rating": "8.33",
-      "visitas": 1362,
+      "visitas": 1363,
       "fechaAgregado": "2024-02-19T18:14:27.390Z",
       "estado:": "finalizado",
       "estado": "finalizado"
