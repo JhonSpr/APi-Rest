@@ -11,9 +11,6 @@ app.disable('x-powered-by')
 app.use(cors())
 app.use(express.json())
 app.use('/api/v1/animes/', v1animeRouter)
-app.use('/api/v1/recien-agregados', (req, res) => {
-  res.send({ recientes: db.recientes })
-})
 
 app.use((req, res, next) => {
   res.header('Cache-Control', 'no-cache, no-store, must-revalidate')

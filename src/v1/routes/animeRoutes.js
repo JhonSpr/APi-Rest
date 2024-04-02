@@ -84,6 +84,27 @@ router.get('/calendario/data', (req, res) => {
       .send({ error: 'Error interno del servidor', details: error.message })
   }
 })
+router.get('/proximos-animes/data', (req, res) => {
+  try {
+    const dbFilePath = path.resolve(__dirname, '../../database', 'db.json')
+
+    // Leer el archivo JSON de la base de datos
+    const dbAnimes = JSON.parse(fs.readFileSync(dbFilePath, 'utf-8'))
+
+    let proximos__Animes = dbAnimes.animes.filter(
+      (e) => e.estado == 'proximamente'
+    )
+
+    res.status(200).send({ datos: proximos__Animes })
+  } catch (error) {
+    console.error('Error al recuperar el calendario:', error)
+
+    // Devolver detalles del error en la respuesta
+    res
+      .status(500)
+      .send({ error: 'Error interno del servidor', details: error.message })
+  }
+})
 
 router.put('/:id/rating', (req, res) => {
   const animeId = req.params.id
