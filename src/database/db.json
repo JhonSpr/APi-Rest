@@ -203,7 +203,7 @@
       "id": "yuru camp season 3",
       "name": "yuru camp season 3",
       "tipo": "tv",
-      "episodios": 0,
+      "episodios": 1,
       "descripcion": "Tercera temporada de Yuru Camp△",
       "genero1": "Comedia",
       "genero2": "Slice of life",
@@ -228,11 +228,25 @@
           "link": "/yuru-camp-season-2"
         }
       ],
-      "episodes__overlay": [],
+      "episodes__overlay": [
+        {
+          "episode": 1,
+          "image": "https://i.postimg.cc/xjwtpjDT/z5-PW1-VK0y-ICv-RT9-FXg-KKrjy-IPK5.jpg"
+        }
+      ],
       "temporadas": 3,
       "secuelas": [],
-      "services": [],
-      "proximo": false,
+      "services": [
+        {
+          "cap1": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39678",
+              "image": "https://i.postimg.cc/xjwtpjDT/z5-PW1-VK0y-ICv-RT9-FXg-KKrjy-IPK5.jpg"
+            }
+          ]
+        }
+      ],
+      "proximo": "Jueves 11 de abril 2024",
       "image": "https://i.postimg.cc/8c5dFC5S/yuru-camp-season-3.jpg",
       "trailer": "LN0TEmyrSK0?si=bZAi_HSKo0ZJX0X4",
       "banner": "https://i.postimg.cc/rpsVz0Xj/yuru-camp.jpg",
