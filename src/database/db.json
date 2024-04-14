@@ -48,8 +48,8 @@
       "trailer": "V3mKlAvuSRs?si=5tOW1pHP-jKU2a69",
       "banner": "https://i.postimg.cc/zXvCQrSW/a-konosuba-banner-i-made-v0-usni0k86kzw91.webp",
       "fechaAgregado": "2024-04-01T22:05:04-05:00",
-      "visitas": 12,
-      "rating": 0
+      "visitas": 70,
+      "rating": "7.50"
     },
     {
       "id": "the new gate",
@@ -94,8 +94,8 @@
       "trailer": "K_4l3EiQKEU?si=8hC2qW52KkPwcxD6",
       "banner": "https://i.postimg.cc/dtnywSnF/the-new-gate-titelbild.jpg",
       "fechaAgregado": "2024-04-01T21:59:22-05:00",
-      "visitas": 4,
-      "rating": "6.67"
+      "visitas": 35,
+      "rating": "8.00"
     },
     {
       "id": "date a live v",
@@ -145,7 +145,7 @@
       "trailer": "d88brvlgUug?si=Sn88CybWzVlzMW0G",
       "banner": "https://i.postimg.cc/sXcK92jG/date-a-live-v-character-visuals-1.jpg",
       "fechaAgregado": "2024-04-01T21:53:21-05:00",
-      "visitas": 4,
+      "visitas": 6,
       "rating": 0
     },
     {
@@ -203,7 +203,7 @@
       "id": "yuru camp season 3",
       "name": "yuru camp season 3",
       "tipo": "tv",
-      "episodios": 1,
+      "episodios": 2,
       "descripcion": "Tercera temporada de Yuru Camp△",
       "genero1": "Comedia",
       "genero2": "Slice of life",
@@ -232,6 +232,10 @@
         {
           "episode": 1,
           "image": "https://i.postimg.cc/xjwtpjDT/z5-PW1-VK0y-ICv-RT9-FXg-KKrjy-IPK5.jpg"
+        },
+        {
+          "episode": 2,
+          "image": "https://i.postimg.cc/Prv5s0M4/riz-Kji52g6-SOL1tpdrta8-VKi-Lq-I.jpg"
         }
       ],
       "temporadas": 3,
@@ -244,14 +248,22 @@
               "image": "https://i.postimg.cc/xjwtpjDT/z5-PW1-VK0y-ICv-RT9-FXg-KKrjy-IPK5.jpg"
             }
           ]
+        },
+        {
+          "cap2": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39822",
+              "image": "https://i.postimg.cc/Prv5s0M4/riz-Kji52g6-SOL1tpdrta8-VKi-Lq-I.jpg"
+            }
+          ]
         }
       ],
       "proximo": "Jueves 11 de abril 2024",
       "image": "https://i.postimg.cc/8c5dFC5S/yuru-camp-season-3.jpg",
       "trailer": "LN0TEmyrSK0?si=bZAi_HSKo0ZJX0X4",
       "banner": "https://i.postimg.cc/rpsVz0Xj/yuru-camp.jpg",
-      "visitas": 27,
-      "rating": "6.67",
+      "visitas": 0,
+      "rating": 0,
       "fechaAgregado": "2024-03-29T12:50:22-05:00"
     },
     {
@@ -341,14 +353,14 @@
       "trailer": "jlfyK1rfzAk",
       "banner": "https://i.postimg.cc/661fS8BK/Mons01.jpg",
       "visitas": 77,
-      "rating": "7.50",
+      "rating": "8.00",
       "fechaAgregado": "2024-02-25T18:14:27.390Z"
     },
     {
       "id": "ninja kamui",
       "name": "ninja kamui",
       "tipo": "tv",
-      "episodios": 7,
+      "episodios": 10,
       "descripcion": "Joe Higan es un Nukenin, un ex ninja que escapó de su clan y se esconde de su pasado violento en la América rural con su familia. Una noche, es emboscado por un equipo de asesinos de su antigua organización que imponen una sangrienta retribución a Joe y su familia por traicionar su antiguo código. Al surgir de su aparente 'muerte', Joe resurgirá como su antiguo yo, Ninja Kamui, para vengar a su familia y amigos. Kamui es un ninja del siglo XXI, un sombrío anacronismo que enfrenta sus antiguas habilidades contra armamento de alta tecnología con brutal delicadeza. Debe enfrentarse a asesinos entrenados, cyborgs de combate y ninjas rivales para derribar al mismo clan que lo creó",
       "genero1": "accion",
       "genero2": "ciencia ficcion",
@@ -396,6 +408,18 @@
         {
           "episode": 7,
           "image": "https://i.postimg.cc/wvF7sg3n/fxq9gm-Yg-GRr-ZOYKjsj-DFew-Arr-J1.jpg"
+        },
+        {
+          "episode": 8,
+          "image": "https://i.postimg.cc/j5fsf7k7/ma6-Rf-NFw-K1-PUMu2r-C8j-Tuqh-YNf-W.jpg"
+        },
+        {
+          "episode": 9,
+          "image": "https://i.postimg.cc/CMZvj4Nt/3x16-Arw-UHxc-JF2-PKXKfft-Nk-FGIW.jpg"
+        },
+        {
+          "episode": 10,
+          "image": "https://i.postimg.cc/T3P5Dtj5/2-Z9f-XXJpv6c-Hioopnx-WGGrf-Er-Ug.jpg"
         }
       ],
       "temporadas": 1,
@@ -456,14 +480,38 @@
               "image": "https://i.postimg.cc/wvF7sg3n/fxq9gm-Yg-GRr-ZOYKjsj-DFew-Arr-J1.jpg"
             }
           ]
+        },
+        {
+          "cap8": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39631",
+              "image": "https://i.postimg.cc/j5fsf7k7/ma6-Rf-NFw-K1-PUMu2r-C8j-Tuqh-YNf-W.jpg"
+            }
+          ]
+        },
+        {
+          "cap9": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39741",
+              "image": "https://i.postimg.cc/CMZvj4Nt/3x16-Arw-UHxc-JF2-PKXKfft-Nk-FGIW.jpg"
+            }
+          ]
+        },
+        {
+          "cap10": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39999",
+              "image": "https://i.postimg.cc/T3P5Dtj5/2-Z9f-XXJpv6c-Hioopnx-WGGrf-Er-Ug.jpg"
+            }
+          ]
         }
       ],
       "proximo": "Martes 2 de abril 2024",
       "image": "https://i.postimg.cc/J0Qm5RYJ/ninja-kamui.jpg",
       "trailer": "oeW6Ew4HRmc",
       "banner": "https://i.postimg.cc/CKfRHfGq/ninja-kamui-fecha-de-estreno-jpg-1324964843.webp",
-      "visitas": 65,
-      "rating": 0,
+      "visitas": 96,
+      "rating": "7.50",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
     },
     {
@@ -635,7 +683,7 @@
       "trailer": "i4jKHUMuuNk",
       "banner": "https://i.postimg.cc/GmRGK4MD/ishura-anime-characters.avif",
       "rating": "8.33",
-      "visitas": 1372,
+      "visitas": 1373,
       "fechaAgregado": "2024-02-19T18:14:27.390Z",
       "estado:": "finalizado",
       "estado": "finalizado"
@@ -874,7 +922,7 @@
       "trailer": "QzzZUQLhJhY?si=cz3Wn5iTscMMOO9R",
       "banner": "https://i.postimg.cc/DyqVTvtf/The-Undead-Unluck.avif",
       "rating": "7.50",
-      "visitas": 2190,
+      "visitas": 2210,
       "fechaAgregado": "2024-02-12T18:14:27.390Z"
     },
     {
@@ -1626,7 +1674,7 @@
       ],
       "proximo": false,
       "image": "https://i.postimg.cc/wTmQ1Dqw/138405l.webp",
-      "visitas": 64,
+      "visitas": 65,
       "banner": "https://i.postimg.cc/HnmzFC4M/desktop-wallpaper-pc-version-of-my-since-few-people-wanted-it-also-thanks-for-all-the-good-words-sol.jpg",
       "trailer": "",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
@@ -2448,7 +2496,7 @@
       "studio": "Studio Pierrot",
       "image": "https://i.postimg.cc/Dz96B0dq/akudama-drive.webp",
       "banner__anime": "https://i.postimg.cc/Bv2FVWLB/Banner-Akudama-Drive.webp",
-      "visitas": 51,
+      "visitas": 52,
       "emitido": "",
       "episodes__overlay": [],
       "temporadas": 1,
@@ -5089,7 +5137,7 @@
       "estado": "finalizado",
       "year": 2021,
       "rating": 0,
-      "visitas": 0,
+      "visitas": 1,
       "emitido": "",
       "studio": "",
       "precuelas": [],
@@ -5985,7 +6033,7 @@
       "estado": "finalizado",
       "year": 2020,
       "rating": 0,
-      "visitas": 0,
+      "visitas": 1,
       "emitido": "",
       "studio": "",
       "precuelas": [],
