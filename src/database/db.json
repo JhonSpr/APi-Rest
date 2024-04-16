@@ -1,6 +1,45 @@
 {
   "animes": [
     {
+      "id": "Kaijuu 8-gou",
+      "name": "Kaijuu 8-gou",
+      "tipo": "tv",
+      "episodios": 0,
+      "descripcion": "En un mundo plagado de criaturas amenazadoras conocidas como Kaiju, Kafka Hibino aspiraba a alistarse en las Fuerzas de Defensa de Japón para derrotarlos. 'Eliminemos al Kaiju juntos'. Kafka se comprometió con su amiga de la infancia, Mina Ashiro. Con el tiempo, las circunstancias de la vida los obligaron a tomar caminos separados y le hicieron abandonar la ambición de su vida. Se encontró empleado por Monster Sweeper, Inc., una empresa de limpieza profesional que se especializa en limpiar las secuelas de las batallas Kaiju. Mientras tanto, Mina Ashiro es ahora la capitana de la 3.ª División de las Fuerzas de Defensa. Tal como están las cosas, actualmente no es digno de luchar contra Kaiju junto a ella. En el trabajo, Kafka se cruza con el muy motivado Reno Ichikawa. La determinación inquebrantable de Reno de unirse a las Fuerzas de Defensa no deja lugar al fracaso. Su perseverancia despierta la ambición de Kafka de estar junto a Mina mientras protegen juntos a la humanidad de los Kaiju. Un sueño congelado por el tiempo, descongelado por una promesa ardiente. Pero Kafka no sabe que una inminente amenaza Kaiju se acerca inesperadamente a él.",
+      "genero1": "accion",
+      "genero2": "fantasia",
+      "genero3": "shounen",
+      "generos": [
+        {
+          "genero": "acción",
+          "link": "/directorio?generos=accion"
+        },
+        {
+          "genero": "fantasia",
+          "link": "/directorio?generos=fantasia"
+        },
+        {
+          "genero": "shounen",
+          "link": "/directorio?generos=shounen"
+        }
+      ],
+      "emitido": "13 de abril 2024",
+      "duration": "24 min",
+      "estado": "en emision",
+      "year": 2024,
+      "studio": "Production I G",
+      "precuelas": [],
+      "episodes__overlay": [],
+      "temporadas": 1,
+      "secuelas": [],
+      "services": [],
+      "proximo": "Sábado 20 de abril 2024",
+      "image": "https://i.postimg.cc/63G000SR/kaijuu-8-gou.jpg",
+      "trailer": "urZsXsyVx1g?si=fsbaWPTonNRA8Pve",
+      "banner": "https://i.postimg.cc/wj6wpDy8/filters-quality-95-format-webp.webp",
+      "fechaAgregado": "2024-04-15T20:19:06-05:00"
+    },
+    {
       "id": "kono subarashii sekai ni shukufuku wo 3",
       "name": "kono subarashii sekai ni shukufuku wo 3",
       "tipo": "tv",
@@ -94,7 +133,7 @@
       "trailer": "K_4l3EiQKEU?si=8hC2qW52KkPwcxD6",
       "banner": "https://i.postimg.cc/dtnywSnF/the-new-gate-titelbild.jpg",
       "fechaAgregado": "2024-04-01T21:59:22-05:00",
-      "visitas": 35,
+      "visitas": 37,
       "rating": "8.00"
     },
     {
@@ -262,8 +301,8 @@
       "image": "https://i.postimg.cc/8c5dFC5S/yuru-camp-season-3.jpg",
       "trailer": "LN0TEmyrSK0?si=bZAi_HSKo0ZJX0X4",
       "banner": "https://i.postimg.cc/rpsVz0Xj/yuru-camp.jpg",
-      "visitas": 0,
-      "rating": 0,
+      "visitas": 2,
+      "rating": "6.67",
       "fechaAgregado": "2024-03-29T12:50:22-05:00"
     },
     {
@@ -510,7 +549,7 @@
       "image": "https://i.postimg.cc/J0Qm5RYJ/ninja-kamui.jpg",
       "trailer": "oeW6Ew4HRmc",
       "banner": "https://i.postimg.cc/CKfRHfGq/ninja-kamui-fecha-de-estreno-jpg-1324964843.webp",
-      "visitas": 96,
+      "visitas": 105,
       "rating": "7.50",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
     },
@@ -1964,7 +2003,7 @@
       "proximo": "Domingo 7 de agosto 2023",
       "image": "https://i.postimg.cc/hGj1p231/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto.webp",
       "banner__anime": "https://i.postimg.cc/59vq7YpT/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-banner.webp",
-      "visitas": 0,
+      "visitas": 1,
       "services": [],
       "banner": "",
       "trailer": "",
@@ -2315,7 +2354,7 @@
       "proximo": false,
       "rating": 0,
       "image": "https://i.postimg.cc/MKJ5GbBF/black-clover-mahou-tei-no-ken.webp",
-      "visitas": 0,
+      "visitas": 1,
       "precuelas": [],
       "episodes__overlay": [],
       "temporadas": 1,
@@ -2364,10 +2403,10 @@
       "studio": "Madhouse, Satelight, Graphinica",
       "precuelas": [],
       "secuelas": [],
-      "rating": 0,
+      "rating": "3.33",
       "proximo": false,
       "image": "https://i.postimg.cc/XvCHym5H/hellsing-ultimate.webp",
-      "visitas": 34,
+      "visitas": 39,
       "emitido": "",
       "episodes__overlay": [],
       "temporadas": 1,
@@ -4992,7 +5031,7 @@
       "estado": "finalizado",
       "year": 2011,
       "rating": 0,
-      "visitas": 0,
+      "visitas": 1,
       "emitido": "",
       "studio": "",
       "precuelas": [],
