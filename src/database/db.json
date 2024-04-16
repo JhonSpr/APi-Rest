@@ -4,7 +4,7 @@
       "id": "Kaijuu 8-gou",
       "name": "Kaijuu 8-gou",
       "tipo": "tv",
-      "episodios": 0,
+      "episodios": 1,
       "descripcion": "En un mundo plagado de criaturas amenazadoras conocidas como Kaiju, Kafka Hibino aspiraba a alistarse en las Fuerzas de Defensa de Japón para derrotarlos. 'Eliminemos al Kaiju juntos'. Kafka se comprometió con su amiga de la infancia, Mina Ashiro. Con el tiempo, las circunstancias de la vida los obligaron a tomar caminos separados y le hicieron abandonar la ambición de su vida. Se encontró empleado por Monster Sweeper, Inc., una empresa de limpieza profesional que se especializa en limpiar las secuelas de las batallas Kaiju. Mientras tanto, Mina Ashiro es ahora la capitana de la 3.ª División de las Fuerzas de Defensa. Tal como están las cosas, actualmente no es digno de luchar contra Kaiju junto a ella. En el trabajo, Kafka se cruza con el muy motivado Reno Ichikawa. La determinación inquebrantable de Reno de unirse a las Fuerzas de Defensa no deja lugar al fracaso. Su perseverancia despierta la ambición de Kafka de estar junto a Mina mientras protegen juntos a la humanidad de los Kaiju. Un sueño congelado por el tiempo, descongelado por una promesa ardiente. Pero Kafka no sabe que una inminente amenaza Kaiju se acerca inesperadamente a él.",
       "genero1": "accion",
       "genero2": "fantasia",
@@ -29,15 +29,31 @@
       "year": 2024,
       "studio": "Production I G",
       "precuelas": [],
-      "episodes__overlay": [],
+      "episodes__overlay": [
+        {
+          "episode": 1,
+          "image": "https://i.postimg.cc/jjjwtS4S/6s-Ykwzt-Ts-Cv-HSt4e-Na-NCof-Iaba-A.jpg"
+        }
+      ],
       "temporadas": 1,
       "secuelas": [],
-      "services": [],
+      "services": [
+        {
+          "cap1": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=39889",
+              "image": "https://i.postimg.cc/jjjwtS4S/6s-Ykwzt-Ts-Cv-HSt4e-Na-NCof-Iaba-A.jpg"
+            }
+          ]
+        }
+      ],
       "proximo": "Sábado 20 de abril 2024",
       "image": "https://i.postimg.cc/63G000SR/kaijuu-8-gou.jpg",
       "trailer": "urZsXsyVx1g?si=fsbaWPTonNRA8Pve",
       "banner": "https://i.postimg.cc/wj6wpDy8/filters-quality-95-format-webp.webp",
-      "fechaAgregado": "2024-04-15T20:19:06-05:00"
+      "fechaAgregado": "2024-04-15T20:19:06-05:00",
+      "visitas": 0,
+      "rating": 0
     },
     {
       "id": "kono subarashii sekai ni shukufuku wo 3",
