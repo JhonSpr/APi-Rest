@@ -17,6 +17,7 @@ const getAllAnimes = async (req, res) => {
     const studio = req.query.studio
     const visitas = req.query.visitas
     const tipo = req.params.tipo
+    const episodesDate = req.query.episodesDate
 
     // Obtener los datos de animeService.getAllAnime()
     const animes = await animeService.getAllAnime({
@@ -33,6 +34,7 @@ const getAllAnimes = async (req, res) => {
       studio,
       visitas,
       tipo,
+      episodesDate,
     })
 
     res.send({

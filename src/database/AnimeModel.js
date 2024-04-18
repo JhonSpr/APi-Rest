@@ -8,6 +8,10 @@ const getAllAnime = (filterParams) => {
 
     let animes = [...originalData]
 
+    if (filterParams.episodesDate == 'false') {
+      return animes.filter((anime) => anime.proximo != false)
+    }
+
     if (filterParams.letra) {
       return animes.filter(
         (anime) =>
