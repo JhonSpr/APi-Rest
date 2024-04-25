@@ -64,8 +64,8 @@
       "trailer": "urZsXsyVx1g?si=fsbaWPTonNRA8Pve",
       "banner": "https://i.postimg.cc/wj6wpDy8/filters-quality-95-format-webp.webp",
       "fechaAgregado": "2024-04-15T20:19:06-05:00",
-      "visitas": 29,
-      "rating": "7.50"
+      "visitas": 114,
+      "rating": "6.67"
     },
     {
       "id": "kono subarashii sekai ni shukufuku wo 3",
@@ -115,7 +115,7 @@
       "trailer": "V3mKlAvuSRs?si=5tOW1pHP-jKU2a69",
       "banner": "https://i.postimg.cc/zXvCQrSW/a-konosuba-banner-i-made-v0-usni0k86kzw91.webp",
       "fechaAgregado": "2024-04-01T22:05:04-05:00",
-      "visitas": 70,
+      "visitas": 73,
       "rating": "7.50"
     },
     {
@@ -161,7 +161,7 @@
       "trailer": "K_4l3EiQKEU?si=8hC2qW52KkPwcxD6",
       "banner": "https://i.postimg.cc/dtnywSnF/the-new-gate-titelbild.jpg",
       "fechaAgregado": "2024-04-01T21:59:22-05:00",
-      "visitas": 38,
+      "visitas": 44,
       "rating": "8.00"
     },
     {
@@ -427,7 +427,7 @@
       "id": "ninja kamui",
       "name": "ninja kamui",
       "tipo": "tv",
-      "episodios": 10,
+      "episodios": 11,
       "descripcion": "Joe Higan es un Nukenin, un ex ninja que escapó de su clan y se esconde de su pasado violento en la América rural con su familia. Una noche, es emboscado por un equipo de asesinos de su antigua organización que imponen una sangrienta retribución a Joe y su familia por traicionar su antiguo código. Al surgir de su aparente 'muerte', Joe resurgirá como su antiguo yo, Ninja Kamui, para vengar a su familia y amigos. Kamui es un ninja del siglo XXI, un sombrío anacronismo que enfrenta sus antiguas habilidades contra armamento de alta tecnología con brutal delicadeza. Debe enfrentarse a asesinos entrenados, cyborgs de combate y ninjas rivales para derribar al mismo clan que lo creó",
       "genero1": "accion",
       "genero2": "ciencia ficcion",
@@ -487,6 +487,10 @@
         {
           "episode": 10,
           "image": "https://i.postimg.cc/T3P5Dtj5/2-Z9f-XXJpv6c-Hioopnx-WGGrf-Er-Ug.jpg"
+        },
+        {
+          "episode": 11,
+          "image": "https://i.postimg.cc/L8z2yyTb/4r-Hqodou-P7j-S1l-KEd-EK9v-GII9-Nm.jpg"
         }
       ],
       "temporadas": 1,
@@ -571,14 +575,22 @@
               "image": "https://i.postimg.cc/T3P5Dtj5/2-Z9f-XXJpv6c-Hioopnx-WGGrf-Er-Ug.jpg"
             }
           ]
+        },
+        {
+          "cap11": [
+            {
+              "url": "https://saidochesto.top/embed.php?id=40084",
+              "image": "https://i.postimg.cc/L8z2yyTb/4r-Hqodou-P7j-S1l-KEd-EK9v-GII9-Nm.jpg"
+            }
+          ]
         }
       ],
-      "proximo": "Martes 2 de abril 2024",
+      "proximo": "Martes 30 de abril 2024",
       "image": "https://i.postimg.cc/J0Qm5RYJ/ninja-kamui.jpg",
       "trailer": "oeW6Ew4HRmc",
       "banner": "https://i.postimg.cc/CKfRHfGq/ninja-kamui-fecha-de-estreno-jpg-1324964843.webp",
-      "visitas": 111,
-      "rating": "6.67",
+      "visitas": 120,
+      "rating": "6.00",
       "fechaAgregado": "2024-02-20T18:14:27.390Z"
     },
     {
@@ -750,7 +762,7 @@
       "trailer": "i4jKHUMuuNk",
       "banner": "https://i.postimg.cc/GmRGK4MD/ishura-anime-characters.avif",
       "rating": "8.57",
-      "visitas": 1381,
+      "visitas": 1396,
       "fechaAgregado": "2024-02-19T18:14:27.390Z",
       "estado:": "finalizado",
       "estado": "finalizado"
@@ -989,7 +1001,7 @@
       "trailer": "QzzZUQLhJhY?si=cz3Wn5iTscMMOO9R",
       "banner": "https://i.postimg.cc/DyqVTvtf/The-Undead-Unluck.avif",
       "rating": "7.50",
-      "visitas": 2210,
+      "visitas": 2222,
       "fechaAgregado": "2024-02-12T18:14:27.390Z"
     },
     {
@@ -1265,7 +1277,7 @@
       "trailer": "f8JrZ7Q_p-8?si=gE3tFA4ISzFWZMqY",
       "banner": "https://i.postimg.cc/jj7Hc4BH/Vinland-Saga-featured.webp",
       "rating": 0,
-      "visitas": 2,
+      "visitas": 3,
       "fechaAgregado": "2024-02-02T18:14:27.390Z"
     },
     {
@@ -1864,7 +1876,7 @@
       ],
       "proximo": false,
       "image": "https://i.postimg.cc/sf0HkPcR/ao-no-exorcist-shimane-illuminati-hen.webp",
-      "visitas": 11,
+      "visitas": 12,
       "banner": "",
       "trailer": "",
       "fechaAgregado": "2024-02-20T18:14:27.390Z",
@@ -2031,7 +2043,7 @@
       "proximo": "Domingo 7 de agosto 2023",
       "image": "https://i.postimg.cc/hGj1p231/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto.webp",
       "banner__anime": "https://i.postimg.cc/59vq7YpT/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-banner.webp",
-      "visitas": 1,
+      "visitas": 2,
       "services": [],
       "banner": "",
       "trailer": "",
@@ -2328,7 +2340,7 @@
       "secuelas": [],
       "proximo": false,
       "image": "https://i.postimg.cc/J7dfqsWL/Fs-T4g-PXa-MAw-Pbmh.webp",
-      "visitas": 0,
+      "visitas": 1,
       "episodes__overlay": [],
       "temporadas": 1,
       "services": [],
@@ -2485,7 +2497,7 @@
       ],
       "rating": 0,
       "secuelas": [],
-      "visitas": 3,
+      "visitas": 5,
       "emitido": "",
       "episodes__overlay": [],
       "temporadas": 1,
@@ -2762,7 +2774,7 @@
         }
       ],
       "rating": "6.67",
-      "visitas": 2,
+      "visitas": 4,
       "emitido": "",
       "studio": "",
       "precuelas": [],
@@ -3048,7 +3060,7 @@
         }
       ],
       "rating": 0,
-      "visitas": 1,
+      "visitas": 2,
       "emitido": "",
       "studio": "",
       "precuelas": [],
