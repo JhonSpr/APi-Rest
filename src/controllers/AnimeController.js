@@ -82,7 +82,7 @@ const getAnimeRecommendations = async (req, res) => {
 
     recommendations = shuffleArray(recommendations)
 
-    res.json({ success: true, datos: recommendations })
+    res.json({ success: true, datos: recommendations.splice(0, 15) })
   } catch (error) {
     // Manejar errores
     console.error(error)
