@@ -1,4 +1,5 @@
 const animeService = require('../services/AnimeService')
+const AnimeDB = require('../database/db.json')
 
 const getAllAnimes = async (req, res) => {
   const { name, estado, info } = req.query
@@ -51,6 +52,56 @@ const getAllAnimes = async (req, res) => {
   }
 }
 
+const getAnimeRecommendations = async (req, res) => {
+  try {
+    const { animeName } = req.params
+
+    const anime = AnimeDB.animes.find((anime) => anime.name === animeName)
+
+    if (!anime) {
+      return res
+        .status(404)
+        .json({ success: false, message: 'Anime no encontrado' })
+    }
+
+    const generos = [
+      anime.genero1,
+      anime.genero2,
+      anime.genero3,
+      anime.genero4,
+      anime.genero5,
+      anime.genero6,
+      anime.genero7,
+    ].filter(Boolean)
+
+    let recommendations = AnimeDB.animes.filter(
+      (otherAnime) =>
+        otherAnime.name !== animeName &&
+        otherAnime.generos.some((g) => generos.includes(g.genero))
+    )
+
+    recommendations = shuffleArray(recommendations)
+
+    res.json({ success: true, datos: recommendations })
+  } catch (error) {
+    // Manejar errores
+    console.error(error)
+    res
+      .status(500)
+      .json({ success: false, message: 'Error interno del servidor' })
+  }
+}
+
+// Función para desordenar aleatoriamente un array
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[array[i], array[j]] = [array[j], array[i]]
+  }
+  return array
+}
+
 module.exports = {
   getAllAnimes,
+  getAnimeRecommendations,
 }

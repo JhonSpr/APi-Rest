@@ -8,6 +8,7 @@ const fs = require('fs')
 const path = require('path')
 const moment = require('moment-timezone')
 router.get('/', animeController.getAllAnimes)
+router.get('/:genero/:animeName', animeController.getAnimeRecommendations)
 router.get('/:tipo', animeController.getAllAnimes)
 
 router.put('/:id/services', (req, res) => {
