@@ -16,11 +16,9 @@ router.put('/:id/services', (req, res) => {
   const capNumber = req.body.capNumber
   const capUrl = req.body.capUrl
   const imageEpisode = req.body.imageEpisode
-  // Encuentra el anime por su ID en tu base de datos
   const animeIndex = DB.animes.findIndex((anime) => anime.id === animeId)
 
   if (animeIndex !== -1) {
-    // Encuentra el anime y verifica si ya tiene una propiedad "services"
     const anime = DB.animes[animeIndex]
     if (!anime.hasOwnProperty('services')) {
       anime.services = []
@@ -41,14 +39,46 @@ router.put('/:id/services', (req, res) => {
           (episode) => episode.episode === capNumber
         )
       ) {
-        // Si no existe, agrega el nuevo objeto con el episodio y la imagen
         anime.episodes__overlay.push({
           episode: capNumber,
           image: imageEpisode,
         })
       }
 
-      // Escribe los cambios en el archivo JSON
+      // Agregar información al archivo recientes.json
+      const recientesData = {
+        nombre: anime.name,
+        episode: `episodio ${capNumber}`,
+        number: capNumber,
+        image: imageEpisode,
+        fechaAgregado: new Date().toISOString(),
+      }
+
+      const recientesFilePath = path.resolve(
+        __dirname,
+        '../../database',
+        'recientes.json'
+      )
+      let recientes = []
+      try {
+        recientes = JSON.parse(fs.readFileSync(recientesFilePath, 'utf8'))
+      } catch (error) {
+        console.error('Error al leer recientes.json:', error)
+      }
+
+      // Agregar el nuevo episodio al inicio de la lista
+      recientes.recientes.unshift(recientesData)
+
+      // Definir el número máximo de elementos en recientes.json
+      const MAX_RECENTS = 10
+      // Eliminar el último elemento si ya hay el máximo definido
+      if (recientes.length > MAX_RECENTS) {
+        recientes.pop()
+      }
+
+      fs.writeFileSync(recientesFilePath, JSON.stringify(recientes, null, 2))
+
+      // Guardar los cambios en el archivo db.json
       const dbFilePath = path.resolve(__dirname, '../../database', 'db.json')
       fs.writeFileSync(dbFilePath, JSON.stringify(DB, null, 2))
 
@@ -258,57 +288,19 @@ router.post('/calendario/:fechaEstreno/actualizar', (req, res) => {
   }
 })
 
-router.post('/propiedad', (req, res) => {
-  try {
-    const nuevoAnime = req.body
-
-    // Itera sobre todos los objetos en tu base de datos
-    DB.animes.forEach((anime) => {
-      // Verifica si el objeto ya tiene la propiedad "rating"
-      if (!anime.hasOwnProperty('rating')) {
-        // Si no tiene la propiedad "rating", agrégala con el valor que desees
-        anime.rating = 5.2 // Aquí puedes establecer el valor que prefieras para "rating"
-      }
-      if (!anime.hasOwnProperty('visitas')) {
-        // Si no tiene la propiedad "rating", agrégala con el valor que desees
-        anime.visitas = 0 // Aquí puedes establecer el valor que prefieras para "rating"
-      }
-    })
-
-    // Guarda los cambios en el archivo db.json utilizando una ruta absoluta
-    const dbFilePath = path.resolve(__dirname, 'database', 'db.json')
-    fs.writeFileSync(dbFilePath, JSON.stringify(DB, null, 2))
-
-    res
-      .status(201)
-      .send({ message: 'Rating agregado correctamente a todos los animes' })
-  } catch (error) {
-    console.error('Error al agregar el rating a los animes:', error)
-
-    // Devuelve detalles del error en la respuesta
-    res
-      .status(500)
-      .send({ error: 'Error interno del servidor', details: error.message })
-  }
-})
-
 router.post('/:id/update', (req, res) => {
   try {
     const animeId = req.params.id
     const updateData = req.body
 
-    // Encuentra el índice del anime por su ID en tu base de datos
     const animeIndex = DB.animes.findIndex((anime) => anime.id === animeId)
 
     if (animeIndex !== -1) {
-      // Encuentra el anime y actualiza las propiedades especificadas
       const anime = DB.animes[animeIndex]
       Object.keys(updateData).forEach((key) => {
-        // Verifica si la nueva propiedad tiene un valor diferente de undefined
         if (updateData[key] !== undefined) {
           anime[key] = updateData[key]
         } else {
-          // Si la nueva propiedad es undefined, elimina la propiedad existente
           delete anime[key]
         }
       })
@@ -334,16 +326,12 @@ router.post('/agregar-propiedad', (req, res) => {
   try {
     const { propiedad, valor } = req.body
 
-    // Itera sobre todos los objetos en tu base de datos
     DB.animes.forEach((anime) => {
-      // Verifica si el objeto no tiene la propiedad especificada
       if (!anime.hasOwnProperty(propiedad)) {
-        // Agrega la propiedad con el valor proporcionado
         anime[propiedad] = valor
       }
     })
 
-    // Guarda los cambios en el archivo db.json utilizando una ruta absoluta
     const dbFilePath = path.resolve(__dirname, '../../database', 'db.json')
     fs.writeFileSync(dbFilePath, JSON.stringify(DB, null, 2))
 
@@ -353,7 +341,6 @@ router.post('/agregar-propiedad', (req, res) => {
   } catch (error) {
     console.error('Error al agregar la propiedad a los animes:', error)
 
-    // Devuelve detalles del error en la respuesta
     res
       .status(500)
       .send({ error: 'Error interno del servidor', details: error.message })
