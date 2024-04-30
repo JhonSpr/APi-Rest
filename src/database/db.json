@@ -31,14 +31,17 @@
       "precuelas": [],
       "episodes__overlay": [
         {
+          "name": "kaijuu 8 gou",
           "episode": 1,
           "image": "https://i.postimg.cc/jjjwtS4S/6s-Ykwzt-Ts-Cv-HSt4e-Na-NCof-Iaba-A.jpg"
         },
         {
+          "name": "kaijuu 8 gou",
           "episode": 2,
           "image": "https://i.postimg.cc/przXtp17/d-CWDVvwztthd-OLmm468f-KFhbrgk.jpg"
         },
         {
+          "name": "kaijuu 8 gou",
           "episode": 3,
           "image": "https://i.postimg.cc/CKLtnNfY/pdbi-VDQOLOluh-FU439hj-Zk-Yc-UHw.jpg"
         }
