@@ -15,6 +15,7 @@ router.put('/:id/services', (req, res) => {
   const animeId = req.params.id
   const capNumber = req.body.capNumber
   const capUrl = req.body.capUrl
+  const name = req.body.name
   const imageEpisode = req.body.imageEpisode
   const animeIndex = DB.animes.findIndex((anime) => anime.id === animeId)
 
@@ -30,7 +31,7 @@ router.put('/:id/services', (req, res) => {
       )
     ) {
       anime.services.push({
-        [`cap${capNumber}`]: [{ url: capUrl, image: imageEpisode }],
+        [`cap${capNumber}`]: [{ url: capUrl, image: imageEpisode, name: name }],
       })
       anime.episodios = capNumber
 
