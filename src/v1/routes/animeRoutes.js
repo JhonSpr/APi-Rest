@@ -31,7 +31,7 @@ router.put('/:id/services', (req, res) => {
       )
     ) {
       anime.services.push({
-        [`cap${capNumber}`]: [{ url: capUrl, image: imageEpisode, name: name }],
+        [`cap${capNumber}`]: [{ name: name, url: capUrl, image: imageEpisode }],
       })
       anime.episodios = capNumber
 

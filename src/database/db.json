@@ -1946,10 +1946,12 @@
       "rating": 0,
       "episodes__overlay": [
         {
+          "name": "tate no yuusha no nariagari 3ra temporada",
           "episode": 1,
           "image": "https://i.postimg.cc/7YQTNVV7/A9-GJMKh2-XF9qh9-Cxy85gqfpcboi.jpg"
         },
         {
+          "name": "tate no yuusha no nariagari 3ra temporada",
           "episode": 2,
           "image": "https://i.postimg.cc/XYd7ycDn/tpihw-S5i6-YRil-DYD501a9a6rh-HM.jpg"
         }
@@ -4235,10 +4237,7 @@
       "id": "Saiyuki RELOAD -ZEROIN-",
       "name": "saiyoki reload zeroin",
       "descripcion": "Una vez, la tierra de Togenkyo era una tierra pacífica, donde los humanos y los yokai vivían juntos. Sin embargo, entonces aparecieron hombres que intentaron revivir a Gyumaoh, el Gran Yokai que fue asesinado por el dios de la guerra Nataku Taishi y enterrado en el castillo de Houtou hace 500 años, utilizando una combinación prohibida de química y magia. Las ondas de energía negativa que esto creó se extendieron por todo Togenkyo, provocando que los yokai enloquecieran y atacaran a la humanidad. Para salvar la tierra, Kanzeon Bosatsu ordena a Son Goku, Genjyo Sazno, Sha Gojyo y Cho Hakkai que vayan al oeste. Los cuatro emprenden un viaje para detener el experimento para revivir a Gyumaoh. En el camino, se encuentran con Hazel Grouse, que emplea una extraña magia que utiliza las almas de los yokai para revivir a los muertos, y su seguidor Gat. Ambos se unen al grupo. Y Ukoku Sanzo, un hombre con el que tienen una larga historia, se acerca en las sombras… Personajes inolvidables, intensos dramas personales y una acción impresionante en una historia sobre los vínculos entre cuatro hombres.",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/R0xxy7mF/saiyuki-reload-zeroin.webp",
       "estado": "finalizado",
       "year": 2022,
@@ -4347,10 +4346,7 @@
       "name": "orient 2nd temporada",
       "descripcion": "¡La feroz batalla de la isla Awaji comienza ahora! Con la aparición del todopoderoso Kishin, la tierra de Hinomoto ahora está dominada por oni, en lugar de humanos. Musashi y Kanemaki Kojiro partieron de su ciudad natal jurando formar la banda Bushi más fuerte de todos los tiempos, y después de encontrarse con Hattori Tsugumi en su viaje, los tres encontraron el Kanemaki Bushi. Después de obtener las únicas armas que pueden matar oni, Kitetsu Blades, han dado el primer gran paso hacia su sueño. En Harima, el grupo de Musashi se encontrará con la enorme banda de Uesugui Bushi y su líder Uesugi Tatsuomi. Se han reunido para matar al gigante Kishin que amenaza con consumir la isla Awaji: Yamata no Orochi, el Artillery Wyrm. Junto a ellos están Takeda Naotora y Takeda Bushi, junto con varios Bushi de la misma edad que Musashi como Shimazu Akihiro y Amako Katsumi. También está la princesa tímida y ligeramente protegida, Saruwatari Michiru. Mientras diferentes agendas giran e interactúan, Musashi y sus amigos se unen a la caza de Kishin. Yamata no Orochi es un dios demonio imparable que nunca antes había sido arañado. Y así, comienza la batalla más feroz de todas...",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/fLsWc7Fm/orient-2nd-cour.webp",
       "estado": "finalizado",
       "year": 2022,
@@ -4379,10 +4375,7 @@
       "year": 2022,
       "tipo": "tv",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "estado": "en emision",
       "li13": "disable",
       "rating": 0,
@@ -4458,10 +4451,7 @@
       "descripcion": "Yuji Sano, empleado de una empresa explotadora, es convocado a otro mundo mientras termina su trabajo en casa. Su profesión en el otro mundo, domador de monstruos, se considera un trabajo que dificulta el convertirse en aventurero. Sin embargo, gracias a unos slimes que conoció y que leyeron varios libros mágicos, obtuvo poderes mágicos y una segunda profesión, la de sabio. Yuuji adquirió un poder abrumador, pero ¿es consciente de su fuerza? Se convierte ciegamente en el más fuerte y sin igual de todo el nuevo mundo.",
       "episodios": 12,
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/Z5VDF6q2/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita.webp",
       "estado": "finalizado",
       "year": 2022,
@@ -4487,10 +4477,7 @@
       "descripcion": "Un frío invierno, la humanidad perdió su batalla con los vampiros, y con ellos, la mayor parte de lo que llamaron hogar. Una pequeña población de supervivientes creó un muro de luz en un pequeño pueblo para protegerlos y darles un lugar donde vivir en paz. Nuestro protagonista, Momo, vive una vida reprimida pero aún desea coexistir con el enemigo, los vampiros. Bien, la reina vampiro, una vez amó a los humanos y desapareció del campo de batalla. Mientras la guerra hace estragos en la ciudad de los humanos, los dos tienen un encuentro fatídico. Érase una vez, humanos y vampiros vivían en armonía en un lugar llamado Paraíso. Esta es la historia de una joven y un vampiro en un viaje para encontrar el Paraíso.",
       "tipo": "tv",
       "episodios": 5,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/NGk8HBFP/vampire-in-the-garden.webp",
       "estado": "finalizado",
       "year": 2022,
@@ -4516,10 +4503,7 @@
       "descripcion": "Todo tiene su propio espíritu, y aquellos que pueden invocar esos espíritus son los Invocadores. Pueden invocar a la tierra, a los muertos, las estrellas, a las almas... Las leyendas de los Invocadores siempre han formado parte de la cara oculta de la historia. A lo largo de los años se han librado innumerables guerras entre los Invocadores humanos por el origen de los espíritus de todos los seres: la diosa Pandora. Con el tiempo, los Invocadores se han dividido en dos facciones: los Guardianes y los Destructores. Incapaces de ver a los humanos perecer en un baño de sangre, los líderes de ambos bandos sellaron a Pandora y pusieron fin a la edad de oro de los Invocadores... Varios siglos después, Ah Jie, quien se esfuerza por convertirse en el rey del ramen, convoca sin querer a la diosa Dora y de repente se ve inmerso en el mundo de los Invocadores. Durante su viaje se encuentra con otros Invocadores y unen fuerzas con los Guardianes para enfrentarse a sus mayores enemigos: los Destructores.",
       "episodios": 12,
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/pLhnqHVv/zuihou-de-zhaohuan-shi-the-last-summoner.webp",
       "estado": "finalizado",
       "year": 2022,
@@ -4542,10 +4526,7 @@
     {
       "name": "kingdom 4ta temporada",
       "descripcion": "Cuarta temporada de Kingdom",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/Yqj4CHWF/kingdom-4th-season.webp",
       "estado": "finalizado",
       "episodios": 26,
@@ -4571,10 +4552,7 @@
       "id": "mahoutsukai reimeiki",
       "name": "mahoutsukai reimeiki",
       "descripcion": "La guerra que se libró entre la Iglesia y las Brujas durante cinco siglos finalmente terminó en paz, pero hace unos pocos años. Sin embargo, enclavado en los lugares sombríos del mundo, las brasas de ese antiguo conflicto aún arden. Un estudiante problemático llamado Sable, que asiste a la Real Academia de magia del Reino de Wenias, no tiene recuerdos de su época antes de inscribirse. A las órdenes del director Albus, dejó el Reino para viajar a los confines del sur del continente, donde los insurgentes anti-magia siguen siendo una fuerza a tener en cuenta, como parte de un régimen de entrenamiento especial. Lo acompaña un grupo de individuos fuertes tanto en capacidad como en personalidad; está la conocida como la Bruja del Alba, Roux Cristasse, que busca el conocimiento prohibido de la magia primitiva en el “Grimorio de Zero”, la chica genio Holtz, así como la única bestia de la escuela, Kudd. ¿Qué verdad descubrirán en su viaje hacia el sur…?",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "episodios": 12,
       "image": "https://i.postimg.cc/J7Yng22z/mahoutsukai-reimeiki.webp",
       "estado": "finalizado",
@@ -4600,10 +4578,7 @@
       "id": "tiger and bunny 2",
       "name": "tiger and bunny 2",
       "descripcion": "Schternbilt City es hogar de personas llamadas 'Next', que usan sus habilidades especiales para proteger a los ciudadanos como superheroes. Estos héroes resuelven casos y salvan vidas con el fin de vestir logotipos o adquirir 'hero points'. Sus actividades son documentadas en el popular programa 'Hero TV', que escoge al 'Rey de los Heroes' por medio de un ranking anual. El héroe veterano Wild Tiger siempre ha preferido trabajar solo, pero se le ha asignado el novato Barnaby Brooks Jr, quien tiene una perspectiva diferente de lo que es ser un héroe.",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "episodios": 25,
       "image": "https://i.postimg.cc/mgCgP22P/tiger-and-bunny-2.webp",
       "estado": "finalizado",
@@ -4634,10 +4609,7 @@
       "year": 2018,
       "episodios": 26,
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "rating": 0,
       "visitas": 0,
       "emitido": "",
@@ -4683,10 +4655,7 @@
       "id": "shingeki no kyojin temporada final parte 2",
       "name": "shingeki no kyojin temporada final parte 2",
       "descripcion": "Segunda parte de Shingeki no Kyojin: The Final Season.",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "episodios": 12,
       "image": "https://i.postimg.cc/Lsm2htbW/shingeki-no-kyojin-the-final-season-part-2.webp",
       "estado": "finalizado",
@@ -4712,10 +4681,7 @@
       "id": "Muhyo to Rouji no Mahouritsu Soudan Jimusho",
       "name": "muhyo to rouji no mahouritsu soudan jimusho",
       "descripcion": "¿Alguna vez fuiste víctima de una posesión espiritual? ¿Hay algún fantasma que quieras hacer desaparecer de tu casa... o hacerlo arder eternamente en el infierno? Si respondiste 'sí' a cualquiera de estas preguntas o a cualquier otra similar, entonces necesitas a Muhyo y Roji, expertos en las leyes de lo sobrenatural. Hacer justicia con los espíritus es su especialidad.",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "episodios": 12,
       "image": "https://i.postimg.cc/7ZkfMTR3/muhyo-to-rouji-no-mahouritsu-soudan-jimusho.webp",
       "estado": "finalizado",
@@ -4740,10 +4706,7 @@
     {
       "id": "Golden Time",
       "name": "golden time",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "descripcion": "Tada Banri, es un estudiante de nuevo ingreso en una escuela privada de derecho en Tokio, después de la ceremonia de apertura, él estaba completamente perdido tratando de encontrar el camino hacia el salón de orientación para los de primer año. En ese momento, se encuentra con un estudiante de primer año, que también estaba perdido, Mitsuo Yanagisawa. De alguna manera llegaron al lugar donde se dirigían, pero de repente frente a los dos aparece una chica hermosa que sostiene un ramo de rosas. La chica golpeó a Mitsuo en la cara con el ramo. 'felicidades, estudiante de nuevo ingreso', fue todo lo que dijo, y luego se fue. La mujer que golpeo a Mitsuo se trataba de su amiga de la infancia, Kaga Kouko. Cuando eran niños se habían prometido a casarse cuando algún día llegarán a cumplir sus sueños. Con el fin de escapar de ella, Mitsuo había salido secretamente y tomado el examen de este colegio privado muy conocido.",
       "episodios": 24,
       "image": "https://i.postimg.cc/Wpq3BnLm/golden-time.webp",
@@ -4833,10 +4796,7 @@
       "image": "https://i.postimg.cc/7Y5Dg0zd/overlord-1.webp",
       "episodios": 13,
       "descripcion": "La historia da comienzo cuando Yggdrasil, un popular juego online, es cerrado un día sin previo aviso. Sin embargo, el protagonista, Momonga, decide no salir del juego. Momonga así se transforma y se convierte en “el mago más poderoso”. El mundo sigue cambiando con él dentro, y los NPCs comienzan a sentir emociones. Sin familia, amigos ni lugar en la sociedad, Momonga tendrá que luchar por adaptarse al nuevo mundo en el que se ha convertido el juego.",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "estado": "finalizado",
       "year": 2015,
       "tipo": "tv",
@@ -4860,10 +4820,7 @@
       "id": "Overlord II",
       "name": "overlord ii",
       "descripcion": "Segunda Temporada de Overlord",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "episodios": 13,
       "image": "https://i.postimg.cc/jj9Tcpjp/overlord-ii.webp",
       "estado": "finalizado",
@@ -4888,10 +4845,7 @@
     {
       "id": "Aldnoah Zero Parte 2",
       "name": "aldnoah zero parte 2",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "descripcion": "Segunda temporada de Aldnoah.Zero.",
       "episodios": 12,
       "image": "https://i.postimg.cc/zXdcTnvM/aldnoah-zero-part-2.webp",
@@ -4917,10 +4871,7 @@
     {
       "id": "Yama no Susume 3",
       "name": "yama no susume 3",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "descripcion": "Tercera Temporada de Yama no Susume",
       "episodios": 13,
       "image": "https://i.postimg.cc/sfm6RpYX/yama-no-susume-third-season.webp",
@@ -4948,10 +4899,7 @@
       "name": "kimetsu no yaiba mugen ressha hen",
       "descripcion": "Resumen de la Película, Kimetsu no Yaiba Movie: Mugen Ressha-hen, con algunas escenas extras y sonidos de fondo nuevos.",
       "episodios": 7,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/Kj85YHPY/kimetsu-no-yaiba-mugen-ressha-hen-tv.webp",
       "estado": "finalizado",
       "year": 2021,
@@ -5024,10 +4972,7 @@
       "descripcion": "Adaptación animada del juego de cartas social “Rage of Bahamut”",
       "episodios": 12,
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/gjx6QFy3/shingeki-no-bahamut-genesis.webp",
       "estado": "finalizado",
       "year": 2014,
@@ -5053,10 +4998,7 @@
       "tipo": "tv",
       "descripcion": "En Ao no exorcist: El mundo esta unido por 2 dimensiones,el mundo de los seres vivos y de los demonios llamada también Geneha ninguno de los 2 mundos puede tener contacto alguno,pero estos demonios pueden ir al mundo de los seres vivos y poseer y manipular a cualquier humano,vease el caso de Satanás el dios oscuro del inframundo,Satanás quiere entrar al mundo de los seres vivos,pero no hay cuerpo humano que lo pueda resistir ,visto esto engendro a Rin Okumura hijo suyo y de una humana,pero resulta que Rin okumura se da cuenta que es el hijo de Satanas y lo rechaza como padre,y el no esta dispuesto a seguir sus planes,después de un intento fallido de satanás de llevar y matar a su protector Fujimoto, el Hijo de satanás (Rin Okumura) decide ser un Exorcista y así comienza la historia en Ao no exorcist.....",
       "episodios": 25,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/2jgwY2qC/ao-no-exorcist.webp",
       "estado": "finalizado",
       "year": 2011,
@@ -5082,10 +5024,7 @@
       "descripcion": "Waver Velvet, el joven que luchó codo con codo con el Rey de los Conquistadores Iskandar durante la Cuarta Guerra del Santo Grial en Fate/Zero. Ha pasado el tiempo y ahora un Waver más maduro ha adoptado el nombre de Lord El-Melloi. Como Lord El-Melloi II, enfrenta numerosos casos relacionados con el mundo mágico y místico en la Torre del Reloj, la meca de todos los magos...",
       "episodios": 14,
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/jScPDXjw/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note.webp",
       "estado": "finalizado",
       "year": 2019,
@@ -5111,10 +5050,7 @@
       "descripcion": "Un hechicero que una vez fue el mejor estudiante de la famosa Torre de Colmillos, ahora pasa su tiempo persiguiendo a sus clientes desesperados como prestamista, al menos hasta que a un cliente se le ocurre un plan para hacer dinero: fraude matrimonial. Sin querer ser arrastrado al plan, Orphen se encuentra con un monstruo que ha sido su objetivo desde el día en que dejó la Torre de Colmillos. Son muchos los que buscan matar al monstruo, y Orphen hace todo lo posible para protegerlo, por lo que sus pésimos pero pacíficos días terminan. Más tarde, el tratar de devolver a su hermana, Azalie, a su verdadera forma, los conduce a muchos más misterios y a la clave del secreto del mundo",
       "tipo": "tv",
       "episodios": 14,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/fTh95FtS/majutsushi-orphen-hagure-tabi.webp",
       "estado": "finalizado",
       "year": 2020,
@@ -5140,10 +5076,7 @@
       "image": "https://i.postimg.cc/P5VNGFx4/castlevania-3.webp",
       "descripcion": "Tercera temporada de Castlevania",
       "episodios": 10,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "estado": "finalizado",
       "year": 2020,
@@ -5168,10 +5101,7 @@
       "name": "arifureta shokugyou de sekai saikyou 2nd temporada",
       "descripcion": "Segunda temporada de Arifureta Shokugyou de Sekai Saikyou",
       "episodios": 15,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/4NJ3YTHP/arifureta-shokugyou-de-sekai-saikyou-2nd-season.webp",
       "estado": "finalizado",
       "tipo": "tv",
@@ -5197,10 +5127,7 @@
       "name": "shinka no mi shiranai uchi ni kachigumi jinsei",
       "descripcion": "Hiiragi Seiichi es un feo, repugnante, sucio y maloliente gordo; o al menos estos son los insultos que ha escuchado durante toda su vida. Así era su vida diaria escolar de acoso, y luego, por alguna razón, un día cuando terminaron las clases, una voz que decía ser un Dios dijo a través del sistema de megafonía que se prepararan para ser transportados a otro mundo. Es más, no solo Seiichi, sino toda la escuela. Un mundo de fantasía en donde existen elementos similares a los de un juego de rol, como niveles, estadísticas y habilidades. Sin embargo, el Dios todavía tenía preparativos para completar la transferencia, y los enviaría tan pronto como el ritual de invocación del héroe estuviera listo. Así, todas las clases formaron grupos para esperar la transferencia y, como se esperaba, Seiichi fue excluido y convocado a un área diferente. Pero en la zona a la que llegó, Seiichi se topó con el “Fruto de la Evolución”, y eso cambiaría completamente su vida…",
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "episodios": 12,
       "image": "https://i.postimg.cc/FRy9KP9w/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei.webp",
       "estado": "finalizado",
@@ -5225,10 +5152,7 @@
       "id": "Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
       "name": "kono yuusha ga ore tueee kuse ni shinchou sugiru",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/4y4Txs2h/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru.webp",
       "descripcion": "La historia da comienzo cuando la diosa Rista invoca a un héroe para ayudarle en su mundo, el cual parece un videojuego de gran dificultad. El protagonista, Seiya, es excepcional en prácticamente todo, pero también es excesivamente cauto. Hace cosas como comprar tres sets de armadura (uno para usar, uno de repuesto, y otro de repuesto para el de repuesto) y no contenerse en absoluto ni siquiera contra un triste limo, por si acaso.",
       "estado": "finalizado",
@@ -5256,10 +5180,7 @@
       "descripcion": "Escapar es imposible hasta terminar el juego; un game over significaría una verdadera 'muerte'. Sin saber la 'verdad' de la siguiente generación del Multijugador Masivo Online, 'Sword Art Online(SAO)', con 10 mil usuarios unidos juntos abriendo las cortinas para esta cruel batalla a muerte. Participando solo en SAO, el protagonista Kirito ha aceptado inmediatamente la 'verdad' de este MMO. <br/><br/> Y, en el mundo del juego, un gigante castillo flotante llamado 'Aincrad', Kirito se distinguió a si mismo como un jugador solitario. Apuntando a terminar el juego al alcanzar la planta mas alta el solo continua avanzando arriesgadamente hasta que recibe una invitación a la fuerza de una guerrera y esgrimista experta, Asuna, con la cual tendra que hacer equipo.",
       "tipo": "tv",
       "episodios": 25,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "image": "https://i.postimg.cc/W4RLJMfV/sword-art-online.webp",
       "estado": "finalizado",
       "year": 2012,
@@ -5286,10 +5207,7 @@
       "descripcion": "Shachou, Battle no Jikan Desu! es un juego isekai de estrategia se desarrolla en un mundo en el que de repente aparecen puertas dimensionales en los cielos, que llevan a incontables mazmorras. La historia presenta al jugador como el presidente de una compañía que contrata aventureros para conquistar mazmorras llenas de monstruos y tesoros. Los jugadores “reclutan” o entrenan a peleadores, magos, caballeros, cazadores, ladrones y otras clases de empleados, para finalmente mandarlos a combatir.",
       "episodios": 12,
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "estado": "finalizado",
       "year": 2020,
       "rating": 0,
@@ -5317,10 +5235,7 @@
       "descripcion": "En el año 1600, la decisiva batalla de Sekigahara se llevó a cabo. En la prefectura de Satsuma, el comandante de la familia militar Shimazu, Toyohisa Shimazu, logró escapar de las garras de la muerte después de retirarse del campo de batalla y perderse por las montañas. En medio del aguacero, termina metiéndose en un cuarto que era como una especie de pasillo infinito con muchas puertas. En este lugar, Toyohisa es lanzado por una de las puertas sin antes poder preguntarle nada al hombre misterioso, Murasaki. Ahora está en un mundo regido por el reinado Orte. Este es un mundo donde los humanos viven junto a los demi-humanos. Junto a los héroes de guerra Nobunaga Oda y Yoichi Nasu que han llegado de igual forma pero de otros tiempos, Toyohisa deberá aplicar su habilidad de samurai para enfrentar el campo de batalla de este nuevo mundo.",
       "episodios": 13,
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "rating": 0,
       "visitas": 0,
       "emitido": "",
@@ -5343,10 +5258,7 @@
       "image": "https://i.postimg.cc/mD85VMVt/saint-seiya-the-lost-canvas.webp",
       "estado": "finalizado",
       "descripcion": "Ambientada en la era de los dioses, cuando Atenea y Pandora jugaban fichas importantes sobre la vida de las personas. Esta serie narra la vida de dos jovencitos, Tenma y Alone, dos niños huérfanos que viven en un pueblo italiano y que son separados cuando Pandora le dice a Alone que el es la reencarnacion de Hades, en ese mismo instante Tenma es llevado al santuario y se da cuenta que es la reencarnación de pegaso. Alli conoce a Sasha, la reencarnación de Atenea. Al poco tiempo llega la noticia de que el dios Hades a despertado justo a inicios de la guerra Santa.",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "episodios": 26,
       "tipo": "tv",
       "year": 2009,
@@ -5373,10 +5285,7 @@
       "estado": "finalizado",
       "descripcion": "Segunda temporada de Kekkai Sensen.",
       "episodios": 13,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "year": 2017,
       "rating": 0,
@@ -5402,10 +5311,7 @@
       "estado": "finalizado",
       "descripcion": "La guerra que se libró entre la Iglesia y las Brujas durante cinco siglos finalmente terminó en paz, pero hace unos pocos años. Sin embargo, enclavado en los lugares sombríos del mundo, las brasas de ese antiguo conflicto aún arden. Un estudiante problemático llamado Sable, que asiste a la Real Academia de magia del Reino de Wenias, no tiene recuerdos de su época antes de inscribirse. A las órdenes del director Albus, dejó el Reino para viajar a los confines del sur del continente, donde los insurgentes anti-magia siguen siendo una fuerza a tener en cuenta, como parte de un régimen de entrenamiento especial. Lo acompaña un grupo de individuos fuertes tanto en capacidad como en personalidad; está la conocida como la Bruja del Alba, Roux Cristasse, que busca el conocimiento prohibido de la magia primitiva en el “Grimorio de Zero”, la chica genio Holtz, así como la única bestia de la escuela, Kudd. ¿Qué verdad descubrirán en su viaje hacia el sur…?",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "year": 2022,
       "rating": 0,
@@ -5431,10 +5337,7 @@
       "estado": "finalizado",
       "descripcion": "Cuando Arc despierta, descubre que lo han transportado a otro mundo en el cuerpo del personaje con el que estaba jugando en un MMO. Aunque por fuera parece una armadura completa, en su interior no hay más que un esqueleto, así que es el Caballero Esqueleto. Si se descubriera su identidad lo confundirían con un monstruo ¡y le darían caza! Por esto mismo Arc decide vivir como un mercenario para no atraer miradas ajenas. Sin embargo, no es el tipo de hombre que pueda quedarse de brazos cruzados cuando ve cometerse injusticias ante sus ojos.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "year": 2022,
       "rating": 0,
@@ -5460,10 +5363,7 @@
       "estado": "finalizado",
       "descripcion": "En un mundo dividido entre el Interior y el Exterior, a los que viven en ambos reinos se les dice que nunca crucen al otro lado, para que no sean malditos. Una joven llamada Shiva vive al otro lado, en un pueblo vacío con un guardián demoníaco conocido solo como Teacher. Aunque los dos tienen prohibido tocarse, parecen compartir un vínculo que trasciende sus apariencias dispares. Pero cuando Shiva deja el cuidado de Teacher para buscar a su abuela, el secreto detrás de su misterioso arreglo de vivienda sale a la luz.",
       "episodios": 3,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "year": 2022,
       "rating": 0,
@@ -5490,10 +5390,7 @@
       "descripcion": "En lo profundo de las montañas remotas, ha vivido un grupo de kunoichi (mujeres ninjas). El nombre del grupo es el clan Akane. Las únicas Kunoichi se dividen en varios equipos y pulen sus habilidades a través de una rivalidad amistosa. Y, el clan Akane tiene una regla férrea que no debe romperse: Ningún contacto con hombres. Tsubaki, una aprendiz de kunoichi, es la líder del equipo canino del clan Akane y una maestra del ninjutsu que incluso el líder del clan reconoce. Ella es la persona más confiable del grupo. Sin embargo, hay una cosa en la que Tsubaki no puede dejar de pensar. Son hombres que ella nunca ha visto o tocado antes. Quiero conocerlo una vez--. Cuanto más lo piensa, más el hormigueo en su pecho no se detiene. ¿Qué debo hacer con este sentimiento?",
       "tipo": "tv",
       "episodios": 13,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "year": 2022,
       "rating": 0,
       "visitas": 0,
@@ -5519,10 +5416,7 @@
       "year": 2022,
       "descripcion": "El más poderoso Señor Demonio de la historia, Varvatos, sentía que ya había conseguido todo lo que podía como rey. Debido a lo poderoso que era, se había quedado completamente solo y anhelaba una vida más sencilla. Unos milenios más tarde renace como Ard Meteor, un simple aldeano, pero en este futuro en el que ha renacido la civilización mágica ha sufrido un gran declive y la magia ha perdido su poder de antaño. Arc se une a la Academia de magia con su amiga de la infancia Ireena, y por mucho que lo intenta, no logra no destacar y hacer notar que no es un cualquiera.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "rating": 0,
       "visitas": 0,
@@ -5547,10 +5441,7 @@
       "estado": "finalizado",
       "descripcion": "Después de salvar el mundo, el héroe más fuerte, Leo, se convirtió en alguien que no es querido en el pacífico mundo humano. Era demasiado fuerte. Exiliado, busca un trabajo en el Ejército del Rey Demonio, al que había derrotado y que necesita ser reconstruido. El Ejército tenía muchos problemas: demasiado trabajo, problemas financieros, etc. Leo comienza a mejorar las cosas utilizando su poder. Leo se encuentra de nuevo con Echidna y le pregunta por qué invadió el mundo humano. Una historia inesperada…",
       "episodios": 14,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "year": 2022,
       "rating": 0,
@@ -5577,10 +5468,7 @@
       "year": 2022,
       "descripcion": "El futuro lejano. Después de alcanzar su punto máximo, la población de la Tierra cayó en declive. La IA se desarrolló para ayudar a preservar las especies y gestionar el ecosistema; un gran experimento en la diversidad humana. A través de la ingeniería genética, se creó una diversa gama de pueblos, incluidos bestias, seres mágicos y más, para vivir en una ciudad diversa separada en grupos amurallados. Cada grupo desarrolló una cultura única, acorde con las personas que vivían allí. La IA mantiene continuamente sus vidas y el sistema para garantizar la supervivencia.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "rating": 0,
       "visitas": 0,
@@ -5605,10 +5493,7 @@
       "estado": "finalizado",
       "descripcion": "Es el París del siglo XIX y el joven vampiro Noé busca el Libro de Vanitas. Atacado por un vampiro enloquecido, un médico humano llamado Vanitas tienta a Noé con una cruzada loca para curar a toda la raza de vampiros. Si bien aliarse con él puede ser peligroso, Vanitas recibe noticias de que la Bestia de Gévaudan ha regresado, y Noé está siendo llevado para investigar este fantasma del pasado.",
       "episodios": 13,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "year": 2022,
       "tipo": "tv",
       "rating": 0,
@@ -5633,10 +5518,7 @@
       "name": "ryman s club",
       "descripcion": "Mikoto Shiratori, un jugador prodigio de bádminton sufre un trauma tras una derrota en un torneo. Después de esto, se convierte en un empleado en la compañía Sunlight Beverage y se hace amigo de Tatsuru Miyazumi, el jugador y vendedor con mejor desempeño del equipo”.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "estado": "finalizado",
       "year": 2022,
       "tipo": "tv",
@@ -5663,10 +5545,7 @@
       "estado": "finalizado",
       "descripcion": "El príncipe de este pequeño y débil reino se esfuerza por una sola cosa: ¡vender su país y largarse a vivir una vida tranquila y de ocio! Lamentablemente, el mayor obstáculo que enfrentará será su brillante mente… ¡mientras continúa obteniendo logros cada vez más impresionantes, también aumenta el favor de la gente de su reino!, esto complicará aún más el hacer que sus sueños se vuelvan realidad.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "year": 2022,
       "rating": 0,
@@ -5693,10 +5572,7 @@
       "year": 2022,
       "descripcion": "El proyecto se centra en la relación entre Magoichi, el líder del grupo de mercenarios Saika Ikki, y el señor de la guerra de la era Sengoku, Oda Nobunaga.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "rating": 0,
       "visitas": 0,
@@ -5721,10 +5597,7 @@
       "estado": "finalizado",
       "descripcion": "A los 10 años, los mejores amigos, Musashi y Kojiro, se sentaban en un emocionado silencio mientras el padre de Kojiro contaba historias de demonios malvados que se cebaban con los inocentes, y de guerreros que los derrotaban. Practicando el manejo de la espada, los dos juran convertirse en los más fuertes del mundo. Pero a medida que crecen, Kojiro se vuelve cínico y Musashi se da cuenta de que no puede hacer retroceder 150 años de dominio demoníaco por sí solo. Le llaman prodigio con el pico, y está casi dispuesto a conformarse con una vida de trabajo. Sin embargo, no puede evitar la sensación de que todavía tiene la responsabilidad de actuar… y, pronto, las injusticias de su mundo le obligarán a actuar…",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "year": 2022,
       "tipo": "tv",
       "rating": 0,
@@ -5750,10 +5623,7 @@
       "estado": "finalizado",
       "descripcion": "Segunda temporada de Genjitsu Shugi Yuusha no Oukoku Saikenki",
       "episodios": 13,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "year": 2022,
       "tipo": "tv",
       "rating": 0,
@@ -5779,10 +5649,7 @@
       "estado": "finalizado",
       "descripcion": "La Región Administrativa Especial del Lejano Oriente, también conocida como el Distrito 24, es una isla artificial que se encuentra en la Bahía de Tokio. Shuta, Ran y Koki nacieron y se criaron en la isla. Sus antecedentes familiares, preferencias y personalidades son completamente diferentes, pero son amigos de la infancia que siempre se han mantenido unidos. Sin embargo, un incidente cambió su relación para siempre. Un año después, los tres amigos se reencuentran por casualidad en un servicio conmemorativo que se lleva a cabo por el incidente. Los tres teléfonos suenan de repente al mismo tiempo. Su amigo, que se supone que está muerto, llama y exige que tomen una decisión sobre el futuro. Los tres amigos hacen lo que creen que es mejor para proteger el Distrito 24 y sus habitantes.",
       "episodios": 13,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "year": 2022,
       "tipo": "tv",
       "rating": 0,
@@ -5808,10 +5675,7 @@
       "estado": "finalizado",
       "descripcion": "La nueva agencia de talentos de doblaje AiRBLUE no tiene profesionales experimentados ni estrellas famosas. Lo que sí tiene es un grupo de actrices de doblaje en formación cuyo individualismo y personalidad brilla a través de su inexperiencia. ¡Cada uno está buscando la manera de aprovechar sus talentos y hacer realidad sus sueños! Sin embargo, tarde o temprano, todos estos sueños se toparán con la crudeza de la realidad. No importa cuán devotamente practiquen, no todos los candidatos pueden aprobar todas las audiciones. ¿Podrán soportar la angustia, los reveses y la discordia? Si los obstáculos que deben afrontar todos los alumnos los hacen tropezar, ¿pueden recuperarse y volver a levantarse? La historia de estas actrices de doblaje incipientes ya está lista para que el director la llame ¡acción!",
       "episodios": 24,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "year": 2022,
       "tipo": "tv",
       "rating": 0,
@@ -5837,10 +5701,7 @@
       "estado": "finalizado",
       "descripcion": "El manga se centra en Kuroitsu, un investigador asistente en el departamento de desarrollo sobrehumano de Agastya, una organización secreta villana que lucha con héroes que intentan salvar el mundo. Kuroitsu vive una vida ajetreada en Agastya, atrapada entre las absurdas peticiones de sus jefes; haciendo presentaciones; implementar nuevas funciones en superhumanos; y obtener resultados dentro del tiempo asignado, el presupuesto y las solicitudes de especificaciones; todo sin vacaciones.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "year": 2022,
       "tipo": "tv",
       "rating": 0,
@@ -5866,10 +5727,7 @@
       "estado": "finalizado",
       "descripcion": "La serie sigue a Fudo Aikawa y Desumi Magahara, los líderes de organizaciones heroicas y villanas, respectivamente. ¿Podrá su amor sobrevivir a su eterna batalla, cuando uno quiere la paz mundial y el otro la dominación mundial?",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "year": 2022,
       "tipo": "tv",
       "rating": 0,
@@ -5894,10 +5752,7 @@
       "name": "megalo box",
       "descripcion": "La historia tiene lugar en un ambiente de boxeo callejero en el que nuestro protagonista (Joe)y su entrenador (Nanbu)sobreviven como pueden a base de peleas arregladas. Pero este último se verá obligado a llevar a Joe hasta el torneo más grande de megalobox para saldar una deuda.",
       "episodios": 13,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "estado": "finalizado",
       "year": 2018,
       "tipo": "tv",
@@ -5924,10 +5779,7 @@
       "estado": "finalizado",
       "descripcion": "Estas extrañas personas son Brutes, luchadores que han sido creados a través de la manipulación genética para combinar los cerebros de los humanos y los poderes de los animales, mientras poderosas empresas apuestan al resultado de sus duelos en torneos llamados Killing Bites.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "year": 2018,
       "tipo": "tv",
       "rating": 0,
@@ -5953,10 +5805,7 @@
       "estado": "finalizado",
       "descripcion": "Año 2046, los Neuro-Linker permite a las personas tener sus cinco sentidos en un mundo virtual donde interactúan y se comunican a través de internet. Haruyuki, un estudiante normal y corriente de aspecto bajito y fuerte se sumerge en este mundo de realidad aumentada para evadirse de sus problemas.",
       "episodios": 24,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "proximo": false,
       "generos": [
         {
@@ -6005,10 +5854,7 @@
       "estado": "finalizado",
       "descripcion": "Utawarerumono es una historia post-apocalíptica centrada en el protagonista enmascarado, Hakuoro, que es encontrado por una familia de dos muchachas y una abuela en un busque cerca de su pueblo. Al recuperarse, y ser interrogado, se descubre que tiene amnesia, desconociendo todo su pasado, incluyendo su nombre - siendo Hakuoro el nombre dado por la familia que lo acogió. Hakuoro pronto es aceptado en la aldea y viviendo con ellas, pero después de poco tiempo Hakuoro encuentra que la vida en esta aldea está siendo oprimida por el emperador. Luego de armar de valor a toda la aldea, hakuoro llegará a tomar el poder del gobierno.",
       "episodios": 26,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "textoSecuela3": "Historia Paralela",
       "nombreSecuela3": "Utawarerumono (OVA)",
@@ -6037,10 +5883,7 @@
       "estado": "finalizado",
       "descripcion": "La serie nos traslada a un futuro lejano en el que los robots han habitado el planeta durante muchos siglos y los humanos, sus creadores, se extinguieron muchos años atrás. De hecho, muchos robots no creen que los humanos existieran, y les toman por mitos. Dos robots dedicados a la agricultura, encuentran una cápsula criogénica con una niña humana dentro en los campos. Ambos, deciden criar a la llamada Sara a escondidas, pues el mundo de los robots no está preparado para confirmar que los humanos existieron. Sara pone la vida de sus nuevos cuidadores en peligro, quienes se tienen que enfrentar al temible Zero y a su ejército.",
       "episodios": 4,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "year": 2021,
       "rating": 0,
@@ -6066,10 +5909,7 @@
       "estado": "finalizado",
       "descripcion": "En el Planeta Latimer todo es temporal, pero el honor es para siempre. En el planeta Latimer, Takeshi Kovacs debe proteger a un tatuador mientras investiga la muerte de un jefe yakuza junto a un cínico CTAC . De la mente creativa detrás de Cowboy Bebop, explora el universo expandido de “Altered Carbon” en esta adaptación anime.",
       "episodios": 1,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "year": 2020,
       "rating": 0,
@@ -6094,10 +5934,7 @@
       "name": "re zero kara hajimeru isekai seikatsu 2nd temporada parte 2",
       "descripcion": "Segunda temporada de Re:zero",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "estado": "finalizado",
       "year": 2020,
@@ -6123,10 +5960,7 @@
       "name": "kumo desu ga nani ka",
       "descripcion": "Yo, la protagonista, era solo una chica normal de secundaria, pero de repente me reencarné como un monstruo araña en un mundo de fantasía. No solo eso, sino que me desperté en una mazmorra llena de monstruos feroces. Armado solo con mi conocimiento humano y mi abrumadora positividad, me veo obligada a usar telarañas y trampas para derrotar a monstruos mucho más fuertes solo para seguir con vida ... Así comienza la historia de supervivencia del laberinto de una niña con una fuerza mental increíble que vive como una de las bestias de menor rango!",
       "episodios": 24,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "estado": "finalizado",
       "year": 2020,
@@ -6154,10 +5988,7 @@
       "descripcion": "Temporada final de SNK.",
       "episodios": 12,
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "year": 2020,
       "rating": 0,
       "visitas": 0,
@@ -6182,10 +6013,7 @@
       "estado": "finalizado",
       "descripcion": "El Imperio es una utopía mecanizada con ciencia y tecnología altamente desarrolladas. La soberanía de Nebulis es una nación temida como la Tierra de las Brujas, cuya gente usa el poder paranormal. Los dos países han estado en guerra constante durante más de cien años, pero ahora han aparecido dos héroes en sus respectivas tierras. Iska ha llegado a ser reconocida como el mayor activo militar del Imperio en la edad más joven de su historia. Aliceliese es la Princesa de la Soberanía de Nebulis, llamada la Bruja de la Calamidad de Hielo con miedo por sus enemigos. Los dos se encuentran en el campo de batalla y se convierten en enemigos mortales. Los orgullos se traban cuernos mientras ambos luchan sin concesiones para proteger a sus respectivas naciones, familias y camaradas. Pero a medida que se conocen como personas reales durante sus feroces batallas, comienzan a sentirse atraídos por las formas de vida y los ideales del otro aunque son plenamente conscientes de que el destino se burlará de ellos cruelmente, no permitiéndoles estar juntos. Efectivamente, la tensión mundial aumenta aún más y las conspiraciones de las principales naciones se complican más. Pero incluso en un mundo tan dividido, este niño y esta niña no pueden detener sus sentimientos el uno por el otro.",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "year": 2020,
       "rating": 0,
@@ -6212,10 +6040,7 @@
       "descripcion": "Moroha: InuYasha Next Generations.",
       "episodios": 24,
       "tipo": "tv",
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "year": 2020,
       "rating": 0,
       "visitas": 0,
@@ -6241,10 +6066,7 @@
       "tipo": "tv",
       "descripcion": "No se trata del destino... ¿Cuál es tu historia favorita? ¿Tiene un héroe que mata a un dragón y salva a una princesa? ¿O un hijo de la profecía destinado a la grandeza? Bueno, mi historia favorita es un poco diferente. Es la historia de una bruja que viaja por el mundo sin buscar nada en particular. Sin búsqueda propia, es libre de vagar donde el viento la lleve, agregando algunas páginas a la historia de quienquiera que conozca antes de emprender su próxima aventura. Al final de sus viajes, la bruja contrata a un aprendiz que algún día comenzará su propio viaje. Y así continúa el ciclo, o eso dice la historia. Ahora, la bruja que comienza de nuevo la historia ... ¿quién podría ser?",
       "episodios": 12,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "year": 2020,
       "rating": 0,
       "visitas": 0,
@@ -6267,10 +6089,7 @@
       "image": "https://i.postimg.cc/GpWsTSvQ/mob-psycho-100.webp",
       "name": "mob psycho 100",
       "episodios": 13,
-      "genero1": [
-        "accion",
-        "fantasia"
-      ],
+      "genero1": ["accion", "fantasia"],
       "tipo": "tv",
       "estado": "finalizado",
       "des": "Kageyama Shigeo, apodado Mob, es un chico con problemas para expresarse pero que en realidad es un poderoso esper. Mob está decidido a llevar una vida normal y mantiene sus poderes especiales reprimidos, pero cuando sus emociones alcancen el nivel del 100%, ¡le ocurrirá algo terrible! Rodeado por falsos espers, espíritus malignos y misteriosas organizaciones, ¿qué hará Mob? ¿Qué elecciones tomará?",
