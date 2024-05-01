@@ -1,3 +1,15 @@
+// firebaseConfig.js
+
+const admin = require('firebase-admin')
+const db = require('./src/database/db.json') // Importa tu base de datos local
+
+const serviceAccount = require('./serviceAccountKey.json')
+admin.initializeApp({
+  credential: admin.credential.cert(serviceAccount),
+  databaseURL: 'https://animesz-f90c0-default-rtdb.firebaseio.com',
+})
+const firebaseDb = admin.database()
+
 // Obtén una referencia a la ubicación de los animes en la base de datos de Firebase
 const firebaseAnimesRef = firebaseDb.ref('animes')
 
