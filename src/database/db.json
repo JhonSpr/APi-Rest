@@ -122,7 +122,9 @@
       "year": 2024,
       "studio": "aic plus",
       "precuelas": [],
-      "episodes__overlay": [],
+      "episodes__overlay": [
+        { "name": "kono subarashii sekai ni shukufuku wo 3" }
+      ],
       "temporadas": 1,
       "secuelas": [],
       "services": [],
@@ -169,7 +171,7 @@
       "year": 2024,
       "studio": "aic plus",
       "precuelas": [],
-      "episodes__overlay": [],
+      "episodes__overlay": [{ "name": "the new gate" }],
       "temporadas": 1,
       "secuelas": [],
       "services": [],
@@ -221,7 +223,7 @@
           "link": "/date-a-live-4th-season"
         }
       ],
-      "episodes__overlay": [],
+      "episodes__overlay": [{ "name": "date a live v" }],
       "temporadas": 5,
       "secuelas": [],
       "services": [],
@@ -273,7 +275,7 @@
           "link": "/boku-no-hero-academia-6th-season"
         }
       ],
-      "episodes__overlay": [],
+      "episodes__overlay": [{ "name": "boku no hero academia 7th season" }],
       "temporadas": 7,
       "secuelas": [],
       "services": [],
