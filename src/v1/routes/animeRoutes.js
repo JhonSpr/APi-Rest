@@ -201,32 +201,6 @@ router.post('/agregar-anime', (req, res) => {
   }
 })
 
-router.post('/agregar-ultimo-episodio', (req, res) => {
-  try {
-    const nuevoAnime = req.body
-    nuevoAnime.fechaAgregado = moment().tz('America/Bogota').format()
-    db.recientes.unshift(nuevoAnime)
-
-    const dbFilePath = path.resolve(
-      __dirname,
-      '../../database',
-      'Recientes.json'
-    )
-    fs.writeFileSync(dbFilePath, JSON.stringify(db, null, 2))
-
-    res.status(201).send({
-      message: 'Episodio agregado correctamente',
-      recientes: nuevoAnime,
-    })
-  } catch (error) {
-    console.error('Error al agregar el anime:', error)
-
-    // Devuelve detalles del error en la respuesta
-    res
-      .status(500)
-      .send({ error: 'Error interno del servidor', details: error.message })
-  }
-})
 router.post('/calendario/agregar', (req, res) => {
   try {
     const nuevoAnime = req.body
@@ -288,7 +262,6 @@ router.post('/calendario/:fechaEstreno/actualizar', (req, res) => {
       .send({ error: 'Error interno del servidor', details: error.message })
   }
 })
-
 router.post('/:id/update', (req, res) => {
   try {
     const animeId = req.params.id
@@ -347,7 +320,6 @@ router.post('/agregar-propiedad', (req, res) => {
       .send({ error: 'Error interno del servidor', details: error.message })
   }
 })
-
 router.post('/eliminar-propiedad', (req, res) => {
   try {
     const propiedadAEliminar = req.body.propiedad
