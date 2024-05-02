@@ -25,7 +25,7 @@ firebaseAnimesRef.on('value', (snapshot) => {
     const firebaseAnime = firebaseAnimesData[localAnime.id.toLowerCase()]
 
     if (!firebaseAnime) {
-      const { nombre } = localAnime
+      const { name } = localAnime
       firebaseAnimesRef.child(localAnime.id.toLowerCase()).set({
         nombre: nombre || 'Nombre predeterminado',
         visitas: 0,
