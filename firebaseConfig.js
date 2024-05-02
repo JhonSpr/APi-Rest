@@ -27,7 +27,7 @@ firebaseAnimesRef.on('value', (snapshot) => {
     if (!firebaseAnime) {
       const { name } = localAnime
       firebaseAnimesRef.child(localAnime.id.toLowerCase()).set({
-        nombre: nombre || 'Nombre predeterminado',
+        nombre: name || 'Nombre predeterminado',
         visitas: 0,
         voto: 0,
         rating: 0,
