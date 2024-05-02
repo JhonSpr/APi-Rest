@@ -25,21 +25,25 @@ firebaseAnimesRef.on('value', (snapshot) => {
     const firebaseAnime = firebaseAnimesData[localAnime.id.toLowerCase()]
 
     if (!firebaseAnime) {
-      const { rating, voto, visitas } = localAnime
+      const { nombre } = localAnime
       firebaseAnimesRef.child(localAnime.id.toLowerCase()).set({
-        rating: rating || 0,
-        voto: voto || 0,
-        visitas: visitas || 0,
+        nombre: nombre || 'Nombre predeterminado',
+        visitas: 0,
+        voto: 0,
+        rating: 0,
       })
     } else {
-      if (firebaseAnime.hasOwnProperty('rating')) {
-        localAnime.rating = firebaseAnime.rating
+      if (firebaseAnime.hasOwnProperty('nombre')) {
+        localAnime.nombre = firebaseAnime.nombre
+      }
+      if (firebaseAnime.hasOwnProperty('visitas')) {
+        localAnime.visitas = firebaseAnime.visitas
       }
       if (firebaseAnime.hasOwnProperty('voto')) {
         localAnime.voto = firebaseAnime.voto
       }
-      if (firebaseAnime.hasOwnProperty('visitas')) {
-        localAnime.visitas = firebaseAnime.visitas
+      if (firebaseAnime.hasOwnProperty('rating')) {
+        localAnime.rating = firebaseAnime.rating
       }
     }
   })
