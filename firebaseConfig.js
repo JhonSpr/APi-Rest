@@ -10,8 +10,7 @@ admin.initializeApp({
 })
 const firebaseDb = admin.database()
 
-// Obtén una referencia a la ubicación de los animes en la base de datos de Firebase
-const firebaseAnimesRef = firebaseDb.ref('animes')
+// Obtén una referencia a la ubicación de los animes en la base de datos de Firebaseconst firebaseAnimesRef = firebaseDb.ref('animes')
 firebaseAnimesRef.on('value', (snapshot) => {
   const firebaseAnimesData = snapshot.val()
 
@@ -26,17 +25,21 @@ firebaseAnimesRef.on('value', (snapshot) => {
     const firebaseAnime = firebaseAnimesData[localAnime.id.toLowerCase()]
 
     if (!firebaseAnime) {
+      const { rating, voto, visitas } = localAnime
       firebaseAnimesRef.child(localAnime.id.toLowerCase()).set({
-        ...localAnime,
-        visitas: 0,
-        rating: 0,
+        rating: rating || 0,
+        voto: voto || 0,
+        visitas: visitas || 0,
       })
     } else {
-      if (firebaseAnime.hasOwnProperty('visitas')) {
-        localAnime.visitas = firebaseAnime.visitas
-      }
       if (firebaseAnime.hasOwnProperty('rating')) {
         localAnime.rating = firebaseAnime.rating
+      }
+      if (firebaseAnime.hasOwnProperty('voto')) {
+        localAnime.voto = firebaseAnime.voto
+      }
+      if (firebaseAnime.hasOwnProperty('visitas')) {
+        localAnime.visitas = firebaseAnime.visitas
       }
     }
   })
