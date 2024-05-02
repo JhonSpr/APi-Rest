@@ -1,5 +1,3 @@
-// firebaseConfig.js
-
 const admin = require('firebase-admin')
 const db = require('./src/database/db.json') // Importa tu base de datos local
 
@@ -10,7 +8,9 @@ admin.initializeApp({
 })
 const firebaseDb = admin.database()
 
-// Obtén una referencia a la ubicación de los animes en la base de datos de Firebaseconst firebaseAnimesRef = firebaseDb.ref('animes')
+// Obtén una referencia a la ubicación de los animes en la base de datos de Firebase
+const firebaseAnimesRef = firebaseDb.ref('animes')
+
 firebaseAnimesRef.on('value', (snapshot) => {
   const firebaseAnimesData = snapshot.val()
 
