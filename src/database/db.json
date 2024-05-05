@@ -822,13 +822,14 @@
       "proximo": false,
       "image": "https://i.postimg.cc/6qBYFMcr/ishura-1.jpg",
       "trailer": "i4jKHUMuuNk",
-      "banner": "https://i.postimg.cc/GmRGK4MD/ishura-anime-characters.avif",
+      "banner": "https://image.tmdb.org/t/p/original/4QJjj63L1pfhiF9rSRAVbwB4lLp.jpg",
       "rating": 0,
       "visitas": 0,
       "fechaAgregado": "2024-02-19T18:14:27.390Z",
       "estado:": "finalizado",
       "nombre": "ishura",
-      "voto": 0
+      "voto": 0,
+      "color__theme": "#E9E3E4"
     },
     {
       "id": "undead unluck",
@@ -1062,12 +1063,13 @@
       "proximo": false,
       "image": "https://i.postimg.cc/rscm9xcy/undead-unluck.webp",
       "trailer": "QzzZUQLhJhY?si=cz3Wn5iTscMMOO9R",
-      "banner": "https://i.postimg.cc/DyqVTvtf/The-Undead-Unluck.avif",
+      "banner": "https://image.tmdb.org/t/p/original/8uoNGqXeJCBoG2gLOsKW3qUDuaI.jpg",
       "rating": 0,
       "visitas": 0,
       "fechaAgregado": "2024-02-12T18:14:27.390Z",
       "nombre": "undead unluck",
-      "voto": 0
+      "voto": 0,
+      "color__theme": "#6B7C87"
     },
     {
       "id": "vinland saga",
