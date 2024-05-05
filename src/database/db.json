@@ -652,7 +652,8 @@
       "rating": 0,
       "fechaAgregado": "2024-02-20T18:14:27.390Z",
       "nombre": "ninja kamui",
-      "voto": 0
+      "voto": 0,
+      "color__theme": "#66040D"
     },
     {
       "id": "ishura",
