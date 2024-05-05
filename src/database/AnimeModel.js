@@ -111,6 +111,7 @@ const getAllAnime = (filterParams) => {
         animes = animes.sort((a, b) => a.rating - b.rating)
       }
     }
+
     return animes
   } catch (error) {
     throw { status: 500, message: error }
