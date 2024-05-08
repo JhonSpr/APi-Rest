@@ -1,5 +1,5 @@
 {
-  "name": "crossfit-wod-api",
+  "name": "animesz-api",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Carlos Azaustre <cazaustre@gmail.com> (https://youtube.com/carlosazaustre)",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.19"
