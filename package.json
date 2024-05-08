@@ -20,9 +20,7 @@
     "express": "^4.18.2",
     "firebase-admin": "^12.0.0",
     "moment-timezone": "^0.5.45",
-    "mongoose-paginate-v2": "^1.7.1",
     "swagger-jsdoc": "^6.2.5",
-    "swagger-ui-express": "^4.5.0",
     "uuid": "^8.3.2"
   }
 }

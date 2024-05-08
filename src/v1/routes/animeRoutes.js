@@ -1,7 +1,6 @@
 const express = require('express')
 const animeController = require('../../controllers/AnimeController')
 const router = express.Router()
-const db = require('../../database/Recientes.json')
 const calendarioDb = require('../../database/Calendario.json')
 const DB = require('../../database/db.json')
 const fs = require('fs')
