@@ -8,8 +8,19 @@
   ],
   "routes": [
     {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/api/v1/animes",
+      "dest": "http://localhost:3000/api/v1/animes"
+    },
+    {
+      "src": "/api/v1/recien-agregados",
+      "dest": "http://localhost:3000/api/v1/recien-agregados"
+    },
+    {
       "src": "/(.*)",
-      "dest": "/index"
+      "dest": "http://localhost:3000"
     }
   ]
 }
