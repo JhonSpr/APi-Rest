@@ -1,1 +1,16 @@
-{ "version": 2, "rewrites": [{ "source": "/(.*)", "destination": "/src" }] }
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "./server.js",
+      "use": "@now/node-server"
+    }
+  ],
+  "routes": [
+    { "handle": "filesystem" },
+    {
+      "src": "/.*",
+      "dest": "server.js"
+    }
+  ]
+}
