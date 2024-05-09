@@ -8,16 +8,19 @@
   ],
   "routes": [
     {
-      "src": "/api/v1/animes(.*)",
-      "dest": "https://api-animes-theta.vercel.app/api/v1/animes$1"
+      "handle": "filesystem"
     },
     {
-      "src": "/api/v1/recien-agregados(.*)",
-      "dest": "https://api-animes-theta.vercel.app/api/v1/recien-agregados$1"
+      "src": "/(.*)",
+      "dest": "/api/v1/animes"
     },
     {
-      "src": "/",
-      "dest": "https://api-animes-theta.vercel.app/"
+      "src": "/(.*)",
+      "dest": "/api/v1/recien-agregados"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/"
     }
   ]
 }
