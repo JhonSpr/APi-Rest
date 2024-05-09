@@ -8,19 +8,8 @@
   ],
   "routes": [
     {
-      "handle": "filesystem"
-    },
-    {
-      "src": "^/api/v1/animes/(.*)",
-      "dest": "/api/v1/animes/$1"
-    },
-    {
-      "src": "^/api/v1/recien-agregados/(.*)",
-      "dest": "/api/v1/recien-agregados/$1"
-    },
-    {
-      "src": "^/(.*)",
-      "dest": "/$1"
+      "src": "/(.*)",
+      "dest": "/"
     }
   ]
 }
