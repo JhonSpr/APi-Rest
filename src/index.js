@@ -9,8 +9,17 @@ const PORT = process.env.PORT || 3000
 app.disable('x-powered-by')
 app.use(cors())
 app.use(express.json())
+
+// Rutas específicas primero
 app.use('/api/v1/animes', v1animeRouter)
+app.get('/api/v1/recien-agregados', (req, res) => {
+  res.send({ recientes: db.recientes })
+})
+
+// Luego la ruta genérica
 app.get('/', (req, res) => res.send('Express on Vercel'))
+
+// Manejo de caché
 app.use((req, res, next) => {
   res.header('Cache-Control', 'no-cache, no-store, must-revalidate')
   res.header('Pragma', 'no-cache')
@@ -18,11 +27,6 @@ app.use((req, res, next) => {
   next()
 })
 
-app.use('/api/v1/recien-agregados', (req, res) => {
-  res.send({ recientes: db.recientes })
-})
-
 app.listen(PORT, () => {
   console.log(`🚀 Server listening on port ${PORT}`)
-  app, PORT
 })
