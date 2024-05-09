@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node ./src/index.js",
+    "build": "node ./src/index.js",
     "dev": "nodemon ./src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,10 +18,11 @@
   "dependencies": {
     "apicache": "1.6.3",
     "cors": "2.8.5",
-    "express": "^4.19.2",
-    "firebase-admin": "^12.1.0",
+    "debug": "^4.3.1",
+    "express": "4.19.2",
+    "firebase-admin": "12.1.0",
     "moment-timezone": "0.5.45",
-    "swagger-jsdoc": "^6.2.8",
-    "uuid": "9.0.1"
+    "swagger-jsdoc": "6.2.8",
+    "uuid": "^9.0.1"
   }
 }
