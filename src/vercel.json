@@ -9,15 +9,15 @@
   "routes": [
     {
       "src": "/api/v1/animes(.*)",
-      "dest": "http://localhost:3000/api/v1/animes$1"
+      "dest": "https://api-animes-theta.vercel.app/api/v1/animes$1"
     },
     {
       "src": "/api/v1/recien-agregados(.*)",
-      "dest": "http://localhost:3000/api/v1/recien-agregados$1"
+      "dest": "https://api-animes-theta.vercel.app//api/v1/recien-agregados$1"
     },
     {
       "src": "/",
-      "dest": "http://localhost:3000"
+      "dest": "https://api-animes-theta.vercel.app/"
     }
   ]
 }
