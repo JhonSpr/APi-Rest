@@ -19,7 +19,7 @@ app.get('/api/v1/recien-agregados', (req, res) => {
 })
 
 // Luego la ruta genérica
-app.get('/', (req, res) => res.send('Express on Vercel'))
+app.get('/', (req, res) => res.send(`<h1>OK</h1>`))
 
 // Manejo de caché
 app.use((req, res, next) => {
