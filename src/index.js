@@ -4,7 +4,8 @@ const v1animeRouter = require('./v1/routes/animeRoutes')
 const db = require('./database/Recientes.json')
 
 const app = express()
-const PORT = 3000
+const PORT = process.env.PORT || 3000
+
 app.disable('x-powered-by')
 app.use(cors())
 app.use(express.json())
