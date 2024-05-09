@@ -11,16 +11,16 @@
       "handle": "filesystem"
     },
     {
-      "src": "/(.*)",
-      "dest": "/api/v1/animes"
+      "src": "^/api/v1/animes/(.*)",
+      "dest": "/api/v1/animes/$1"
     },
     {
-      "src": "/(.*)",
-      "dest": "/api/v1/recien-agregados"
+      "src": "^/api/v1/recien-agregados/(.*)",
+      "dest": "/api/v1/recien-agregados/$1"
     },
     {
-      "src": "/(.*)",
-      "dest": "/"
+      "src": "^/(.*)",
+      "dest": "/$1"
     }
   ]
 }
