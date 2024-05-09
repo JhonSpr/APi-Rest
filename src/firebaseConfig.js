@@ -1,7 +1,7 @@
 const admin = require('firebase-admin')
-const db = require('./src/database/db.json') // Importa tu base de datos local
+const db = require('./database/db.json') // Importa tu base de datos local
 
-const serviceAccount = require('./serviceAccountKey.json')
+const serviceAccount = require('../serviceAccountKey.json')
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
   databaseURL: 'https://animesz-f90c0-default-rtdb.firebaseio.com',
